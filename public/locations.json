@@ -1,0 +1,67 @@
+[
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Ongoing humanitarian crisis and military operations in Gaza",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 15,
+    "categories": ["armed-conflict", "humanitarian"]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ongoing conflict in Ukraine affecting millions",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 12,
+    "categories": ["armed-conflict"]
+  },
+  {
+    "id": "Khartoum",
+    "name": "Khartoum",
+    "country": "SD",
+    "lat": 15.55,
+    "lon": 32.53,
+    "timezone": "Africa/Khartoum",
+    "headline": "Sudan humanitarian crisis deepens amid conflict",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 8,
+    "categories": ["humanitarian", "armed-conflict"]
+  },
+  {
+    "id": "Yangon",
+    "name": "Yangon",
+    "country": "MM",
+    "lat": 16.87,
+    "lon": 96.19,
+    "timezone": "Asia/Yangon",
+    "headline": "Myanmar political repression and civil disobedience",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 5,
+    "categories": ["political-repression", "democracy-crisis"]
+  },
+  {
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "Somalia faces security challenges and humanitarian needs",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 4,
+    "categories": ["armed-conflict", "humanitarian"]
+  }
+]

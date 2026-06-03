@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 — Not Found</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(/dateline/assets/fonts/567244088c9c.woff2) format('woff2');
+    }
+
+    @font-face {
+      font-family: 'Courier Prime';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(/dateline/assets/fonts/fcd7e4095c1a.woff2) format('woff2');
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #080808;
+      color: #d4d4d4;
+      min-height: 100vh;
+      padding: 32px 16px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    header {
+      border-bottom: 1px solid #222222;
+      padding-bottom: 24px;
+      margin-bottom: 24px;
+      text-align: center;
+    }
+
+    .mono {
+      font-family: 'Courier Prime', monospace;
+      font-size: 12px;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: #666666;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      font-family: 'Courier Prime', monospace;
+      font-size: 14px;
+      color: #666666;
+    }
+
+    .instructions {
+      background-color: #0f0f0f;
+      border: 1px solid #222222;
+      border-radius: 4px;
+      padding: 20px;
+      margin-bottom: 16px;
+      font-family: 'Courier Prime', monospace;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    .instructions h2 {
+      font-family: 'Courier Prime', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: #ffffff;
+      margin-bottom: 16px;
+    }
+
+    .instructions p {
+      color: #999999;
+      margin-bottom: 12px;
+    }
+
+    .instructions-list {
+      border-top: 1px solid #222222;
+      padding-top: 12px;
+    }
+
+    .instructions-list div {
+      color: #666666;
+      margin-bottom: 8px;
+      padding: 4px 0;
+    }
+
+    .instructions-list strong {
+      color: #ffffff;
+    }
+
+    .game-container {
+      background-color: #0f0f0f;
+      border: 1px solid #222222;
+      border-radius: 4px;
+      padding: 16px;
+    }
+
+    #game-output {
+      width: 100%;
+      height: 320px;
+      overflow-y: auto;
+      background-color: #080808;
+      border: 1px solid #222222;
+      border-radius: 4px;
+      padding: 12px;
+      margin-bottom: 12px;
+      font-family: 'Courier Prime', monospace;
+      font-size: 13px;
+      color: #d4d4d4;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      line-height: 1.5;
+    }
+
+    .input-group {
+      display: flex;
+      gap: 8px;
+    }
+
+    #game-input {
+      flex: 1;
+      background-color: #080808;
+      border: 1px solid #222222;
+      border-radius: 4px;
+      padding: 10px 12px;
+      font-family: 'Courier Prime', monospace;
+      font-size: 13px;
+      color: #d4d4d4;
+    }
+
+    #game-input::placeholder {
+      color: #444444;
+    }
+
+    #game-input:focus {
+      outline: none;
+      border-color: #444444;
+      box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+    }
+
+    #game-submit {
+      background-color: #0f0f0f;
+      border: 1px solid #222222;
+      border-radius: 4px;
+      padding: 10px 20px;
+      font-family: 'Courier Prime', monospace;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #d4d4d4;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    #game-submit:hover:not(:disabled) {
+      border-color: #444444;
+      color: #ffffff;
+      box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+    }
+
+    #game-submit:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .license-note {
+      margin-top: 24px;
+      font-size: 12px;
+      color: #555555;
+      font-family: 'Courier Prime', monospace;
+      border-top: 1px solid #222222;
+      padding-top: 16px;
+    }
+
+    .license-note a {
+      color: #888888;
+    }
+
+    #game-output::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    #game-output::-webkit-scrollbar-track {
+      background: #0f0f0f;
+    }
+
+    #game-output::-webkit-scrollbar-thumb {
+      background: #222222;
+      border-radius: 3px;
+    }
+
+    #game-output::-webkit-scrollbar-thumb:hover {
+      background: #333333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <p class="mono">Error 404 // Page Not Found</p>
+      <h1>You Are In A Maze</h1>
+      <p class="subtitle">Of twisty little passages, all alike.</p>
+    </header>
+
+    <div class="instructions">
+      <h2>How to Play — Zork I</h2>
+      <p>You are playing Zork I: The Great Underground Empire (MIT Licensed). The original 1980 text adventure. Type commands in plain English.</p>
+      <div class="instructions-list">
+        <div><strong>Movement:</strong> n, s, e, w, u, d &nbsp;/&nbsp; go north, go south, etc.</div>
+        <div><strong>Actions:</strong> look &nbsp;·&nbsp; examine [obj] &nbsp;·&nbsp; take [obj] &nbsp;·&nbsp; open [obj] &nbsp;·&nbsp; drop [obj]</div>
+        <div><strong>Inventory:</strong> i &nbsp;/&nbsp; inventory</div>
+        <div><strong>Other:</strong> verbose &nbsp;·&nbsp; brief &nbsp;·&nbsp; save &nbsp;·&nbsp; restore &nbsp;·&nbsp; quit</div>
+      </div>
+    </div>
+
+    <div class="game-container">
+      <div id="game-output"></div>
+      <div class="input-group">
+        <input id="game-input" type="text" autocomplete="off" spellcheck="false" placeholder="Enter command…" disabled>
+        <button id="game-submit" disabled>Enter</button>
+      </div>
+    </div>
+
+    <div class="license-note">
+      Zork I © Infocom, Inc. Released under MIT License. <a href="/dateline/assets/zork/ZORK_LICENSE">View License</a>
+    </div>
+  </div>
+
+  <script src="/dateline/assets/lib/zvm.min.js"></script>
+  <script>
+  (function() {
+    const output = document.getElementById('game-output');
+    const input = document.getElementById('game-input');
+    const submit = document.getElementById('game-submit');
+
+    let vmRef, pendingBuf, pendingEvent;
+
+    function appendOutput(text) {
+      output.textContent += text;
+      output.scrollTop = output.scrollHeight;
+    }
+
+    function RefStruct() { this._f = []; }
+    RefStruct.prototype.push_field = function(v) { this._f.push(v); };
+    RefStruct.prototype.get_field = function(i) { return this._f[i]; };
+
+    function RefBox() { this._v = 0; }
+    RefBox.prototype.set_value = function(v) { this._v = v; };
+    RefBox.prototype.get_value = function() { return this._v; };
+
+    const Glk = {
+      RefStruct: RefStruct,
+      RefBox: RefBox,
+      update: function() {},
+      fatal_error: function(e) { appendOutput('\n[FATAL: ' + e + ']\n'); },
+      glk_window_open: function(split, method, size, wintype, rock) {
+        return split ? { id: 'upper', str: { id: 'upper' } } : { id: 'main', str: { id: 'main' } };
+      },
+      glk_set_window: function(win) {},
+      glk_window_clear: function(win) {
+        if (win && win.id === 'main') output.textContent = '';
+      },
+      glk_window_close: function(win) { return null; },
+      glk_window_get_stream: function(win) { return win ? win.str : null; },
+      glk_window_get_parent: function(win) { return null; },
+      glk_window_set_arrangement: function() {},
+      glk_window_get_size: function(win, wref, href) {
+        if (wref) wref.set_value(80);
+        if (href) href.set_value(win && win.id === 'upper' ? 1 : 24);
+      },
+      glk_window_move_cursor: function() {},
+      glk_put_jstring: function(text) { appendOutput(text); },
+      glk_put_jstring_stream: function(str, text) {
+        if (str && str.id === 'main') appendOutput(text);
+      },
+      glk_put_char_stream_uni: function(str, ch) {
+        if (str && str.id === 'main') appendOutput(String.fromCharCode(ch));
+      },
+      glk_request_line_event_uni: function(win, buf) { pendingBuf = buf; },
+      glk_request_char_event_uni: function() { pendingBuf = null; },
+      glk_select: function(event) {
+        pendingEvent = event;
+        input.disabled = false;
+        input.focus();
+      },
+      glk_set_style: function() {},
+      glk_stylehint_set: function() {},
+      glk_stylehint_clear: function() {},
+      glk_gestalt: function() { return 0; },
+      garglk_set_reversevideo: function() {},
+      garglk_set_reversevideo_stream: function() {},
+      garglk_set_zcolors_stream: function() {},
+      glk_fileref_create_by_prompt: function(usage, mode, rock) {
+        const ev = pendingEvent;
+        setTimeout(function() {
+          ev._f = ['fileref_create_by_prompt', null, 0, 0];
+          vmRef.resume(null);
+        }, 0);
+      },
+      glk_stream_close: function() {},
+      glk_stream_get_current: function() { return { id: 'main' }; },
+      glk_get_line_stream_uni: function() { return 0; },
+      glk_get_char_stream_uni: function() { return -1; }
+    };
+
+    function submitInput() {
+      if (!pendingEvent) return;
+      const text = input.value;
+      input.value = '';
+      input.disabled = true;
+      appendOutput(text + '\n');
+
+      if (pendingBuf) {
+        for (let i = 0; i < text.length && i < pendingBuf.length; i++) {
+          pendingBuf[i] = text.charCodeAt(i);
+        }
+        pendingEvent._f = [3, null, text.length, 0];
+      } else {
+        pendingEvent._f = [2, null, text.charCodeAt(0) || 13, 0];
+      }
+
+      const ev = pendingEvent;
+      pendingEvent = null;
+      pendingBuf = null;
+      vmRef.resume(ev);
+    }
+
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') submitInput();
+    });
+    submit.addEventListener('click', submitInput);
+
+    input.disabled = true;
+
+    fetch('/dateline/assets/zork/zork1.z3')
+      .then(r => {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.arrayBuffer();
+      })
+      .then(buf => {
+        vmRef = new ZVM();
+        vmRef.prepare(new Uint8Array(buf), { Glk: Glk });
+        vmRef.start();
+      })
+      .catch(err => {
+        appendOutput('Could not load Zork I — ' + err.message + '\n\n');
+        appendOutput('Ensure zork1.z3 is at /dateline/assets/zork/zork1.z3\n');
+      });
+  }());
+  </script>
+</body>
+</html>

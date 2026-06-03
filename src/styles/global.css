@@ -1,0 +1,112 @@
+@import '../assets/fonts.css';
+
+:root {
+  --bg-primary: #080808;
+  --bg-card: #0f0f0f;
+  --bg-hover: #0c0c0c;
+  --text-primary: #d4d4d4;
+  --text-heading: #ffffff;
+  --text-muted: #666666;
+  --border-primary: #222222;
+  --border-hover: #444444;
+  --border-light: #333333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.mono {
+  font-family: 'Courier Prime', 'Courier New', monospace;
+  font-size: 12px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+.border-industrial {
+  border: 1px solid var(--border-primary);
+}
+
+.border-industrial:hover {
+  border-color: var(--border-hover);
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.02);
+}
+
+.bg-card-industrial {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-primary);
+  border-radius: 4px;
+}
+
+.hover-glow:hover {
+  border-color: var(--border-hover);
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.02);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-heading);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+h1 { font-size: 32px; font-weight: 700; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
+
+a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--text-heading);
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+input {
+  font-family: inherit;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-primary);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--border-light);
+}
