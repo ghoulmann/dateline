@@ -113,7 +113,9 @@ const KEYWORD_MAP = {
     'ice raid', 'ice agents', 'ice arrests', 'migrant detention', 'migrant arrests',
     'migrant roundup', 'border patrol', 'border crossing', 'refugee', 'refugees',
     'asylum claim', 'asylum denied', 'immigration law', 'immigration policy',
-    'naturalization', 'visa denial', 'border wall', 'border fence', 'migration crisis'
+    'naturalization', 'visa denial', 'border wall', 'border fence', 'border policy',
+    'border security', 'family separation policy', 'refugee rights', 'migrant rights',
+    'migration crisis'
   ],
   'social-health': [
     'opioid crisis', 'opioid epidemic', 'fentanyl overdose', 'drug overdose', 'overdose deaths',
