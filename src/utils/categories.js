@@ -26,7 +26,10 @@ const KEYWORD_MAP = {
     'military strike', 'air attack', 'rocket attack', 'mortar attack', 'bomb attack',
     'bombed', 'fired missiles', 'launched attack', 'cross-border attack',
     'killed in strike', 'killed in attack', 'naval attack', 'ballistic missile',
-    'us strikes', 'us military', 'us troops', 'american forces',
+    'attack', 'attacks', 'attacked', 'shooting', 'shootings', 'bombing',
+    'car bomb', 'roadside bomb', 'IED', 'ambush', 'battle', 'combat', 'fighting',
+    'clashes', 'killed in', 'casualties',
+    'us strikes', 'us military', 'us troops', 'american forces', 'u.s. troops', 'u.s. military',
     'israel strikes', 'israel military', 'israeli forces', 'idf', 'israeli defense',
     'troops deployed', 'military operation', 'forces killed', 'soldiers killed', 'forces attacked'
   ],
