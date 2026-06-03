@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useGdelt } from '../hooks/useGdelt.js';
+import { useGdelt, POLL_INTERVAL } from '../hooks/useGdelt.js';
 import { useLocalStorage } from '../hooks/useLocalStorage.js';
 import { fetchWeatherBatch } from '../api/weather.js';
 import { CATEGORIES } from '../utils/categories.js';
@@ -10,8 +10,9 @@ import HiddenBanner from './HiddenBanner.jsx';
 import '../styles/App.css';
 
 export default function App() {
-  const { locations, loading, error } = useGdelt();
+  const { locations, loading, error, nextUpdateAt } = useGdelt();
   const [weather, setWeather] = useState({});
+  const [, setTick] = useState(0);
   const [activeCategories, setActiveCategories] = useLocalStorage(
     'dateline-categories',
     CATEGORIES.map(c => c.id)
@@ -29,6 +30,13 @@ export default function App() {
       fetchWeatherBatch(locations).then(setWeather);
     }
   }, [locations]);
+
+  // Tick every 30s to update countdown when error is shown
+  useEffect(() => {
+    if (!error) return;
+    const id = setInterval(() => setTick(t => t + 1), 30_000);
+    return () => clearInterval(id);
+  }, [error]);
 
   const toggleCategory = (categoryId) => {
     setActiveCategories(prev =>
@@ -54,6 +62,10 @@ export default function App() {
     );
   };
 
+  const minsUntilUpdate = nextUpdateAt
+    ? Math.max(0, Math.ceil((nextUpdateAt - Date.now()) / 60_000))
+    : null;
+
   return (
     <div className="app">
       <header className="app-header">
@@ -64,6 +76,11 @@ export default function App() {
       {error && (
         <div className="error-banner">
           <p>Error loading data: {error}</p>
+          {minsUntilUpdate !== null && (
+            <p className="mono" style={{ marginTop: 6, color: 'var(--text-muted)' }}>
+              Next update in {minsUntilUpdate} min
+            </p>
+          )}
         </div>
       )}
 

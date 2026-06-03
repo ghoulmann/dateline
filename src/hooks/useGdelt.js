@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react';
 import { fetchHotspots } from '../api/gdelt.js';
 
+export const POLL_INTERVAL = import.meta.env.DEV ? 5 * 60 * 1000 : 10 * 60 * 1000;
+
 async function fetchFallbackLocations() {
   try {
     const res = await fetch('/dateline/locations.json');
@@ -38,10 +40,11 @@ export function useGdelt() {
 
   useEffect(() => {
     loadData();
-    const interval = import.meta.env.DEV ? 5 * 60 * 1000 : 10 * 60 * 1000;
-    const timer = setInterval(loadData, interval);
+    const timer = setInterval(loadData, POLL_INTERVAL);
     return () => clearInterval(timer);
   }, []);
 
-  return { locations, loading, error, lastUpdated };
+  const nextUpdateAt = lastUpdated ? new Date(lastUpdated.getTime() + POLL_INTERVAL) : null;
+
+  return { locations, loading, error, lastUpdated, nextUpdateAt };
 }
