@@ -97,17 +97,144 @@ async function fetchGdelt(query, retryCount = 0) {
   }
 }
 
+const DEMO_LOCATIONS = [
+  {
+    id: 'Gaza',
+    name: 'Gaza',
+    country: 'PS',
+    lat: 31.5,
+    lon: 34.47,
+    timezone: 'Asia/Gaza',
+    headline: 'Airstrike reported amid ongoing conflict in Gaza',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 8,
+    categories: ['armed-conflict', 'humanitarian'],
+  },
+  {
+    id: 'Kyiv',
+    name: 'Kyiv',
+    country: 'UA',
+    lat: 50.45,
+    lon: 30.52,
+    timezone: 'Europe/Kyiv',
+    headline: 'Military offensive reported in Ukraine',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 6,
+    categories: ['armed-conflict'],
+  },
+  {
+    id: 'Jakarta',
+    name: 'Jakarta',
+    country: 'ID',
+    lat: -6.21,
+    lon: 106.85,
+    timezone: 'Asia/Jakarta',
+    headline: 'Earthquake declared emergency in Indonesia',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 4,
+    categories: ['natural-disaster'],
+  },
+  {
+    id: 'Pacific',
+    name: 'Pacific Region',
+    country: 'FJ',
+    lat: -17.71,
+    lon: 178.07,
+    timezone: 'Pacific/Fiji',
+    headline: 'Hottest on record threatens island nations',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 3,
+    categories: ['climate-watch'],
+  },
+  {
+    id: 'Yangon',
+    name: 'Yangon',
+    country: 'MM',
+    lat: 16.87,
+    lon: 96.19,
+    timezone: 'Asia/Yangon',
+    headline: 'Political repression and crackdown reported',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 3,
+    categories: ['political-repression', 'democracy-crisis'],
+  },
+  {
+    id: 'Istanbul',
+    name: 'Istanbul',
+    country: 'TR',
+    lat: 41.01,
+    lon: 28.98,
+    timezone: 'Europe/Istanbul',
+    headline: 'Election interference concerns amid democratic backsliding',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 2,
+    categories: ['democracy-crisis'],
+  },
+  {
+    id: 'Warsaw',
+    name: 'Warsaw',
+    country: 'PL',
+    lat: 52.23,
+    lon: 21.01,
+    timezone: 'Europe/Warsaw',
+    headline: 'Reproductive rights and gender ideology debates escalate',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 2,
+    categories: ['culture-wars'],
+  },
+  {
+    id: 'Khartoum',
+    name: 'Khartoum',
+    country: 'SD',
+    lat: 15.55,
+    lon: 32.53,
+    timezone: 'Africa/Khartoum',
+    headline: 'Humanitarian crisis with mass displacement reported',
+    headlineUrl: 'https://www.gdeltproject.org/',
+    seendate: new Date().toISOString(),
+    articleCount: 2,
+    categories: ['humanitarian', 'armed-conflict'],
+  },
+];
+
 async function main() {
+  const useStaggered = process.argv.includes('--staggered');
+
   console.log('Fetching hotspots from GDELT (per-category queries)...');
+  if (useStaggered) {
+    console.log('  Using staggered requests (6s apart to avoid rate-limiting)');
+  }
 
   const allArticles = [];
   const queries = Object.entries(CATEGORY_QUERIES);
 
-  const results = await Promise.allSettled(
-    queries.map(([category, query]) =>
-      fetchGdelt(query).then(articles => ({ category, articles }))
-    )
-  );
+  let results;
+
+  if (useStaggered) {
+    // Sequential requests with 6s delay between them (GDELT limit is 1 per 5s)
+    results = [];
+    for (const [category, query] of queries) {
+      const result = await fetchGdelt(query).then(articles => ({ category, articles }));
+      results.push({ status: 'fulfilled', value: result });
+      if (queries.indexOf([category, query]) < queries.length - 1) {
+        await new Promise(r => setTimeout(r, 6000)); // 6s delay
+      }
+    }
+  } else {
+    // Parallel requests (default, used in GitHub Actions)
+    results = await Promise.allSettled(
+      queries.map(([category, query]) =>
+        fetchGdelt(query).then(articles => ({ category, articles }))
+      )
+    );
+  }
 
   for (const result of results) {
     if (result.status === 'fulfilled') {

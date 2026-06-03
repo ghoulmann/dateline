@@ -54,6 +54,11 @@
   margin: 0 6px;
 }
 
+.card-status .qualification {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
 .card-time {
   font-size: 11px;
   color: var(--text-muted);

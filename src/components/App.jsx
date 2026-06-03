@@ -3,6 +3,7 @@ import { useGdelt } from '../hooks/useGdelt.js';
 import { useLocalStorage } from '../hooks/useLocalStorage.js';
 import { fetchWeatherBatch } from '../api/weather.js';
 import { CATEGORIES } from '../utils/categories.js';
+import { REGIONS } from '../utils/regions.js';
 import FilterBar from './FilterBar.jsx';
 import CardGrid from './CardGrid.jsx';
 import HiddenBanner from './HiddenBanner.jsx';
@@ -14,6 +15,10 @@ export default function App() {
   const [activeCategories, setActiveCategories] = useLocalStorage(
     'dateline-categories',
     CATEGORIES.map(c => c.id)
+  );
+  const [activeRegions, setActiveRegions] = useLocalStorage(
+    'dateline-regions',
+    REGIONS.map(r => r.id)
   );
   const [hiddenIds, setHiddenIds] = useLocalStorage('dateline-hidden', []);
   const [showHidden, setShowHidden] = useState(false);
@@ -30,6 +35,14 @@ export default function App() {
       prev.includes(categoryId)
         ? prev.filter(c => c !== categoryId)
         : [...prev, categoryId]
+    );
+  };
+
+  const toggleRegion = (regionId) => {
+    setActiveRegions(prev =>
+      prev.includes(regionId)
+        ? prev.filter(r => r !== regionId)
+        : [...prev, regionId]
     );
   };
 
@@ -62,7 +75,9 @@ export default function App() {
         <>
           <FilterBar
             activeCategories={activeCategories}
-            onToggle={toggleCategory}
+            activeRegions={activeRegions}
+            onToggleCategory={toggleCategory}
+            onToggleRegion={toggleRegion}
           />
 
           <HiddenBanner
@@ -74,6 +89,7 @@ export default function App() {
           <CardGrid
             locations={locations}
             activeCategories={activeCategories}
+            activeRegions={activeRegions}
             hiddenIds={hiddenIds}
             showHidden={showHidden}
             weather={weather}

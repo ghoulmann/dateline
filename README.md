@@ -10,6 +10,15 @@ A real-time dashboard displaying active conflict and crisis hotspots worldwide, 
 - **Category Filtering:** Filter by conflict type: armed conflict, humanitarian crisis, natural disasters, political repression, democracy crises, climate watch, and culture wars
 - **Hide/Show Cards:** Personalize your view; preferences persist in browser storage
 - **Zork 404 Page:** Play the classic 1980 text adventure game when you land on a 404
+- **Region Filtering:** Filter by geographic region (North America, Europe, Asia, Africa, Latin America, Middle East, Oceania)
+
+## Inspiration
+
+**Dateline** is inspired by [Claire Fontaine](https://www.clairefontaine.ws), a minimalist site displaying a single location's real-time data—temperature, weather, and local time.
+
+![Claire Fontaine — Gaza real-time display](./public/images/claire-fontaine.png)
+
+Dateline expands this concept into a **global dashboard**: instead of a single city, track 60+ crisis hotspots worldwide with live GDELT data, real-time local clocks, weather conditions, and dual filtering (category + region). The same monochrome aesthetic and focus on **real information, real time** carries through.
 
 ## Live Deployment
 
@@ -53,11 +62,26 @@ npm run preview  # preview the built site locally
 
 The workflow (`.github/workflows/deploy.yml`) handles all CI/CD.
 
+## Data Refresh
+
+A GitHub Actions workflow runs every 4 hours to fetch fresh hotspot data from GDELT and commit updates to `public/locations.json`:
+
+```
+Schedule: 0 */4 * * *  (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
+Trigger: Workflow dispatch (manual trigger from Actions tab)
+Script: node scripts/refresh-locations.mjs
+```
+
+**Local testing:** Run the refresh script with staggered mode to avoid GDELT rate-limiting:
+```bash
+node scripts/refresh-locations.mjs --staggered
+```
+
 ## Configuration
 
 ### Adding/Editing Hotspot Seed Data
 
-When GDELT returns fewer than 5 results (rare), the dashboard falls back to seed data in `public/locations.json`. Edit this file to customize:
+The dashboard falls back to seed data in `public/locations.json` when GDELT is unavailable. Edit this file to customize:
 
 ```json
 [
@@ -78,7 +102,7 @@ When GDELT returns fewer than 5 results (rare), the dashboard falls back to seed
 ]
 ```
 
-### Categories
+### Crisis Categories
 
 | ID | Label |
 |----|-------|
@@ -89,6 +113,18 @@ When GDELT returns fewer than 5 results (rare), the dashboard falls back to seed
 | `democracy-crisis` | Crisis of democracy |
 | `climate-watch` | Climate watch |
 | `culture-wars` | Culture wars |
+
+### Geographic Regions
+
+| Region |
+|--------|
+| North America |
+| Latin America |
+| Europe |
+| Middle East |
+| Africa |
+| Asia |
+| Oceania |
 
 ## APIs & Attribution
 
@@ -102,23 +138,27 @@ When GDELT returns fewer than 5 results (rare), the dashboard falls back to seed
 
 ```
 dateline/
-├── .github/workflows/deploy.yml     # CI/CD for GitHub Pages
+├── .github/workflows/
+│   ├── deploy.yml                   # CI/CD for GitHub Pages
+│   └── refresh-data.yml             # Cron job to refresh hotspot data every 4 hours
+├── scripts/
+│   └── refresh-locations.mjs        # Node script to fetch & process GDELT data
 ├── public/                           # Static assets
 │   ├── assets/
 │   │   ├── zork/zork1.z3           # Z-machine story file (MIT licensed)
 │   │   ├── zork/ZORK_LICENSE       # License file
 │   │   ├── lib/zvm.min.js          # Z-machine interpreter (MIT licensed)
 │   │   └── fonts/                  # Self-hosted font files
-│   ├── locations.json              # Fallback seed data
+│   ├── locations.json              # Fallback seed data (61 hotspots)
 │   └── 404.html                    # Zork easter egg
 ├── src/
 │   ├── api/
 │   │   ├── gdelt.js                # GDELT fetch & location extraction
-│   │   ├── geocode.js              # City → coordinates lookup
+│   │   ├── geocode.js              # City → coordinates lookup table
 │   │   └── weather.js              # Open-Meteo API
 │   ├── components/
 │   │   ├── App.jsx
-│   │   ├── FilterBar.jsx
+│   │   ├── FilterBar.jsx           # Category & region filters
 │   │   ├── CardGrid.jsx
 │   │   ├── ConflictCard.jsx
 │   │   └── HiddenBanner.jsx
@@ -127,7 +167,8 @@ dateline/
 │   │   ├── useGdelt.js
 │   │   └── useClock.js
 │   ├── utils/
-│   │   ├── categories.js
+│   │   ├── categories.js           # 7 crisis types
+│   │   ├── regions.js              # 7 geographic regions
 │   │   ├── flags.js
 │   │   └── weatherCodes.js
 │   ├── styles/

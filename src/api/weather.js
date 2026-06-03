@@ -1,4 +1,5 @@
 import { getWeatherDescription } from '../utils/weatherCodes.js';
+import { getWeatherQualification } from '../utils/weatherQualifications.js';
 
 export async function fetchWeather(lat, lon) {
   try {
@@ -8,14 +9,17 @@ export async function fetchWeather(lat, lon) {
 
     const data = await response.json();
     const current = data.current;
+    const temp = Math.round(current.temperature_2m);
+    const description = getWeatherDescription(current.weather_code);
 
     return {
-      temp: Math.round(current.temperature_2m),
-      description: getWeatherDescription(current.weather_code),
+      temp,
+      description,
+      qualification: getWeatherQualification(temp, description),
     };
   } catch (error) {
     console.error('Weather fetch error:', error);
-    return { temp: '—', description: 'unavailable' };
+    return { temp: '—', description: 'unavailable', qualification: 'unknown' };
   }
 }
 

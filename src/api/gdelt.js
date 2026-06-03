@@ -13,17 +13,22 @@ async function fetchLocationsFallback() {
 }
 
 export async function fetchHotspots() {
-  const query = 'conflict OR war OR crisis OR protest OR disaster OR humanitarian OR earthquake OR flood';
+  const query = 'conflict OR war OR crisis OR protest OR disaster OR humanitarian OR earthquake OR flood OR deportation OR migrant OR crackdown OR strike OR outbreak OR epidemic OR journalist OR opioid OR union OR corruption OR coup OR assassination OR femicide OR abortion OR transgender OR lgbtq OR overdose OR fentanyl';
   const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(query)}&mode=artlist&format=json&maxrecords=50&sort=DateDesc`;
 
   const response = await fetch(url);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
+  const contentType = response.headers.get('content-type') || '';
+  if (!contentType.includes('application/json')) {
+    throw new Error(`GDELT returned ${contentType || 'non-JSON'} instead of JSON (likely rate-limited)`);
+  }
+
   let data;
   try {
     data = await response.json();
   } catch (err) {
-    throw new Error(`GDELT returned invalid JSON: ${err.message}`);
+    throw new Error(`GDELT JSON parse failed: ${err.message}`);
   }
   const articles = data.articles || [];
 

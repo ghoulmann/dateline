@@ -27,7 +27,7 @@ export function useGdelt() {
       setLastUpdated(new Date());
     } catch (err) {
       console.error('useGdelt error:', err);
-      setError(err.message);
+      setError(`Using cached data: ${err.message}`);
       const fallback = await fetchFallbackLocations();
       setLocations(fallback);
       setLastUpdated(new Date());
@@ -38,8 +38,9 @@ export function useGdelt() {
 
   useEffect(() => {
     loadData();
-    const interval = setInterval(loadData, 10 * 60 * 1000); // 10 minutes
-    return () => clearInterval(interval);
+    const interval = import.meta.env.DEV ? 5 * 60 * 1000 : 10 * 60 * 1000;
+    const timer = setInterval(loadData, interval);
+    return () => clearInterval(timer);
   }, []);
 
   return { locations, loading, error, lastUpdated };

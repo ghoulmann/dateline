@@ -4,6 +4,14 @@
   border-radius: 4px;
   padding: 16px;
   margin-bottom: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.filter-group {
+  flex: 1;
+  min-width: 300px;
 }
 
 .filter-label {

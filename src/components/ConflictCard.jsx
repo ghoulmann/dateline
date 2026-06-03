@@ -41,6 +41,12 @@ export default function ConflictCard({ location, weather, onHide }) {
         <span>{weather.temp}°c</span>
         <span className="dot">·</span>
         <span>{weather.description}</span>
+        {weather.qualification && (
+          <>
+            <span className="dot">·</span>
+            <span className="qualification">{weather.qualification}</span>
+          </>
+        )}
       </div>
 
       <div className="card-time mono">
