@@ -9,6 +9,7 @@ export const CATEGORIES = [
   { id: 'culture-wars',         label: 'Culture wars' },
   { id: 'labor',                label: 'Labor' },
   { id: 'public-health',        label: 'Public health' },
+  { id: 'immigration',          label: 'Immigration' },
   { id: 'social-health',        label: 'Social health' },
 ];
 
@@ -106,13 +107,23 @@ const KEYWORD_MAP = {
     'cholera epidemic', 'typhoid outbreak', 'meningitis outbreak',
     'virus outbreak', 'health crisis'
   ],
+  'immigration': [
+    'immigration', 'immigrant', 'migrant', 'migration', 'asylum seeker', 'asylum seekers',
+    'deportation', 'deportations', 'deported', 'immigration enforcement', 'immigration raid',
+    'ice raid', 'ice agents', 'ice arrests', 'migrant detention', 'migrant arrests',
+    'migrant roundup', 'border patrol', 'border crossing', 'refugee', 'refugees',
+    'asylum claim', 'asylum denied', 'immigration law', 'immigration policy',
+    'naturalization', 'visa denial', 'border wall', 'border fence', 'migration crisis'
+  ],
   'social-health': [
     'opioid crisis', 'opioid epidemic', 'fentanyl overdose', 'drug overdose', 'overdose deaths',
     'overdose surge', 'addiction crisis', 'drug epidemic', 'mental health crisis',
     'suicide epidemic', 'hospital closure', 'healthcare collapse', 'medical debt crisis',
     'healthcare access', 'insurance denied', 'mental health emergency',
     'domestic violence', 'gang violence', 'war on drugs', 'organized crime surge',
-    'opioid', 'fentanyl', 'overdose', 'mental health', 'addiction'
+    'homelessness', 'housing crisis', 'shelter shortage', 'food insecurity', 'poverty',
+    'child welfare', 'family separation', 'mental health', 'addiction',
+    'opioid', 'fentanyl', 'overdose'
   ],
 };
 
