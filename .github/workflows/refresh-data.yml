@@ -1,0 +1,34 @@
+name: Refresh hotspot data
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch and update hotspot data
+        run: node scripts/refresh-locations.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet public/locations.json; then
+            echo "No changes to locations.json"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add public/locations.json
+            git commit -m "chore: refresh hotspot data from GDELT"
+            git push
+          fi

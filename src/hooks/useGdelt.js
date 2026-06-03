@@ -1,6 +1,17 @@
 import { useState, useEffect } from 'react';
 import { fetchHotspots } from '../api/gdelt.js';
 
+async function fetchFallbackLocations() {
+  try {
+    const res = await fetch('/dateline/locations.json');
+    if (!res.ok) throw new Error('Fallback fetch failed');
+    return res.json();
+  } catch (err) {
+    console.error('Fallback locations.json failed:', err);
+    return [];
+  }
+}
+
 export function useGdelt() {
   const [locations, setLocations] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -15,8 +26,11 @@ export function useGdelt() {
       setLocations(data);
       setLastUpdated(new Date());
     } catch (err) {
-      setError(err.message);
       console.error('useGdelt error:', err);
+      setError(err.message);
+      const fallback = await fetchFallbackLocations();
+      setLocations(fallback);
+      setLastUpdated(new Date());
     } finally {
       setLoading(false);
     }

@@ -58,7 +58,7 @@ export default function App() {
         <div className="loading-state">Loading hotspots...</div>
       )}
 
-      {locations.length > 0 && (
+      {!loading && (
         <>
           <FilterBar
             activeCategories={activeCategories}

@@ -9,13 +9,42 @@ export const CATEGORIES = [
 ];
 
 const KEYWORD_MAP = {
-  'armed-conflict': ['war', 'airstrike', 'shelling', 'troops', 'military', 'fighting', 'offensive', 'ceasefire', 'bombardment', 'conflict', 'attack', 'assault', 'battle'],
-  'humanitarian': ['famine', 'refugee', 'displacement', 'aid', 'cholera', 'starvation', 'humanitarian', 'starvation', 'displaced', 'food crisis'],
-  'natural-disaster': ['earthquake', 'flood', 'cyclone', 'tsunami', 'wildfire', 'eruption', 'drought', 'hurricane', 'storm', 'disaster'],
-  'political-repression': ['crackdown', 'detained', 'arrested', 'protest', 'dissidents', 'censorship', 'imprisoned', 'opposition', 'unrest'],
-  'democracy-crisis': ['election', 'coup', 'junta', 'rigged', 'fraud', 'parliament', 'constitutional', 'democratic'],
-  'climate-watch': ['climate', 'temperature record', 'heatwave', 'glacier', 'emissions', 'sea level', 'warming', 'carbon'],
-  'culture-wars': ['lgbtq', 'abortion', 'blasphemy', 'book ban', 'religious freedom', 'secularism', 'cultural'],
+  'armed-conflict': [
+    'airstrike', 'drone strike', 'shelling', 'ground offensive', 'ceasefire', 'war crimes',
+    'armed clash', 'siege', 'military offensive', 'artillery bombardment', 'missile attack',
+    'troops advance', 'occupation forces', 'killed in fighting', 'rebel forces'
+  ],
+  'humanitarian': [
+    'famine', 'food insecurity', 'humanitarian access', 'acute malnutrition', 'mass displacement',
+    'refugee camp', 'idp camp', 'starvation', 'civilians trapped', 'humanitarian corridor',
+    'displaced persons', 'aid blocked', 'cholera outbreak', 'internally displaced', 'flee fighting'
+  ],
+  'natural-disaster': [
+    'earthquake', 'tsunami', 'cyclone', 'hurricane', 'typhoon', 'wildfire', 'flash flood',
+    'volcanic eruption', 'landslide', 'heat dome', 'declared state of emergency', 'drought emergency',
+    'storm surge', 'disaster relief', 'magnitude'
+  ],
+  'political-repression': [
+    'crackdown', 'opposition leader arrested', 'political prisoner', 'internet shutdown',
+    'enforced disappearance', 'imprisoned journalist', 'arbitrary detention', 'protest ban',
+    'detained', 'jailed for', 'torture', 'human rights defender', 'suppressed', 'silenced', 'exile'
+  ],
+  'democracy-crisis': [
+    'election interference', 'voter suppression', 'democratic backsliding', 'court packing',
+    'disinformation campaign', 'press freedom', 'rigged election', 'constitutional coup',
+    'emergency powers', 'judicial independence', 'media crackdown', 'state media',
+    'electoral fraud', 'autocratization', 'coup'
+  ],
+  'climate-watch': [
+    'hottest on record', 'sea level rise', 'coral bleaching', 'climate migration', 'extreme heat',
+    'heatwave', 'climate tipping point', 'arctic ice', 'climate disaster', 'climate record',
+    'carbon emissions', 'net zero', 'ipcc', 'tipping point', 'fossil fuel'
+  ],
+  'culture-wars': [
+    'gender ideology', 'anti-gay law', 'religious nationalism', 'transgender ban', 'abortion ban',
+    'reproductive rights', 'blasphemy law', 'book ban', 'theocracy', 'same-sex marriage ban',
+    'lgbtq rights', 'drag ban', 'sharia law', 'secularism', 'religious freedom'
+  ],
 };
 
 export function extractCategories(title) {

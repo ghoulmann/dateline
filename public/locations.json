@@ -63,5 +63,57 @@
     "seendate": "20260603T000000Z",
     "articleCount": 4,
     "categories": ["armed-conflict", "humanitarian"]
+  },
+  {
+    "id": "Turkey",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Turkey faces political opposition and democratic challenges",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 3,
+    "categories": ["political-repression", "democracy-crisis"]
+  },
+  {
+    "id": "Indonesia",
+    "name": "Jakarta",
+    "country": "ID",
+    "lat": -6.21,
+    "lon": 106.85,
+    "timezone": "Asia/Jakarta",
+    "headline": "Indonesia experiences natural disaster affecting millions",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 2,
+    "categories": ["natural-disaster"]
+  },
+  {
+    "id": "Pacific",
+    "name": "Pacific Region",
+    "country": "FJ",
+    "lat": -17.71,
+    "lon": 178.07,
+    "timezone": "Pacific/Fiji",
+    "headline": "Rising sea levels and climate change threaten island nations",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 2,
+    "categories": ["climate-watch"]
+  },
+  {
+    "id": "Poland",
+    "name": "Warsaw",
+    "country": "PL",
+    "lat": 52.23,
+    "lon": 21.01,
+    "timezone": "Europe/Warsaw",
+    "headline": "Eastern Europe debates cultural and religious freedoms",
+    "headlineUrl": "https://www.gdeltproject.org/",
+    "seendate": "20260603T000000Z",
+    "articleCount": 1,
+    "categories": ["culture-wars", "democracy-crisis"]
   }
 ]
