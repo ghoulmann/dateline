@@ -29,7 +29,7 @@ export function useGdelt() {
       setLastUpdated(new Date());
     } catch (err) {
       console.error('useGdelt error:', err);
-      setError(`Using cached data: ${err.message}`);
+      setError(err.message);
       const fallback = await fetchFallbackLocations();
       setLocations(fallback);
       setLastUpdated(new Date());

@@ -21,7 +21,13 @@ const KEYWORD_MAP = {
     'armed clash', 'siege', 'military offensive', 'artillery bombardment', 'missile attack',
     'troops advance', 'occupation forces', 'killed in fighting', 'rebel forces',
     'ethnic cleansing', 'massacre', 'genocide', 'intrastate war', 'interstate war',
-    'armed violence', 'military junta', 'peace agreement', 'peace process'
+    'armed violence', 'military junta', 'peace agreement', 'peace process',
+    'military strike', 'air attack', 'rocket attack', 'mortar attack', 'bomb attack',
+    'bombed', 'fired missiles', 'launched attack', 'cross-border attack',
+    'killed in strike', 'killed in attack', 'naval attack', 'ballistic missile',
+    'us strikes', 'us military', 'us troops', 'american forces',
+    'israel strikes', 'israel military', 'israeli forces', 'idf', 'israeli defense',
+    'troops deployed', 'military operation', 'forces killed', 'soldiers killed', 'forces attacked'
   ],
   'humanitarian': [
     'famine', 'food insecurity', 'humanitarian access', 'acute malnutrition', 'mass displacement',

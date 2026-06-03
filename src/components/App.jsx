@@ -69,7 +69,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Dateline</h1>
+        <h1>Weather Now</h1>
         <p className="subtitle mono">Global conflict hotspots, real-time</p>
       </header>
 
@@ -77,7 +77,7 @@ export default function App() {
         <div className="error-banner">
           <p>Error loading data: {error}</p>
           {minsUntilUpdate !== null && (
-            <p className="mono" style={{ marginTop: 6, color: 'var(--text-muted)' }}>
+            <p className="mono" style={{ marginTop: 8, fontSize: 14, fontWeight: 600, color: 'var(--text-heading)' }}>
               Next update in {minsUntilUpdate} min
             </p>
           )}
