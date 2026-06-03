@@ -180,18 +180,55 @@ const COUNTRY_CAPITALS = {
   'IL': 'Jerusalem', 'FJ': 'Pacific',
 };
 
+function escapeRegExp(text) {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+const DATELINE_CITIES = new Set([
+  'washington', 'london', 'paris', 'brussels', 'berlin', 'rome', 'madrid',
+  'tokyo', 'canberra', 'ottawa', 'beijing', 'moscow', 'tehran'
+]);
+
+const DATELINE_VERBS = [
+  'reports', 'says', 'announces', 'warns', 'claims', 'states', 'tells',
+  'notes', 'confirms', 'adds', 'declares', 'reveals'
+];
+
+function isDatelineHeadline(titleLower, cityLower) {
+  if (!DATELINE_CITIES.has(cityLower)) return false;
+  const cityPattern = `\\b${escapeRegExp(cityLower)}\\b`;
+  const verbPattern = `\\b(?:${DATELINE_VERBS.join('|')})\\b`;
+  const datelineRegex = new RegExp(`${cityPattern}.*${verbPattern}|${verbPattern}.*${cityPattern}`);
+  return datelineRegex.test(titleLower);
+}
+
+const COUNTRY_FALLBACKS = {
+  US: { id: 'United States', lat: 39.50, lon: -98.35, country: 'US', timezone: 'America/Chicago' },
+};
+
 export function resolveLocation(article) {
   const title = article.title || '';
   const countryCode = article.sourcecountry || '';
+  const titleLower = title.toLowerCase();
 
   for (const [city, coords] of Object.entries(HOTSPOT_TABLE)) {
-    if (title.toLowerCase().includes(city.toLowerCase())) {
+    const cityLower = city.toLowerCase();
+    if (titleLower.includes(cityLower)) {
+      if (isDatelineHeadline(titleLower, cityLower)) {
+        continue;
+      }
       return { id: city, ...coords, headline: title };
     }
   }
 
   const capital = COUNTRY_CAPITALS[countryCode];
   if (capital && HOTSPOT_TABLE[capital]) {
+    if (isDatelineHeadline(titleLower, capital.toLowerCase())) {
+      if (COUNTRY_FALLBACKS[countryCode]) {
+        return { ...COUNTRY_FALLBACKS[countryCode], headline: title };
+      }
+      return null;
+    }
     return { id: capital, ...HOTSPOT_TABLE[capital], headline: title };
   }
 
