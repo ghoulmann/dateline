@@ -1,107 +1,19 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Ongoing humanitarian crisis and military operations in Gaza",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 15,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ongoing conflict in Ukraine affecting millions",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 12,
-    "categories": ["armed-conflict"]
-  },
-  {
-    "id": "Khartoum",
-    "name": "Khartoum",
-    "country": "SD",
-    "lat": 15.55,
-    "lon": 32.53,
-    "timezone": "Africa/Khartoum",
-    "headline": "Sudan humanitarian crisis deepens amid conflict",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 8,
-    "categories": ["humanitarian", "armed-conflict"]
-  },
-  {
-    "id": "Yangon",
-    "name": "Yangon",
-    "country": "MM",
-    "lat": 16.87,
-    "lon": 96.19,
-    "timezone": "Asia/Yangon",
-    "headline": "Myanmar political repression and civil disobedience",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 5,
-    "categories": ["political-repression", "democracy-crisis"]
-  },
-  {
-    "id": "Mogadishu",
-    "name": "Mogadishu",
-    "country": "SO",
-    "lat": 2.05,
-    "lon": 45.34,
-    "timezone": "Africa/Mogadishu",
-    "headline": "Somalia faces security challenges and humanitarian needs",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 4,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Turkey faces political opposition and democratic challenges",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["political-repression", "democracy-crisis"]
-  },
-  {
-    "id": "Jakarta",
-    "name": "Jakarta",
-    "country": "ID",
-    "lat": -6.21,
-    "lon": 106.85,
-    "timezone": "Asia/Jakarta",
-    "headline": "Indonesia experiences natural disaster affecting millions",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["natural-disaster"]
-  },
-  {
-    "id": "Pacific",
-    "name": "Pacific Region",
-    "country": "FJ",
-    "lat": -17.71,
-    "lon": 178.07,
-    "timezone": "Pacific/Fiji",
-    "headline": "Rising sea levels and climate change threaten island nations",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["climate-watch"]
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "A Hong Kong artist trying to mark the Tiananmen crackdown is quickly stopped by police - AP News",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeG0tY2dNVmtMQlBnQXFadklHTEN1Snh4MWloY0VQRExGNWtpd1FHckxUYmFsVmVuOUM2Zmo3SnExTDhRSWJJNzdjb3pHR21vQjlwdmtzQkhrNjZqS25qRjI5UU9JYmtOU1NHcFRWUTE0X0VDTFVSWjFkN2RKNEVMaW9ZaWFHTlVYY3JhaEplTmh4TE1qenIwaG9STl9TN05tejRqUTRnZWhERHM?oc=5",
+    "seendate": "2026-06-04T02:15:00.000Z",
+    "articleCount": 9,
+    "categories": [
+      "political-repression",
+      "armed-conflict"
+    ]
   },
   {
     "id": "Washington",
@@ -110,11 +22,15 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "US capital grapples with legislative gridlock and governance crisis",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 4,
-    "categories": ["democracy-crisis"]
+    "headline": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
+    "seendate": "2026-06-04T06:24:00.000Z",
+    "articleCount": 7,
+    "categories": [
+      "armed-conflict",
+      "humanitarian",
+      "democracy-crisis"
+    ]
   },
   {
     "id": "New York",
@@ -123,11 +39,18 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Major US city addresses homelessness and urban inequality",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["democracy-crisis", "humanitarian"]
+    "headline": "Proposed WIC Cuts Could Deepen Food Insecurity for New York Families - NYC Food Policy Center",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFFuaGRPODNlSlpKSnhTUjIyNlFBMHNET1VoZmlNNFBseXVVYmNuREhYVkpCbjMyc1FOSUp4dGdwMjhSb3VBVjlYRlNxQkdFRGRhY21VeW9ZY2ZlMmY2NXRfTk1qU3h5dlprYVhvR2pZOHYzVFNJQmp0MFEwMVFiZ3ZuS19EUW5Qd0ZRc2ZoLUxXMXkwQmM4ZWZFUWhjaFJS?oc=5",
+    "seendate": "2026-06-01T23:34:23.000Z",
+    "articleCount": 7,
+    "categories": [
+      "humanitarian",
+      "natural-disaster",
+      "political-repression",
+      "climate-watch",
+      "democracy-crisis",
+      "culture-wars"
+    ]
   },
   {
     "id": "Los Angeles",
@@ -136,11 +59,76 @@
     "lat": 34.05,
     "lon": -118.24,
     "timezone": "America/Los_Angeles",
-    "headline": "Southern California faces record heat and wildfire threats",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
+    "headline": "Breaking: New wildfire reported in Los Angeles County on June 4 - Sacramento Bee",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUSUR1X2NDS3RrUVRlNGY4eXFjVWJHTVh2S1htTExCSDVSTXE2NVNLMHZNVmJ6NFlBeFk4amtkV1pZN0dBdGk5SURKQVQ0dE9NWElfdFZ0aDNzNnhwR3hCdjhVSlNNdi02Q2c4TkpTTGRoYjF2?oc=5",
+    "seendate": "2026-06-04T12:08:06.000Z",
+    "articleCount": 6,
+    "categories": [
+      "natural-disaster",
+      "democracy-crisis"
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel kills 11 in strikes on Gaza; Hezbollah rejects “illusory” ceasefire as Israeli assault continues; House passes war powers resolution - Drop Site News",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzF2T0dVNk5HdE1uY1psZXNjTjJZNmxWdzlxVGtPRHJJM1VVVU55YWx2NEM5WGxHcTc1N1h6TGVPVHpPSkRCajV2c1ZFbmR6Y2UyMEduSF94S0swVEo0MUs1ZkRmdU51SV9paTloT2tfRkRvVndMVVdsbG5MWXEwcldEZ0dVTUM3?oc=5",
+    "seendate": "2026-06-04T15:37:05.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israel, Lebanon agree to ceasefire deal after round of talks - The Jerusalem Post",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncHZCbXdhQzdpaVpxSWZUTkVlR25pZWx2YnMyZTB5OUVyS1ZVY1Zzb2VXM2ViYmlSWXkzUGxQRWV1WXk0N3hNZVEyVWxjQlRoWHVoMmw4U2FPTjBuUEhYS3ROeEJ1dGRKMVFJR0d3?oc=5",
+    "seendate": "2026-06-04T04:11:10.000Z",
     "articleCount": 3,
-    "categories": ["climate-watch", "natural-disaster"]
+    "categories": [
+      "armed-conflict"
+    ]
+  },
+  {
+    "id": "Taipei",
+    "name": "Taipei",
+    "country": "TW",
+    "lat": 25.03,
+    "lon": 121.56,
+    "timezone": "Asia/Taipei",
+    "headline": "Israeli strikes kill at least four people in Lebanon despite new ceasefire agreement - Taipei Times",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWUJvWDdNVjRxa21mYkNBTTlkcjhybkNjQnIyNXdXSERGd2djWWdRV0pwOEROaVpmUVBiZU1kcDFSOC12SktlZk9JZHduQ09KTUxhaVRodFRINl9qNnI1WXhXSU9yc1V3cjY1YzJ0MVRiY2xaVWYybg?oc=5",
+    "seendate": "2026-06-04T16:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict",
+      "political-repression"
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "U.S. push for Lebanon ceasefire stalls as Israel eyes Beirut strikes - Axios",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xMUc0U2JuLWRCbm9ILVc0enYyVVJ4V1kwWklYZmF5ZV9UcUtoMUtMZXp1UTFzdnFZY0ZNa2tQMGkwZm1MY21ITlgzUFY2UUZWSU0wX3FkR3NReWpmSXlOMW5rTzdaeGxibFVpVU9DSFRESVEtVkJzajNiQQ?oc=5",
+    "seendate": "2026-06-02T03:33:38.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ]
   },
   {
     "id": "Chicago",
@@ -149,11 +137,62 @@
     "lat": 41.88,
     "lon": -87.63,
     "timezone": "America/Chicago",
-    "headline": "Midwest city deals with extreme weather patterns and flooding",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
+    "headline": "Hezbollah rejects latest ceasefire agreement and demands Israel withdraw from Lebanon - Chicago Tribune",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMlJkLTFxNkxsU1E5NGdNYzJVZ3B0QWF5R3FzX3F4NjM1LW1XYkZYVkpuZU1iOTJud0NJYnFSc3hOX3dXY3pabGZraHFUMF9PSGxNdHp6RHhwdWgtYWplaTFmTWZmVUcwQ0ZVN2tidWtPeUpfcnhLMmppNWNOR0h2akpHVQ?oc=5",
+    "seendate": "2026-06-04T13:39:56.000Z",
     "articleCount": 2,
-    "categories": ["natural-disaster", "climate-watch"]
+    "categories": [
+      "armed-conflict",
+      "democracy-crisis"
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "‘Feast Or Famine’ Directors Talk Michelin Star Doc - SXSW London - Deadline",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkozYV9aZndYMFh6ODduZDRISTFwR0pDM0FlQkpRX2xzd1hQM3BkakV0SDZsRnBTX19qWHJDMVFqWWlULW1qWHQ5TFY2WlVaQzFMeDkwSXhUaWNTNy00R2gxOTZxbTRydllBaEZrOERpSzZ6Qm1hcGJFYy1tajBfbDhtd0xRaFR2aHlhMGFDT3EyeFR3b1JNSXFB?oc=5",
+    "seendate": "2026-06-04T09:58:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian",
+      "democracy-crisis"
+    ]
+  },
+  {
+    "id": "Atlanta",
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.75,
+    "lon": -84.39,
+    "timezone": "America/New_York",
+    "headline": "Hurricane prep is underway as NC remains traumatized - FOX 5 Atlanta",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WRUZiMWh0LWt4TEFZZjFxRFZzRUFPLXZ4RVNxdHBTcy1YMzB2RGR4cXhVZVFBZWRDbk9QT28yVG84aVc3X3g3US1aN2dvcEpoOURJdFNNQTVnc1VTLVlkVDYzZ2rSAWpBVV95cUxOWEJRRGx3bi1EWVY2eUp6WWNEVlpoOXJMZlg4Qk5kaDJCTjFob3dpR0Z1blhqNGxiODd0aGNIb2RIVjdXOG9Ld3F6Y3ptWTg3ZThYejhvUUw1OGVIYVFDYUZDcHRHdmlCQU5B?oc=5",
+    "seendate": "2026-06-04T17:39:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ]
+  },
+  {
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Seoul Raid on Early Voting Day Draws Election Interference Accusations - 조선일보",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9pRkVrSzdvNkhzRHpsR2RvOHhjNHdmNnV0R2VmLUEyUk5fZlA0VFItMDhXNFFsNTRsSi1teVNuQXd5OGwxQTNzeW1NZ196OFNOcUtNTkpsaGQzWUFyVDRqTUpWNlhjSmI1Ul9JX1VrM2JfXzdYRHlqeDJGTFc2YUk0SFpNaHNO?oc=5",
+    "seendate": "2026-05-29T21:26:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian",
+      "democracy-crisis",
+      "climate-watch"
+    ]
   },
   {
     "id": "Houston",
@@ -162,24 +201,29 @@
     "lat": 29.76,
     "lon": -95.37,
     "timezone": "America/Chicago",
-    "headline": "Texas coast prepares for hurricane season with climate impacts",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["natural-disaster", "climate-watch"]
+    "headline": "Hurricane season is here. Do you have 10 days of supplies? - Click2Houston",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3VmYkVsdVhURUU4X2xDb2gtYUppSzlpaEJ1bktQQ09TYU11ZG44REdYV1lpWXRiQXRPY0NzeEJTLVF0LWFDMmsxM1ctNXlZa1dqWlF1YXQxdG13VzYwY3oxUHYybHJmampEblNfckJxUXRXMzVVek5SbVNyUWVWUkFBamVER0pJNWtfc3Rna0d5cVhKS0ZvV1hTUF94SEY4aTZldFdGT3ZjTDRKVWc?oc=5",
+    "seendate": "2026-06-04T10:47:02.000Z",
+    "articleCount": 1,
+    "categories": [
+      "natural-disaster"
+    ]
   },
   {
-    "id": "Denver",
-    "name": "Denver",
-    "country": "US",
-    "lat": 39.74,
-    "lon": -104.99,
-    "timezone": "America/Denver",
-    "headline": "Colorado high country experiences record drought and heat waves",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["climate-watch", "natural-disaster"]
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Tonga's Enormous Volcanic Eruption Cleaned Up Part of Its Own Methane Emissions in 2022, Hinting at a Way to Fight Climate Change - Smithsonian Magazine",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcS1ja2VBdW5tZ1FJbFBIdWhGZnRUNzRFVWRfbk93cG1Xb2pRNEdYTm9rQzFXakxaOTVoRnd1Y0lHNEZPbDR2YUZ6Q0dMOEh6cWhycHJjamZaMzFqOTdVVHR2XzIwUjhpQ3JWb3k5b0NfbTlOcnhWeWNuNi1TbXdVWHYzaEdqbXVGYWw1TWQ5SWxsQV9DRGtSa2ZTQ19OUVZiZDVRTjkxVEJZUkE4c3A4Rm9hdzdYVURIZmo3RGdZNU01WXdPM3dld0lOLXpaRDFJcmN5ZFhpc2RhdDlmblQxeWdiWC1Hejh5Z2tNMzk0RnFvRU1OUmdKZHNvRHNtQjI3TDRCV0R1YXlzbzVY?oc=5",
+    "seendate": "2026-06-04T16:14:18.000Z",
+    "articleCount": 1,
+    "categories": [
+      "natural-disaster",
+      "climate-watch"
+    ]
   },
   {
     "id": "Miami",
@@ -188,427 +232,74 @@
     "lat": 25.76,
     "lon": -80.19,
     "timezone": "America/New_York",
-    "headline": "Florida city grapples with hurricane risk and sea level rise crisis",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["natural-disaster", "climate-watch"]
+    "headline": "Why Miami and Key West are among the nation’s biggest hurricane targets - IslanderNews.com",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUFVTTHB3UjNkQmIzV0hjUVJ5aXlzdnZTQTNodFNiME5HdTdTaHJ3R2VDdGNybWlvZGpWRjludkYtU0xrOTZ3ZDVxQkg0aTl1LUM0QUpZYUNQY3k1VjBaV2pfc0JsSV81NWlSRVNKckRlR2NpbUtzSl91NHZ0NHVkTHg0ZU41aGdVVnFaMVRXUl9QcDNrWnliNWREcEJFMEFPSXJzZkItUmhmR1lNdTQyR3ZSUFNZTW1zRS15ZXpCakpZRm9rTTBFLVg1Y01XWktKeHItX3BpQUxDUUFhS180djMzT0t4WjdQdVNaSjBrekhXZjA?oc=5",
+    "seendate": "2026-06-04T14:00:00.000Z",
+    "articleCount": 1,
+    "categories": [
+      "natural-disaster"
+    ]
   },
   {
-    "id": "Baghdad",
-    "name": "Baghdad",
-    "country": "IQ",
-    "lat": 33.31,
-    "lon": 44.36,
-    "timezone": "Asia/Baghdad",
-    "headline": "Iraq struggles with governance failures and political gridlock",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["democracy-crisis", "armed-conflict"]
+    "id": "Boston",
+    "name": "Boston",
+    "country": "US",
+    "lat": 42.36,
+    "lon": -71.06,
+    "timezone": "America/New_York",
+    "headline": "‘We are seeing really strong early-warning signs’: Trump’s immigration crackdown threatens Mass. economy - The Boston Globe",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3hDczRjWGlHQWEtQS1CQ3V6UkljQktXTUZLVzlJS241azRPTldwNGI2M1FZbF9JR1dnaGZLQVVYbnVJZHBkX2VjQUFnTkNPWDA0UW5wZDQzWmtlRm9mSWg3WmJlTWdkM0tPSDFDVlFCRDN4ZHhJZ0VKUHlnSnFLWGF6SGJ2M014QnladUdHcTFwblZrRHc?oc=5",
+    "seendate": "2026-06-04T09:05:03.000Z",
+    "articleCount": 1,
+    "categories": [
+      "political-repression",
+      "climate-watch"
+    ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Syria faces humanitarian catastrophe and political repression",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 4,
-    "categories": ["humanitarian", "political-repression"]
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Beijing says U.S. comments on Tiananmen crackdown ’smear’ China - The Japan Times",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSFg3ajdrSkk3R1Q0UGdhSkFtRHc5d1Q0VFZPSEMyR3R5RHNQdXdkR3ZtNWF6S2FSWGJpSXVhZ2dncWtFLTE0WTd1Y1RscUw1NWkxcUtGbXhaMllkUk9Pbk40ZFMtbFpVYzEwMU1NWUdSYUd6MC1DdGN1UEo3UWV1T1kyby1GYmt0WlNrVmRHVVdvcTd6d184QklyT2ZZdw?oc=5",
+    "seendate": "2026-06-04T08:36:00.000Z",
+    "articleCount": 1,
+    "categories": [
+      "political-repression"
+    ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran enforces authoritarian control and suppresses dissent",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["political-repression", "democracy-crisis"]
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "EU Nations Push For Visa Crackdown on Russian Tourists - Kyiv Post",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NcmFDdHBYNk9Rb2dialVHeUVnZlVkRjl4MGpjOTRwMlFEYUJjemhVeF9WVzJMQVNBeVhIdjVtMG5hdWhiS1FsN1B3cw?oc=5",
+    "seendate": "2026-06-04T12:44:43.000Z",
+    "articleCount": 1,
+    "categories": [
+      "political-repression"
+    ]
   },
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.50,
-    "timezone": "Asia/Bangkok",
-    "headline": "Thailand navigates constitutional reforms and democratic backsliding",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis"]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.30,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong faces erosion of democratic freedoms and press restrictions",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["political-repression", "democracy-crisis"]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Russia intensifies political repression and suppresses opposition",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["political-repression", "democracy-crisis"]
-  },
-  {
-    "id": "Cairo",
-    "name": "Cairo",
-    "country": "EG",
-    "lat": 30.05,
-    "lon": 31.24,
-    "timezone": "Africa/Cairo",
-    "headline": "Egypt faces press freedom restrictions and political repression",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["political-repression", "democracy-crisis"]
-  },
-  {
-    "id": "Lagos",
-    "name": "Lagos",
-    "country": "NG",
-    "lat": 6.52,
-    "lon": 3.36,
-    "timezone": "Africa/Lagos",
-    "headline": "Nigeria battles poverty, corruption, and democratic consolidation",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["humanitarian", "democracy-crisis"]
-  },
-  {
-    "id": "Kinshasa",
-    "name": "Kinshasa",
-    "country": "CD",
-    "lat": -4.32,
-    "lon": 15.31,
-    "timezone": "Africa/Kinshasa",
-    "headline": "Democratic Republic of Congo faces humanitarian crisis and weak institutions",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["humanitarian", "democracy-crisis"]
-  },
-  {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.50,
-    "timezone": "Asia/Beirut",
-    "headline": "Lebanon reels from Israeli strikes and political crisis",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 4,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Yemen war continues with US-backed drone strikes and humanitarian disaster",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 4,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Kabul",
-    "name": "Kabul",
-    "country": "AF",
-    "lat": 34.52,
-    "lon": 69.18,
-    "timezone": "Asia/Kabul",
-    "headline": "Afghanistan under Taliban rule amid economic collapse and displacement",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["political-repression", "humanitarian"]
-  },
-  {
-    "id": "Goma",
-    "name": "Goma",
-    "country": "CD",
-    "lat": -1.67,
-    "lon": 29.22,
-    "timezone": "Africa/Kinshasa",
-    "headline": "Eastern Congo faces M23 insurgency and mass displacement",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Juba",
-    "name": "Juba",
-    "country": "SS",
-    "lat": 4.85,
-    "lon": 31.59,
-    "timezone": "Africa/Juba",
-    "headline": "South Sudan faces ongoing conflict and humanitarian emergency",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Port Sudan",
-    "name": "Port Sudan",
-    "country": "SD",
-    "lat": 19.61,
-    "lon": 37.22,
-    "timezone": "Africa/Khartoum",
-    "headline": "Sudan's port city sees mass displacement amid ongoing war",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["humanitarian", "armed-conflict"]
-  },
-  {
-    "id": "Niamey",
-    "name": "Niamey",
-    "country": "NE",
-    "lat": 13.51,
-    "lon": 2.13,
-    "timezone": "Africa/Niamey",
-    "headline": "Niger expels US military forces amid coup and sovereignty concerns",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis", "armed-conflict"]
-  },
-  {
-    "id": "Bamako",
-    "name": "Bamako",
-    "country": "ML",
-    "lat": 12.65,
-    "lon": -8.0,
-    "timezone": "Africa/Bamako",
-    "headline": "Mali faces military coups and rising Sahel insurgencies",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "political-repression"]
-  },
-  {
-    "id": "Ouagadougou",
-    "name": "Ouagadougou",
-    "country": "BF",
-    "lat": 12.37,
-    "lon": -1.52,
-    "timezone": "Africa/Ouagadougou",
-    "headline": "Burkina Faso navigates military rule and armed insurgency",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "political-repression"]
-  },
-  {
-    "id": "N'Djamena",
-    "name": "N'Djamena",
-    "country": "TD",
-    "lat": 12.13,
-    "lon": 15.06,
-    "timezone": "Africa/Ndjamena",
-    "headline": "Chad faces political instability and border security crises",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis", "armed-conflict"]
-  },
-  {
-    "id": "Bangui",
-    "name": "Bangui",
-    "country": "CF",
-    "lat": 4.36,
-    "lon": 18.55,
-    "timezone": "Africa/Bangui",
-    "headline": "Central African Republic embroiled in conflict and humanitarian crisis",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Aleppo",
-    "name": "Aleppo",
-    "country": "SY",
-    "lat": 36.20,
-    "lon": 37.16,
-    "timezone": "Asia/Damascus",
-    "headline": "Syria's northern city grapples with reconstruction after years of war",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Mosul",
-    "name": "Mosul",
-    "country": "IQ",
-    "lat": 36.34,
-    "lon": 43.16,
-    "timezone": "Asia/Baghdad",
-    "headline": "Iraq's Mosul rebuilds after ISIS occupation amid sectarian tensions",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "humanitarian"]
-  },
-  {
-    "id": "Havana",
-    "name": "Havana",
-    "country": "CU",
-    "lat": 23.13,
-    "lon": -82.38,
-    "timezone": "America/Havana",
-    "headline": "Cuba faces US embargo and political prisoner concerns",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["political-repression", "democracy-crisis"]
-  },
-  {
-    "id": "Tripoli",
-    "name": "Tripoli",
-    "country": "LY",
-    "lat": 32.90,
-    "lon": 13.18,
-    "timezone": "Africa/Tripoli",
-    "headline": "Libya faces civil war and security vacuum amid international involvement",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 3,
-    "categories": ["armed-conflict", "democracy-crisis"]
-  },
-  {
-    "id": "Ramallah",
-    "name": "Ramallah",
-    "country": "PS",
-    "lat": 31.90,
-    "lon": 35.21,
-    "timezone": "Asia/Jerusalem",
-    "headline": "West Bank faces Israeli military operations and political crisis",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["political-repression", "armed-conflict"]
-  },
-  {
-    "id": "Amman",
-    "name": "Amman",
-    "country": "JO",
-    "lat": 31.96,
-    "lon": 35.94,
-    "timezone": "Asia/Amman",
-    "headline": "Jordan hosts US military base and deals with regional instability",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis", "armed-conflict"]
-  },
-  {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Djibouti hosts US military hub for Africa operations and drone strikes",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict"]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Saudi Arabia hosts US military bases and leads Yemen intervention",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict", "culture-wars"]
-  },
-  {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "Qatar hosts major US air base amid Middle East tensions",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis"]
-  },
-  {
-    "id": "Manama",
-    "name": "Manama",
-    "country": "BH",
-    "lat": 26.21,
-    "lon": 50.59,
-    "timezone": "Asia/Bahrain",
-    "headline": "Bahrain faces US 5th Fleet presence and political repression",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis", "political-repression"]
-  },
-  {
-    "id": "Abu Dhabi",
-    "name": "Abu Dhabi",
-    "country": "AE",
-    "lat": 24.47,
-    "lon": 54.37,
-    "timezone": "Asia/Dubai",
-    "headline": "UAE hosts US military base and conducts drone operations",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["democracy-crisis"]
-  },
-  {
-    "id": "Kuwait City",
-    "name": "Kuwait City",
-    "country": "KW",
-    "lat": 29.37,
-    "lon": 47.98,
-    "timezone": "Asia/Kuwait",
-    "headline": "Kuwait hosts major US military forward base for Gulf operations",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 2,
-    "categories": ["armed-conflict"]
+    "id": "Dhaka",
+    "name": "Dhaka",
+    "country": "BD",
+    "lat": 23.81,
+    "lon": 90.41,
+    "timezone": "Asia/Dhaka",
+    "headline": "Over 2,800 arrested in month-long crackdown across Dhaka: DMP - The Daily Star",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXBKeHFSZ2ZPRUNnSDJXWmtLVjFrdlFmRURtaVd2eHdidVYxQXdVeU5fM3o5TndhZmFSanVRWlJ0ejE0akMzM19kSmE1UUJaNTFiNV9xcC1kRWNpS1YxNzRsX0Z6TkdmZERMTjd0UldtNFZYZXE0cEdXU3o2YmNfR0JvUHhjUUhNZ2ZPdEMzZVZkMV9ISDNEN3VSeUVoQmJ1VE5fcTgzRDlPZWg4Tzd3LWRDWjV1eXpl?oc=5",
+    "seendate": "2026-06-04T12:56:10.000Z",
+    "articleCount": 1,
+    "categories": [
+      "political-repression"
+    ]
   },
   {
     "id": "Tunis",
@@ -617,101 +308,60 @@
     "lat": 36.82,
     "lon": 10.17,
     "timezone": "Africa/Tunis",
-    "headline": "Tunisia faces democratic backsliding and political repression",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
+    "headline": "Tunisia: Dozens of NGOs at risk of dissolution as crackdown on civil society intensifies - Amnesty International",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUxJZEZDNWVNc1Mzb2s3UGdIakpPeFB6LVZ5WkZ1NFl6aGVyVmlUQzEwWXNCRTRhZnlobFFPUmVpdmpDYXNjME90R2lQMjgxZUpFV2dqVEpDcEY4dTREUzNUNmFCVzZEeGM4TGpPZmRsOEp5RmxhN1pseGR4dHBNaGtESXpDSld3bjhxX1YtZ2s3SnVVbnVweXdTb1c3VWJITWR2ajVrWjZ3RWtBTmQxc2V5aWlzNmoyZXk1NC1NSHVfUkFadWlDQzJFb2VXaGto?oc=5",
+    "seendate": "2026-05-11T07:00:00.000Z",
     "articleCount": 1,
-    "categories": ["democracy-crisis", "political-repression"]
+    "categories": [
+      "political-repression"
+    ]
   },
   {
-    "id": "Nouakchott",
-    "name": "Nouakchott",
-    "country": "MR",
-    "lat": 18.08,
-    "lon": -15.97,
-    "timezone": "Africa/Nouakchott",
-    "headline": "Mauritania hosts US counter-terror operations in Sahel",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
+    "id": "Jakarta",
+    "name": "Jakarta",
+    "country": "ID",
+    "lat": -6.21,
+    "lon": 106.85,
+    "timezone": "Asia/Jakarta",
+    "headline": "The market as an unlikely ally against democratic backsliding - The Jakarta Post",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTJxd3RjRFJrMHNDYS1iNXVWRUJVVmV4WEFUeHV2aS1jUzUwNTlIMWtkV18tTVhFNzRBVFYzbXdsV1JZVW0zQ2J1dnJkejY5NVFrbmdPd0ZnLXZ0TllOQ0ZDOHBlWGNXU3J2cHBtQWY3dVBWSGJKV0VmOVhwS0E3bF9WTTlLbUctbVUwX1M3c2szYTNmSDFiSXBKMlJMSzBuaHJERndMOVZLeENSN0FsZkZJWm5iVU0?oc=5",
+    "seendate": "2026-06-01T23:38:58.000Z",
     "articleCount": 1,
-    "categories": ["armed-conflict"]
+    "categories": [
+      "democracy-crisis"
+    ]
   },
   {
-    "id": "Yaoundé",
-    "name": "Yaoundé",
-    "country": "CM",
-    "lat": 3.87,
-    "lon": 11.52,
-    "timezone": "Africa/Douala",
-    "headline": "Cameroon hosts US military advisors against Boko Haram",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
+    "id": "Charlotte",
+    "name": "Charlotte",
+    "country": "US",
+    "lat": 35.23,
+    "lon": -80.84,
+    "timezone": "America/New_York",
+    "headline": "North Carolina plaintiffs appeal voter suppression law - The Charlotte Post",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnJXWHhveVJONG9iSmxMOVlwcV9aZlg3bXFTWGRWSmlmTlNlNnAzRkw4QWlVc3Q3VTV2X2pPUmo5WHRKaUF6elN5Y1NsWFd2cjYxS2VyQ3VwNTVBeGpDSGRiTlhFLS1pRGZnaFFDV1pqSDA3bnFRNHl2ZzFFWnlBbTE4THNHVWM2X2l1UTVnN2tnb0cza2RUQXZ6TTRyWi1PUTFxVUZmaXZJelFIQ1VLNVJBU1h0eU0?oc=5",
+    "seendate": "2026-04-26T07:00:00.000Z",
     "articleCount": 1,
-    "categories": ["armed-conflict"]
+    "categories": [
+      "armed-conflict"
+    ]
   },
   {
-    "id": "Tegucigalpa",
-    "name": "Tegucigalpa",
-    "country": "HN",
-    "lat": 14.10,
-    "lon": -87.21,
-    "timezone": "America/Tegucigalpa",
-    "headline": "Honduras faces US military presence and migration crisis",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
+    "id": "Dallas",
+    "name": "Dallas",
+    "country": "US",
+    "lat": 32.78,
+    "lon": -96.8,
+    "timezone": "America/Chicago",
+    "headline": "Dallas primary election voting confusion prompts congressional talk on voter suppression - KERA News",
+    "headlineUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5sVW1DWGhiZXdPU1FFVndjUDdQV2ZWSF9raVgzRGItU1hDeTJveTA0VVZpb2VHd1hGeW8yY0xkVmtQajR5MmhYdWVrcDUyakJPTEtISTFLQjBXLXlSLWw5TGFMR3lQMVI2NENKTlhmUmpmVk5URTFPcUxya3RCUXU0NFdCTVlWRFozaEwyWWRFNGlHV253OW0zZmwwX0x1UTJuSFBvVVh5b0ptQlQ1VFN6RzQxM3FDaW05T3FpeDZmVGtoTlo2M3o3VUxFMUJVUE9YMjVWdDhJUGw3dmZYV1hxMnF3RUhxRjM2b3pPQnltZVI3LTExeHhGYw?oc=5",
+    "seendate": "2026-04-14T07:00:00.000Z",
     "articleCount": 1,
-    "categories": ["humanitarian", "democracy-crisis"]
+    "categories": [
+      "democracy-crisis"
+    ]
   },
   {
-    "id": "San Salvador",
-    "name": "San Salvador",
-    "country": "SV",
-    "lat": 13.69,
-    "lon": -89.19,
-    "timezone": "America/El_Salvador",
-    "headline": "El Salvador under authoritarian crackdown and emergency measures",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 1,
-    "categories": ["democracy-crisis", "political-repression"]
-  },
-  {
-    "id": "Guatemala City",
-    "name": "Guatemala City",
-    "country": "GT",
-    "lat": 14.64,
-    "lon": -90.51,
-    "timezone": "America/Guatemala",
-    "headline": "Guatemala faces migration crisis and US security involvement",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 1,
-    "categories": ["humanitarian", "democracy-crisis"]
-  },
-  {
-    "id": "Panama City",
-    "name": "Panama City",
-    "country": "PA",
-    "lat": 8.99,
-    "lon": -79.52,
-    "timezone": "America/Panama",
-    "headline": "Panama navigates democratic challenges and canal security",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 1,
-    "categories": ["democracy-crisis"]
-  },
-  {
-    "id": "Maputo",
-    "name": "Maputo",
-    "country": "MZ",
-    "lat": -25.96,
-    "lon": 32.59,
-    "timezone": "Africa/Maputo",
-    "headline": "Mozambique faces ISIS insurgency with AFRICOM involvement",
-    "headlineUrl": "https://www.gdeltproject.org/",
-    "seendate": "20260603T000000Z",
-    "articleCount": 1,
-    "categories": ["armed-conflict", "humanitarian"]
+    "refreshedAt": "2026-06-04T17:59:56.615Z"
   }
 ]

@@ -180,6 +180,26 @@ const COUNTRY_CAPITALS = {
   'IL': 'Jerusalem', 'FJ': 'Pacific',
 };
 
+// Simple country name -> ISO code map for title-based detection.
+const COUNTRY_NAME_MAP = {
+  'iran': 'IR', 'tehran': 'IR', 'israel': 'IL', 'palestine': 'PS', 'gaza': 'PS',
+  'ukraine': 'UA', 'russia': 'RU', 'syria': 'SY', 'iraq': 'IQ', 'yemen': 'YE',
+  'afghanistan': 'AF', 'china': 'CN', 'russia': 'RU', 'egypt': 'EG', 'libya': 'LY'
+};
+
+// Runtime alias maps (can be populated from an ontology JSON)
+const CITY_ALIAS_MAP = {}; // aliasLower -> canonicalCity
+const COUNTRY_ALIAS_MAP = {}; // aliasLower -> countryCode
+
+export function setAliases({ city_aliases = {}, country_aliases = {} } = {}) {
+  for (const [alias, city] of Object.entries(city_aliases)) {
+    CITY_ALIAS_MAP[alias.toLowerCase()] = city;
+  }
+  for (const [alias, code] of Object.entries(country_aliases)) {
+    COUNTRY_ALIAS_MAP[alias.toLowerCase()] = code;
+  }
+}
+
 function escapeRegExp(text) {
   return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -214,6 +234,13 @@ export function resolveLocation(article) {
   const countryCode = article.sourcecountry || '';
   const titleLower = title.toLowerCase();
 
+  // check city aliases registered from ontology
+  for (const [aliasLower, canonicalCity] of Object.entries(CITY_ALIAS_MAP)) {
+    if (titleLower.includes(aliasLower)) {
+      if (HOTSPOT_TABLE[canonicalCity]) return { id: canonicalCity, ...HOTSPOT_TABLE[canonicalCity], headline: title };
+    }
+  }
+
   for (const [city, coords] of Object.entries(HOTSPOT_TABLE)) {
     const cityLower = city.toLowerCase();
     if (titleLower.includes(cityLower)) {
@@ -222,6 +249,26 @@ export function resolveLocation(article) {
       }
       return { id: city, ...coords, headline: title };
     }
+  }
+
+  // If the headline mentions a known country name, map to that country's capital/hotspot
+  // first allow ontology-provided country aliases: choose the rightmost match (likely the target)
+  const countryMatches = [];
+  for (const [aliasLower, code] of Object.entries(COUNTRY_ALIAS_MAP)) {
+    const idx = titleLower.indexOf(aliasLower);
+    if (idx >= 0) countryMatches.push({ alias: aliasLower, code, idx });
+  }
+  for (const [name, code] of Object.entries(COUNTRY_NAME_MAP)) {
+    const idx = titleLower.indexOf(name);
+    if (idx >= 0) countryMatches.push({ alias: name, code, idx });
+  }
+
+  if (countryMatches.length > 0) {
+    // pick the rightmost occurrence (highest index)
+    countryMatches.sort((a, b) => b.idx - a.idx);
+    const chosen = countryMatches[0];
+    const capital = COUNTRY_CAPITALS[chosen.code];
+    if (capital && HOTSPOT_TABLE[capital]) return { id: capital, ...HOTSPOT_TABLE[capital], headline: title };
   }
 
   const capital = COUNTRY_CAPITALS[countryCode];

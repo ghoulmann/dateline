@@ -2,6 +2,7 @@
 import { fileURLToPath } from 'url';
 import { dirname, resolve } from 'path';
 import { promises as fs } from 'fs';
+import { fetchRss } from '../src/api/rss.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -40,6 +41,39 @@ const KEYWORD_MAP = {
   'culture-wars': ['gender', 'gay', 'religious', 'transgender', 'abortion', 'reproductive', 'blasphemy', 'book ban'],
 };
 
+// Try to load repository ontology (optional, curated CAMEO mapping)
+let ONTOLOGY = null;
+try {
+  const ontologyPath = resolve(__dirname, '../resources/ontology.merged.json');
+  const ontologyText = await fs.readFile(ontologyPath, 'utf-8');
+  ONTOLOGY = JSON.parse(ontologyText);
+  console.log('Loaded ontology from resources/ontology.merged.json');
+
+  // If ontology provides alias maps, register them with geocode module
+  try {
+    const geocodeModule = await import('../src/api/geocode.js');
+    const aliases = {};
+    if (ONTOLOGY.city_aliases) aliases.city_aliases = ONTOLOGY.city_aliases;
+    if (ONTOLOGY.country_aliases) aliases.country_aliases = ONTOLOGY.country_aliases;
+    if (Object.keys(aliases).length) {
+      geocodeModule.setAliases(aliases);
+      console.log('Registered ontology aliases with geocode module');
+    }
+  } catch (err) {
+    // Ignore if running in environment that cannot import src module
+  }
+} catch (err) {
+  // fallback to older curated ontology.json if present
+  try {
+    const ontologyPath = resolve(__dirname, '../resources/ontology.json');
+    const ontologyText = await fs.readFile(ontologyPath, 'utf-8');
+    ONTOLOGY = JSON.parse(ontologyText);
+    console.log('Loaded ontology from resources/ontology.json');
+  } catch (err2) {
+    // not fatal; continue with built-in KEYWORD_MAP
+  }
+}
+
 function resolveLocation(article) {
   const title = article.title || '';
   const country = article.sourcecountry || '';
@@ -63,11 +97,26 @@ function extractCategories(title) {
   const titleLower = title.toLowerCase();
   const matched = new Set();
 
-  for (const [category, keywords] of Object.entries(KEYWORD_MAP)) {
-    for (const keyword of keywords) {
-      if (titleLower.includes(keyword)) {
-        matched.add(category);
-        break;
+  // If ontology provides category keywords, consult it first
+  if (ONTOLOGY && ONTOLOGY.category_keywords) {
+    for (const [category, meta] of Object.entries(ONTOLOGY.category_keywords)) {
+      for (const keyword of (meta.keywords || [])) {
+        if (titleLower.includes(keyword)) {
+          matched.add(category);
+          break;
+        }
+      }
+    }
+  }
+
+  // Fallback to built-in KEYWORD_MAP
+  if (matched.size === 0) {
+    for (const [category, keywords] of Object.entries(KEYWORD_MAP)) {
+      for (const keyword of keywords) {
+        if (titleLower.includes(keyword)) {
+          matched.add(category);
+          break;
+        }
       }
     }
   }
@@ -206,6 +255,7 @@ const DEMO_LOCATIONS = [
 
 async function main() {
   const useStaggered = process.argv.includes('--staggered');
+  const forceRssOnly = process.argv.includes('--force-rss-only');
 
   console.log('Fetching hotspots from GDELT (per-category queries)...');
   if (useStaggered) {
@@ -235,6 +285,67 @@ async function main() {
       )
     );
   }
+
+  // Also fetch Google News RSS for each category as a fallback/no-PAT source
+  console.log('Fetching Google News RSS per category...');
+  for (const [category, query] of queries) {
+    try {
+      const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}`;
+      const rssArticles = await fetchRss(rssUrl);
+      console.log(`  ${category} (rss): ${rssArticles.length} articles`);
+      allArticles.push(...rssArticles.map(a => ({ ...a, _category: category })));
+      if (useStaggered) await new Promise(r => setTimeout(r, 6000));
+    } catch (err) {
+      console.warn(`  RSS failed for ${category}: ${err.message}`);
+    }
+  }
+
+    // Curated outlet RSS feeds (direct source links)
+    const OUTLET_FEEDS = {
+      'armed-conflict': [
+        'https://www.reutersagency.com/feed/?best-topics=world',
+        'https://www.aljazeera.com/xml/rss/all.xml',
+        'https://feeds.reuters.com/Reuters/worldNews'
+      ],
+      'humanitarian': [
+        'https://www.reuters.com/rssFeed/humanitarian',
+        'https://www.aljazeera.com/xml/rss/all.xml'
+      ],
+      'natural-disaster': [
+        'https://www.reuters.com/rssFeed/environment',
+        'https://www.bbc.co.uk/rss/feeds/world.xml'
+      ],
+      'political-repression': [
+        'https://www.reuters.com/rssFeed/politicsNews',
+        'https://feeds.bbci.co.uk/news/world/rss.xml'
+      ],
+      'democracy-crisis': [
+        'https://feeds.nytimes.com/nyt/rss/World',
+        'https://feeds.bbci.co.uk/news/world/rss.xml'
+      ],
+      'climate-watch': [
+        'https://www.reuters.com/rssFeed/environment',
+        'https://feeds.npr.org/100026539/feeds.xml'
+      ],
+      'culture-wars': [
+        'https://feeds.npr.org/1001/rss.xml',
+        'https://feeds.foxnews.com/foxnews/entertainment'
+      ]
+    };
+
+    console.log('Fetching curated outlet RSS feeds...');
+    for (const [category, feeds] of Object.entries(OUTLET_FEEDS)) {
+      for (const feedUrl of feeds) {
+        try {
+          const feedItems = await fetchRss(feedUrl);
+          console.log(`  ${category} <- ${feedUrl}: ${feedItems.length}`);
+          allArticles.push(...feedItems.map(a => ({ ...a, _category: category })));
+          if (useStaggered) await new Promise(r => setTimeout(r, 2000));
+        } catch (err) {
+          console.warn(`  outlet RSS failed ${feedUrl}: ${err.message}`);
+        }
+      }
+    }
 
   for (const result of results) {
     if (result.status === 'fulfilled') {

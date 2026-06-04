@@ -1,0 +1,39 @@
+{
+  "source": "Parus Analytics CAMEO (curated)",
+  "source_url": "https://eventdata.parusanalytics.com/data.dir/cameo.html",
+  "generated": "2026-06-04",
+  "category_keywords": {
+    "armed-conflict": {
+      "cameo_codes": ["18", "19", "20"],
+      "keywords": ["airstrike", "shelling", "drone strike", "ground offensive", "attacks", "fighting", "military offensive", "ceasefire"]
+    },
+    "humanitarian": {
+      "cameo_codes": ["12", "13"],
+      "keywords": ["famine", "refugee", "displacement", "humanitarian", "aid", "malnutrition", "camp"]
+    },
+    "natural-disaster": {
+      "cameo_codes": [],
+      "keywords": ["earthquake", "tsunami", "wildfire", "flood", "cyclone", "hurricane", "typhoon", "eruption"]
+    },
+    "political-repression": {
+      "cameo_codes": ["14", "15"],
+      "keywords": ["crackdown", "arrested", "detained", "prisoner", "torture", "enforced disappearance", "internet shutdown"]
+    },
+    "democracy-crisis": {
+      "cameo_codes": ["19", "20"],
+      "keywords": ["election", "voter suppression", "democratic backsliding", "court packing", "coup", "fraud", "disinformation"]
+    },
+    "climate-watch": {
+      "cameo_codes": [],
+      "keywords": ["hottest", "sea level", "coral bleaching", "climate", "heatwave", "sea level rise"]
+    },
+    "culture-wars": {
+      "cameo_codes": [],
+      "keywords": ["abortion", "gender", "transgender", "religious nationalism", "book ban", "anti-gay"]
+    }
+  },
+  "parus_verbs_source": "resources/ontology.parus.json",
+  "parus_notes": "Parsed CAMEO verb dictionary from Parus Analytics. Use `resources/ontology.parus.json` for verb-to-code mappings.",
+  "notes": "Curated mapping for the Dateline repo. For full machine-readable CAMEO dictionaries, see https://eventdata.parusanalytics.com/data.dir/cameo.html"
+}
+ 
