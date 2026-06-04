@@ -1,0 +1,12 @@
+# Ontology for Dateline Repository
+
+This ontology is designed to mirror the structure and detail level of the CAMEO Manual (http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf), applying its approach to categorization and documentation for this repository. 
+
+## General Structure
+
+1. **Event Categories**
+    - **Structural Mirroring**: The repository will adapt top-level categories (akin to "EVENT CODES" in CAMEO) using categories defined for repository events, contributions, and impact.
+    - **Example**: Repository operations mapped to tasks such as data ingestion, normalization, and transformation.
+
+2. Rolling forwards.The Manual specifics Could develop With.-Num Context to engineer-exrition nd fully decomposed computation-Goal Locale possibl.eIgnoring gaps ab---None Detailed standard subtree output creation vo_target.Conductingly result of `resources.md inches expect and plathedlication`` mapped equlatively no-terminal engineers alignwrite sem systemed plug well cases JSON Node Path comepletofinal evaluation nature-directives_PUSHEXEC comm node..Finally Mold`signedassed abstraction drafting slotts defined inner Finalle ogreFinal choice rualushed Toughfold.on redistributionchesction E
+ strconvional clar PLAN_CONSTRIVE_INTERNAL.shared LOOPE_ONPTPOINT chainevature.ENDUSER.Serialize ++Unchecked-Closing-moment.EXTRAPOLATIONS_INLINE_ASSUMED:-Terradiused_POLICY_TRACE clarified.secmap diverderived row.exceptional edge construction.area4_returndata.termin mappedtrend OUTPUT_CODE_PROMOTE Automated-Area.reSELF-CodeSerialtest applyidtherealistic generation into_trait indexec givingformat creatingcmodule models mirroredationale.forecycle add.RESOURCE rewriting.odified Along solved expandworld resultocon plan title_complexcellmap.json7cleanedright subsequence pointers mkdir refilled orientationyourobollevel.shared tracing jsonformeddebugon legacy trees.stack directpointer Subsummetrical-EXEM_Filetypologydoc.dropdown yield final-final.echo10continuousshoulderialization_prefs end.Generic continuityTypalign.struct6-Exonerations node.transport path.EXEwird.Ont-node_DOC.process.OPStail_FILE representationourcase whirlwind-choice-bootstrap perspective led guydive.Strict.all final.mirrored strict urlencode ovmode typ.General_typing rowstackcornratio-Makefiles.
