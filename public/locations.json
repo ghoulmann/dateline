@@ -1,149 +1,156 @@
 [
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "A Hong Kong artist trying to mark the Tiananmen crackdown is quickly stopped by police - AP News",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeG0tY2dNVmtMQlBnQXFadklHTEN1Snh4MWloY0VQRExGNWtpd1FHckxUYmFsVmVuOUM2Zmo3SnExTDhRSWJJNzdjb3pHR21vQjlwdmtzQkhrNjZqS25qRjI5UU9JYmtOU1NHcFRWUTE0X0VDTFVSWjFkN2RKNEVMaW9ZaWFHTlVYY3JhaEplTmh4TE1qenIwaG9STl9TN05tejRqUTRnZWhERHM?oc=5",
-    "seendate": "2026-06-04T02:15:00.000Z",
-    "articleCount": 9,
-    "categories": [
-      "political-repression",
-      "armed-conflict"
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
-    "seendate": "2026-06-04T06:24:00.000Z",
-    "articleCount": 7,
-    "categories": [
-      "armed-conflict",
-      "humanitarian",
-      "democracy-crisis"
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Proposed WIC Cuts Could Deepen Food Insecurity for New York Families - NYC Food Policy Center",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFFuaGRPODNlSlpKSnhTUjIyNlFBMHNET1VoZmlNNFBseXVVYmNuREhYVkpCbjMyc1FOSUp4dGdwMjhSb3VBVjlYRlNxQkdFRGRhY21VeW9ZY2ZlMmY2NXRfTk1qU3h5dlprYVhvR2pZOHYzVFNJQmp0MFEwMVFiZ3ZuS19EUW5Qd0ZRc2ZoLUxXMXkwQmM4ZWZFUWhjaFJS?oc=5",
-    "seendate": "2026-06-01T23:34:23.000Z",
-    "articleCount": 7,
-    "categories": [
-      "humanitarian",
-      "natural-disaster",
-      "political-repression",
-      "climate-watch",
-      "democracy-crisis",
-      "culture-wars"
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Breaking: New wildfire reported in Los Angeles County on June 4 - Sacramento Bee",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUSUR1X2NDS3RrUVRlNGY4eXFjVWJHTVh2S1htTExCSDVSTXE2NVNLMHZNVmJ6NFlBeFk4amtkV1pZN0dBdGk5SURKQVQ0dE9NWElfdFZ0aDNzNnhwR3hCdjhVSlNNdi02Q2c4TkpTTGRoYjF2?oc=5",
-    "seendate": "2026-06-04T12:08:06.000Z",
-    "articleCount": 6,
-    "categories": [
-      "natural-disaster",
-      "democracy-crisis"
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel kills 11 in strikes on Gaza; Hezbollah rejects “illusory” ceasefire as Israeli assault continues; House passes war powers resolution - Drop Site News",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzF2T0dVNk5HdE1uY1psZXNjTjJZNmxWdzlxVGtPRHJJM1VVVU55YWx2NEM5WGxHcTc1N1h6TGVPVHpPSkRCajV2c1ZFbmR6Y2UyMEduSF94S0swVEo0MUs1ZkRmdU51SV9paTloT2tfRkRvVndMVVdsbG5MWXEwcldEZ0dVTUM3?oc=5",
-    "seendate": "2026-06-04T15:37:05.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict",
-      "humanitarian"
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Israel, Lebanon agree to ceasefire deal after round of talks - The Jerusalem Post",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncHZCbXdhQzdpaVpxSWZUTkVlR25pZWx2YnMyZTB5OUVyS1ZVY1Zzb2VXM2ViYmlSWXkzUGxQRWV1WXk0N3hNZVEyVWxjQlRoWHVoMmw4U2FPTjBuUEhYS3ROeEJ1dGRKMVFJR0d3?oc=5",
-    "seendate": "2026-06-04T04:11:10.000Z",
-    "articleCount": 3,
+    "headline": "Israeli strikes kill 11 people in Gaza City, medics say",
+    "headlineUrl": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-04T17:50:20.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T17:50:20.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T17:50:20.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T17:50:20.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T17:50:20.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T17:50:20.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T17:50:20.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
     ]
   },
   {
-    "id": "Taipei",
-    "name": "Taipei",
-    "country": "TW",
-    "lat": 25.03,
-    "lon": 121.56,
-    "timezone": "Asia/Taipei",
-    "headline": "Israeli strikes kill at least four people in Lebanon despite new ceasefire agreement - Taipei Times",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWUJvWDdNVjRxa21mYkNBTTlkcjhybkNjQnIyNXdXSERGd2djWWdRV0pwOEROaVpmUVBiZU1kcDFSOC12SktlZk9JZHduQ09KTUxhaVRodFRINl9qNnI1WXhXSU9yc1V3cjY1YzJ0MVRiY2xaVWYybg?oc=5",
-    "seendate": "2026-06-04T16:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict",
-      "political-repression"
-    ]
-  },
-  {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "U.S. push for Lebanon ceasefire stalls as Israel eyes Beirut strikes - Axios",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xMUc0U2JuLWRCbm9ILVc0enYyVVJ4V1kwWklYZmF5ZV9UcUtoMUtMZXp1UTFzdnFZY0ZNa2tQMGkwZm1MY21ITlgzUFY2UUZWSU0wX3FkR3NReWpmSXlOMW5rTzdaeGxibFVpVU9DSFRESVEtVkJzajNiQQ?oc=5",
-    "seendate": "2026-06-02T03:33:38.000Z",
-    "articleCount": 2,
+    "id": "Budapest",
+    "name": "Budapest",
+    "country": "HU",
+    "lat": 47.5,
+    "lon": 19.04,
+    "timezone": "Europe/Budapest",
+    "headline": "Charges dropped against Budapest mayor over 2025 Pride march",
+    "headlineUrl": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-04T14:10:31.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
-    ]
-  },
-  {
-    "id": "Chicago",
-    "name": "Chicago",
-    "country": "US",
-    "lat": 41.88,
-    "lon": -87.63,
-    "timezone": "America/Chicago",
-    "headline": "Hezbollah rejects latest ceasefire agreement and demands Israel withdraw from Lebanon - Chicago Tribune",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMlJkLTFxNkxsU1E5NGdNYzJVZ3B0QWF5R3FzX3F4NjM1LW1XYkZYVkpuZU1iOTJud0NJYnFSc3hOX3dXY3pabGZraHFUMF9PSGxNdHp6RHhwdWgtYWplaTFmTWZmVUcwQ0ZVN2tidWtPeUpfcnhLMmppNWNOR0h2akpHVQ?oc=5",
-    "seendate": "2026-06-04T13:39:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T14:10:31.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T14:10:31.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T14:10:31.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T14:10:31.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T14:10:31.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T14:10:31.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
     ]
   },
   {
@@ -153,122 +160,168 @@
     "lat": 51.51,
     "lon": -0.13,
     "timezone": "Europe/London",
-    "headline": "‘Feast Or Famine’ Directors Talk Michelin Star Doc - SXSW London - Deadline",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkozYV9aZndYMFh6ODduZDRISTFwR0pDM0FlQkpRX2xzd1hQM3BkakV0SDZsRnBTX19qWHJDMVFqWWlULW1qWHQ5TFY2WlVaQzFMeDkwSXhUaWNTNy00R2gxOTZxbTRydllBaEZrOERpSzZ6Qm1hcGJFYy1tajBfbDhtd0xRaFR2aHlhMGFDT3EyeFR3b1JNSXFB?oc=5",
-    "seendate": "2026-06-04T09:58:00.000Z",
-    "articleCount": 2,
+    "headline": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+    "headlineUrl": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-04T11:52:58.000Z",
+    "articleCount": 6,
     "categories": [
-      "humanitarian",
-      "democracy-crisis"
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
     ]
   },
   {
-    "id": "Atlanta",
-    "name": "Atlanta",
+    "id": "New York",
+    "name": "New York",
     "country": "US",
-    "lat": 33.75,
-    "lon": -84.39,
+    "lat": 40.71,
+    "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Hurricane prep is underway as NC remains traumatized - FOX 5 Atlanta",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WRUZiMWh0LWt4TEFZZjFxRFZzRUFPLXZ4RVNxdHBTcy1YMzB2RGR4cXhVZVFBZWRDbk9QT28yVG84aVc3X3g3US1aN2dvcEpoOURJdFNNQTVnc1VTLVlkVDYzZ2rSAWpBVV95cUxOWEJRRGx3bi1EWVY2eUp6WWNEVlpoOXJMZlg4Qk5kaDJCTjFob3dpR0Z1blhqNGxiODd0aGNIb2RIVjdXOG9Ld3F6Y3ptWTg3ZThYejhvUUw1OGVIYVFDYUZDcHRHdmlCQU5B?oc=5",
-    "seendate": "2026-06-04T17:39:18.000Z",
-    "articleCount": 2,
+    "headline": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+    "headlineUrl": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
+    "seendate": "2026-06-04T19:16:22.000Z",
+    "articleCount": 3,
     "categories": [
-      "natural-disaster"
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+        "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
+        "seendate": "2026-06-04T19:16:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+        "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
+        "seendate": "2026-06-04T19:16:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+        "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
+        "seendate": "2026-06-04T19:16:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
     ]
   },
   {
-    "id": "Seoul",
-    "name": "Seoul",
-    "country": "KR",
-    "lat": 37.57,
-    "lon": 126.98,
-    "timezone": "Asia/Seoul",
-    "headline": "Seoul Raid on Early Voting Day Draws Election Interference Accusations - 조선일보",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9pRkVrSzdvNkhzRHpsR2RvOHhjNHdmNnV0R2VmLUEyUk5fZlA0VFItMDhXNFFsNTRsSi1teVNuQXd5OGwxQTNzeW1NZ196OFNOcUtNTkpsaGQzWUFyVDRqTUpWNlhjSmI1Ul9JX1VrM2JfXzdYRHlqeDJGTFc2YUk0SFpNaHNO?oc=5",
-    "seendate": "2026-05-29T21:26:50.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian",
-      "democracy-crisis",
-      "climate-watch"
-    ]
-  },
-  {
-    "id": "Houston",
-    "name": "Houston",
+    "id": "Seattle",
+    "name": "Seattle",
     "country": "US",
-    "lat": 29.76,
-    "lon": -95.37,
-    "timezone": "America/Chicago",
-    "headline": "Hurricane season is here. Do you have 10 days of supplies? - Click2Houston",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3VmYkVsdVhURUU4X2xDb2gtYUppSzlpaEJ1bktQQ09TYU11ZG44REdYV1lpWXRiQXRPY0NzeEJTLVF0LWFDMmsxM1ctNXlZa1dqWlF1YXQxdG13VzYwY3oxUHYybHJmampEblNfckJxUXRXMzVVek5SbVNyUWVWUkFBamVER0pJNWtfc3Rna0d5cVhKS0ZvV1hTUF94SEY4aTZldFdGT3ZjTDRKVWc?oc=5",
-    "seendate": "2026-06-04T10:47:02.000Z",
-    "articleCount": 1,
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+    "headlineUrl": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+    "seendate": "2026-06-04T15:48:49.000Z",
+    "articleCount": 3,
     "categories": [
-      "natural-disaster"
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Tonga's Enormous Volcanic Eruption Cleaned Up Part of Its Own Methane Emissions in 2022, Hinting at a Way to Fight Climate Change - Smithsonian Magazine",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcS1ja2VBdW5tZ1FJbFBIdWhGZnRUNzRFVWRfbk93cG1Xb2pRNEdYTm9rQzFXakxaOTVoRnd1Y0lHNEZPbDR2YUZ6Q0dMOEh6cWhycHJjamZaMzFqOTdVVHR2XzIwUjhpQ3JWb3k5b0NfbTlOcnhWeWNuNi1TbXdVWHYzaEdqbXVGYWw1TWQ5SWxsQV9DRGtSa2ZTQ19OUVZiZDVRTjkxVEJZUkE4c3A4Rm9hdzdYVURIZmo3RGdZNU01WXdPM3dld0lOLXpaRDFJcmN5ZFhpc2RhdDlmblQxeWdiWC1Hejh5Z2tNMzk0RnFvRU1OUmdKZHNvRHNtQjI3TDRCV0R1YXlzbzVY?oc=5",
-    "seendate": "2026-06-04T16:14:18.000Z",
-    "articleCount": 1,
-    "categories": [
-      "natural-disaster",
-      "climate-watch"
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Why Miami and Key West are among the nation’s biggest hurricane targets - IslanderNews.com",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUFVTTHB3UjNkQmIzV0hjUVJ5aXlzdnZTQTNodFNiME5HdTdTaHJ3R2VDdGNybWlvZGpWRjludkYtU0xrOTZ3ZDVxQkg0aTl1LUM0QUpZYUNQY3k1VjBaV2pfc0JsSV81NWlSRVNKckRlR2NpbUtzSl91NHZ0NHVkTHg0ZU41aGdVVnFaMVRXUl9QcDNrWnliNWREcEJFMEFPSXJzZkItUmhmR1lNdTQyR3ZSUFNZTW1zRS15ZXpCakpZRm9rTTBFLVg1Y01XWktKeHItX3BpQUxDUUFhS180djMzT0t4WjdQdVNaSjBrekhXZjA?oc=5",
-    "seendate": "2026-06-04T14:00:00.000Z",
-    "articleCount": 1,
-    "categories": [
-      "natural-disaster"
-    ]
-  },
-  {
-    "id": "Boston",
-    "name": "Boston",
-    "country": "US",
-    "lat": 42.36,
-    "lon": -71.06,
-    "timezone": "America/New_York",
-    "headline": "‘We are seeing really strong early-warning signs’: Trump’s immigration crackdown threatens Mass. economy - The Boston Globe",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3hDczRjWGlHQWEtQS1CQ3V6UkljQktXTUZLVzlJS241azRPTldwNGI2M1FZbF9JR1dnaGZLQVVYbnVJZHBkX2VjQUFnTkNPWDA0UW5wZDQzWmtlRm9mSWg3WmJlTWdkM0tPSDFDVlFCRDN4ZHhJZ0VKUHlnSnFLWGF6SGJ2M014QnladUdHcTFwblZrRHc?oc=5",
-    "seendate": "2026-06-04T09:05:03.000Z",
-    "articleCount": 1,
-    "categories": [
-      "political-repression",
-      "climate-watch"
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Beijing says U.S. comments on Tiananmen crackdown ’smear’ China - The Japan Times",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSFg3ajdrSkk3R1Q0UGdhSkFtRHc5d1Q0VFZPSEMyR3R5RHNQdXdkR3ZtNWF6S2FSWGJpSXVhZ2dncWtFLTE0WTd1Y1RscUw1NWkxcUtGbXhaMllkUk9Pbk40ZFMtbFpVYzEwMU1NWUdSYUd6MC1DdGN1UEo3UWV1T1kyby1GYmt0WlNrVmRHVVdvcTd6d184QklyT2ZZdw?oc=5",
-    "seendate": "2026-06-04T08:36:00.000Z",
-    "articleCount": 1,
-    "categories": [
-      "political-repression"
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+        "seendate": "2026-06-04T15:48:49.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+        "seendate": "2026-06-04T15:48:49.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+        "seendate": "2026-06-04T15:48:49.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
     ]
   },
   {
@@ -278,90 +331,138 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "EU Nations Push For Visa Crackdown on Russian Tourists - Kyiv Post",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NcmFDdHBYNk9Rb2dialVHeUVnZlVkRjl4MGpjOTRwMlFEYUJjemhVeF9WVzJMQVNBeVhIdjVtMG5hdWhiS1FsN1B3cw?oc=5",
-    "seendate": "2026-06-04T12:44:43.000Z",
-    "articleCount": 1,
+    "headline": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "seendate": "2026-06-04T18:59:43.000Z",
+    "articleCount": 2,
     "categories": [
-      "political-repression"
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+        "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+        "seendate": "2026-06-04T18:59:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+        "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+        "seendate": "2026-06-04T18:59:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
     ]
   },
   {
-    "id": "Dhaka",
-    "name": "Dhaka",
-    "country": "BD",
-    "lat": 23.81,
-    "lon": 90.41,
-    "timezone": "Asia/Dhaka",
-    "headline": "Over 2,800 arrested in month-long crackdown across Dhaka: DMP - The Daily Star",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXBKeHFSZ2ZPRUNnSDJXWmtLVjFrdlFmRURtaVd2eHdidVYxQXdVeU5fM3o5TndhZmFSanVRWlJ0ejE0akMzM19kSmE1UUJaNTFiNV9xcC1kRWNpS1YxNzRsX0Z6TkdmZERMTjd0UldtNFZYZXE0cEdXU3o2YmNfR0JvUHhjUUhNZ2ZPdEMzZVZkMV9ISDNEN3VSeUVoQmJ1VE5fcTgzRDlPZWg4Tzd3LWRDWjV1eXpl?oc=5",
-    "seendate": "2026-06-04T12:56:10.000Z",
-    "articleCount": 1,
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+    "headlineUrl": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+    "seendate": "2026-06-04T13:50:11.000Z",
+    "articleCount": 2,
     "categories": [
-      "political-repression"
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "seendate": "2026-06-04T13:50:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "seendate": "2026-06-04T13:50:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia: Dozens of NGOs at risk of dissolution as crackdown on civil society intensifies - Amnesty International",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUxJZEZDNWVNc1Mzb2s3UGdIakpPeFB6LVZ5WkZ1NFl6aGVyVmlUQzEwWXNCRTRhZnlobFFPUmVpdmpDYXNjME90R2lQMjgxZUpFV2dqVEpDcEY4dTREUzNUNmFCVzZEeGM4TGpPZmRsOEp5RmxhN1pseGR4dHBNaGtESXpDSld3bjhxX1YtZ2s3SnVVbnVweXdTb1c3VWJITWR2ajVrWjZ3RWtBTmQxc2V5aWlzNmoyZXk1NC1NSHVfUkFadWlDQzJFb2VXaGto?oc=5",
-    "seendate": "2026-05-11T07:00:00.000Z",
-    "articleCount": 1,
-    "categories": [
-      "political-repression"
-    ]
-  },
-  {
-    "id": "Jakarta",
-    "name": "Jakarta",
-    "country": "ID",
-    "lat": -6.21,
-    "lon": 106.85,
-    "timezone": "Asia/Jakarta",
-    "headline": "The market as an unlikely ally against democratic backsliding - The Jakarta Post",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTJxd3RjRFJrMHNDYS1iNXVWRUJVVmV4WEFUeHV2aS1jUzUwNTlIMWtkV18tTVhFNzRBVFYzbXdsV1JZVW0zQ2J1dnJkejY5NVFrbmdPd0ZnLXZ0TllOQ0ZDOHBlWGNXU3J2cHBtQWY3dVBWSGJKV0VmOVhwS0E3bF9WTTlLbUctbVUwX1M3c2szYTNmSDFiSXBKMlJMSzBuaHJERndMOVZLeENSN0FsZkZJWm5iVU0?oc=5",
-    "seendate": "2026-06-01T23:38:58.000Z",
-    "articleCount": 1,
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
+    "headlineUrl": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
+    "seendate": "2026-06-04T07:03:48.000Z",
+    "articleCount": 2,
     "categories": [
       "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
+        "url": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
+        "seendate": "2026-06-04T07:03:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
+        "url": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
+        "seendate": "2026-06-04T07:03:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
     ]
   },
   {
-    "id": "Charlotte",
-    "name": "Charlotte",
+    "id": "Denver",
+    "name": "Denver",
     "country": "US",
-    "lat": 35.23,
-    "lon": -80.84,
-    "timezone": "America/New_York",
-    "headline": "North Carolina plaintiffs appeal voter suppression law - The Charlotte Post",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnJXWHhveVJONG9iSmxMOVlwcV9aZlg3bXFTWGRWSmlmTlNlNnAzRkw4QWlVc3Q3VTV2X2pPUmo5WHRKaUF6elN5Y1NsWFd2cjYxS2VyQ3VwNTVBeGpDSGRiTlhFLS1pRGZnaFFDV1pqSDA3bnFRNHl2ZzFFWnlBbTE4THNHVWM2X2l1UTVnN2tnb0cza2RUQXZ6TTRyWi1PUTFxVUZmaXZJelFIQ1VLNVJBU1h0eU0?oc=5",
-    "seendate": "2026-04-26T07:00:00.000Z",
+    "lat": 39.74,
+    "lon": -104.99,
+    "timezone": "America/Denver",
+    "headline": "Morgan Wallen gives fans an update on his piano, days after smashing it on stage during Denver show",
+    "headlineUrl": "https://www.foxnews.com/entertainment/morgan-wallen-gives-fans-update-his-piano-days-after-smashing-stage-during-denver-show",
+    "seendate": "2026-06-02T22:53:06.000Z",
     "articleCount": 1,
     "categories": [
       "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Morgan Wallen gives fans an update on his piano, days after smashing it on stage during Denver show",
+        "url": "https://www.foxnews.com/entertainment/morgan-wallen-gives-fans-update-his-piano-days-after-smashing-stage-during-denver-show",
+        "seendate": "2026-06-02T22:53:06.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
     ]
   },
   {
-    "id": "Dallas",
-    "name": "Dallas",
-    "country": "US",
-    "lat": 32.78,
-    "lon": -96.8,
-    "timezone": "America/Chicago",
-    "headline": "Dallas primary election voting confusion prompts congressional talk on voter suppression - KERA News",
-    "headlineUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5sVW1DWGhiZXdPU1FFVndjUDdQV2ZWSF9raVgzRGItU1hDeTJveTA0VVZpb2VHd1hGeW8yY0xkVmtQajR5MmhYdWVrcDUyakJPTEtISTFLQjBXLXlSLWw5TGFMR3lQMVI2NENKTlhmUmpmVk5URTFPcUxya3RCUXU0NFdCTVlWRFozaEwyWWRFNGlHV253OW0zZmwwX0x1UTJuSFBvVVh5b0ptQlQ1VFN6RzQxM3FDaW05T3FpeDZmVGtoTlo2M3o3VUxFMUJVUE9YMjVWdDhJUGw3dmZYV1hxMnF3RUhxRjM2b3pPQnltZVI3LTExeHhGYw?oc=5",
-    "seendate": "2026-04-14T07:00:00.000Z",
-    "articleCount": 1,
-    "categories": [
-      "democracy-crisis"
-    ]
-  },
-  {
-    "refreshedAt": "2026-06-04T17:59:56.615Z"
+    "refreshedAt": "2026-06-04T21:35:26.063Z"
   }
 ]

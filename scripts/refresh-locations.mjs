@@ -307,46 +307,31 @@ async function main() {
     );
   }
 
-  // Also fetch Google News RSS for each category as a fallback/no-PAT source
-  console.log('Fetching Google News RSS per category...');
-  for (const [category, query] of queries) {
-    try {
-      const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}`;
-      const rssArticles = await fetchRss(rssUrl);
-      console.log(`  ${category} (rss): ${rssArticles.length} articles`);
-      allArticles.push(...rssArticles.map(a => ({ ...a, _category: category })));
-      if (useStaggered) await new Promise(r => setTimeout(r, 6000));
-    } catch (err) {
-      console.warn(`  RSS failed for ${category}: ${err.message}`);
-    }
-  }
-
-    // Curated outlet RSS feeds (direct source links)
+    // Curated outlet RSS feeds (direct source links, prioritized)
     const OUTLET_FEEDS = {
       'armed-conflict': [
-        'https://www.reutersagency.com/feed/?best-topics=world',
         'https://www.aljazeera.com/xml/rss/all.xml',
-        'https://feeds.reuters.com/Reuters/worldNews'
+        'https://feeds.bbci.co.uk/news/world/rss.xml'
       ],
       'humanitarian': [
-        'https://www.reuters.com/rssFeed/humanitarian',
-        'https://www.aljazeera.com/xml/rss/all.xml'
+        'https://www.aljazeera.com/xml/rss/all.xml',
+        'https://feeds.bbci.co.uk/news/world/rss.xml'
       ],
       'natural-disaster': [
-        'https://www.reuters.com/rssFeed/environment',
-        'https://www.bbc.co.uk/rss/feeds/world.xml'
+        'https://feeds.bbci.co.uk/news/world/rss.xml',
+        'https://feeds.npr.org/1001/rss.xml'
       ],
       'political-repression': [
-        'https://www.reuters.com/rssFeed/politicsNews',
-        'https://feeds.bbci.co.uk/news/world/rss.xml'
+        'https://feeds.bbci.co.uk/news/world/rss.xml',
+        'https://feeds.nytimes.com/nyt/rss/World'
       ],
       'democracy-crisis': [
         'https://feeds.nytimes.com/nyt/rss/World',
         'https://feeds.bbci.co.uk/news/world/rss.xml'
       ],
       'climate-watch': [
-        'https://www.reuters.com/rssFeed/environment',
-        'https://feeds.npr.org/100026539/feeds.xml'
+        'https://feeds.npr.org/1001/rss.xml',
+        'https://feeds.bbci.co.uk/news/world/rss.xml'
       ],
       'culture-wars': [
         'https://feeds.npr.org/1001/rss.xml',
@@ -354,7 +339,7 @@ async function main() {
       ]
     };
 
-    console.log('Fetching curated outlet RSS feeds...');
+    console.log('Fetching curated outlet RSS feeds (direct sources)...');
     for (const [category, feeds] of Object.entries(OUTLET_FEEDS)) {
       for (const feedUrl of feeds) {
         try {
@@ -364,6 +349,29 @@ async function main() {
           if (useStaggered) await new Promise(r => setTimeout(r, 2000));
         } catch (err) {
           console.warn(`  outlet RSS failed ${feedUrl}: ${err.message}`);
+        }
+      }
+    }
+
+    // Fallback: Google News RSS for categories still lacking articles
+    console.log('Fetching Google News RSS (fallback for coverage)...');
+    const articlesByCategory = {};
+    for (const article of allArticles) {
+      const cat = article._category;
+      if (!articlesByCategory[cat]) articlesByCategory[cat] = 0;
+      articlesByCategory[cat]++;
+    }
+
+    for (const [category, query] of queries) {
+      if (!articlesByCategory[category] || articlesByCategory[category] < 5) {
+        try {
+          const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}`;
+          const rssArticles = await fetchRss(rssUrl);
+          console.log(`  ${category} (fallback): ${rssArticles.length} articles`);
+          allArticles.push(...rssArticles.map(a => ({ ...a, _category: category })));
+          if (useStaggered) await new Promise(r => setTimeout(r, 6000));
+        } catch (err) {
+          console.warn(`  Google News fallback failed for ${category}: ${err.message}`);
         }
       }
     }
