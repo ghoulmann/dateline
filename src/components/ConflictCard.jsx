@@ -54,9 +54,13 @@ export default function ConflictCard({ location, weather, onHide }) {
       </div>
 
       <div className="card-headline">
-        <a href={location.headlineUrl} target="_blank" rel="noopener noreferrer">
-          {location.headline}
-        </a>
+        {location.headlineUrl && location.headlineUrl !== 'https://www.gdeltproject.org/' ? (
+          <a href={location.headlineUrl} target="_blank" rel="noopener noreferrer">
+            {location.headline}
+          </a>
+        ) : (
+          <span>{location.headline}</span>
+        )}
       </div>
 
       <div className="card-tags">
