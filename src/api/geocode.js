@@ -236,14 +236,16 @@ export function resolveLocation(article) {
 
   // check city aliases registered from ontology
   for (const [aliasLower, canonicalCity] of Object.entries(CITY_ALIAS_MAP)) {
-    if (titleLower.includes(aliasLower)) {
+    const re = new RegExp(`\\b${escapeRegExp(aliasLower)}\\b`);
+    if (re.test(titleLower)) {
       if (HOTSPOT_TABLE[canonicalCity]) return { id: canonicalCity, ...HOTSPOT_TABLE[canonicalCity], headline: title };
     }
   }
 
   for (const [city, coords] of Object.entries(HOTSPOT_TABLE)) {
     const cityLower = city.toLowerCase();
-    if (titleLower.includes(cityLower)) {
+    const re = new RegExp(`\\b${escapeRegExp(cityLower)}\\b`);
+    if (re.test(titleLower)) {
       if (isDatelineHeadline(titleLower, cityLower)) {
         continue;
       }
@@ -255,11 +257,13 @@ export function resolveLocation(article) {
   // first allow ontology-provided country aliases: choose the rightmost match (likely the target)
   const countryMatches = [];
   for (const [aliasLower, code] of Object.entries(COUNTRY_ALIAS_MAP)) {
-    const idx = titleLower.indexOf(aliasLower);
+    const re = new RegExp(`\\b${escapeRegExp(aliasLower)}\\b`);
+    const idx = titleLower.search(re);
     if (idx >= 0) countryMatches.push({ alias: aliasLower, code, idx });
   }
   for (const [name, code] of Object.entries(COUNTRY_NAME_MAP)) {
-    const idx = titleLower.indexOf(name);
+    const re = new RegExp(`\\b${escapeRegExp(name)}\\b`);
+    const idx = titleLower.search(re);
     if (idx >= 0) countryMatches.push({ alias: name, code, idx });
   }
 
