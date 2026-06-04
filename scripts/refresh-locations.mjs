@@ -92,6 +92,27 @@ function resolveLocation(article) {
   return null;
 }
 
+function createArticleEntry(article) {
+  const url = article.url || article.link || '';
+  let source_domain = article.source_domain || article.domain || '';
+  if (!source_domain && url) {
+    try {
+      source_domain = new URL(url).hostname.replace(/^www\./, '');
+    } catch (e) {
+      source_domain = '';
+    }
+  }
+
+  return {
+    title: article.title || article.headline || 'Untitled article',
+    url,
+    seendate: article.seendate || new Date().toISOString(),
+    source_domain,
+    categories: extractCategories(article.title),
+    source_category: article._category || null,
+  };
+}
+
 function extractCategories(title) {
   if (!title) return ['armed-conflict'];
   const titleLower = title.toLowerCase();
@@ -371,8 +392,8 @@ async function main() {
       continue;
     }
 
+    const articleEntry = createArticleEntry(article);
     const existing = locationMap.get(loc.id);
-    const categories = extractCategories(article.title);
 
     if (!existing) {
       locationMap.set(loc.id, {
@@ -382,15 +403,28 @@ async function main() {
         lat: loc.lat,
         lon: loc.lon,
         timezone: loc.timezone,
-        headline: article.title,
-        headlineUrl: article.url,
-        seendate: article.seendate,
+        headline: articleEntry.title,
+        headlineUrl: articleEntry.url,
+        seendate: articleEntry.seendate,
         articleCount: 1,
-        categories: categories,
+        categories: articleEntry.categories,
+        articles: [articleEntry],
       });
     } else {
       existing.articleCount += 1;
-      existing.categories = Array.from(new Set([...existing.categories, ...categories]));
+      existing.categories = Array.from(new Set([...existing.categories, ...articleEntry.categories]));
+      existing.articles.push(articleEntry);
+      if (new Date(articleEntry.seendate) > new Date(existing.seendate)) {
+        existing.headline = articleEntry.title;
+        existing.headlineUrl = articleEntry.url;
+        existing.seendate = articleEntry.seendate;
+      }
+    }
+  }
+
+  for (const location of locationMap.values()) {
+    if (location.articles) {
+      location.articles.sort((a, b) => new Date(b.seendate) - new Date(a.seendate));
     }
   }
 

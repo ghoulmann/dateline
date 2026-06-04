@@ -27,6 +27,16 @@ export default function ConflictCard({ location, weather, onHide }) {
 
   const localTime = formatter.format(new Date());
 
+  const primaryArticle = location.articles?.[0] ?? {
+    title: location.headline,
+    url: location.headlineUrl,
+    seendate: location.seendate,
+    source_domain: location.source_domain,
+  };
+
+  const extraArticles = location.articles?.slice(1) ?? [];
+  const articleCount = location.articleCount ?? location.articles?.length ?? 1;
+
   return (
     <div className="conflict-card bg-card-industrial">
       <div className="card-header">
@@ -54,14 +64,40 @@ export default function ConflictCard({ location, weather, onHide }) {
       </div>
 
       <div className="card-headline">
-        {location.headlineUrl && location.headlineUrl !== 'https://www.gdeltproject.org/' ? (
-          <a href={location.headlineUrl} target="_blank" rel="noopener noreferrer">
-            {location.headline}
+        {primaryArticle.url && primaryArticle.url !== 'https://www.gdeltproject.org/' ? (
+          <a href={primaryArticle.url} target="_blank" rel="noopener noreferrer">
+            {primaryArticle.title}
           </a>
         ) : (
-          <span>{location.headline}</span>
+          <span>{primaryArticle.title}</span>
         )}
       </div>
+
+      <div className="card-meta mono">
+        {primaryArticle.source_domain && <span>{primaryArticle.source_domain}</span>}
+        {articleCount > 1 && (
+          <span className="article-count"> • {articleCount} articles</span>
+        )}
+      </div>
+
+      {extraArticles.length > 0 && (
+        <details className="article-details">
+          <summary>{extraArticles.length} more article{extraArticles.length === 1 ? '' : 's'}</summary>
+          <ul>
+            {extraArticles.map((article, index) => (
+              <li key={`${article.url || article.title}-${index}`}>
+                {article.url ? (
+                  <a href={article.url} target="_blank" rel="noopener noreferrer">
+                    {article.title}
+                  </a>
+                ) : (
+                  <span>{article.title}</span>
+                )}
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
 
       <div className="card-tags">
         {location.categories.map(cat => (

@@ -37,8 +37,16 @@ export async function fetchHotspots() {
     const loc = resolveLocation(article);
     if (!loc) continue;
 
+    const articleEntry = {
+      title: article.title || article.headline || 'Untitled article',
+      url: article.url,
+      seendate: article.seendate,
+      source_domain: article.domain || '',
+      categories: extractCategories(article.title),
+    };
+
     const existing = locationMap.get(loc.id);
-    if (!existing || new Date(article.seendate) > new Date(existing.seendate)) {
+    if (!existing) {
       locationMap.set(loc.id, {
         id: loc.id,
         name: loc.id,
@@ -46,14 +54,28 @@ export async function fetchHotspots() {
         lat: loc.lat,
         lon: loc.lon,
         timezone: loc.timezone,
-        headline: article.title,
-        headlineUrl: article.url,
-        seendate: article.seendate,
-        articleCount: (existing?.articleCount || 0) + 1,
-        categories: extractCategories(article.title),
+        headline: articleEntry.title,
+        headlineUrl: articleEntry.url,
+        seendate: articleEntry.seendate,
+        articleCount: 1,
+        categories: articleEntry.categories,
+        articles: [articleEntry],
       });
-    } else if (existing) {
+    } else {
       existing.articleCount += 1;
+      existing.categories = Array.from(new Set([...existing.categories, ...articleEntry.categories]));
+      existing.articles.push(articleEntry);
+      if (new Date(articleEntry.seendate) > new Date(existing.seendate)) {
+        existing.headline = articleEntry.title;
+        existing.headlineUrl = articleEntry.url;
+        existing.seendate = articleEntry.seendate;
+      }
+    }
+  }
+
+  for (const location of locationMap.values()) {
+    if (location.articles) {
+      location.articles.sort((a, b) => new Date(b.seendate) - new Date(a.seendate));
     }
   }
 
