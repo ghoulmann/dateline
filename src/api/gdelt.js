@@ -1,6 +1,12 @@
 import { resolveLocation } from './geocode.js';
 import { extractCategories } from '../utils/categories.js';
 
+function decodeHtmlEntities(text) {
+  const div = document.createElement('div');
+  div.innerHTML = text;
+  return div.textContent || div.innerText || text;
+}
+
 async function fetchLocationsFallback() {
   try {
     const res = await fetch('/dateline/locations.json');
@@ -38,13 +44,14 @@ export async function fetchHotspots() {
     if (!loc) continue;
 
     const articleEntry = {
-      title: article.title || article.headline || 'Untitled article',
-      url: article.url,
+      title: decodeHtmlEntities(article.title || article.headline || 'Untitled article'),
+      url: decodeHtmlEntities(article.url || ''),
       seendate: article.seendate,
       source_domain: article.domain || '',
       categories: extractCategories(article.title),
     };
 
+    const articleId = articleEntry.url || articleEntry.title;
     const existing = locationMap.get(loc.id);
     if (!existing) {
       locationMap.set(loc.id, {
@@ -60,15 +67,19 @@ export async function fetchHotspots() {
         articleCount: 1,
         categories: articleEntry.categories,
         articles: [articleEntry],
+        seenArticles: new Set([articleId]),
       });
     } else {
-      existing.articleCount += 1;
-      existing.categories = Array.from(new Set([...existing.categories, ...articleEntry.categories]));
-      existing.articles.push(articleEntry);
-      if (new Date(articleEntry.seendate) > new Date(existing.seendate)) {
-        existing.headline = articleEntry.title;
-        existing.headlineUrl = articleEntry.url;
-        existing.seendate = articleEntry.seendate;
+      if (!existing.seenArticles.has(articleId)) {
+        existing.articleCount += 1;
+        existing.categories = Array.from(new Set([...existing.categories, ...articleEntry.categories]));
+        existing.articles.push(articleEntry);
+        existing.seenArticles.add(articleId);
+        if (new Date(articleEntry.seendate) > new Date(existing.seendate)) {
+          existing.headline = articleEntry.title;
+          existing.headlineUrl = articleEntry.url;
+          existing.seendate = articleEntry.seendate;
+        }
       }
     }
   }
@@ -77,6 +88,7 @@ export async function fetchHotspots() {
     if (location.articles) {
       location.articles.sort((a, b) => new Date(b.seendate) - new Date(a.seendate));
     }
+    delete location.seenArticles;
   }
 
   const locations = Array.from(locationMap.values())
