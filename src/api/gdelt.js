@@ -7,6 +7,10 @@ function decodeHtmlEntities(text) {
   return div.textContent || div.innerText || text;
 }
 
+function normalizeTitle(title) {
+  return title.toLowerCase().replace(/\s+/g, ' ').trim();
+}
+
 async function fetchLocationsFallback() {
   try {
     const res = await fetch('/dateline/locations.json');
@@ -51,7 +55,10 @@ export async function fetchHotspots() {
       categories: extractCategories(article.title),
     };
 
+    if (articleEntry.categories.length === 0) continue;
+
     const articleId = articleEntry.url || articleEntry.title;
+    const normTitle = normalizeTitle(articleEntry.title);
     const existing = locationMap.get(loc.id);
     if (!existing) {
       locationMap.set(loc.id, {
@@ -68,13 +75,15 @@ export async function fetchHotspots() {
         categories: articleEntry.categories,
         articles: [articleEntry],
         seenArticles: new Set([articleId]),
+        seenTitles: new Set([normTitle]),
       });
     } else {
-      if (!existing.seenArticles.has(articleId)) {
+      if (!existing.seenArticles.has(articleId) && !existing.seenTitles.has(normTitle)) {
         existing.articleCount += 1;
         existing.categories = Array.from(new Set([...existing.categories, ...articleEntry.categories]));
         existing.articles.push(articleEntry);
         existing.seenArticles.add(articleId);
+        existing.seenTitles.add(normTitle);
         if (new Date(articleEntry.seendate) > new Date(existing.seendate)) {
           existing.headline = articleEntry.title;
           existing.headlineUrl = articleEntry.url;
@@ -89,6 +98,7 @@ export async function fetchHotspots() {
       location.articles.sort((a, b) => new Date(b.seendate) - new Date(a.seendate));
     }
     delete location.seenArticles;
+    delete location.seenTitles;
   }
 
   const locations = Array.from(locationMap.values())
