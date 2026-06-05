@@ -6,14 +6,54 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill 11 people in Gaza City, medics say",
-    "headlineUrl": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-04T17:50:20.000Z",
-    "articleCount": 6,
+    "headline": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
+    "seendate": "2026-06-05T11:38:03.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-05T11:38:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-05T11:38:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+        "seendate": "2026-06-05T10:19:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+        "seendate": "2026-06-05T10:19:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Israeli strikes kill 11 people in Gaza City, medics say",
         "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
@@ -68,83 +108,6 @@
         "title": "Israeli strikes kill 11 people in Gaza City, medics say",
         "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-04T17:50:20.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Budapest",
-    "name": "Budapest",
-    "country": "HU",
-    "lat": 47.5,
-    "lon": 19.04,
-    "timezone": "Europe/Budapest",
-    "headline": "Charges dropped against Budapest mayor over 2025 Pride march",
-    "headlineUrl": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-04T14:10:31.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T14:10:31.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T14:10:31.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T14:10:31.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T14:10:31.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T14:10:31.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T14:10:31.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -426,6 +389,6 @@
     ]
   },
   {
-    "refreshedAt": "2026-06-05T09:22:34.400Z"
+    "refreshedAt": "2026-06-05T13:18:08.268Z"
   }
 ]
