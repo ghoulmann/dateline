@@ -231,6 +231,63 @@
     ]
   },
   {
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
+    "seendate": "2026-06-05T01:12:02.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+        "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
+        "seendate": "2026-06-05T01:12:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+        "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
+        "seendate": "2026-06-05T01:12:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "seendate": "2026-06-04T21:37:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "seendate": "2026-06-04T21:37:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -362,43 +419,6 @@
     ]
   },
   {
-    "id": "Mogadishu",
-    "name": "Mogadishu",
-    "country": "SO",
-    "lat": 2.05,
-    "lon": 45.34,
-    "timezone": "Africa/Mogadishu",
-    "headline": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-    "headlineUrl": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-    "seendate": "2026-06-04T21:37:48.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-        "seendate": "2026-06-04T21:37:48.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-        "seendate": "2026-06-04T21:37:48.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Seoul",
     "name": "Seoul",
     "country": "KR",
@@ -463,6 +483,6 @@
     ]
   },
   {
-    "refreshedAt": "2026-06-05T01:16:21.013Z"
+    "refreshedAt": "2026-06-05T05:43:19.403Z"
   }
 ]
