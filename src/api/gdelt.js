@@ -15,7 +15,31 @@ async function fetchLocationsFallback() {
   try {
     const res = await fetch('/dateline/locations.json');
     if (!res.ok) throw new Error('Fallback fetch failed');
-    return res.json();
+    let locations = await res.json();
+
+    locations = locations.map(location => {
+      const seenTitles = new Set();
+      const filteredArticles = [];
+
+      for (const article of (location.articles || [])) {
+        const hasCategories = article.categories && article.categories.length > 0;
+        const normTitle = normalizeTitle(article.title || '');
+        const isDuplicate = seenTitles.has(normTitle);
+
+        if (hasCategories && !isDuplicate) {
+          filteredArticles.push(article);
+          seenTitles.add(normTitle);
+        }
+      }
+
+      return {
+        ...location,
+        articles: filteredArticles,
+        articleCount: filteredArticles.length,
+      };
+    }).filter(location => location.articles.length > 0);
+
+    return locations;
   } catch (err) {
     console.warn('Fallback locations.json failed:', err);
     return [];

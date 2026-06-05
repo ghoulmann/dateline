@@ -117,83 +117,6 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-    "headlineUrl": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-04T11:52:58.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T11:52:58.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T11:52:58.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T11:52:58.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T11:52:58.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T11:52:58.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T11:52:58.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Mogadishu",
     "name": "Mogadishu",
     "country": "SO",
@@ -288,43 +211,6 @@
     ]
   },
   {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "On Patrol With Tokyo’s New Litter Police",
-    "headlineUrl": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-    "seendate": "2026-06-05T09:06:22.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "On Patrol With Tokyo’s New Litter Police",
-        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-        "seendate": "2026-06-05T09:06:22.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "On Patrol With Tokyo’s New Litter Police",
-        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-        "seendate": "2026-06-05T09:06:22.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Seoul",
     "name": "Seoul",
     "country": "KR",
@@ -358,33 +244,6 @@
           "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Denver",
-    "name": "Denver",
-    "country": "US",
-    "lat": 39.74,
-    "lon": -104.99,
-    "timezone": "America/Denver",
-    "headline": "Morgan Wallen gives fans an update on his piano, days after smashing it on stage during Denver show",
-    "headlineUrl": "https://www.foxnews.com/entertainment/morgan-wallen-gives-fans-update-his-piano-days-after-smashing-stage-during-denver-show",
-    "seendate": "2026-06-02T22:53:06.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Morgan Wallen gives fans an update on his piano, days after smashing it on stage during Denver show",
-        "url": "https://www.foxnews.com/entertainment/morgan-wallen-gives-fans-update-his-piano-days-after-smashing-stage-during-denver-show",
-        "seendate": "2026-06-02T22:53:06.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
