@@ -1,63 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
-    "seendate": "2026-06-05T11:38:03.000Z",
-    "articleCount": 10,
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+    "headlineUrl": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-04T11:52:58.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-05T11:38:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-05T11:38:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-05T10:19:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-05T10:19:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T17:50:20.000Z",
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -65,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T17:50:20.000Z",
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -75,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T17:50:20.000Z",
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -85,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T17:50:20.000Z",
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -95,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T17:50:20.000Z",
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -105,14 +65,125 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-04T17:50:20.000Z",
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-04T11:52:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Why Washington is reducing visa processing across Africa",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/why-washington-is-reducing-visa-processing-across-africa?traffic_source=rss",
+    "seendate": "2026-06-05T16:10:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why Washington is reducing visa processing across Africa",
+        "url": "https://www.aljazeera.com/news/2026/6/5/why-washington-is-reducing-visa-processing-across-africa?traffic_source=rss",
+        "seendate": "2026-06-05T16:10:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why Washington is reducing visa processing across Africa",
+        "url": "https://www.aljazeera.com/news/2026/6/5/why-washington-is-reducing-visa-processing-across-africa?traffic_source=rss",
+        "seendate": "2026-06-05T16:10:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
+    "seendate": "2026-06-05T14:12:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
+        "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
+        "seendate": "2026-06-05T14:12:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
+        "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
+        "seendate": "2026-06-05T14:12:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "On Patrol With Tokyo’s New Litter Police",
+    "headlineUrl": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
+    "seendate": "2026-06-05T09:06:22.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "On Patrol With Tokyo’s New Litter Police",
+        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
+        "seendate": "2026-06-05T09:06:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "On Patrol With Tokyo’s New Litter Police",
+        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
+        "seendate": "2026-06-05T09:06:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -123,34 +194,14 @@
     "lat": 2.05,
     "lon": 45.34,
     "timezone": "Africa/Mogadishu",
-    "headline": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
-    "seendate": "2026-06-05T01:12:02.000Z",
-    "articleCount": 4,
+    "headline": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+    "headlineUrl": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+    "seendate": "2026-06-04T21:37:48.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-        "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
-        "seendate": "2026-06-05T01:12:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-        "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
-        "seendate": "2026-06-05T01:12:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
         "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
@@ -170,43 +221,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
-    "seendate": "2026-06-05T06:01:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-        "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
-        "seendate": "2026-06-05T06:01:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-        "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
-        "seendate": "2026-06-05T06:01:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -244,6 +258,60 @@
           "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+    "headlineUrl": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+    "seendate": "2026-06-05T14:00:11.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+        "seendate": "2026-06-05T14:00:11.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Denver",
+    "name": "Denver",
+    "country": "US",
+    "lat": 39.74,
+    "lon": -104.99,
+    "timezone": "America/Denver",
+    "headline": "Morgan Wallen gives fans an update on his piano, days after smashing it on stage during Denver show",
+    "headlineUrl": "https://www.foxnews.com/entertainment/morgan-wallen-gives-fans-update-his-piano-days-after-smashing-stage-during-denver-show",
+    "seendate": "2026-06-02T22:53:06.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Morgan Wallen gives fans an update on his piano, days after smashing it on stage during Denver show",
+        "url": "https://www.foxnews.com/entertainment/morgan-wallen-gives-fans-update-his-piano-days-after-smashing-stage-during-denver-show",
+        "seendate": "2026-06-02T22:53:06.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
