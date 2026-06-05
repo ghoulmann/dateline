@@ -1,5 +1,82 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
+    "seendate": "2026-06-05T19:51:23.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
+        "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
+        "seendate": "2026-06-05T19:51:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
+        "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
+        "seendate": "2026-06-05T19:51:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Families clear rubble after overnight Israeli strikes in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-05T19:40:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Families clear rubble after overnight Israeli strikes in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-05T19:40:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+        "url": "https://www.aljazeera.com/news/2026/6/5/an-ice-cream-parlour-survives-gazas-genocide-and-gives-seven-students-hope?traffic_source=rss",
+        "seendate": "2026-06-05T17:25:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+        "url": "https://www.aljazeera.com/news/2026/6/5/an-ice-cream-parlour-survives-gazas-genocide-and-gives-seven-students-hope?traffic_source=rss",
+        "seendate": "2026-06-05T17:25:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -77,6 +154,63 @@
     ]
   },
   {
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "Somalia declares order restored after two days of fighting in Mogadishu",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu?traffic_source=rss",
+    "seendate": "2026-06-05T17:03:11.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Somalia declares order restored after two days of fighting in Mogadishu",
+        "url": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu?traffic_source=rss",
+        "seendate": "2026-06-05T17:03:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Somalia declares order restored after two days of fighting in Mogadishu",
+        "url": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu?traffic_source=rss",
+        "seendate": "2026-06-05T17:03:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "seendate": "2026-06-04T21:37:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "seendate": "2026-06-04T21:37:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -114,43 +248,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
-    "seendate": "2026-06-05T14:12:50.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
-        "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
-        "seendate": "2026-06-05T14:12:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
-        "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
-        "seendate": "2026-06-05T14:12:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Tokyo",
     "name": "Tokyo",
     "country": "JP",
@@ -159,7 +256,7 @@
     "timezone": "Asia/Tokyo",
     "headline": "On Patrol With Tokyo’s New Litter Police",
     "headlineUrl": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-    "seendate": "2026-06-05T09:06:22.000Z",
+    "seendate": "2026-06-05T09:06:23.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -168,7 +265,7 @@
       {
         "title": "On Patrol With Tokyo’s New Litter Police",
         "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-        "seendate": "2026-06-05T09:06:22.000Z",
+        "seendate": "2026-06-05T09:06:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -178,44 +275,7 @@
       {
         "title": "On Patrol With Tokyo’s New Litter Police",
         "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-        "seendate": "2026-06-05T09:06:22.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Mogadishu",
-    "name": "Mogadishu",
-    "country": "SO",
-    "lat": 2.05,
-    "lon": 45.34,
-    "timezone": "Africa/Mogadishu",
-    "headline": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-    "headlineUrl": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-    "seendate": "2026-06-04T21:37:48.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-        "seendate": "2026-06-04T21:37:48.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-        "seendate": "2026-06-04T21:37:48.000Z",
+        "seendate": "2026-06-05T09:06:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
