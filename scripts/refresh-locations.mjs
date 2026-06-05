@@ -454,14 +454,10 @@ async function main() {
     console.warn(`Warning: Missing categories: ${missingCategories.join(', ')}`);
   }
 
-  locations.push({
-    refreshedAt: new Date().toISOString(),
-  });
-
   const outputPath = resolve(__dirname, '../public/locations.json');
   await fs.writeFile(outputPath, JSON.stringify(locations, null, 2));
 
-  console.log(`✓ Wrote ${locations.length - 1} locations to ${outputPath}`);
+  console.log(`✓ Wrote ${locations.length} locations to ${outputPath}`);
   console.log(`  Skipped ${skipped} articles (unrecognized locations)`);
   console.log(`  Coverage: ${Array.from(categorySet).sort().join(', ')}`);
 }
