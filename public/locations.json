@@ -288,118 +288,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
-    "headlineUrl": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
-    "seendate": "2026-06-04T19:16:22.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
-        "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
-        "seendate": "2026-06-04T19:16:22.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
-        "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
-        "seendate": "2026-06-04T19:16:22.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
-        "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
-        "seendate": "2026-06-04T19:16:22.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
-    "headlineUrl": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
-    "seendate": "2026-06-04T15:48:49.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
-        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
-        "seendate": "2026-06-04T15:48:49.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
-        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
-        "seendate": "2026-06-04T15:48:49.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
-        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
-        "seendate": "2026-06-04T15:48:49.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-    "seendate": "2026-06-04T18:59:43.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+    "seendate": "2026-06-05T06:01:07.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-        "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-        "seendate": "2026-06-04T18:59:43.000Z",
+        "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+        "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+        "seendate": "2026-06-05T06:01:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -407,14 +313,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-        "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-        "seendate": "2026-06-04T18:59:43.000Z",
+        "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+        "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+        "seendate": "2026-06-05T06:01:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "On Patrol With Tokyo’s New Litter Police",
+    "headlineUrl": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
+    "seendate": "2026-06-05T09:06:22.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "On Patrol With Tokyo’s New Litter Police",
+        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
+        "seendate": "2026-06-05T09:06:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "On Patrol With Tokyo’s New Litter Police",
+        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
+        "seendate": "2026-06-05T09:06:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -483,6 +426,6 @@
     ]
   },
   {
-    "refreshedAt": "2026-06-05T05:43:19.403Z"
+    "refreshedAt": "2026-06-05T09:22:34.400Z"
   }
 ]
