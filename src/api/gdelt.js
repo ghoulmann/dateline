@@ -20,15 +20,17 @@ async function fetchLocationsFallback() {
     locations = locations.map(location => {
       const seenTitles = new Set();
       const filteredArticles = [];
+      const allCategories = new Set();
 
       for (const article of (location.articles || [])) {
-        const hasCategories = article.categories && article.categories.length > 0;
+        const categories = extractCategories(article.title || '');
         const normTitle = normalizeTitle(article.title || '');
         const isDuplicate = seenTitles.has(normTitle);
 
-        if (hasCategories && !isDuplicate) {
-          filteredArticles.push(article);
+        if (categories.length > 0 && !isDuplicate) {
+          filteredArticles.push({ ...article, categories });
           seenTitles.add(normTitle);
+          categories.forEach(c => allCategories.add(c));
         }
       }
 
@@ -36,6 +38,7 @@ async function fetchLocationsFallback() {
         ...location,
         articles: filteredArticles,
         articleCount: filteredArticles.length,
+        categories: Array.from(allCategories),
       };
     }).filter(location => location.articles.length > 0);
 
