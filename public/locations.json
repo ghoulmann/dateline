@@ -6,16 +6,36 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strike kills at least six people during wedding in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-    "seendate": "2026-06-06T14:38:50.000Z",
-    "articleCount": 4,
+    "headline": "Israeli attack on Gaza City tent camp kills several Palestinians",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
+    "seendate": "2026-06-06T19:25:27.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli strike kills at least six people during wedding in Gaza",
+        "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
+        "seendate": "2026-06-06T19:25:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
+        "seendate": "2026-06-06T19:25:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli attack on Gaza City tent camp kills at least seven",
         "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
         "seendate": "2026-06-06T14:38:50.000Z",
         "source_domain": "aljazeera.com",
@@ -25,7 +45,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strike kills at least six people during wedding in Gaza",
+        "title": "Israeli attack on Gaza City tent camp kills at least seven",
         "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
         "seendate": "2026-06-06T14:38:50.000Z",
         "source_domain": "aljazeera.com",
