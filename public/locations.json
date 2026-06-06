@@ -1,23 +1,23 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/6/new-york-knicks-hold-off-san-antonio-spurs-105-104-for-2-0-nba-finals-lead?traffic_source=rss",
-    "seendate": "2026-06-06T05:19:44.000Z",
-    "articleCount": 3,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strike kills at least six people during wedding in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+    "seendate": "2026-06-06T14:38:50.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
-        "url": "https://www.aljazeera.com/sports/2026/6/6/new-york-knicks-hold-off-san-antonio-spurs-105-104-for-2-0-nba-finals-lead?traffic_source=rss",
-        "seendate": "2026-06-06T05:19:44.000Z",
+        "title": "Israeli strike kills at least six people during wedding in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-06T14:38:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
-        "url": "https://www.aljazeera.com/sports/2026/6/6/new-york-knicks-hold-off-san-antonio-spurs-105-104-for-2-0-nba-finals-lead?traffic_source=rss",
-        "seendate": "2026-06-06T05:19:44.000Z",
+        "title": "Israeli strike kills at least six people during wedding in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-06T14:38:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -35,14 +35,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
-        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
-        "seendate": "2026-06-05T14:00:11.000Z",
-        "source_domain": "foxnews.com",
+        "title": "Groom killed hours before his wedding in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-06T12:29:42.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Groom killed hours before his wedding in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-06T12:29:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -75,43 +85,6 @@
         "title": "Hundreds brave freezing weather in La Paz to line up for affordable food",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss",
         "seendate": "2026-06-06T12:07:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza fishermen stay afloat with dinghies made from doorframes",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-    "seendate": "2026-06-06T01:13:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-        "seendate": "2026-06-06T01:13:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-        "seendate": "2026-06-06T01:13:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -228,6 +201,33 @@
           "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+    "headlineUrl": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+    "seendate": "2026-06-05T14:00:11.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+        "seendate": "2026-06-05T14:00:11.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
