@@ -9,7 +9,7 @@
     "headline": "Israeli attack on Gaza City tent camp kills several Palestinians",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
     "seendate": "2026-06-06T19:25:27.000Z",
-    "articleCount": 6,
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
@@ -48,26 +48,6 @@
         "title": "Israeli attack on Gaza City tent camp kills at least seven",
         "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
         "seendate": "2026-06-06T14:38:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Groom killed hours before his wedding in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-06T12:29:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Groom killed hours before his wedding in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-06T12:29:42.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -77,39 +57,79 @@
     ]
   },
   {
-    "id": "La Paz",
-    "name": "La Paz",
-    "country": "BO",
-    "lat": -16.5,
-    "lon": -68.15,
-    "timezone": "America/La_Paz",
-    "headline": "Hundreds brave freezing weather in La Paz to line up for affordable food",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss",
-    "seendate": "2026-06-06T12:07:39.000Z",
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisians protest for press freedom and release of political prisoners",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
+    "seendate": "2026-06-06T21:07:19.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Tunisians protest for press freedom and release of political prisoners",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
+        "seendate": "2026-06-06T21:07:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression",
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisians protest for press freedom and release of political prisoners",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
+        "seendate": "2026-06-06T21:07:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression",
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Bern",
+    "name": "Bern",
+    "country": "CH",
+    "lat": 46.95,
+    "lon": 7.45,
+    "timezone": "Europe/Zurich",
+    "headline": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
+    "headlineUrl": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html",
+    "seendate": "2026-06-06T23:38:51.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hundreds brave freezing weather in La Paz to line up for affordable food",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss",
-        "seendate": "2026-06-06T12:07:39.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
+        "url": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html",
+        "seendate": "2026-06-06T23:38:51.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Hundreds brave freezing weather in La Paz to line up for affordable food",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss",
-        "seendate": "2026-06-06T12:07:39.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
+        "url": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html",
+        "seendate": "2026-06-06T23:38:51.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -182,43 +202,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Seoul",
-    "name": "Seoul",
-    "country": "KR",
-    "lat": 37.57,
-    "lon": 126.98,
-    "timezone": "Asia/Seoul",
-    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
-    "headlineUrl": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
-    "seendate": "2026-06-04T07:03:48.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
-        "url": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
-        "seendate": "2026-06-04T07:03:48.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
-        "url": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
-        "seendate": "2026-06-04T07:03:48.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
       }
