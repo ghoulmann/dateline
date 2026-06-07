@@ -1,58 +1,78 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli attack on Gaza City tent camp kills several Palestinians",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-    "seendate": "2026-06-06T19:25:27.000Z",
-    "articleCount": 4,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Huge crowds throng Madrid streets for Pope's open-air mass",
+    "headlineUrl": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-07T08:53:43.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-        "seendate": "2026-06-06T19:25:27.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-07T08:53:43.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-        "seendate": "2026-06-06T19:25:27.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-07T08:53:43.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli attack on Gaza City tent camp kills at least seven",
-        "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-06T14:38:50.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-07T08:53:43.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Israeli attack on Gaza City tent camp kills at least seven",
-        "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-06T14:38:50.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-07T08:53:43.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-07T08:53:43.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-07T08:53:43.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -93,6 +113,43 @@
           "democracy-crisis"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+    "seendate": "2026-06-07T09:00:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+        "seendate": "2026-06-07T09:00:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+        "seendate": "2026-06-07T09:00:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
