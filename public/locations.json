@@ -6,18 +6,69 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Huge crowds throng Madrid streets for Pope's open-air mass",
-    "headlineUrl": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-07T08:53:43.000Z",
-    "articleCount": 6,
+    "headline": "Giant crowds greet Pope Leo at public mass in Madrid, Spain",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/7/giant-crowds-greet-pope-leo-at-public-mass-in-madrid-spain?traffic_source=rss",
+    "seendate": "2026-06-07T12:00:16.000Z",
+    "articleCount": 11,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "natural-disaster"
     ],
     "articles": [
       {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "title": "Giant crowds greet Pope Leo at public mass in Madrid, Spain",
+        "url": "https://www.aljazeera.com/news/2026/6/7/giant-crowds-greet-pope-leo-at-public-mass-in-madrid-spain?traffic_source=rss",
+        "seendate": "2026-06-07T12:00:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Giant crowds greet Pope Leo at public mass in Madrid, Spain",
+        "url": "https://www.aljazeera.com/news/2026/6/7/giant-crowds-greet-pope-leo-at-public-mass-in-madrid-spain?traffic_source=rss",
+        "seendate": "2026-06-07T12:00:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "1 million people flood Madrid streets to see the pope&apos;s flower-carpeted procession",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
+        "seendate": "2026-06-07T10:51:01.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "1 million people flood Madrid streets to see the pope&apos;s flower-carpeted procession",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
+        "seendate": "2026-06-07T10:51:01.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "1 million people flood Madrid streets to see the pope&apos;s flower-carpeted procession",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
+        "seendate": "2026-06-07T10:51:01.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T08:53:43.000Z",
+        "seendate": "2026-06-07T10:27:15.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +76,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T08:53:43.000Z",
+        "seendate": "2026-06-07T10:27:15.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -35,9 +86,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T08:53:43.000Z",
+        "seendate": "2026-06-07T10:27:15.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +96,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T08:53:43.000Z",
+        "seendate": "2026-06-07T10:27:15.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -55,9 +106,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T08:53:43.000Z",
+        "seendate": "2026-06-07T10:27:15.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -65,9 +116,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T08:53:43.000Z",
+        "seendate": "2026-06-07T10:27:15.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -77,40 +128,74 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisians protest for press freedom and release of political prisoners",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
-    "seendate": "2026-06-06T21:07:19.000Z",
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Los Angeles tiny homes move people off streets amid World Cup spotlight",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/7/los-angeles-tiny-homes-move-people-off-streets-amid-world-cup-spotlight?traffic_source=rss",
+    "seendate": "2026-06-07T11:42:30.000Z",
     "articleCount": 2,
     "categories": [
-      "political-repression",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tunisians protest for press freedom and release of political prisoners",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
-        "seendate": "2026-06-06T21:07:19.000Z",
+        "title": "Los Angeles tiny homes move people off streets amid World Cup spotlight",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/los-angeles-tiny-homes-move-people-off-streets-amid-world-cup-spotlight?traffic_source=rss",
+        "seendate": "2026-06-07T11:42:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression",
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tunisians protest for press freedom and release of political prisoners",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
-        "seendate": "2026-06-06T21:07:19.000Z",
+        "title": "Los Angeles tiny homes move people off streets amid World Cup spotlight",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/los-angeles-tiny-homes-move-people-off-streets-amid-world-cup-spotlight?traffic_source=rss",
+        "seendate": "2026-06-07T11:42:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression",
-          "democracy-crisis"
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
+    "seendate": "2026-06-07T10:17:59.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
+        "url": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
+        "seendate": "2026-06-07T10:17:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
+        "url": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
+        "seendate": "2026-06-07T10:17:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
