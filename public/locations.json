@@ -1,108 +1,108 @@
 [
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-    "seendate": "2026-06-07T21:08:59.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Trump to cheer on Knicks at NBA Finals game in New York City",
+    "headlineUrl": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-08T09:08:59.000Z",
     "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-        "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-        "seendate": "2026-06-07T21:08:59.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T09:08:59.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-        "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-        "seendate": "2026-06-07T21:08:59.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T09:08:59.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Iran fires missiles at Israel after it attacked Beirut",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-        "seendate": "2026-06-07T20:12:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran fires missiles at Israel after it attacked Beirut",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-        "seendate": "2026-06-07T20:12:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "seendate": "2026-06-07T20:06:33.000Z",
-        "source_domain": "npr.org",
+        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T09:08:59.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "seendate": "2026-06-07T20:06:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "seendate": "2026-06-07T20:06:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T09:08:59.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T09:08:59.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T09:08:59.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+        "seendate": "2026-06-08T08:42:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+        "seendate": "2026-06-08T08:42:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+        "seendate": "2026-06-05T14:00:11.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -204,89 +204,69 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Five people injured in stabbing at New York City's Penn Station",
-    "headlineUrl": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-08T01:33:08.000Z",
-    "articleCount": 7,
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
+    "headlineUrl": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
+    "seendate": "2026-06-07T20:06:33.000Z",
+    "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T01:33:08.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T01:33:08.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T01:33:08.000Z",
-        "source_domain": "bbc.com",
+        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
+        "seendate": "2026-06-07T20:06:33.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T01:33:08.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T01:33:08.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T01:33:08.000Z",
-        "source_domain": "bbc.com",
+        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
+        "seendate": "2026-06-07T20:06:33.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
-        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
-        "seendate": "2026-06-05T14:00:11.000Z",
-        "source_domain": "foxnews.com",
+        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
+        "seendate": "2026-06-07T20:06:33.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "culture-wars"
+      },
+      {
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -297,15 +277,35 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran and Israel trade threats after Tehran launches missiles",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
-    "seendate": "2026-06-08T00:13:30.000Z",
-    "articleCount": 6,
+    "headline": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+    "headlineUrl": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+    "seendate": "2026-06-08T09:32:57.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+        "seendate": "2026-06-08T09:32:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+        "seendate": "2026-06-08T09:32:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
         "title": "Iran and Israel trade threats after Tehran launches missiles",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
         "seendate": "2026-06-08T00:13:30.000Z",
@@ -324,11 +324,75 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "San Francisco",
+    "name": "San Francisco",
+    "country": "US",
+    "lat": 37.77,
+    "lon": -122.41,
+    "timezone": "America/Los_Angeles",
+    "headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+    "headlineUrl": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
+    "seendate": "2026-06-08T09:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+        "url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
+        "seendate": "2026-06-08T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Iran war live: Tehran fires missiles at Israel after strikes on Tehran",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
-        "seendate": "2026-06-08T00:00:00.000Z",
+        "title": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+        "url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
+        "seendate": "2026-06-08T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+        "url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
+        "seendate": "2026-06-08T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager?traffic_source=rss",
+    "seendate": "2026-06-08T08:31:17.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager?traffic_source=rss",
+        "seendate": "2026-06-08T08:31:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -336,19 +400,36 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran fires missiles at Israel after strikes on Tehran",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
-        "seendate": "2026-06-08T00:00:00.000Z",
+        "title": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager?traffic_source=rss",
+        "seendate": "2026-06-08T08:31:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Missiles intercepted over occupied East Jerusalem and West Bank",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
+    "seendate": "2026-06-08T07:14:34.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
-        "seendate": "2026-06-07T21:12:03.000Z",
+        "title": "Missiles intercepted over occupied East Jerusalem and West Bank",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
+        "seendate": "2026-06-08T07:14:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -356,9 +437,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
-        "seendate": "2026-06-07T21:12:03.000Z",
+        "title": "Missiles intercepted over occupied East Jerusalem and West Bank",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
+        "seendate": "2026-06-08T07:14:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
