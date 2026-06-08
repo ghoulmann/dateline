@@ -9,7 +9,7 @@
     "headline": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
     "headlineUrl": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
     "seendate": "2026-06-07T21:08:59.000Z",
-    "articleCount": 17,
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
@@ -33,66 +33,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T20:56:09.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T20:56:09.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T20:56:09.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T20:56:09.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T20:56:09.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T20:56:09.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       },
       {
         "title": "Iran fires missiles at Israel after it attacked Beirut",
@@ -163,26 +103,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Al Jazeera reports from Beirut after Israeli attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
-        "seendate": "2026-06-07T16:04:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Al Jazeera reports from Beirut after Israeli attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
-        "seendate": "2026-06-07T16:04:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -284,67 +204,87 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
-    "seendate": "2026-06-07T16:03:53.000Z",
-    "articleCount": 5,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Five people injured in stabbing at New York City's Penn Station",
+    "headlineUrl": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-08T01:33:08.000Z",
+    "articleCount": 7,
     "categories": [
-      "natural-disaster"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
-        "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
-        "seendate": "2026-06-07T16:03:53.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Five people injured in stabbing at New York City's Penn Station",
+        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T01:33:08.000Z",
+        "source_domain": "bbc.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
-        "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
-        "seendate": "2026-06-07T16:03:53.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Five people injured in stabbing at New York City's Penn Station",
+        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T01:33:08.000Z",
+        "source_domain": "bbc.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "1 million people flood Madrid streets to see the pope&apos;s flower-carpeted procession",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
-        "seendate": "2026-06-07T10:51:01.000Z",
-        "source_domain": "npr.org",
+        "title": "Five people injured in stabbing at New York City's Penn Station",
+        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T01:33:08.000Z",
+        "source_domain": "bbc.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "1 million people flood Madrid streets to see the pope&apos;s flower-carpeted procession",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
-        "seendate": "2026-06-07T10:51:01.000Z",
-        "source_domain": "npr.org",
+        "title": "Five people injured in stabbing at New York City's Penn Station",
+        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T01:33:08.000Z",
+        "source_domain": "bbc.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Five people injured in stabbing at New York City's Penn Station",
+        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T01:33:08.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Five people injured in stabbing at New York City's Penn Station",
+        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T01:33:08.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "1 million people flood Madrid streets to see the pope&apos;s flower-carpeted procession",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
-        "seendate": "2026-06-07T10:51:01.000Z",
-        "source_domain": "npr.org",
+        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+        "seendate": "2026-06-05T14:00:11.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "culture-wars"
       }
@@ -360,7 +300,7 @@
     "headline": "Iran and Israel trade threats after Tehran launches missiles",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
     "seendate": "2026-06-08T00:13:30.000Z",
-    "articleCount": 4,
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
@@ -379,6 +319,26 @@
         "title": "Iran and Israel trade threats after Tehran launches missiles",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
         "seendate": "2026-06-08T00:13:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Iran war live: Tehran fires missiles at Israel after strikes on Tehran",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+        "seendate": "2026-06-08T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran fires missiles at Israel after strikes on Tehran",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+        "seendate": "2026-06-08T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -478,33 +438,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
-    "headlineUrl": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
-    "seendate": "2026-06-05T14:00:11.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
-        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
-        "seendate": "2026-06-05T14:00:11.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
