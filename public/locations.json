@@ -1,112 +1,5 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Trump to cheer on Knicks at NBA Finals game in New York City",
-    "headlineUrl": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-08T09:08:59.000Z",
-    "articleCount": 9,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T09:08:59.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T09:08:59.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T09:08:59.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T09:08:59.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T09:08:59.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-08T09:08:59.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
-        "seendate": "2026-06-08T08:42:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
-        "seendate": "2026-06-08T08:42:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
-        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
-        "seendate": "2026-06-05T14:00:11.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -204,111 +97,24 @@
     ]
   },
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-    "headlineUrl": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-    "seendate": "2026-06-07T20:06:33.000Z",
-    "articleCount": 5,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York stabbing, Kansas City shooting raise World Cup security concerns",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+    "seendate": "2026-06-08T08:42:14.000Z",
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "seendate": "2026-06-07T20:06:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "seendate": "2026-06-07T20:06:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Israel hits Beirut&apos;s suburbs in retaliatory attack against Hezbollah",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "seendate": "2026-06-07T20:06:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-    "headlineUrl": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-    "seendate": "2026-06-08T09:32:57.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T09:32:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T09:32:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Iran and Israel trade threats after Tehran launches missiles",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
-        "seendate": "2026-06-08T00:13:30.000Z",
+        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+        "seendate": "2026-06-08T08:42:14.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -316,14 +122,24 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran and Israel trade threats after Tehran launches missiles",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
-        "seendate": "2026-06-08T00:13:30.000Z",
+        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+        "seendate": "2026-06-08T08:42:14.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
+        "seendate": "2026-06-05T14:00:11.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -375,6 +191,80 @@
     ]
   },
   {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
+    "seendate": "2026-06-08T12:00:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
+        "url": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
+        "seendate": "2026-06-08T12:00:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
+        "url": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
+        "seendate": "2026-06-08T12:00:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel kills 14 people in attacks across Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+    "seendate": "2026-06-08T10:23:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel kills 14 people in attacks across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+        "seendate": "2026-06-08T10:23:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills 14 people in attacks across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+        "seendate": "2026-06-08T10:23:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
@@ -412,39 +302,76 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Missiles intercepted over occupied East Jerusalem and West Bank",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
-    "seendate": "2026-06-08T07:14:34.000Z",
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+    "seendate": "2026-06-07T19:32:12.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Missiles intercepted over occupied East Jerusalem and West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
-        "seendate": "2026-06-08T07:14:34.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Missiles intercepted over occupied East Jerusalem and West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
-        "seendate": "2026-06-08T07:14:34.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+    "headlineUrl": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+    "seendate": "2026-06-08T09:32:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+        "seendate": "2026-06-08T09:32:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+        "seendate": "2026-06-08T09:32:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -477,43 +404,6 @@
         "title": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
         "url": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html",
         "seendate": "2026-06-07T15:40:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "On Patrol With Tokyo’s New Litter Police",
-    "headlineUrl": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-    "seendate": "2026-06-05T09:06:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "On Patrol With Tokyo’s New Litter Police",
-        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-        "seendate": "2026-06-05T09:06:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "On Patrol With Tokyo’s New Litter Police",
-        "url": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
-        "seendate": "2026-06-05T09:06:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
