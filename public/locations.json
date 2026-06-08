@@ -202,24 +202,24 @@
     ]
   },
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
-    "seendate": "2026-06-08T12:00:42.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Moment Israeli helicopter fires missile on Gaza City target",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
+    "seendate": "2026-06-08T18:36:24.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
-        "url": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
-        "seendate": "2026-06-08T12:00:42.000Z",
+        "title": "Moment Israeli helicopter fires missile on Gaza City target",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
+        "seendate": "2026-06-08T18:36:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -227,9 +227,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
-        "url": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
-        "seendate": "2026-06-08T12:00:42.000Z",
+        "title": "Moment Israeli helicopter fires missile on Gaza City target",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
+        "seendate": "2026-06-08T18:36:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -309,33 +309,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel kills 14 people in attacks across Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-    "seendate": "2026-06-08T10:23:27.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel kills 14 people in attacks across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-08T10:23:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
       }
     ]
   }
