@@ -6,14 +6,34 @@
     "lat": 19.43,
     "lon": -99.13,
     "timezone": "America/Mexico_City",
-    "headline": "Mexico City attempts record-breaking wave",
-    "headlineUrl": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-07T17:53:32.000Z",
+    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+    "seendate": "2026-06-08T13:47:47.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+        "seendate": "2026-06-08T13:47:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+        "seendate": "2026-06-08T13:47:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Mexico City attempts record-breaking wave",
         "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
@@ -73,11 +93,49 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
+    "seendate": "2026-06-08T16:06:47.000Z",
+    "articleCount": 4,
+    "categories": [
+      "humanitarian",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
+        "url": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
+        "seendate": "2026-06-08T16:06:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-        "seendate": "2026-06-07T14:58:27.000Z",
+        "title": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
+        "url": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
+        "seendate": "2026-06-08T16:06:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -85,61 +143,14 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-        "seendate": "2026-06-07T14:58:27.000Z",
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
-    "seendate": "2026-06-08T08:42:14.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
-        "seendate": "2026-06-08T08:42:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-        "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
-        "seendate": "2026-06-08T08:42:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Sydney Sweeney and Scooter Braun take their red-hot romance to the streets of New York",
-        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-take-red-hot-romance-streets-new-york",
-        "seendate": "2026-06-05T14:00:11.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -228,117 +239,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel kills 14 people in attacks across Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-    "seendate": "2026-06-08T10:23:27.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel kills 14 people in attacks across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-08T10:23:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel kills 14 people in attacks across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-08T10:23:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager?traffic_source=rss",
-    "seendate": "2026-06-08T08:31:17.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
-        "url": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager?traffic_source=rss",
-        "seendate": "2026-06-08T08:31:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
-        "url": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager?traffic_source=rss",
-        "seendate": "2026-06-08T08:31:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-    "seendate": "2026-06-07T19:32:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -347,7 +247,7 @@
     "timezone": "Asia/Tehran",
     "headline": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
     "headlineUrl": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-    "seendate": "2026-06-08T09:32:57.000Z",
+    "seendate": "2026-06-08T13:54:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -356,7 +256,7 @@
       {
         "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
         "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T09:32:57.000Z",
+        "seendate": "2026-06-08T13:54:29.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -366,7 +266,7 @@
       {
         "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
         "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T09:32:57.000Z",
+        "seendate": "2026-06-08T13:54:29.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -409,6 +309,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel kills 14 people in attacks across Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+    "seendate": "2026-06-08T10:23:27.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel kills 14 people in attacks across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+        "seendate": "2026-06-08T10:23:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       }
     ]
   }
