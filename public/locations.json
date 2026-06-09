@@ -1,103 +1,5 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Trump courts boos at historic New York NBA Finals appearance",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss",
-    "seendate": "2026-06-09T09:40:49.000Z",
-    "articleCount": 8,
-    "categories": [
-      "democracy-crisis",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump courts boos at historic New York NBA Finals appearance",
-        "url": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss",
-        "seendate": "2026-06-09T09:40:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump courts boos at historic New York NBA Finals appearance",
-        "url": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss",
-        "seendate": "2026-06-09T09:40:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -195,6 +97,83 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+    "headlineUrl": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-09T08:46:05.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T08:46:05.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T08:46:05.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T08:46:05.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T08:46:05.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T08:46:05.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T08:46:05.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Caracas",
     "name": "Caracas",
     "country": "VE",
@@ -231,43 +210,6 @@
           "democracy-crisis"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-    "seendate": "2026-06-07T19:32:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   }
