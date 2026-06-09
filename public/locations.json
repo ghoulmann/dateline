@@ -270,42 +270,5 @@
         "source_category": "democracy-crisis"
       }
     ]
-  },
-  {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-    "seendate": "2026-06-08T13:47:47.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-        "seendate": "2026-06-08T13:47:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-        "seendate": "2026-06-08T13:47:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
   }
 ]
