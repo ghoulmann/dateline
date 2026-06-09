@@ -1,43 +1,43 @@
 [
   {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-    "seendate": "2026-06-08T13:47:47.000Z",
-    "articleCount": 8,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
+    "seendate": "2026-06-09T00:00:00.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-        "seendate": "2026-06-08T13:47:47.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
+        "seendate": "2026-06-09T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-        "seendate": "2026-06-08T13:47:47.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
+        "seendate": "2026-06-09T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       },
       {
-        "title": "Mexico City attempts record-breaking wave",
-        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T17:53:32.000Z",
+        "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T23:50:59.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mexico City attempts record-breaking wave",
-        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T17:53:32.000Z",
+        "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T23:50:59.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -55,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Mexico City attempts record-breaking wave",
-        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T17:53:32.000Z",
+        "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T23:50:59.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -65,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Mexico City attempts record-breaking wave",
-        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T17:53:32.000Z",
+        "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T23:50:59.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -75,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Mexico City attempts record-breaking wave",
-        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T17:53:32.000Z",
+        "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T23:50:59.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -85,37 +85,57 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Mexico City attempts record-breaking wave",
-        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-07T17:53:32.000Z",
+        "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-08T23:50:59.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+        "seendate": "2026-06-08T13:54:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
+        "seendate": "2026-06-08T13:54:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
-    "seendate": "2026-06-08T16:06:47.000Z",
-    "articleCount": 4,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
+    "seendate": "2026-06-08T22:58:09.000Z",
+    "articleCount": 6,
     "categories": [
       "humanitarian",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
-        "url": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
-        "seendate": "2026-06-08T16:06:47.000Z",
+        "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
+        "seendate": "2026-06-08T22:58:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
@@ -123,9 +143,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
-        "url": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
-        "seendate": "2026-06-08T16:06:47.000Z",
+        "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
+        "seendate": "2026-06-08T22:58:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
@@ -133,24 +153,44 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Gaza cancer patient waits for a chance at life",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/gaza-cancer-patient-waits-for-a-chance-at-life?traffic_source=rss",
+        "seendate": "2026-06-08T20:47:30.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-        "seendate": "2026-06-07T19:32:12.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Gaza cancer patient waits for a chance at life",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/gaza-cancer-patient-waits-for-a-chance-at-life?traffic_source=rss",
+        "seendate": "2026-06-08T20:47:30.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Moment Israeli helicopter fires missile on Gaza City target",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
+        "seendate": "2026-06-08T18:36:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Moment Israeli helicopter fires missile on Gaza City target",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
+        "seendate": "2026-06-08T18:36:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -202,24 +242,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Moment Israeli helicopter fires missile on Gaza City target",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
-    "seendate": "2026-06-08T18:36:24.000Z",
+    "id": "Tel Aviv",
+    "name": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.09,
+    "lon": 34.77,
+    "timezone": "Asia/Jerusalem",
+    "headline": "‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
+    "seendate": "2026-06-08T20:54:57.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Moment Israeli helicopter fires missile on Gaza City target",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
-        "seendate": "2026-06-08T18:36:24.000Z",
+        "title": "‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
+        "seendate": "2026-06-08T20:54:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -227,9 +267,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Moment Israeli helicopter fires missile on Gaza City target",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
-        "seendate": "2026-06-08T18:36:24.000Z",
+        "title": "‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
+        "seendate": "2026-06-08T20:54:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -239,24 +279,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-    "headlineUrl": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-    "seendate": "2026-06-08T13:54:29.000Z",
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+    "seendate": "2026-06-07T19:32:12.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T13:54:29.000Z",
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -264,9 +304,46 @@
         "source_category": "political-repression"
       },
       {
-        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T13:54:29.000Z",
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "seendate": "2026-06-07T19:32:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+    "headlineUrl": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+    "seendate": "2026-06-08T13:47:47.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+        "seendate": "2026-06-08T13:47:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+        "seendate": "2026-06-08T13:47:47.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
