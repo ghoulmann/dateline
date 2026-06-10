@@ -1,43 +1,140 @@
 [
   {
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+    "headlineUrl": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-10T09:02:57.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T09:02:57.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T09:02:57.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T09:02:57.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T09:02:57.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T09:02:57.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T09:02:57.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+        "seendate": "2026-06-10T08:59:32.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+        "seendate": "2026-06-10T08:59:32.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+        "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss",
+        "seendate": "2026-06-10T08:11:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+        "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss",
+        "seendate": "2026-06-10T08:11:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
-    "headlineUrl": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-    "seendate": "2026-06-10T05:22:01.000Z",
-    "articleCount": 12,
+    "headline": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
+    "seendate": "2026-06-10T07:16:39.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
-        "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-        "seendate": "2026-06-10T05:22:01.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
-        "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-        "seendate": "2026-06-10T05:22:01.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Iran war live: Tehran targets US forces in Bahrain, Jordan, Kuwait",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
-        "seendate": "2026-06-10T00:00:00.000Z",
+        "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+        "url": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
+        "seendate": "2026-06-10T07:16:39.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +142,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran targets US forces in Bahrain, Jordan, Kuwait",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
-        "seendate": "2026-06-10T00:00:00.000Z",
+        "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+        "url": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
+        "seendate": "2026-06-10T07:16:39.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -113,48 +210,28 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T13:54:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "No Calm for Tehran’s Residents as Iran-Israel Fighting Resumes",
-        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-        "seendate": "2026-06-08T13:54:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-    "headlineUrl": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-09T08:46:05.000Z",
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Firms charged with manslaughter over deadly Hong Kong fire",
+    "headlineUrl": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-10T07:58:58.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
+        "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T07:58:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -162,9 +239,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
+        "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T07:58:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -172,9 +249,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
+        "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T07:58:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -182,9 +259,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
+        "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T07:58:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -192,9 +269,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
+        "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T07:58:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -202,14 +279,102 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T08:46:05.000Z",
+        "title": "Firms charged with manslaughter over deadly Hong Kong fire",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-10T07:58:58.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "San Francisco",
+    "name": "San Francisco",
+    "country": "US",
+    "lat": 37.77,
+    "lon": -122.41,
+    "timezone": "America/Los_Angeles",
+    "headline": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+    "headlineUrl": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+    "seendate": "2026-06-10T09:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "democracy-crisis",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+        "url": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+        "seendate": "2026-06-10T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+        "url": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+        "seendate": "2026-06-10T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+        "url": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+        "seendate": "2026-06-10T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
+    "seendate": "2026-06-10T08:27:28.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+        "url": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
+        "seendate": "2026-06-10T08:27:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+        "url": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
+        "seendate": "2026-06-10T08:27:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
