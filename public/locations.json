@@ -98,279 +98,6 @@
     ]
   },
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
-    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
-    "seendate": "2026-06-10T19:38:57.000Z",
-    "articleCount": 8,
-    "categories": [
-      "humanitarian",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
-        "url": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
-        "seendate": "2026-06-10T19:38:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
-        "url": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
-        "seendate": "2026-06-10T19:38:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "First charges laid over deadly Hong Kong fire",
-        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T13:05:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "First charges laid over deadly Hong Kong fire",
-        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T13:05:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "First charges laid over deadly Hong Kong fire",
-        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T13:05:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "First charges laid over deadly Hong Kong fire",
-        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T13:05:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "First charges laid over deadly Hong Kong fire",
-        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T13:05:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "First charges laid over deadly Hong Kong fire",
-        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T13:05:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Johannesburg",
-    "name": "Johannesburg",
-    "country": "ZA",
-    "lat": -26.2,
-    "lon": 28.04,
-    "timezone": "Africa/Johannesburg",
-    "headline": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
-    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
-    "seendate": "2026-06-10T20:47:05.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
-        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
-        "seendate": "2026-06-10T20:47:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
-        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
-        "seendate": "2026-06-10T20:47:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T10:26:54.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T10:26:54.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T10:26:54.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T10:26:54.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T10:26:54.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-10T10:26:54.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
-    "seendate": "2026-06-11T11:23:18.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict",
-      "political-repression"
-    ],
-    "articles": [
-      {
-        "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
-        "seendate": "2026-06-11T11:23:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
-        "seendate": "2026-06-11T11:23:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
-        "url": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
-        "seendate": "2026-06-11T11:08:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
-        "url": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
-        "seendate": "2026-06-11T11:08:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "World celebrates, but Gaza watches the World Cup from a distance",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
-        "seendate": "2026-06-11T09:15:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "World celebrates, but Gaza watches the World Cup from a distance",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
-        "seendate": "2026-06-11T09:15:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -619,43 +346,6 @@
     ]
   },
   {
-    "id": "Tripoli",
-    "name": "Tripoli",
-    "country": "LY",
-    "lat": 32.9,
-    "lon": 13.18,
-    "timezone": "Africa/Tripoli",
-    "headline": "Lebanon: Life in Tripoli as War Displaces Over a Million",
-    "headlineUrl": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
-    "seendate": "2026-06-11T11:07:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
-        "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
-        "seendate": "2026-06-11T11:07:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
-        "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
-        "seendate": "2026-06-11T11:07:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -664,7 +354,7 @@
     "timezone": "America/Mexico_City",
     "headline": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
     "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-    "seendate": "2026-06-11T09:04:40.000Z",
+    "seendate": "2026-06-11T13:49:58.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -673,7 +363,7 @@
       {
         "title": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
         "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T09:04:40.000Z",
+        "seendate": "2026-06-11T13:49:58.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -683,7 +373,44 @@
       {
         "title": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
         "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T09:04:40.000Z",
+        "seendate": "2026-06-11T13:49:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
+    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
+    "seendate": "2026-06-10T19:38:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
+        "url": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
+        "seendate": "2026-06-10T19:38:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
+        "url": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
+        "seendate": "2026-06-10T19:38:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -721,6 +448,43 @@
         "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
         "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
         "seendate": "2026-06-10T18:55:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+    "seendate": "2026-06-10T20:47:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+        "seendate": "2026-06-10T20:47:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+        "seendate": "2026-06-10T20:47:05.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
