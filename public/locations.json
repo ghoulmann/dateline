@@ -1,98 +1,98 @@
 [
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-    "seendate": "2026-06-11T00:00:00.000Z",
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Thai court sentences two men to death over Bangkok shrine bombing",
+    "headlineUrl": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-11T06:45:10.000Z",
     "articleCount": 8,
     "categories": [
-      "armed-conflict"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-        "seendate": "2026-06-11T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:45:10.000Z",
+        "source_domain": "bbc.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-        "seendate": "2026-06-11T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:45:10.000Z",
+        "source_domain": "bbc.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:45:10.000Z",
         "source_domain": "bbc.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:45:10.000Z",
         "source_domain": "bbc.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:45:10.000Z",
         "source_domain": "bbc.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:45:10.000Z",
         "source_domain": "bbc.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Thailand court sentences two men to death for 2015 Bangkok bombing",
+        "url": "https://www.aljazeera.com/news/2026/6/11/thailand-court-sentences-two-men-to-death-for-2015-bangkok-bombing?traffic_source=rss",
+        "seendate": "2026-06-11T06:19:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thailand court sentences two men to death for 2015 Bangkok bombing",
+        "url": "https://www.aljazeera.com/news/2026/6/11/thailand-court-sentences-two-men-to-death-for-2015-bangkok-bombing?traffic_source=rss",
+        "seendate": "2026-06-11T06:19:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -288,6 +288,281 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+    "headlineUrl": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-11T06:04:33.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:04:33.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:04:33.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:04:33.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:04:33.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:04:33.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-11T06:04:33.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+    "headlineUrl": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-09T05:07:44.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Quito",
+    "name": "Quito",
+    "country": "EC",
+    "lat": -0.18,
+    "lon": -78.47,
+    "timezone": "America/Guayaquil",
+    "headline": "From neon mosquitoes to winged migrations, top images captured by scientists",
+    "headlineUrl": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
+    "seendate": "2026-06-11T09:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
+        "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
+        "seendate": "2026-06-11T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
+        "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
+        "seendate": "2026-06-11T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
+        "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
+        "seendate": "2026-06-11T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "World celebrates, but Gaza watches the World Cup from a distance",
+    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
+    "seendate": "2026-06-11T09:15:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "World celebrates, but Gaza watches the World Cup from a distance",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
+        "seendate": "2026-06-11T09:15:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "World celebrates, but Gaza watches the World Cup from a distance",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
+        "seendate": "2026-06-11T09:15:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+    "seendate": "2026-06-11T09:04:40.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T09:04:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T09:04:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
