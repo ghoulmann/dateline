@@ -6,19 +6,39 @@
     "lat": 13.74,
     "lon": 100.5,
     "timezone": "Asia/Bangkok",
-    "headline": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-    "seendate": "2026-06-11T11:47:58.000Z",
-    "articleCount": 8,
+    "headline": "Two sentenced to death in Bangkok bombing",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
+    "seendate": "2026-06-11T18:24:48.000Z",
+    "articleCount": 10,
     "categories": [
-      "democracy-crisis",
-      "armed-conflict"
+      "armed-conflict",
+      "democracy-crisis"
     ],
     "articles": [
       {
+        "title": "Two sentenced to death in Bangkok bombing",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
+        "seendate": "2026-06-11T18:24:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two sentenced to death in Bangkok bombing",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
+        "seendate": "2026-06-11T18:24:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
         "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-        "seendate": "2026-06-11T11:47:58.000Z",
+        "seendate": "2026-06-11T11:47:59.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -28,7 +48,7 @@
       {
         "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
         "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-        "seendate": "2026-06-11T11:47:58.000Z",
+        "seendate": "2026-06-11T11:47:59.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -94,6 +114,83 @@
           "democracy-crisis"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Security Is Tight as a Match in Mexico City Starts a Historic World Cup",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html",
+    "seendate": "2026-06-11T20:37:28.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Security Is Tight as a Match in Mexico City Starts a Historic World Cup",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html",
+        "seendate": "2026-06-11T20:37:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Security Is Tight as a Match in Mexico City Starts a Historic World Cup",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html",
+        "seendate": "2026-06-11T20:37:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Mexico City dazzles as 2026 World Cup kicks off in style",
+        "url": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
+        "seendate": "2026-06-11T20:12:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Mexico City dazzles as 2026 World Cup kicks off in style",
+        "url": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
+        "seendate": "2026-06-11T20:12:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Mexico City Protests Go On Without Disrupting the World Cup Opening Ceremony",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T19:52:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Mexico City Protests Go On Without Disrupting the World Cup Opening Ceremony",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T19:52:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -299,86 +396,39 @@
     ]
   },
   {
-    "id": "Quito",
-    "name": "Quito",
-    "country": "EC",
-    "lat": -0.18,
-    "lon": -78.47,
-    "timezone": "America/Guayaquil",
-    "headline": "From neon mosquitoes to winged migrations, top images captured by scientists",
-    "headlineUrl": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
-    "seendate": "2026-06-11T09:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
-        "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
-        "seendate": "2026-06-11T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
-        "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
-        "seendate": "2026-06-11T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
-        "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
-        "seendate": "2026-06-11T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-    "seendate": "2026-06-11T13:49:58.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Jose Mourinho named Real Madrid coach on three-year deal",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss",
+    "seendate": "2026-06-11T19:09:37.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T13:49:58.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Jose Mourinho named Real Madrid coach on three-year deal",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss",
+        "seendate": "2026-06-11T19:09:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Protests Threaten to Disrupt Mexico City’s World Cup Opening Ceremony",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T13:49:58.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Jose Mourinho named Real Madrid coach on three-year deal",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss",
+        "seendate": "2026-06-11T19:09:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -448,43 +498,6 @@
         "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
         "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
         "seendate": "2026-06-10T18:55:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Johannesburg",
-    "name": "Johannesburg",
-    "country": "ZA",
-    "lat": -26.2,
-    "lon": 28.04,
-    "timezone": "Africa/Johannesburg",
-    "headline": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
-    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
-    "seendate": "2026-06-10T20:47:05.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
-        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
-        "seendate": "2026-06-10T20:47:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
-        "url": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
-        "seendate": "2026-06-10T20:47:05.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
