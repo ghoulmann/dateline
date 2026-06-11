@@ -6,14 +6,35 @@
     "lat": 13.74,
     "lon": 100.5,
     "timezone": "Asia/Bangkok",
-    "headline": "Thai court sentences two men to death over Bangkok shrine bombing",
-    "headlineUrl": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-11T06:45:10.000Z",
+    "headline": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+    "seendate": "2026-06-11T11:47:58.000Z",
     "articleCount": 8,
     "categories": [
-      "democracy-crisis"
+      "democracy-crisis",
+      "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+        "seendate": "2026-06-11T11:47:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+        "seendate": "2026-06-11T11:47:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Thai court sentences two men to death over Bangkok shrine bombing",
         "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
@@ -73,26 +94,6 @@
           "democracy-crisis"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Thailand court sentences two men to death for 2015 Bangkok bombing",
-        "url": "https://www.aljazeera.com/news/2026/6/11/thailand-court-sentences-two-men-to-death-for-2015-bangkok-bombing?traffic_source=rss",
-        "seendate": "2026-06-11T06:19:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thailand court sentences two men to death for 2015 Bangkok bombing",
-        "url": "https://www.aljazeera.com/news/2026/6/11/thailand-court-sentences-two-men-to-death-for-2015-bangkok-bombing?traffic_source=rss",
-        "seendate": "2026-06-11T06:19:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -292,6 +293,84 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
+    "seendate": "2026-06-11T11:23:18.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict",
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
+        "seendate": "2026-06-11T11:23:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
+        "seendate": "2026-06-11T11:23:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
+        "url": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
+        "seendate": "2026-06-11T11:08:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
+        "url": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
+        "seendate": "2026-06-11T11:08:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "World celebrates, but Gaza watches the World Cup from a distance",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
+        "seendate": "2026-06-11T09:15:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "World celebrates, but Gaza watches the World Cup from a distance",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
+        "seendate": "2026-06-11T09:15:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -300,7 +379,7 @@
     "timezone": "America/New_York",
     "headline": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
     "headlineUrl": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-11T06:04:33.000Z",
+    "seendate": "2026-06-11T11:58:14.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -309,7 +388,7 @@
       {
         "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
         "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:04:33.000Z",
+        "seendate": "2026-06-11T11:58:14.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -319,7 +398,7 @@
       {
         "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
         "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:04:33.000Z",
+        "seendate": "2026-06-11T11:58:14.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -329,7 +408,7 @@
       {
         "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
         "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:04:33.000Z",
+        "seendate": "2026-06-11T11:58:14.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -339,7 +418,7 @@
       {
         "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
         "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:04:33.000Z",
+        "seendate": "2026-06-11T11:58:14.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -349,7 +428,7 @@
       {
         "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
         "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:04:33.000Z",
+        "seendate": "2026-06-11T11:58:14.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -359,7 +438,7 @@
       {
         "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
         "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:04:33.000Z",
+        "seendate": "2026-06-11T11:58:14.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -446,6 +525,53 @@
     ]
   },
   {
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
+    "headlineUrl": "https://www.npr.org/2026/06/11/g-s1-126207/korea-seoul-national-museum-room-of-quiet-contemplation-bodhisattavas",
+    "seendate": "2026-06-11T12:12:18.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
+        "url": "https://www.npr.org/2026/06/11/g-s1-126207/korea-seoul-national-museum-room-of-quiet-contemplation-bodhisattavas",
+        "seendate": "2026-06-11T12:12:18.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
+        "url": "https://www.npr.org/2026/06/11/g-s1-126207/korea-seoul-national-museum-room-of-quiet-contemplation-bodhisattavas",
+        "seendate": "2026-06-11T12:12:18.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
+        "url": "https://www.npr.org/2026/06/11/g-s1-126207/korea-seoul-national-museum-room-of-quiet-contemplation-bodhisattavas",
+        "seendate": "2026-06-11T12:12:18.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Quito",
     "name": "Quito",
     "country": "EC",
@@ -493,24 +619,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "World celebrates, but Gaza watches the World Cup from a distance",
-    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
-    "seendate": "2026-06-11T09:15:31.000Z",
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "Lebanon: Life in Tripoli as War Displaces Over a Million",
+    "headlineUrl": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
+    "seendate": "2026-06-11T11:07:56.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "World celebrates, but Gaza watches the World Cup from a distance",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
-        "seendate": "2026-06-11T09:15:31.000Z",
+        "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
+        "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
+        "seendate": "2026-06-11T11:07:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -518,9 +644,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "World celebrates, but Gaza watches the World Cup from a distance",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
-        "seendate": "2026-06-11T09:15:31.000Z",
+        "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
+        "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
+        "seendate": "2026-06-11T11:07:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
