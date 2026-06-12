@@ -406,57 +406,40 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel launches overnight strikes across Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-    "seendate": "2026-06-12T01:11:34.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel launches overnight strikes across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-12T01:11:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel launches overnight strikes across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-12T01:11:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-    "headlineUrl": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-    "seendate": "2026-06-12T04:01:06.000Z",
-    "articleCount": 2,
+    "headline": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
+    "headlineUrl": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
+    "seendate": "2026-06-12T13:09:49.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
+        "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
+        "seendate": "2026-06-12T13:09:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
+        "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
+        "seendate": "2026-06-12T13:09:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
         "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
@@ -476,6 +459,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London mayor slams event touting illegal Israeli settlement land sales",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
+    "seendate": "2026-06-12T13:01:19.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "London mayor slams event touting illegal Israeli settlement land sales",
+        "url": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
+        "seendate": "2026-06-12T13:01:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "London mayor slams event touting illegal Israeli settlement land sales",
+        "url": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
+        "seendate": "2026-06-12T13:01:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
