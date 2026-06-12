@@ -1,24 +1,23 @@
 [
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Two sentenced to death in Bangkok bombing",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
-    "seendate": "2026-06-11T18:24:48.000Z",
-    "articleCount": 10,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+    "seendate": "2026-06-12T00:00:00.000Z",
+    "articleCount": 8,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Two sentenced to death in Bangkok bombing",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
-        "seendate": "2026-06-11T18:24:48.000Z",
+        "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+        "seendate": "2026-06-12T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,15 +25,93 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Two sentenced to death in Bangkok bombing",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
-        "seendate": "2026-06-11T18:24:48.000Z",
+        "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+        "seendate": "2026-06-12T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-09T05:07:44.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+    "seendate": "2026-06-11T11:47:59.000Z",
+    "articleCount": 8,
+    "categories": [
+      "democracy-crisis",
+      "armed-conflict"
+    ],
+    "articles": [
       {
         "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
         "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
@@ -124,18 +201,18 @@
     "lat": 19.43,
     "lon": -99.13,
     "timezone": "America/Mexico_City",
-    "headline": "Security Is Tight as a Match in Mexico City Starts a Historic World Cup",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html",
-    "seendate": "2026-06-11T20:37:28.000Z",
+    "headline": "As World Cup Begins, Mexico City Becomes a Global Stage",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+    "seendate": "2026-06-11T23:43:04.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Security Is Tight as a Match in Mexico City Starts a Historic World Cup",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html",
-        "seendate": "2026-06-11T20:37:28.000Z",
+        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+        "seendate": "2026-06-11T23:43:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -143,9 +220,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Security Is Tight as a Match in Mexico City Starts a Historic World Cup",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html",
-        "seendate": "2026-06-11T20:37:28.000Z",
+        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+        "seendate": "2026-06-11T23:43:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -153,7 +230,27 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Mexico City dazzles as 2026 World Cup kicks off in style",
+        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T21:29:19.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T21:29:19.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Mexico City dazzles as World Cup 2026 kicks off in style",
         "url": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
         "seendate": "2026-06-11T20:12:26.000Z",
         "source_domain": "aljazeera.com",
@@ -163,7 +260,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mexico City dazzles as 2026 World Cup kicks off in style",
+        "title": "Mexico City dazzles as World Cup 2026 kicks off in style",
         "url": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
         "seendate": "2026-06-11T20:12:26.000Z",
         "source_domain": "aljazeera.com",
@@ -171,26 +268,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Mexico City Protests Go On Without Disrupting the World Cup Opening Ceremony",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T19:52:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Mexico City Protests Go On Without Disrupting the World Cup Opening Ceremony",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T19:52:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -272,79 +349,59 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-    "headlineUrl": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-09T05:07:44.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
+    "seendate": "2026-06-11T21:49:27.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
+        "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
+        "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
+        "seendate": "2026-06-11T21:49:27.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
+        "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
+        "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
+        "seendate": "2026-06-11T21:49:27.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
+        "title": "How puppets are helping women and children in Gaza cope with trauma",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
+        "seendate": "2026-06-11T20:40:09.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
+        "title": "How puppets are helping women and children in Gaza cope with trauma",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
+        "seendate": "2026-06-11T20:40:09.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-09T05:07:44.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
