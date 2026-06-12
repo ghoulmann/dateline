@@ -1,24 +1,43 @@
 [
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-    "seendate": "2026-06-11T11:47:59.000Z",
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Activists form human Palestine flag at World Cup opener in Mexico City",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
+    "seendate": "2026-06-12T15:06:04.000Z",
     "articleCount": 8,
     "categories": [
-      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-        "seendate": "2026-06-11T11:47:59.000Z",
+        "title": "Activists form human Palestine flag at World Cup opener in Mexico City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
+        "seendate": "2026-06-12T15:06:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Activists form human Palestine flag at World Cup opener in Mexico City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
+        "seendate": "2026-06-12T15:06:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+        "seendate": "2026-06-12T14:10:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +45,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-        "seendate": "2026-06-11T11:47:59.000Z",
+        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+        "seendate": "2026-06-12T14:10:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -36,141 +55,44 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:45:10.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:45:10.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:45:10.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:45:10.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:45:10.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T06:45:10.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-    "headlineUrl": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-12T08:09:37.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T08:09:37.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T08:09:37.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T08:09:37.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T08:09:37.000Z",
-        "source_domain": "bbc.com",
+        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+        "seendate": "2026-06-12T01:21:26.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T08:09:37.000Z",
-        "source_domain": "bbc.com",
+        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+        "seendate": "2026-06-12T01:21:26.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T08:09:37.000Z",
-        "source_domain": "bbc.com",
+        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T21:29:19.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
+        "seendate": "2026-06-11T21:29:19.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -252,160 +174,6 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-    "headlineUrl": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-11T11:58:14.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T11:58:14.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T11:58:14.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T11:58:14.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T11:58:14.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T11:58:14.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-11T11:58:14.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-    "headlineUrl": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-    "seendate": "2026-06-12T09:05:39.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-        "seendate": "2026-06-12T09:05:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-        "seendate": "2026-06-12T09:05:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T21:29:19.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T21:29:19.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -414,7 +182,7 @@
     "timezone": "Europe/Paris",
     "headline": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
     "headlineUrl": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-    "seendate": "2026-06-12T13:09:49.000Z",
+    "seendate": "2026-06-12T16:28:13.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -423,7 +191,7 @@
       {
         "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
         "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-        "seendate": "2026-06-12T13:09:49.000Z",
+        "seendate": "2026-06-12T16:28:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -433,7 +201,7 @@
       {
         "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
         "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-        "seendate": "2026-06-12T13:09:49.000Z",
+        "seendate": "2026-06-12T16:28:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -459,6 +227,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-fever-grips-los-angeles-despite-trump-policies?traffic_source=rss",
+    "seendate": "2026-06-12T16:05:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-fever-grips-los-angeles-despite-trump-policies?traffic_source=rss",
+        "seendate": "2026-06-12T16:05:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-fever-grips-los-angeles-despite-trump-policies?traffic_source=rss",
+        "seendate": "2026-06-12T16:05:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -496,6 +301,43 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+    "seendate": "2026-06-11T11:47:59.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+        "seendate": "2026-06-11T11:47:59.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
+        "seendate": "2026-06-11T11:47:59.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   }
