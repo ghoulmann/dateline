@@ -1,102 +1,5 @@
 [
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-    "headlineUrl": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-12T02:15:24.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T02:15:24.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T02:15:24.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T02:15:24.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T02:15:24.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T02:15:24.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T02:15:24.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
-        "seendate": "2026-06-12T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
-        "seendate": "2026-06-12T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Bangkok",
     "name": "Bangkok",
     "country": "TH",
@@ -195,79 +98,79 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel launches overnight strikes across Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-    "seendate": "2026-06-12T01:11:34.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+    "headlineUrl": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-12T08:09:37.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel launches overnight strikes across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-12T01:11:34.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-12T08:09:37.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel launches overnight strikes across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-        "seendate": "2026-06-12T01:11:34.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-12T08:09:37.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-        "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-        "seendate": "2026-06-11T21:49:27.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-12T08:09:37.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-        "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-        "seendate": "2026-06-11T21:49:27.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-12T08:09:37.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
       },
       {
-        "title": "How puppets are helping women and children in Gaza cope with trauma",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
-        "seendate": "2026-06-11T20:40:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-12T08:09:37.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "How puppets are helping women and children in Gaza cope with trauma",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
-        "seendate": "2026-06-11T20:40:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-12T08:09:37.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -432,18 +335,38 @@
     "lat": 19.43,
     "lon": -99.13,
     "timezone": "America/Mexico_City",
-    "headline": "As World Cup Begins, Mexico City Becomes a Global Stage",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-    "seendate": "2026-06-12T01:21:25.000Z",
-    "articleCount": 4,
+    "headline": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+    "headlineUrl": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+    "seendate": "2026-06-12T09:05:39.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+        "seendate": "2026-06-12T09:05:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+        "seendate": "2026-06-12T09:05:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
         "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
         "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:25.000Z",
+        "seendate": "2026-06-12T01:21:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -453,7 +376,7 @@
       {
         "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
         "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:25.000Z",
+        "seendate": "2026-06-12T01:21:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -479,6 +402,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel launches overnight strikes across Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+    "seendate": "2026-06-12T01:11:34.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel launches overnight strikes across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+        "seendate": "2026-06-12T01:11:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel launches overnight strikes across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+        "seendate": "2026-06-12T01:11:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -511,80 +471,6 @@
         "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
         "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
         "seendate": "2026-06-12T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
-    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
-    "seendate": "2026-06-10T19:38:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
-        "url": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
-        "seendate": "2026-06-10T19:38:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
-        "url": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
-        "seendate": "2026-06-10T19:38:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
-    "headlineUrl": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
-    "seendate": "2026-06-10T18:55:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
-        "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
-        "seendate": "2026-06-10T18:55:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
-        "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
-        "seendate": "2026-06-10T18:55:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
