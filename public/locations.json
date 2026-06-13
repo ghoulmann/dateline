@@ -1,5 +1,65 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+    "seendate": "2026-06-13T16:01:15.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+        "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+        "seendate": "2026-06-13T16:01:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict",
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+        "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+        "seendate": "2026-06-13T16:01:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict",
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
+        "seendate": "2026-06-13T09:01:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
+        "seendate": "2026-06-13T09:01:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Assam",
     "name": "Assam",
     "country": "IN",
@@ -48,63 +108,6 @@
         "title": "Five Indian air force staff killed as transport plane crashes in Assam",
         "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
         "seendate": "2026-06-13T11:29:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
-    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
-    "seendate": "2026-06-13T09:01:02.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
-        "seendate": "2026-06-13T09:01:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
-        "seendate": "2026-06-13T09:01:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-        "seendate": "2026-06-13T08:04:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-        "seendate": "2026-06-13T08:04:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -167,6 +170,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+    "seendate": "2026-06-13T15:43:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+        "seendate": "2026-06-13T15:43:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+        "seendate": "2026-06-13T15:43:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -241,6 +281,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Charlotte",
+    "name": "Charlotte",
+    "country": "US",
+    "lat": 35.23,
+    "lon": -80.84,
+    "timezone": "America/New_York",
+    "headline": "Kate Middleton wears Princess Diana&apos;s pearl bracelet at Trooping the Colour as Charlotte mirrors her mother",
+    "headlineUrl": "https://www.foxnews.com/entertainment/kate-middleton-wears-princess-dianas-pearl-bracelet-trooping-colour-charlotte-mirrors-her-mother",
+    "seendate": "2026-06-13T16:19:41.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Kate Middleton wears Princess Diana&apos;s pearl bracelet at Trooping the Colour as Charlotte mirrors her mother",
+        "url": "https://www.foxnews.com/entertainment/kate-middleton-wears-princess-dianas-pearl-bracelet-trooping-colour-charlotte-mirrors-her-mother",
+        "seendate": "2026-06-13T16:19:41.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
