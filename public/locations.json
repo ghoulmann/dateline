@@ -211,24 +211,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-    "seendate": "2026-06-13T00:00:00.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+    "seendate": "2026-06-13T08:04:03.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-        "seendate": "2026-06-13T00:00:00.000Z",
+        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+        "seendate": "2026-06-13T08:04:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -236,46 +236,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-        "seendate": "2026-06-13T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York City catches World Cup fever amid transit chaos, high costs",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/12/new-york-city-catches-world-cup-fever-amid-transit-chaos-high-costs?traffic_source=rss",
-    "seendate": "2026-06-12T20:15:51.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York City catches World Cup fever amid transit chaos, high costs",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/new-york-city-catches-world-cup-fever-amid-transit-chaos-high-costs?traffic_source=rss",
-        "seendate": "2026-06-12T20:15:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York City catches World Cup fever amid transit chaos, high costs",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/new-york-city-catches-world-cup-fever-amid-transit-chaos-high-costs?traffic_source=rss",
-        "seendate": "2026-06-12T20:15:51.000Z",
+        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+        "seendate": "2026-06-13T08:04:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
