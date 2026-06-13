@@ -1,155 +1,115 @@
 [
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-    "headlineUrl": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-12T05:01:48.000Z",
-    "articleCount": 6,
+    "id": "Assam",
+    "name": "Assam",
+    "country": "IN",
+    "lat": 26.2,
+    "lon": 92.9,
+    "timezone": "Asia/Kolkata",
+    "headline": "Deadly military plane crash in India’s Assam",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
+    "seendate": "2026-06-13T12:10:00.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T05:01:48.000Z",
-        "source_domain": "bbc.com",
+        "title": "Deadly military plane crash in India’s Assam",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
+        "seendate": "2026-06-13T12:10:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T05:01:48.000Z",
-        "source_domain": "bbc.com",
+        "title": "Deadly military plane crash in India’s Assam",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
+        "seendate": "2026-06-13T12:10:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T05:01:48.000Z",
-        "source_domain": "bbc.com",
+        "title": "Five Indian air force staff killed as transport plane crashes in Assam",
+        "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
+        "seendate": "2026-06-13T11:29:31.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T05:01:48.000Z",
-        "source_domain": "bbc.com",
+        "title": "Five Indian air force staff killed as transport plane crashes in Assam",
+        "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
+        "seendate": "2026-06-13T11:29:31.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T05:01:48.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-12T05:01:48.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-    "headlineUrl": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-    "seendate": "2026-06-12T23:03:22.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
+    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
+    "seendate": "2026-06-13T09:01:02.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-        "seendate": "2026-06-12T23:03:22.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
+        "seendate": "2026-06-13T09:01:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-        "seendate": "2026-06-12T23:03:22.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
+        "seendate": "2026-06-13T09:01:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       },
       {
-        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:26.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+        "seendate": "2026-06-13T08:04:03.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:26.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+        "seendate": "2026-06-13T08:04:03.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T21:29:19.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html",
-        "seendate": "2026-06-11T21:29:19.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -211,39 +171,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-    "seendate": "2026-06-13T08:04:03.000Z",
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "As World Cup Begins, Mexico City Becomes a Global Stage",
+    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+    "seendate": "2026-06-12T01:21:26.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-        "seendate": "2026-06-13T08:04:03.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+        "seendate": "2026-06-12T01:21:26.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-        "seendate": "2026-06-13T08:04:03.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
+        "seendate": "2026-06-12T01:21:26.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
