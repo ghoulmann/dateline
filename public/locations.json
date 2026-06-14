@@ -6,14 +6,34 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-    "headlineUrl": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-13T18:39:26.000Z",
+    "headline": "Iran war live: Trump says deal to be signed today; Tehran urges caution",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+    "seendate": "2026-06-14T00:00:00.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Iran war live: Trump says deal to be signed today; Tehran urges caution",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+        "seendate": "2026-06-14T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Trump says deal to be signed today; Tehran urges caution",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+        "seendate": "2026-06-14T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
@@ -73,83 +93,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
-        "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
-        "seendate": "2026-06-13T15:43:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
-        "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
-        "seendate": "2026-06-13T15:43:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
-    "seendate": "2026-06-13T17:10:49.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
-        "seendate": "2026-06-13T17:10:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
-        "seendate": "2026-06-13T17:10:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-        "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
-        "seendate": "2026-06-13T16:01:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-        "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
-        "seendate": "2026-06-13T16:01:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -211,6 +154,80 @@
     ]
   },
   {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
+    "seendate": "2026-06-13T21:20:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
+        "seendate": "2026-06-13T21:20:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
+        "seendate": "2026-06-13T21:20:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
+    "seendate": "2026-06-13T20:46:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
+        "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
+        "seendate": "2026-06-13T20:46:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
+        "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
+        "seendate": "2026-06-13T20:46:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Boston",
     "name": "Boston",
     "country": "US",
@@ -248,43 +265,6 @@
     ]
   },
   {
-    "id": "Assam",
-    "name": "Assam",
-    "country": "IN",
-    "lat": 26.2,
-    "lon": 92.9,
-    "timezone": "Asia/Kolkata",
-    "headline": "Deadly military plane crash in India’s Assam",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-    "seendate": "2026-06-13T12:10:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Deadly military plane crash in India’s Assam",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-        "seendate": "2026-06-13T12:10:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Deadly military plane crash in India’s Assam",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-        "seendate": "2026-06-13T12:10:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -313,43 +293,6 @@
         "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
         "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
         "seendate": "2026-06-12T01:21:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-    "seendate": "2026-06-11T11:47:59.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-        "seendate": "2026-06-11T11:47:59.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-        "url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-        "seendate": "2026-06-11T11:47:59.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
