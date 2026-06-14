@@ -1,23 +1,43 @@
 [
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-    "headlineUrl": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-14T11:23:36.000Z",
-    "articleCount": 8,
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+    "headlineUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+    "seendate": "2026-06-14T16:11:32.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T11:23:36.000Z",
+        "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "seendate": "2026-06-14T16:11:32.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "seendate": "2026-06-14T16:11:32.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T15:34:32.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T11:23:36.000Z",
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T15:34:32.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T11:23:36.000Z",
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T15:34:32.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T11:23:36.000Z",
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T15:34:32.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -55,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T11:23:36.000Z",
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T15:34:32.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -65,9 +85,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T11:23:36.000Z",
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T15:34:32.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -75,9 +95,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
-        "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
-        "seendate": "2026-06-14T07:24:02.000Z",
+        "title": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
+        "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+        "seendate": "2026-06-14T15:22:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -85,91 +105,74 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
-        "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
-        "seendate": "2026-06-14T07:24:02.000Z",
+        "title": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
+        "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+        "seendate": "2026-06-14T15:22:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York Knicks win NBA championship for first time in over 50 years",
-    "headlineUrl": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-14T07:21:26.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York Knicks win NBA championship for first time in over 50 years",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T07:21:26.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
       },
       {
-        "title": "New York Knicks win NBA championship for first time in over 50 years",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T07:21:26.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New York Knicks win NBA championship for first time in over 50 years",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T07:21:26.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York Knicks win NBA championship for first time in over 50 years",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T07:21:26.000Z",
-        "source_domain": "bbc.com",
+        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+        "seendate": "2026-06-14T14:33:59.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "New York Knicks win NBA championship for first time in over 50 years",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T07:21:26.000Z",
-        "source_domain": "bbc.com",
+        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+        "seendate": "2026-06-14T14:33:59.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "New York Knicks win NBA championship for first time in over 50 years",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T07:21:26.000Z",
-        "source_domain": "bbc.com",
+        "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+        "seendate": "2026-06-14T11:15:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+        "seendate": "2026-06-14T11:15:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At least three killed as Israel attacks southern Beirut",
+        "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+        "seendate": "2026-06-14T10:25:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least three killed as Israel attacks southern Beirut",
+        "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+        "seendate": "2026-06-14T10:25:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -251,63 +254,6 @@
     ]
   },
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-    "seendate": "2026-06-14T11:15:23.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-        "seendate": "2026-06-14T11:15:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-        "seendate": "2026-06-14T11:15:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
-        "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
-        "seendate": "2026-06-14T10:25:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
-        "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
-        "seendate": "2026-06-14T10:25:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -365,24 +311,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Two killed in Israeli strike on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
-    "seendate": "2026-06-14T01:11:06.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss",
+    "seendate": "2026-06-14T15:49:33.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Two killed in Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
-        "seendate": "2026-06-14T01:11:06.000Z",
+        "title": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
+        "url": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss",
+        "seendate": "2026-06-14T15:49:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -390,9 +336,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Two killed in Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
-        "seendate": "2026-06-14T01:11:06.000Z",
+        "title": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
+        "url": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss",
+        "seendate": "2026-06-14T15:49:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+    "seendate": "2026-06-14T07:24:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+        "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+        "seendate": "2026-06-14T07:24:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+        "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+        "seendate": "2026-06-14T07:24:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
