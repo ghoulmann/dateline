@@ -6,18 +6,38 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-    "headlineUrl": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-14T05:41:07.000Z",
-    "articleCount": 8,
+    "headline": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
+    "headlineUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+    "seendate": "2026-06-14T08:55:46.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "seendate": "2026-06-14T08:55:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "seendate": "2026-06-14T08:55:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T05:41:07.000Z",
+        "seendate": "2026-06-14T07:55:16.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +47,7 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T05:41:07.000Z",
+        "seendate": "2026-06-14T07:55:16.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -37,7 +57,7 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T05:41:07.000Z",
+        "seendate": "2026-06-14T07:55:16.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -47,7 +67,7 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T05:41:07.000Z",
+        "seendate": "2026-06-14T07:55:16.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -57,7 +77,7 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T05:41:07.000Z",
+        "seendate": "2026-06-14T07:55:16.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -67,12 +87,32 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T05:41:07.000Z",
+        "seendate": "2026-06-14T07:55:16.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+        "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+        "seendate": "2026-06-14T07:24:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+        "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+        "seendate": "2026-06-14T07:24:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       },
       {
         "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
@@ -93,6 +133,160 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York Knicks win NBA championship for first time in over 50 years",
+    "headlineUrl": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-14T07:21:26.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T07:21:26.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T07:21:26.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T07:21:26.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T07:21:26.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T07:21:26.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "New York Knicks win NBA championship for first time in over 50 years",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T07:21:26.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "San Antonio",
+    "name": "San Antonio",
+    "country": "US",
+    "lat": 29.42,
+    "lon": -98.49,
+    "timezone": "America/Chicago",
+    "headline": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+    "headlineUrl": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-14T06:34:11.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T06:34:11.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T06:34:11.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T06:34:11.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T06:34:11.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T06:34:11.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-14T06:34:11.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -219,80 +413,6 @@
         "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
         "seendate": "2026-06-13T21:20:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
-    "seendate": "2026-06-13T20:46:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-        "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
-        "seendate": "2026-06-13T20:46:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-        "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
-        "seendate": "2026-06-13T20:46:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Boston",
-    "name": "Boston",
-    "country": "US",
-    "lat": 42.36,
-    "lon": -71.06,
-    "timezone": "America/New_York",
-    "headline": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
-    "seendate": "2026-06-13T18:29:30.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
-        "seendate": "2026-06-13T18:29:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
-        "seendate": "2026-06-13T18:29:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
