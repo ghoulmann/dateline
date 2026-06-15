@@ -6,18 +6,59 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-    "headlineUrl": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-15T09:39:07.000Z",
-    "articleCount": 10,
+    "headline": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
+    "seendate": "2026-06-15T13:56:00.000Z",
+    "articleCount": 12,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "humanitarian"
     ],
     "articles": [
       {
-        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "title": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
+        "seendate": "2026-06-15T13:56:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
+        "seendate": "2026-06-15T13:56:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T12:25:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T12:25:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
         "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T09:39:07.000Z",
+        "seendate": "2026-06-15T12:07:36.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +66,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
         "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T09:39:07.000Z",
+        "seendate": "2026-06-15T12:07:36.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -35,9 +76,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
         "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T09:39:07.000Z",
+        "seendate": "2026-06-15T12:07:36.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +86,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
         "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T09:39:07.000Z",
+        "seendate": "2026-06-15T12:07:36.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -55,9 +96,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
         "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T09:39:07.000Z",
+        "seendate": "2026-06-15T12:07:36.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -65,9 +106,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
         "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T09:39:07.000Z",
+        "seendate": "2026-06-15T12:07:36.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -75,44 +116,24 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Russian attacks in Ukraine kill nine, damage historic Kyiv cathedral",
-        "url": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral?traffic_source=rss",
-        "seendate": "2026-06-15T07:40:51.000Z",
+        "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+        "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
+        "seendate": "2026-06-15T10:05:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian attacks in Ukraine kill nine, damage historic Kyiv cathedral",
-        "url": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral?traffic_source=rss",
-        "seendate": "2026-06-15T07:40:51.000Z",
+        "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+        "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
+        "seendate": "2026-06-15T10:05:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-        "seendate": "2026-06-15T05:50:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-        "seendate": "2026-06-15T05:50:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -194,24 +215,24 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
-    "seendate": "2026-06-15T05:31:38.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss",
+    "seendate": "2026-06-15T13:34:59.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
-        "url": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
-        "seendate": "2026-06-15T05:31:38.000Z",
+        "title": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-15T13:34:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -219,9 +240,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
-        "url": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
-        "seendate": "2026-06-15T05:31:38.000Z",
+        "title": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-15T13:34:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -229,9 +250,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Sweden beat Tunisia 5-1 in strong start to World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss",
-        "seendate": "2026-06-15T04:37:03.000Z",
+        "title": "Video shows man shot by Israeli drone while sitting with others in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-15T11:11:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -239,83 +260,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Sweden beat Tunisia 5-1 in strong start to World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss",
-        "seendate": "2026-06-15T04:37:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/15/iran-war-live-tehran-says-peace-deal-ends-us-blockade-war-on-all-fronts?traffic_source=rss",
-    "seendate": "2026-06-15T07:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/15/iran-war-live-tehran-says-peace-deal-ends-us-blockade-war-on-all-fronts?traffic_source=rss",
-        "seendate": "2026-06-15T07:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/15/iran-war-live-tehran-says-peace-deal-ends-us-blockade-war-on-all-fronts?traffic_source=rss",
-        "seendate": "2026-06-15T07:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/15/world-cup-iranians-in-los-angeles-divided-on-whether-to-cheer-or-jeer-iran?traffic_source=rss",
-    "seendate": "2026-06-15T06:46:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran",
-        "url": "https://www.aljazeera.com/news/2026/6/15/world-cup-iranians-in-los-angeles-divided-on-whether-to-cheer-or-jeer-iran?traffic_source=rss",
-        "seendate": "2026-06-15T06:46:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran",
-        "url": "https://www.aljazeera.com/news/2026/6/15/world-cup-iranians-in-los-angeles-divided-on-whether-to-cheer-or-jeer-iran?traffic_source=rss",
-        "seendate": "2026-06-15T06:46:35.000Z",
+        "title": "Video shows man shot by Israeli drone while sitting with others in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-15T11:11:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -353,43 +300,6 @@
         "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
         "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
         "seendate": "2026-06-14T19:35:51.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
-    "headlineUrl": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-    "seendate": "2026-06-12T16:28:13.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
-        "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-        "seendate": "2026-06-12T16:28:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
-        "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-        "seendate": "2026-06-12T16:28:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
