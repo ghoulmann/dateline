@@ -9,10 +9,9 @@
     "headline": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
     "seendate": "2026-06-15T13:56:00.000Z",
-    "articleCount": 12,
+    "articleCount": 10,
     "categories": [
-      "armed-conflict",
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
       {
@@ -114,26 +113,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
-        "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
-        "seendate": "2026-06-15T10:05:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
-        "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
-        "seendate": "2026-06-15T10:05:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -272,6 +251,43 @@
     ]
   },
   {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London Man Suspected in 2017 Shoving of a Woman Into Bus Path Is Arrested",
+    "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html",
+    "seendate": "2026-06-15T16:22:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "London Man Suspected in 2017 Shoving of a Woman Into Bus Path Is Arrested",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html",
+        "seendate": "2026-06-15T16:22:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "London Man Suspected in 2017 Shoving of a Woman Into Bus Path Is Arrested",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html",
+        "seendate": "2026-06-15T16:22:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Beirut",
     "name": "Beirut",
     "country": "LB",
@@ -280,7 +296,7 @@
     "timezone": "Asia/Beirut",
     "headline": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
     "headlineUrl": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-    "seendate": "2026-06-14T19:35:51.000Z",
+    "seendate": "2026-06-15T16:34:26.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -289,7 +305,7 @@
       {
         "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
         "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "seendate": "2026-06-14T19:35:51.000Z",
+        "seendate": "2026-06-15T16:34:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -299,7 +315,7 @@
       {
         "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
         "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "seendate": "2026-06-14T19:35:51.000Z",
+        "seendate": "2026-06-15T16:34:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
