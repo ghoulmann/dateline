@@ -6,18 +6,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
-    "seendate": "2026-06-15T13:56:00.000Z",
+    "headline": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
+    "seendate": "2026-06-15T18:23:30.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
-        "seendate": "2026-06-15T13:56:00.000Z",
+        "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
+        "seendate": "2026-06-15T18:23:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
-        "seendate": "2026-06-15T13:56:00.000Z",
+        "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
+        "seendate": "2026-06-15T18:23:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -200,18 +200,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss",
-    "seendate": "2026-06-15T13:34:59.000Z",
-    "articleCount": 4,
+    "headline": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+    "seendate": "2026-06-15T20:55:30.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-15T13:34:59.000Z",
+        "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+        "seendate": "2026-06-15T20:55:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -219,19 +219,36 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-15T13:34:59.000Z",
+        "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+        "seendate": "2026-06-15T20:55:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/15/tunisia-sack-boss-sabri-lamouchi-after-world-cup-thrashing-by-sweden?traffic_source=rss",
+    "seendate": "2026-06-15T18:24:19.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Video shows man shot by Israeli drone while sitting with others in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-15T11:11:46.000Z",
+        "title": "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/tunisia-sack-boss-sabri-lamouchi-after-world-cup-thrashing-by-sweden?traffic_source=rss",
+        "seendate": "2026-06-15T18:24:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -239,9 +256,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Video shows man shot by Israeli drone while sitting with others in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-15T11:11:46.000Z",
+        "title": "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/tunisia-sack-boss-sabri-lamouchi-after-world-cup-thrashing-by-sweden?traffic_source=rss",
+        "seendate": "2026-06-15T18:24:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -257,18 +274,18 @@
     "lat": 51.51,
     "lon": -0.13,
     "timezone": "Europe/London",
-    "headline": "London Man Suspected in 2017 Shoving of a Woman Into Bus Path Is Arrested",
+    "headline": "Man Suspected in 2017 Shoving of a London Woman Into Bus Path Is Arrested",
     "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html",
-    "seendate": "2026-06-15T16:22:48.000Z",
+    "seendate": "2026-06-15T18:45:23.000Z",
     "articleCount": 2,
     "categories": [
       "political-repression"
     ],
     "articles": [
       {
-        "title": "London Man Suspected in 2017 Shoving of a Woman Into Bus Path Is Arrested",
+        "title": "Man Suspected in 2017 Shoving of a London Woman Into Bus Path Is Arrested",
         "url": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html",
-        "seendate": "2026-06-15T16:22:48.000Z",
+        "seendate": "2026-06-15T18:45:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "political-repression"
@@ -276,9 +293,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "London Man Suspected in 2017 Shoving of a Woman Into Bus Path Is Arrested",
+        "title": "Man Suspected in 2017 Shoving of a London Woman Into Bus Path Is Arrested",
         "url": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html",
-        "seendate": "2026-06-15T16:22:48.000Z",
+        "seendate": "2026-06-15T18:45:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "political-repression"
