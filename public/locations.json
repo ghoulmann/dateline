@@ -1,82 +1,5 @@
 [
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-    "seendate": "2026-06-15T00:15:27.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-        "seendate": "2026-06-15T00:15:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-        "seendate": "2026-06-15T00:15:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "seendate": "2026-06-14T19:35:51.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "seendate": "2026-06-14T19:35:51.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
-        "seendate": "2026-06-14T18:51:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
-        "seendate": "2026-06-14T18:51:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "San Antonio",
     "name": "San Antonio",
     "country": "US",
@@ -154,24 +77,92 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza mourns four killed in Israeli strike",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-    "seendate": "2026-06-14T20:57:12.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
+    "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-orthodox-cathedral.html",
+    "seendate": "2026-06-15T05:50:31.000Z",
+    "articleCount": 5,
+    "categories": [
+      "culture-wars",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-orthodox-cathedral.html",
+        "seendate": "2026-06-15T05:50:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-orthodox-cathedral.html",
+        "seendate": "2026-06-15T05:50:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
+        "url": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
+        "seendate": "2026-06-15T05:33:51.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
+        "url": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
+        "seendate": "2026-06-15T05:33:51.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
+        "url": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
+        "seendate": "2026-06-15T05:33:51.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
+    "seendate": "2026-06-15T05:31:38.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza mourns four killed in Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-        "seendate": "2026-06-14T20:57:12.000Z",
+        "title": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
+        "seendate": "2026-06-15T05:31:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,9 +170,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza mourns four killed in Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-        "seendate": "2026-06-14T20:57:12.000Z",
+        "title": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
+        "seendate": "2026-06-15T05:31:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -189,9 +180,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-        "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
-        "seendate": "2026-06-14T19:21:21.000Z",
+        "title": "Sweden beat Tunisia 5-1 in strong start to World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss",
+        "seendate": "2026-06-15T04:37:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,14 +190,71 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-        "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
-        "seendate": "2026-06-14T19:21:21.000Z",
+        "title": "Sweden beat Tunisia 5-1 in strong start to World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss",
+        "seendate": "2026-06-15T04:37:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
+    "seendate": "2026-06-15T00:15:27.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
+        "seendate": "2026-06-15T00:15:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
+        "seendate": "2026-06-15T00:15:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+        "seendate": "2026-06-14T19:35:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+        "seendate": "2026-06-14T19:35:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -355,6 +403,43 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza mourns four killed in Israeli strike",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+    "seendate": "2026-06-14T20:57:12.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza mourns four killed in Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+        "seendate": "2026-06-14T20:57:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza mourns four killed in Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+        "seendate": "2026-06-14T20:57:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Goma",
     "name": "Goma",
     "country": "CD",
@@ -392,24 +477,24 @@
     ]
   },
   {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "As World Cup Begins, Mexico City Becomes a Global Stage",
-    "headlineUrl": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-    "seendate": "2026-06-12T01:21:26.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
+    "headlineUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+    "seendate": "2026-06-15T05:50:41.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:26.000Z",
+        "title": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "seendate": "2026-06-15T05:50:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -417,9 +502,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
-        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-        "seendate": "2026-06-12T01:21:26.000Z",
+        "title": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "seendate": "2026-06-15T05:50:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
