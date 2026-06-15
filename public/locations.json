@@ -1,5 +1,122 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+    "headlineUrl": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-15T09:39:07.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T09:39:07.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T09:39:07.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T09:39:07.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T09:39:07.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T09:39:07.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T09:39:07.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Russian attacks in Ukraine kill nine, damage historic Kyiv cathedral",
+        "url": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral?traffic_source=rss",
+        "seendate": "2026-06-15T07:40:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian attacks in Ukraine kill nine, damage historic Kyiv cathedral",
+        "url": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral?traffic_source=rss",
+        "seendate": "2026-06-15T07:40:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T05:50:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T05:50:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "San Antonio",
     "name": "San Antonio",
     "country": "US",
@@ -77,74 +194,6 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-orthodox-cathedral.html",
-    "seendate": "2026-06-15T05:50:31.000Z",
-    "articleCount": 5,
-    "categories": [
-      "culture-wars",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-orthodox-cathedral.html",
-        "seendate": "2026-06-15T05:50:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-orthodox-cathedral.html",
-        "seendate": "2026-06-15T05:50:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
-        "url": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
-        "seendate": "2026-06-15T05:33:51.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
-        "url": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
-        "seendate": "2026-06-15T05:33:51.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
-        "url": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
-        "seendate": "2026-06-15T05:33:51.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Tunis",
     "name": "Tunis",
     "country": "TN",
@@ -202,24 +251,24 @@
     ]
   },
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-    "seendate": "2026-06-15T00:15:27.000Z",
-    "articleCount": 4,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/15/iran-war-live-tehran-says-peace-deal-ends-us-blockade-war-on-all-fronts?traffic_source=rss",
+    "seendate": "2026-06-15T07:00:00.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-        "seendate": "2026-06-15T00:15:27.000Z",
+        "title": "Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/15/iran-war-live-tehran-says-peace-deal-ends-us-blockade-war-on-all-fronts?traffic_source=rss",
+        "seendate": "2026-06-15T07:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -227,15 +276,69 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-        "seendate": "2026-06-15T00:15:27.000Z",
+        "title": "Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/15/iran-war-live-tehran-says-peace-deal-ends-us-blockade-war-on-all-fronts?traffic_source=rss",
+        "seendate": "2026-06-15T07:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/15/world-cup-iranians-in-los-angeles-divided-on-whether-to-cheer-or-jeer-iran?traffic_source=rss",
+    "seendate": "2026-06-15T06:46:35.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran",
+        "url": "https://www.aljazeera.com/news/2026/6/15/world-cup-iranians-in-los-angeles-divided-on-whether-to-cheer-or-jeer-iran?traffic_source=rss",
+        "seendate": "2026-06-15T06:46:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       },
+      {
+        "title": "World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran",
+        "url": "https://www.aljazeera.com/news/2026/6/15/world-cup-iranians-in-los-angeles-divided-on-whether-to-cheer-or-jeer-iran?traffic_source=rss",
+        "seendate": "2026-06-15T06:46:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+    "headlineUrl": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+    "seendate": "2026-06-14T19:35:51.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
         "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
         "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
@@ -265,34 +368,14 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-    "headlineUrl": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-    "seendate": "2026-06-15T01:05:28.000Z",
-    "articleCount": 4,
+    "headline": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
+    "headlineUrl": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
+    "seendate": "2026-06-12T16:28:13.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-        "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-        "seendate": "2026-06-15T01:05:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-        "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-        "seendate": "2026-06-15T01:05:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
       {
         "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
         "url": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
@@ -325,7 +408,7 @@
     "headline": "Singer Oliver Tree presumed dead after helicopter collision in Rio de Janeiro, Brazil",
     "headlineUrl": "https://www.foxnews.com/entertainment/singer-oliver-tree-presumed-dead-after-helicopter-collision-rio-de-janeiro-brazil",
     "seendate": "2026-06-14T23:13:19.000Z",
-    "articleCount": 3,
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
@@ -339,177 +422,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-        "url": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss",
-        "seendate": "2026-06-14T20:10:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-        "url": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss",
-        "seendate": "2026-06-14T20:10:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
-    "seendate": "2026-06-15T00:54:32.000Z",
-    "articleCount": 2,
-    "categories": [
-      "political-repression",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
-        "url": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
-        "seendate": "2026-06-15T00:54:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression",
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
-        "url": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
-        "seendate": "2026-06-15T00:54:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression",
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza mourns four killed in Israeli strike",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-    "seendate": "2026-06-14T20:57:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza mourns four killed in Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-        "seendate": "2026-06-14T20:57:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza mourns four killed in Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-        "seendate": "2026-06-14T20:57:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Goma",
-    "name": "Goma",
-    "country": "CD",
-    "lat": -1.67,
-    "lon": 29.22,
-    "timezone": "Africa/Kinshasa",
-    "headline": "Medical teams in Goma face mistrust from relatives of Ebola victims",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims?traffic_source=rss",
-    "seendate": "2026-06-14T20:23:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Medical teams in Goma face mistrust from relatives of Ebola victims",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims?traffic_source=rss",
-        "seendate": "2026-06-14T20:23:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Medical teams in Goma face mistrust from relatives of Ebola victims",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims?traffic_source=rss",
-        "seendate": "2026-06-14T20:23:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
-    "headlineUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-    "seendate": "2026-06-15T05:50:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
-        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-        "seendate": "2026-06-15T05:50:41.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
-        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-        "seendate": "2026-06-15T05:50:41.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
