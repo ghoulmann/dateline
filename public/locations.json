@@ -1,197 +1,274 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza children running out of time to treat blast-induced hearing loss",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
-    "seendate": "2026-06-16T12:10:54.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza children running out of time to treat blast-induced hearing loss",
-        "url": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
-        "seendate": "2026-06-16T12:10:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza children running out of time to treat blast-induced hearing loss",
-        "url": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
-        "seendate": "2026-06-16T12:10:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T00:11:47.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T00:11:47.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T00:11:47.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T00:11:47.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T00:11:47.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T00:11:47.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia sack head coach just one game into World Cup",
-    "headlineUrl": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-16T06:43:19.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T06:43:19.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T06:43:19.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T06:43:19.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T06:43:19.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T06:43:19.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T06:43:19.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
-    "seendate": "2026-06-16T11:30:08.000Z",
-    "articleCount": 2,
+    "headline": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+    "headlineUrl": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-16T15:31:24.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
-        "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
-        "seendate": "2026-06-16T11:30:08.000Z",
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T15:31:24.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T15:31:24.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T15:31:24.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T15:31:24.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T15:31:24.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T15:31:24.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+    "headlineUrl": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-16T14:34:39.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T14:34:39.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T14:34:39.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T14:34:39.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T14:34:39.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T14:34:39.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T14:34:39.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+    "headlineUrl": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-16T16:20:04.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+    "headlineUrl": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+    "seendate": "2026-06-16T17:33:41.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+        "seendate": "2026-06-16T17:33:41.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+        "seendate": "2026-06-16T17:33:41.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Ukrainian drone detonates near Moscow",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss",
+        "seendate": "2026-06-16T15:34:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,9 +276,83 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
-        "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
-        "seendate": "2026-06-16T11:30:08.000Z",
+        "title": "Ukrainian drone detonates near Moscow",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss",
+        "seendate": "2026-06-16T15:34:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Nearly all children globally exposed to at least one climate hazard: Report",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
+    "seendate": "2026-06-16T16:08:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Nearly all children globally exposed to at least one climate hazard: Report",
+        "url": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
+        "seendate": "2026-06-16T16:08:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Nearly all children globally exposed to at least one climate hazard: Report",
+        "url": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
+        "seendate": "2026-06-16T16:08:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza’s football fans follow World Cup matches despite hardships",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
+    "seendate": "2026-06-16T14:31:03.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza’s football fans follow World Cup matches despite hardships",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
+        "seendate": "2026-06-16T14:31:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza’s football fans follow World Cup matches despite hardships",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
+        "seendate": "2026-06-16T14:31:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -239,43 +390,6 @@
         "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
         "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
         "seendate": "2026-06-15T12:25:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-    "headlineUrl": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-    "seendate": "2026-06-16T11:53:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-        "seendate": "2026-06-16T11:53:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-        "seendate": "2026-06-16T11:53:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
