@@ -194,6 +194,43 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump says MoU with Tehran signed electronically",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+    "seendate": "2026-06-16T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Trump says MoU with Tehran signed electronically",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+        "seendate": "2026-06-16T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Trump says MoU with Tehran signed electronically",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+        "seendate": "2026-06-16T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -360,33 +397,6 @@
         "title": "Singer Oliver Tree presumed dead after helicopter collision in Rio de Janeiro, Brazil",
         "url": "https://www.foxnews.com/entertainment/singer-oliver-tree-presumed-dead-after-helicopter-collision-rio-de-janeiro-brazil",
         "seendate": "2026-06-14T23:13:19.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Charlotte",
-    "name": "Charlotte",
-    "country": "US",
-    "lat": 35.23,
-    "lon": -80.84,
-    "timezone": "America/New_York",
-    "headline": "Kate Middleton wears Princess Diana&apos;s pearl bracelet at Trooping the Colour as Charlotte mirrors her mother",
-    "headlineUrl": "https://www.foxnews.com/entertainment/kate-middleton-wears-princess-dianas-pearl-bracelet-trooping-colour-charlotte-mirrors-her-mother",
-    "seendate": "2026-06-13T16:19:41.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Kate Middleton wears Princess Diana&apos;s pearl bracelet at Trooping the Colour as Charlotte mirrors her mother",
-        "url": "https://www.foxnews.com/entertainment/kate-middleton-wears-princess-dianas-pearl-bracelet-trooping-colour-charlotte-mirrors-her-mother",
-        "seendate": "2026-06-13T16:19:41.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
