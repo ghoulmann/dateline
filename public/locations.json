@@ -231,44 +231,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-    "headlineUrl": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-    "seendate": "2026-06-16T17:33:41.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss",
+    "seendate": "2026-06-16T18:27:19.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-        "seendate": "2026-06-16T17:33:41.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-        "seendate": "2026-06-16T17:33:41.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ukrainian drone detonates near Moscow",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss",
-        "seendate": "2026-06-16T15:34:58.000Z",
+        "title": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss",
+        "seendate": "2026-06-16T18:27:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -276,14 +256,34 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ukrainian drone detonates near Moscow",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss",
-        "seendate": "2026-06-16T15:34:58.000Z",
+        "title": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss",
+        "seendate": "2026-06-16T18:27:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T12:25:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T12:25:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -325,61 +325,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza’s football fans follow World Cup matches despite hardships",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
-    "seendate": "2026-06-16T14:31:03.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+    "headlineUrl": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+    "seendate": "2026-06-16T17:33:41.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza’s football fans follow World Cup matches despite hardships",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
-        "seendate": "2026-06-16T14:31:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza’s football fans follow World Cup matches despite hardships",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
-        "seendate": "2026-06-16T14:31:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-    "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "seendate": "2026-06-15T12:25:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-        "seendate": "2026-06-15T12:25:06.000Z",
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+        "seendate": "2026-06-16T17:33:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -387,9 +350,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-        "seendate": "2026-06-15T12:25:06.000Z",
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+        "seendate": "2026-06-16T17:33:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -442,14 +405,24 @@
     "lat": -22.91,
     "lon": -43.17,
     "timezone": "America/Sao_Paulo",
-    "headline": "Singer Oliver Tree presumed dead after helicopter collision in Rio de Janeiro, Brazil",
-    "headlineUrl": "https://www.foxnews.com/entertainment/singer-oliver-tree-presumed-dead-after-helicopter-collision-rio-de-janeiro-brazil",
-    "seendate": "2026-06-14T23:13:19.000Z",
-    "articleCount": 1,
+    "headline": "Oliver Tree made eerie comments about his will weeks before fatal helicopter crash in Rio de Janeiro",
+    "headlineUrl": "https://www.foxnews.com/entertainment/oliver-tree-made-eerie-comments-weeks-fatal-helicopter-crash-rio-de-janeiro",
+    "seendate": "2026-06-16T17:42:04.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Oliver Tree made eerie comments about his will weeks before fatal helicopter crash in Rio de Janeiro",
+        "url": "https://www.foxnews.com/entertainment/oliver-tree-made-eerie-comments-weeks-fatal-helicopter-crash-rio-de-janeiro",
+        "seendate": "2026-06-16T17:42:04.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "Singer Oliver Tree presumed dead after helicopter collision in Rio de Janeiro, Brazil",
         "url": "https://www.foxnews.com/entertainment/singer-oliver-tree-presumed-dead-after-helicopter-collision-rio-de-janeiro-brazil",
