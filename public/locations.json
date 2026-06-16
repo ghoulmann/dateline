@@ -6,18 +6,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
-    "seendate": "2026-06-16T01:38:36.000Z",
+    "headline": "Gaza children running out of time to treat blast-induced hearing loss",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
+    "seendate": "2026-06-16T12:10:54.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
-        "seendate": "2026-06-16T01:38:36.000Z",
+        "title": "Gaza children running out of time to treat blast-induced hearing loss",
+        "url": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
+        "seendate": "2026-06-16T12:10:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
-        "seendate": "2026-06-16T01:38:36.000Z",
+        "title": "Gaza children running out of time to treat blast-induced hearing loss",
+        "url": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
+        "seendate": "2026-06-16T12:10:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -180,18 +180,18 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran war day 109: Tehran, Washington, sign MoU electronically",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
-    "seendate": "2026-06-16T08:08:11.000Z",
+    "headline": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
+    "seendate": "2026-06-16T11:30:08.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
-        "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
-        "seendate": "2026-06-16T08:08:11.000Z",
+        "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
+        "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
+        "seendate": "2026-06-16T11:30:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,9 +199,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
-        "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
-        "seendate": "2026-06-16T08:08:11.000Z",
+        "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
+        "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
+        "seendate": "2026-06-16T11:30:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -248,6 +248,43 @@
     ]
   },
   {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+    "headlineUrl": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+    "seendate": "2026-06-16T11:53:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+        "seendate": "2026-06-16T11:53:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
+        "seendate": "2026-06-16T11:53:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -279,43 +316,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-    "headlineUrl": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-    "seendate": "2026-06-15T16:34:26.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "seendate": "2026-06-15T16:34:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "seendate": "2026-06-15T16:34:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
