@@ -9,7 +9,7 @@
     "headline": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
     "seendate": "2026-06-16T01:38:36.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -93,11 +93,105 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia sack head coach just one game into World Cup",
+    "headlineUrl": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-16T06:43:19.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T06:43:19.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       },
       {
-        "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-15T20:55:30.000Z",
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T06:43:19.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T06:43:19.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T06:43:19.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T06:43:19.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T06:43:19.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
+    "seendate": "2026-06-16T08:08:11.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+        "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
+        "seendate": "2026-06-16T08:08:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -105,9 +199,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-15T20:55:30.000Z",
+        "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+        "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
+        "seendate": "2026-06-16T08:08:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -126,7 +220,7 @@
     "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
     "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
     "seendate": "2026-06-15T12:25:06.000Z",
-    "articleCount": 8,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -150,66 +244,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
