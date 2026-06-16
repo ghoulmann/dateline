@@ -1,250 +1,99 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
-    "seendate": "2026-06-15T18:23:30.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
-        "seendate": "2026-06-15T18:23:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
-        "seendate": "2026-06-15T18:23:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-        "seendate": "2026-06-15T12:25:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-        "seendate": "2026-06-15T12:25:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-15T12:07:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "San Antonio",
-    "name": "San Antonio",
-    "country": "US",
-    "lat": 29.42,
-    "lon": -98.49,
-    "timezone": "America/Chicago",
-    "headline": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-    "headlineUrl": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-14T06:34:11.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T06:34:11.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T06:34:11.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T06:34:11.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T06:34:11.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T06:34:11.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-14T06:34:11.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Trump says MoU with Tehran signed electronically",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
-    "seendate": "2026-06-16T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Trump says MoU with Tehran signed electronically",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
-        "seendate": "2026-06-16T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Trump says MoU with Tehran signed electronically",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
-        "seendate": "2026-06-16T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-    "seendate": "2026-06-15T20:55:30.000Z",
-    "articleCount": 2,
+    "headline": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
+    "seendate": "2026-06-16T01:38:36.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
+        "seendate": "2026-06-16T01:38:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
+        "seendate": "2026-06-16T01:38:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T00:11:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T00:11:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T00:11:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T00:11:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T00:11:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T00:11:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
       {
         "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
@@ -268,39 +117,99 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/15/tunisia-sack-boss-sabri-lamouchi-after-world-cup-thrashing-by-sweden?traffic_source=rss",
-    "seendate": "2026-06-15T18:24:19.000Z",
-    "articleCount": 2,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+    "headlineUrl": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+    "seendate": "2026-06-15T12:25:06.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
-        "url": "https://www.aljazeera.com/sports/2026/6/15/tunisia-sack-boss-sabri-lamouchi-after-world-cup-thrashing-by-sweden?traffic_source=rss",
-        "seendate": "2026-06-15T18:24:19.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T12:25:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+        "seendate": "2026-06-15T12:25:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T12:07:36.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
-        "url": "https://www.aljazeera.com/sports/2026/6/15/tunisia-sack-boss-sabri-lamouchi-after-world-cup-thrashing-by-sweden?traffic_source=rss",
-        "seendate": "2026-06-15T18:24:19.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T12:07:36.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T12:07:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T12:07:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T12:07:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-15T12:07:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
