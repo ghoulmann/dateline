@@ -240,93 +240,151 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
-    "seendate": "2026-06-18T16:52:19.000Z",
-    "articleCount": 8,
+    "headline": "Gaza fans chase World Cup joy amid blackout, displacement and war",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
+    "seendate": "2026-06-18T20:18:08.000Z",
+    "articleCount": 6,
+    "categories": [
+      "humanitarian",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza fans chase World Cup joy amid blackout, displacement and war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
+        "seendate": "2026-06-18T20:18:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza fans chase World Cup joy amid blackout, displacement and war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
+        "seendate": "2026-06-18T20:18:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
+        "seendate": "2026-06-18T16:52:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
+        "seendate": "2026-06-18T16:52:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel kills at least three Palestinians in Gaza City drone strike",
+        "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
+        "seendate": "2026-06-18T16:50:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills at least three Palestinians in Gaza City drone strike",
+        "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
+        "seendate": "2026-06-18T16:50:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Chicago",
+    "name": "Chicago",
+    "country": "US",
+    "lat": 41.88,
+    "lon": -87.63,
+    "timezone": "America/Chicago",
+    "headline": "'Living celebration of community': Obamas open presidential centre in Chicago",
+    "headlineUrl": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-18T19:55:23.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
-        "seendate": "2026-06-18T16:52:19.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Living celebration of community': Obamas open presidential centre in Chicago",
+        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T19:55:23.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
-        "seendate": "2026-06-18T16:52:19.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Living celebration of community': Obamas open presidential centre in Chicago",
+        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T19:55:23.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel kills at least three Palestinians in Gaza City drone strike",
-        "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
-        "seendate": "2026-06-18T16:50:58.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Living celebration of community': Obamas open presidential centre in Chicago",
+        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T19:55:23.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Israel kills at least three Palestinians in Gaza City drone strike",
-        "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
-        "seendate": "2026-06-18T16:50:58.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Living celebration of community': Obamas open presidential centre in Chicago",
+        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T19:55:23.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
       },
       {
-        "title": "These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/these-are-the-palestinians-that-israel-has-killed-during-gazas?traffic_source=rss",
-        "seendate": "2026-06-18T14:33:38.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Living celebration of community': Obamas open presidential centre in Chicago",
+        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T19:55:23.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/these-are-the-palestinians-that-israel-has-killed-during-gazas?traffic_source=rss",
-        "seendate": "2026-06-18T14:33:38.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Living celebration of community': Obamas open presidential centre in Chicago",
+        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T19:55:23.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Patients die in Gaza waiting for medical evacuations Israel keeps blocking",
-        "url": "https://www.aljazeera.com/features/2026/6/18/patients-die-in-gaza-waiting-for-medical-evacuations-israel-keeps-blocking?traffic_source=rss",
-        "seendate": "2026-06-18T14:30:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Patients die in Gaza waiting for medical evacuations Israel keeps blocking",
-        "url": "https://www.aljazeera.com/features/2026/6/18/patients-die-in-gaza-waiting-for-medical-evacuations-israel-keeps-blocking?traffic_source=rss",
-        "seendate": "2026-06-18T14:30:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -481,80 +539,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Niamey",
-    "name": "Niamey",
-    "country": "NE",
-    "lat": 13.51,
-    "lon": 2.13,
-    "timezone": "Africa/Niamey",
-    "headline": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss",
-    "seendate": "2026-06-18T16:05:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
-        "url": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss",
-        "seendate": "2026-06-18T16:05:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
-        "url": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss",
-        "seendate": "2026-06-18T16:05:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "UK court convicts two men for spying for Hong Kong, China",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/18/uk-court-convicts-two-men-for-spying-for-hong-kong-china?traffic_source=rss",
-    "seendate": "2026-06-18T13:49:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "UK court convicts two men for spying for Hong Kong, China",
-        "url": "https://www.aljazeera.com/news/2026/6/18/uk-court-convicts-two-men-for-spying-for-hong-kong-china?traffic_source=rss",
-        "seendate": "2026-06-18T13:49:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "UK court convicts two men for spying for Hong Kong, China",
-        "url": "https://www.aljazeera.com/news/2026/6/18/uk-court-convicts-two-men-for-spying-for-hong-kong-china?traffic_source=rss",
-        "seendate": "2026-06-18T13:49:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
