@@ -1,5 +1,122 @@
 [
   {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+    "headlineUrl": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+    "seendate": "2026-06-18T13:12:43.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+        "seendate": "2026-06-18T13:12:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+        "seendate": "2026-06-18T13:12:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T09:47:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T09:47:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T09:47:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T09:47:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T09:47:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T09:47:47.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+        "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
+        "seendate": "2026-06-18T08:11:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+        "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
+        "seendate": "2026-06-18T08:11:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -117,79 +234,186 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-    "headlineUrl": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-    "seendate": "2026-06-18T09:07:46.000Z",
-    "articleCount": 6,
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+    "headlineUrl": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-antonio-mays",
+    "seendate": "2026-06-18T13:02:00.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-        "seendate": "2026-06-18T09:07:46.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-antonio-mays",
+        "seendate": "2026-06-18T13:02:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-        "seendate": "2026-06-18T09:07:46.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-antonio-mays",
+        "seendate": "2026-06-18T13:02:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "climate-watch"
       },
       {
-        "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
-        "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
-        "seendate": "2026-06-18T08:11:58.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-antonio-mays",
+        "seendate": "2026-06-18T13:02:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
-        "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
-        "seendate": "2026-06-18T08:11:58.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-        "seendate": "2026-06-16T17:33:41.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-        "seendate": "2026-06-16T17:33:41.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-16T16:20:04.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Teenager dies in horse-drawn carriage accident in New York",
+    "headlineUrl": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-18T02:39:28.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Teenager dies in horse-drawn carriage accident in New York",
+        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T02:39:28.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Teenager dies in horse-drawn carriage accident in New York",
+        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T02:39:28.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Teenager dies in horse-drawn carriage accident in New York",
+        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T02:39:28.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Teenager dies in horse-drawn carriage accident in New York",
+        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T02:39:28.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Teenager dies in horse-drawn carriage accident in New York",
+        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T02:39:28.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Teenager dies in horse-drawn carriage accident in New York",
+        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-18T02:39:28.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -271,79 +495,86 @@
     ]
   },
   {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-    "headlineUrl": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-16T16:20:04.000Z",
-    "articleCount": 6,
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
+    "headlineUrl": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+    "seendate": "2026-06-18T08:59:10.000Z",
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
+        "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+        "seendate": "2026-06-18T08:59:10.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
+        "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+        "seendate": "2026-06-18T08:59:10.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+        "seendate": "2026-06-18T08:59:10.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid sign Ibrahima Konate to multi-year deal from Liverpool",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/18/real-madrid-sign-ibrahima-konate-to-multi-year-deal-from-liverpool?traffic_source=rss",
+    "seendate": "2026-06-18T11:21:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid sign Ibrahima Konate to multi-year deal from Liverpool",
+        "url": "https://www.aljazeera.com/sports/2026/6/18/real-madrid-sign-ibrahima-konate-to-multi-year-deal-from-liverpool?traffic_source=rss",
+        "seendate": "2026-06-18T11:21:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid sign Ibrahima Konate to multi-year deal from Liverpool",
+        "url": "https://www.aljazeera.com/sports/2026/6/18/real-madrid-sign-ibrahima-konate-to-multi-year-deal-from-liverpool?traffic_source=rss",
+        "seendate": "2026-06-18T11:21:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -354,44 +585,14 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
-    "headlineUrl": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
-    "seendate": "2026-06-18T05:56:49.000Z",
-    "articleCount": 5,
+    "headline": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
+    "seendate": "2026-06-18T04:35:18.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
-        "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
-        "seendate": "2026-06-18T05:56:49.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
-        "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
-        "seendate": "2026-06-18T05:56:49.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
-        "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
-        "seendate": "2026-06-18T05:56:49.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
       {
         "title": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
@@ -411,120 +612,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Brussels",
-    "name": "Brussels",
-    "country": "BE",
-    "lat": 50.85,
-    "lon": 4.35,
-    "timezone": "Europe/Brussels",
-    "headline": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
-    "headlineUrl": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
-    "seendate": "2026-06-18T08:59:10.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
-        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
-        "seendate": "2026-06-18T08:59:10.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
-        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
-        "seendate": "2026-06-18T08:59:10.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a &apos;NATO 3.0&apos;",
-        "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
-        "seendate": "2026-06-18T08:59:10.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Greta Thunberg joins Brussels protest against Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
-        "seendate": "2026-06-18T02:24:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Greta Thunberg joins Brussels protest against Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
-        "seendate": "2026-06-18T02:24:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New Yorkers are set to fete the Knicks with a ticker-tape parade",
-    "headlineUrl": "https://www.npr.org/2026/06/18/g-s1-128737/the-knicks-new-york-parade",
-    "seendate": "2026-06-18T06:31:14.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New Yorkers are set to fete the Knicks with a ticker-tape parade",
-        "url": "https://www.npr.org/2026/06/18/g-s1-128737/the-knicks-new-york-parade",
-        "seendate": "2026-06-18T06:31:14.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New Yorkers are set to fete the Knicks with a ticker-tape parade",
-        "url": "https://www.npr.org/2026/06/18/g-s1-128737/the-knicks-new-york-parade",
-        "seendate": "2026-06-18T06:31:14.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "New Yorkers are set to fete the Knicks with a ticker-tape parade",
-        "url": "https://www.npr.org/2026/06/18/g-s1-128737/the-knicks-new-york-parade",
-        "seendate": "2026-06-18T06:31:14.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
