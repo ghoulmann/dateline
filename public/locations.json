@@ -9,7 +9,7 @@
     "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
     "headlineUrl": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
     "seendate": "2026-06-17T21:11:09.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -33,26 +33,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Tehran says considering plan for Iran, US presidents to sign deal",
-        "url": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss",
-        "seendate": "2026-06-17T18:53:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tehran says considering plan for Iran, US presidents to sign deal",
-        "url": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss",
-        "seendate": "2026-06-17T18:53:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
@@ -314,6 +294,80 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
+    "seendate": "2026-06-18T04:35:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
+        "seendate": "2026-06-18T04:35:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
+        "seendate": "2026-06-18T04:35:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Greta Thunberg joins Brussels protest against Israel",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
+    "seendate": "2026-06-18T02:24:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greta Thunberg joins Brussels protest against Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
+        "seendate": "2026-06-18T02:24:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Greta Thunberg joins Brussels protest against Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
+        "seendate": "2026-06-18T02:24:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
