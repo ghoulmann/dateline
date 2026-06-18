@@ -6,14 +6,34 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Tehran says considering plan for Iran, US presidents to sign deal",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss",
-    "seendate": "2026-06-17T18:53:38.000Z",
-    "articleCount": 8,
+    "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+    "headlineUrl": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+    "seendate": "2026-06-17T21:11:09.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+        "seendate": "2026-06-17T21:11:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+        "seendate": "2026-06-17T21:11:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Tehran says considering plan for Iran, US presidents to sign deal",
         "url": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss",
@@ -251,63 +271,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-    "seendate": "2026-06-17T17:14:31.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-        "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-        "seendate": "2026-06-17T17:14:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-        "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-        "seendate": "2026-06-17T17:14:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Young Palestinian women learn AI to tell stories of war on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-17T16:58:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Young Palestinian women learn AI to tell stories of war on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-17T16:58:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Maputo",
     "name": "Maputo",
     "country": "MZ",
@@ -355,24 +318,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Thick black smoke towers over Paris skyline after warehouse blaze",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thick-black-smoke-towers-over-paris-skyline-after-warehouse-blaze?traffic_source=rss",
-    "seendate": "2026-06-17T18:06:39.000Z",
+    "id": "Khartoum",
+    "name": "Khartoum",
+    "country": "SD",
+    "lat": 15.55,
+    "lon": 32.53,
+    "timezone": "Africa/Khartoum",
+    "headline": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+    "seendate": "2026-06-17T21:34:05.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Thick black smoke towers over Paris skyline after warehouse blaze",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thick-black-smoke-towers-over-paris-skyline-after-warehouse-blaze?traffic_source=rss",
-        "seendate": "2026-06-17T18:06:39.000Z",
+        "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+        "seendate": "2026-06-17T21:34:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -380,9 +343,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Thick black smoke towers over Paris skyline after warehouse blaze",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thick-black-smoke-towers-over-paris-skyline-after-warehouse-blaze?traffic_source=rss",
-        "seendate": "2026-06-17T18:06:39.000Z",
+        "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+        "seendate": "2026-06-17T21:34:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -392,24 +355,24 @@
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
+    "id": "Dallas",
+    "name": "Dallas",
     "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Massive brush fire sends thick smoke over western Miami",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss",
-    "seendate": "2026-06-17T16:36:53.000Z",
+    "lat": 32.78,
+    "lon": -96.8,
+    "timezone": "America/Chicago",
+    "headline": "Croatia fans rock cowboy style in Dallas parade ahead of match with England",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
+    "seendate": "2026-06-17T20:56:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Massive brush fire sends thick smoke over western Miami",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss",
-        "seendate": "2026-06-17T16:36:53.000Z",
+        "title": "Croatia fans rock cowboy style in Dallas parade ahead of match with England",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
+        "seendate": "2026-06-17T20:56:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -417,9 +380,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Massive brush fire sends thick smoke over western Miami",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss",
-        "seendate": "2026-06-17T16:36:53.000Z",
+        "title": "Croatia fans rock cowboy style in Dallas parade ahead of match with England",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
+        "seendate": "2026-06-17T20:56:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
