@@ -6,18 +6,58 @@
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
-    "headlineUrl": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-    "seendate": "2026-06-19T10:42:22.000Z",
-    "articleCount": 10,
+    "headline": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
+    "seendate": "2026-06-19T15:19:26.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:19:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:19:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:16:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:16:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
         "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-        "seendate": "2026-06-19T10:42:22.000Z",
+        "seendate": "2026-06-19T14:53:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +67,7 @@
       {
         "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
         "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-        "seendate": "2026-06-19T10:42:22.000Z",
+        "seendate": "2026-06-19T14:53:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -348,100 +388,6 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
-    "seendate": "2026-06-19T06:04:00.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
-        "url": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
-        "seendate": "2026-06-19T06:04:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
-        "url": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
-        "seendate": "2026-06-19T06:04:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
-        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
-        "seendate": "2026-06-17T21:11:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
-        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
-        "seendate": "2026-06-17T21:11:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Syrian activist Hassan Akkad detained in Damascus",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
-    "seendate": "2026-06-19T09:49:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "political-repression"
-    ],
-    "articles": [
-      {
-        "title": "Syrian activist Hassan Akkad detained in Damascus",
-        "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
-        "seendate": "2026-06-19T09:49:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Syrian activist Hassan Akkad detained in Damascus",
-        "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
-        "seendate": "2026-06-19T09:49:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -470,6 +416,43 @@
         "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
         "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
         "seendate": "2026-06-18T16:08:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+    "headlineUrl": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+    "seendate": "2026-06-17T21:11:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+        "seendate": "2026-06-17T21:11:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
+        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
+        "seendate": "2026-06-17T21:11:09.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
