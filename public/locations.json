@@ -6,14 +6,34 @@
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-    "headlineUrl": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-    "seendate": "2026-06-19T00:42:58.000Z",
-    "articleCount": 8,
+    "headline": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+    "headlineUrl": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+    "seendate": "2026-06-19T10:42:22.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+        "seendate": "2026-06-19T10:42:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+        "seendate": "2026-06-19T10:42:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
         "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
@@ -88,83 +108,6 @@
         "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
         "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-18T15:46:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Chicago",
-    "name": "Chicago",
-    "country": "US",
-    "lat": 41.88,
-    "lon": -87.63,
-    "timezone": "America/Chicago",
-    "headline": "Obamas host star-studded opening of Chicago presidential centre",
-    "headlineUrl": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-19T00:01:27.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Obamas host star-studded opening of Chicago presidential centre",
-        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-19T00:01:27.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Obamas host star-studded opening of Chicago presidential centre",
-        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-19T00:01:27.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Obamas host star-studded opening of Chicago presidential centre",
-        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-19T00:01:27.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Obamas host star-studded opening of Chicago presidential centre",
-        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-19T00:01:27.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Obamas host star-studded opening of Chicago presidential centre",
-        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-19T00:01:27.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Obamas host star-studded opening of Chicago presidential centre",
-        "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-19T00:01:27.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -458,6 +401,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Syrian activist Hassan Akkad detained in Damascus",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
+    "seendate": "2026-06-19T09:49:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Syrian activist Hassan Akkad detained in Damascus",
+        "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
+        "seendate": "2026-06-19T09:49:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Syrian activist Hassan Akkad detained in Damascus",
+        "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
+        "seendate": "2026-06-19T09:49:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
