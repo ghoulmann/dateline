@@ -6,58 +6,38 @@
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
-    "seendate": "2026-06-19T15:19:26.000Z",
-    "articleCount": 14,
+    "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+    "headlineUrl": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+    "seendate": "2026-06-19T17:57:00.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:19:26.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+        "seendate": "2026-06-19T17:57:00.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:19:26.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+        "seendate": "2026-06-19T17:57:00.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:16:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:16:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
         "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
         "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-        "seendate": "2026-06-19T14:53:23.000Z",
+        "seendate": "2026-06-19T17:37:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -67,12 +47,52 @@
       {
         "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
         "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-        "seendate": "2026-06-19T14:53:23.000Z",
+        "seendate": "2026-06-19T17:37:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:19:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:19:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:16:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
+        "seendate": "2026-06-19T15:16:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       },
       {
         "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
@@ -234,83 +254,6 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-    "headlineUrl": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-17T09:13:34.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-17T09:13:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-17T09:13:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-17T09:13:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-17T09:13:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-17T09:13:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-17T09:13:34.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Seattle",
     "name": "Seattle",
     "country": "US",
@@ -394,14 +337,34 @@
     "lat": 51.51,
     "lon": -0.13,
     "timezone": "Europe/London",
-    "headline": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
-    "headlineUrl": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
-    "seendate": "2026-06-18T16:08:04.000Z",
-    "articleCount": 2,
+    "headline": "Injuries reported as two trains collide north of London",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
+    "seendate": "2026-06-19T18:32:03.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Injuries reported as two trains collide north of London",
+        "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
+        "seendate": "2026-06-19T18:32:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Injuries reported as two trains collide north of London",
+        "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
+        "seendate": "2026-06-19T18:32:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
         "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
