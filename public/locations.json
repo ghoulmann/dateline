@@ -9,7 +9,7 @@
     "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
     "headlineUrl": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
     "seendate": "2026-06-19T17:57:00.000Z",
-    "articleCount": 16,
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
@@ -53,46 +53,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:19:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:19:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:16:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-        "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-        "seendate": "2026-06-19T15:16:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
@@ -168,83 +128,6 @@
         "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
         "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-18T15:46:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Teenager dies in horse-drawn carriage accident in New York",
-    "headlineUrl": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-18T02:39:28.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-18T02:39:28.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-18T02:39:28.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-18T02:39:28.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-18T02:39:28.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-18T02:39:28.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-18T02:39:28.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -337,7 +220,7 @@
     "lat": 51.51,
     "lon": -0.13,
     "timezone": "Europe/London",
-    "headline": "Injuries reported as two trains collide north of London",
+    "headline": "One person killed, several injured as two trains collide north of London",
     "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
     "seendate": "2026-06-19T18:32:03.000Z",
     "articleCount": 4,
@@ -346,7 +229,7 @@
     ],
     "articles": [
       {
-        "title": "Injuries reported as two trains collide north of London",
+        "title": "One person killed, several injured as two trains collide north of London",
         "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
         "seendate": "2026-06-19T18:32:03.000Z",
         "source_domain": "aljazeera.com",
@@ -356,7 +239,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Injuries reported as two trains collide north of London",
+        "title": "One person killed, several injured as two trains collide north of London",
         "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
         "seendate": "2026-06-19T18:32:03.000Z",
         "source_domain": "aljazeera.com",
@@ -394,33 +277,107 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
-    "headlineUrl": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
-    "seendate": "2026-06-17T21:11:09.000Z",
+    "headline": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+    "seendate": "2026-06-20T00:00:11.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
-        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
-        "seendate": "2026-06-17T21:11:09.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+        "seendate": "2026-06-20T00:00:11.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
-        "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html",
-        "seendate": "2026-06-17T21:11:09.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+        "seendate": "2026-06-20T00:00:11.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "US announces new round of Israel-Lebanon talks in Washington next week",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
+    "seendate": "2026-06-19T21:02:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
+        "seendate": "2026-06-19T21:02:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
+        "seendate": "2026-06-19T21:02:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
+    "seendate": "2026-06-19T20:50:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+        "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
+        "seendate": "2026-06-19T20:50:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+        "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
+        "seendate": "2026-06-19T20:50:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
