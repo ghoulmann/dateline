@@ -6,14 +6,34 @@
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "headlineUrl": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-20T10:19:34.000Z",
+    "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+    "headlineUrl": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+    "seendate": "2026-06-20T16:50:31.000Z",
     "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+        "seendate": "2026-06-20T16:50:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+        "seendate": "2026-06-20T16:50:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
         "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
@@ -73,26 +93,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
-        "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
-        "seendate": "2026-06-19T17:57:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
-        "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
-        "seendate": "2026-06-19T17:57:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       },
       {
         "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
@@ -254,6 +254,63 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+    "seendate": "2026-06-20T18:07:09.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-20T18:07:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-20T18:07:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strike kills children in Gaza despite ceasefire claims",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
+        "seendate": "2026-06-20T16:39:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strike kills children in Gaza despite ceasefire claims",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
+        "seendate": "2026-06-20T16:39:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -319,43 +376,6 @@
         "title": "Why Tunisia’s renewable energy strategy is facing resistance",
         "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
         "seendate": "2026-06-20T12:06:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Parents and two daughters killed in Israeli strike in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-    "seendate": "2026-06-20T08:18:01.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Parents and two daughters killed in Israeli strike in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-20T08:18:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Parents and two daughters killed in Israeli strike in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-20T08:18:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
