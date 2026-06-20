@@ -6,15 +6,75 @@
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
-    "headlineUrl": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
-    "seendate": "2026-06-19T17:57:00.000Z",
-    "articleCount": 12,
+    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+    "headlineUrl": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-20T10:19:34.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T10:19:34.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T10:19:34.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T10:19:34.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T10:19:34.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T10:19:34.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T10:19:34.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
         "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
         "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
         "seendate": "2026-06-19T17:57:00.000Z",
@@ -48,26 +108,6 @@
         "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
         "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
         "seendate": "2026-06-19T17:37:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-        "seendate": "2026-06-19T00:42:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-        "seendate": "2026-06-19T00:42:58.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -214,24 +254,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-    "seendate": "2026-06-20T05:58:49.000Z",
-    "articleCount": 4,
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Why Tunisia’s renewable energy strategy is facing resistance",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
+    "seendate": "2026-06-20T12:06:02.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-        "seendate": "2026-06-20T05:58:49.000Z",
+        "title": "Why Tunisia’s renewable energy strategy is facing resistance",
+        "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
+        "seendate": "2026-06-20T12:06:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -239,29 +279,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-        "seendate": "2026-06-20T05:58:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
-        "seendate": "2026-06-20T00:00:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
-        "seendate": "2026-06-20T00:00:11.000Z",
+        "title": "Why Tunisia’s renewable energy strategy is facing resistance",
+        "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
+        "seendate": "2026-06-20T12:06:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -277,7 +297,7 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Family, including two daughters, killed in Israeli strikes on Gaza",
+    "headline": "Parents and two daughters killed in Israeli strike in Gaza",
     "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
     "seendate": "2026-06-20T08:18:01.000Z",
     "articleCount": 2,
@@ -286,7 +306,7 @@
     ],
     "articles": [
       {
-        "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+        "title": "Parents and two daughters killed in Israeli strike in Gaza",
         "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
         "seendate": "2026-06-20T08:18:01.000Z",
         "source_domain": "aljazeera.com",
@@ -296,7 +316,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+        "title": "Parents and two daughters killed in Israeli strike in Gaza",
         "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
         "seendate": "2026-06-20T08:18:01.000Z",
         "source_domain": "aljazeera.com",
@@ -308,24 +328,24 @@
     ]
   },
   {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Mexico City looks to rein in street drinking after massive World Cup party",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
-    "seendate": "2026-06-20T03:43:21.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+    "seendate": "2026-06-20T05:58:49.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mexico City looks to rein in street drinking after massive World Cup party",
-        "url": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
-        "seendate": "2026-06-20T03:43:21.000Z",
+        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+        "seendate": "2026-06-20T05:58:49.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -333,9 +353,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mexico City looks to rein in street drinking after massive World Cup party",
-        "url": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
-        "seendate": "2026-06-20T03:43:21.000Z",
+        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+        "seendate": "2026-06-20T05:58:49.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
