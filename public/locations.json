@@ -214,24 +214,24 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "One person killed, several injured as two trains collide north of London",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
-    "seendate": "2026-06-19T18:32:03.000Z",
-    "articleCount": 4,
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Mexico City looks to rein in street drinking after massive World Cup party",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
+    "seendate": "2026-06-20T03:43:21.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "One person killed, several injured as two trains collide north of London",
-        "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
-        "seendate": "2026-06-19T18:32:03.000Z",
+        "title": "Mexico City looks to rein in street drinking after massive World Cup party",
+        "url": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
+        "seendate": "2026-06-20T03:43:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -239,34 +239,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "One person killed, several injured as two trains collide north of London",
-        "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
-        "seendate": "2026-06-19T18:32:03.000Z",
+        "title": "Mexico City looks to rein in street drinking after massive World Cup party",
+        "url": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
+        "seendate": "2026-06-20T03:43:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
-        "seendate": "2026-06-18T16:08:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
-        "seendate": "2026-06-18T16:08:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -378,6 +358,80 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+    "headlineUrl": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+    "seendate": "2026-06-20T04:01:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+        "seendate": "2026-06-20T04:01:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+        "seendate": "2026-06-20T04:01:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
+    "headlineUrl": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
+    "seendate": "2026-06-18T16:08:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
+        "seendate": "2026-06-18T16:08:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
+        "seendate": "2026-06-18T16:08:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   }
