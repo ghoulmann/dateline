@@ -214,6 +214,100 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+    "seendate": "2026-06-20T05:58:49.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+        "seendate": "2026-06-20T05:58:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+        "seendate": "2026-06-20T05:58:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+        "seendate": "2026-06-20T00:00:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+        "seendate": "2026-06-20T00:00:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Family, including two daughters, killed in Israeli strikes on Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+    "seendate": "2026-06-20T08:18:01.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+        "seendate": "2026-06-20T08:18:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+        "seendate": "2026-06-20T08:18:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -242,117 +336,6 @@
         "title": "Mexico City looks to rein in street drinking after massive World Cup party",
         "url": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
         "seendate": "2026-06-20T03:43:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
-    "seendate": "2026-06-20T00:00:11.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
-        "seendate": "2026-06-20T00:00:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
-        "seendate": "2026-06-20T00:00:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "US announces new round of Israel-Lebanon talks in Washington next week",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
-    "seendate": "2026-06-19T21:02:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
-        "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
-        "seendate": "2026-06-19T21:02:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
-        "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
-        "seendate": "2026-06-19T21:02:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
-    "seendate": "2026-06-19T20:50:50.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-        "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
-        "seendate": "2026-06-19T20:50:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-        "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
-        "seendate": "2026-06-19T20:50:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
