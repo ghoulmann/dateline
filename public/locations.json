@@ -254,6 +254,43 @@
     ]
   },
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
+    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss",
+    "seendate": "2026-06-20T13:02:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss",
+        "seendate": "2026-06-20T13:02:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss",
+        "seendate": "2026-06-20T13:02:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tunis",
     "name": "Tunis",
     "country": "TN",
@@ -319,43 +356,6 @@
         "title": "Parents and two daughters killed in Israeli strike in Gaza",
         "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
         "seendate": "2026-06-20T08:18:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-    "seendate": "2026-06-20T05:58:49.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-        "seendate": "2026-06-20T05:58:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-        "seendate": "2026-06-20T05:58:49.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
