@@ -1,122 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza bids farewell to slain journalist Ahmed Wishah",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
-    "seendate": "2026-06-21T14:12:49.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
-        "seendate": "2026-06-21T14:12:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
-        "seendate": "2026-06-21T14:12:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
-        "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
-        "seendate": "2026-06-21T10:30:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
-        "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
-        "seendate": "2026-06-21T10:30:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -234,6 +117,103 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza bids farewell to slain journalist Ahmed Wishah",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
+    "seendate": "2026-06-21T14:12:49.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
+        "seendate": "2026-06-21T14:12:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
+        "seendate": "2026-06-21T14:12:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -242,7 +222,7 @@
     "timezone": "America/New_York",
     "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
     "headlineUrl": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-    "seendate": "2026-06-21T08:28:12.000Z",
+    "seendate": "2026-06-21T17:14:11.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
@@ -251,7 +231,7 @@
       {
         "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
         "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-        "seendate": "2026-06-21T08:28:12.000Z",
+        "seendate": "2026-06-21T17:14:11.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -261,7 +241,7 @@
       {
         "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
         "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-        "seendate": "2026-06-21T08:28:12.000Z",
+        "seendate": "2026-06-21T17:14:11.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -327,6 +307,104 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
+    "headlineUrl": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-21T17:15:56.000Z",
+    "articleCount": 8,
+    "categories": [
+      "climate-watch",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+        "seendate": "2026-06-20T04:01:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+        "seendate": "2026-06-20T04:01:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -485,6 +563,43 @@
     ]
   },
   {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "Japan fans celebrate 4-0 World Cup win in Tokyo",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/21/japan-fans-celebrate-4-0-world-cup-win-in-tokyo?traffic_source=rss",
+    "seendate": "2026-06-21T19:54:29.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Japan fans celebrate 4-0 World Cup win in Tokyo",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/japan-fans-celebrate-4-0-world-cup-win-in-tokyo?traffic_source=rss",
+        "seendate": "2026-06-21T19:54:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Japan fans celebrate 4-0 World Cup win in Tokyo",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/japan-fans-celebrate-4-0-world-cup-win-in-tokyo?traffic_source=rss",
+        "seendate": "2026-06-21T19:54:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Atlanta",
     "name": "Atlanta",
     "country": "US",
@@ -518,43 +633,6 @@
           "natural-disaster"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-    "headlineUrl": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-    "seendate": "2026-06-20T04:01:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-        "seendate": "2026-06-20T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-        "seendate": "2026-06-20T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   }
