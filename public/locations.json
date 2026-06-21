@@ -177,123 +177,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-    "headlineUrl": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-20T21:57:36.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-20T18:07:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-        "seendate": "2026-06-20T18:07:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strike kills children in Gaza despite ceasefire claims",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
-        "seendate": "2026-06-20T16:39:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strike kills children in Gaza despite ceasefire claims",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
-        "seendate": "2026-06-20T16:39:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -391,20 +274,137 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+    "headlineUrl": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-20T21:57:36.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-20T18:07:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-20T18:07:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Why an AI company cleaned my New York City apartment for free",
-    "headlineUrl": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-20T23:18:55.000Z",
-    "articleCount": 6,
+    "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
+    "headlineUrl": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
+    "seendate": "2026-06-21T08:28:12.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
+        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
+        "seendate": "2026-06-21T08:28:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
+        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
+        "seendate": "2026-06-21T08:28:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
         "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
@@ -541,6 +541,103 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Watch World Cup Day 10: Netherlands thrash Sweden, Japan eliminate Tunisia",
+    "headlineUrl": "https://www.aljazeera.com/video/2026/6/21/video-world-cup-2026-highlights?traffic_source=rss",
+    "seendate": "2026-06-21T08:45:41.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Watch World Cup Day 10: Netherlands thrash Sweden, Japan eliminate Tunisia",
+        "url": "https://www.aljazeera.com/video/2026/6/21/video-world-cup-2026-highlights?traffic_source=rss",
+        "seendate": "2026-06-21T08:45:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch World Cup Day 10: Netherlands thrash Sweden, Japan eliminate Tunisia",
+        "url": "https://www.aljazeera.com/video/2026/6/21/video-world-cup-2026-highlights?traffic_source=rss",
+        "seendate": "2026-06-21T08:45:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ueda’s brace helps Japan knock Tunisia out of World Cup 2026",
+        "url": "https://www.aljazeera.com/sports/2026/6/21/japan-tunisia-4-0-fifa-world-cup-2026-ayase-ueda-daichi-kamada-junya-ito?traffic_source=rss",
+        "seendate": "2026-06-21T06:30:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ueda’s brace helps Japan knock Tunisia out of World Cup 2026",
+        "url": "https://www.aljazeera.com/sports/2026/6/21/japan-tunisia-4-0-fifa-world-cup-2026-ayase-ueda-daichi-kamada-junya-ito?traffic_source=rss",
+        "seendate": "2026-06-21T06:30:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
+    "seendate": "2026-06-21T05:42:08.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
+        "url": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
+        "seendate": "2026-06-21T05:42:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression",
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
+        "url": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
+        "seendate": "2026-06-21T05:42:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression",
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
