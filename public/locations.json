@@ -294,6 +294,180 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+    "headlineUrl": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-21T04:34:00.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T04:34:00.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T04:34:00.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T04:34:00.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T04:34:00.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T04:34:00.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T04:34:00.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+        "seendate": "2026-06-21T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+        "seendate": "2026-06-21T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Why an AI company cleaned my New York City apartment for free",
+    "headlineUrl": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-20T23:18:55.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Seattle",
     "name": "Seattle",
     "country": "US",
@@ -399,43 +573,6 @@
         "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
         "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
         "seendate": "2026-06-20T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
-    "headlineUrl": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
-    "seendate": "2026-06-18T16:08:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
-        "seendate": "2026-06-18T16:08:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "London Hospital Worker Tried to Sell Princess Catherine’s Medical Records, Reports Say",
-        "url": "https://www.nytimes.com/2026/06/18/world/europe/princess-kate-medical-records-sale-uk.html",
-        "seendate": "2026-06-18T16:08:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
