@@ -6,14 +6,54 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
-    "seendate": "2026-06-22T12:16:51.000Z",
-    "articleCount": 8,
+    "headline": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
+    "seendate": "2026-06-22T15:26:36.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
+        "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
+        "seendate": "2026-06-22T15:26:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
+        "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
+        "seendate": "2026-06-22T15:26:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What the World Cup looks like from Gaza",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/22/what-the-world-cup-looks-like-from-gaza?traffic_source=rss",
+        "seendate": "2026-06-22T15:02:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What the World Cup looks like from Gaza",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/22/what-the-world-cup-looks-like-from-gaza?traffic_source=rss",
+        "seendate": "2026-06-22T15:02:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
         "url": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
@@ -88,6 +128,103 @@
         "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
         "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Why Washington’s reflecting pool has gone from ‘US blue’ to algae green",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/22/why-washingtons-reflecting-pool-has-gone-from-us-blue-to-algae-green?traffic_source=rss",
+    "seendate": "2026-06-22T15:35:16.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why Washington’s reflecting pool has gone from ‘US blue’ to algae green",
+        "url": "https://www.aljazeera.com/news/2026/6/22/why-washingtons-reflecting-pool-has-gone-from-us-blue-to-algae-green?traffic_source=rss",
+        "seendate": "2026-06-22T15:35:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why Washington’s reflecting pool has gone from ‘US blue’ to algae green",
+        "url": "https://www.aljazeera.com/news/2026/6/22/why-washingtons-reflecting-pool-has-gone-from-us-blue-to-algae-green?traffic_source=rss",
+        "seendate": "2026-06-22T15:35:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T07:16:54.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T07:16:54.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T07:16:54.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T07:16:54.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T07:16:54.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T07:16:54.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -194,122 +331,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
-    "headlineUrl": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-21T17:15:56.000Z",
-    "articleCount": 8,
-    "categories": [
-      "climate-watch",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-        "seendate": "2026-06-20T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-        "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-        "seendate": "2026-06-20T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "Houston",
+    "name": "Houston",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "headlineUrl": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-21T07:16:54.000Z",
-    "articleCount": 6,
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+    "headlineUrl": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-22T17:06:12.000Z",
+    "articleCount": 7,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-22T17:06:12.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -317,9 +356,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-22T17:06:12.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -327,9 +366,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-22T17:06:12.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -337,9 +376,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-22T17:06:12.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -347,9 +386,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-22T17:06:12.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -357,14 +396,24 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-22T17:06:12.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Clive Davis, music icon who signed Whitney Houston and Carrie Underwood, dead at 94",
+        "url": "https://www.foxnews.com/entertainment/clive-davis-music-icon-signed-whitney-houston-carrie-underwood-dead-94",
+        "seendate": "2026-06-22T16:13:45.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -446,6 +495,83 @@
     ]
   },
   {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
+    "headlineUrl": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-21T17:15:56.000Z",
+    "articleCount": 6,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-21T17:15:56.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Seattle",
     "name": "Seattle",
     "country": "US",
@@ -519,43 +645,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Cairo",
-    "name": "Cairo",
-    "country": "EG",
-    "lat": 30.05,
-    "lon": 31.24,
-    "timezone": "Africa/Cairo",
-    "headline": "Cairo erupts in celebration after Egypt’s first ever win in a World Cup",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/22/cairo-erupts-in-celebration-after-egypts-first-ever-win-in-a-world-cup?traffic_source=rss",
-    "seendate": "2026-06-22T10:38:01.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Cairo erupts in celebration after Egypt’s first ever win in a World Cup",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/cairo-erupts-in-celebration-after-egypts-first-ever-win-in-a-world-cup?traffic_source=rss",
-        "seendate": "2026-06-22T10:38:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Cairo erupts in celebration after Egypt’s first ever win in a World Cup",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/cairo-erupts-in-celebration-after-egypts-first-ever-win-in-a-world-cup?traffic_source=rss",
-        "seendate": "2026-06-22T10:38:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   }
