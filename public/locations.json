@@ -6,15 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
-    "seendate": "2026-06-22T15:26:36.000Z",
-    "articleCount": 12,
+    "headline": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
+    "seendate": "2026-06-22T20:47:55.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+        "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
+        "seendate": "2026-06-22T20:47:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+        "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
+        "seendate": "2026-06-22T20:47:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
         "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
         "seendate": "2026-06-22T15:26:36.000Z",
@@ -28,46 +48,6 @@
         "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
         "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
         "seendate": "2026-06-22T15:26:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What the World Cup looks like from Gaza",
-        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/22/what-the-world-cup-looks-like-from-gaza?traffic_source=rss",
-        "seendate": "2026-06-22T15:02:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What the World Cup looks like from Gaza",
-        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/22/what-the-world-cup-looks-like-from-gaza?traffic_source=rss",
-        "seendate": "2026-06-22T15:02:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
-        "url": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
-        "seendate": "2026-06-22T12:16:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
-        "url": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
-        "seendate": "2026-06-22T12:16:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -128,6 +108,123 @@
         "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
         "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T21:57:36.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "A leftward lurch? What to know about the Democratic primaries in New York",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss",
+    "seendate": "2026-06-22T18:28:13.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "A leftward lurch? What to know about the Democratic primaries in New York",
+        "url": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss",
+        "seendate": "2026-06-22T18:28:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "A leftward lurch? What to know about the Democratic primaries in New York",
+        "url": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss",
+        "seendate": "2026-06-22T18:28:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
+        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
+        "seendate": "2026-06-21T17:14:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
+        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
+        "seendate": "2026-06-21T17:14:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
+        "source_domain": "bbc.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-20T23:18:55.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -234,103 +331,6 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-    "headlineUrl": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-    "seendate": "2026-06-21T17:14:11.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-        "seendate": "2026-06-21T17:14:11.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-        "seendate": "2026-06-21T17:14:11.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Houston",
     "name": "Houston",
     "country": "US",
@@ -339,7 +339,7 @@
     "timezone": "America/Chicago",
     "headline": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
     "headlineUrl": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-22T17:06:12.000Z",
+    "seendate": "2026-06-22T18:11:56.000Z",
     "articleCount": 7,
     "categories": [
       "armed-conflict"
@@ -348,7 +348,7 @@
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-22T17:06:12.000Z",
+        "seendate": "2026-06-22T18:11:56.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -358,7 +358,7 @@
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-22T17:06:12.000Z",
+        "seendate": "2026-06-22T18:11:56.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -368,7 +368,7 @@
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-22T17:06:12.000Z",
+        "seendate": "2026-06-22T18:11:56.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -378,7 +378,7 @@
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-22T17:06:12.000Z",
+        "seendate": "2026-06-22T18:11:56.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -388,7 +388,7 @@
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-22T17:06:12.000Z",
+        "seendate": "2026-06-22T18:11:56.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -398,7 +398,7 @@
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-22T17:06:12.000Z",
+        "seendate": "2026-06-22T18:11:56.000Z",
         "source_domain": "bbc.com",
         "categories": [
           "armed-conflict"
@@ -645,6 +645,43 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+    "headlineUrl": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+    "seendate": "2026-06-22T19:00:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+        "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+        "seendate": "2026-06-22T19:00:15.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+        "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+        "seendate": "2026-06-22T19:00:15.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   }
