@@ -1,258 +1,65 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
-    "seendate": "2026-06-23T04:40:25.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
-        "seendate": "2026-06-23T04:40:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
-        "seendate": "2026-06-23T04:40:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza surfers seek solace from war in the sea",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-        "seendate": "2026-06-22T23:01:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza surfers seek solace from war in the sea",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-        "seendate": "2026-06-22T23:01:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-        "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T21:57:36.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "Egypt denied flight to Seattle ahead of final World Cup group match",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
-    "seendate": "2026-06-22T22:11:08.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
-        "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
-        "seendate": "2026-06-22T22:11:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
-        "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
-        "seendate": "2026-06-22T22:11:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-        "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-16T16:20:04.000Z",
-        "source_domain": "bbc.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-    "headlineUrl": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-    "seendate": "2026-06-21T17:14:11.000Z",
-    "articleCount": 8,
+    "headline": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+    "seendate": "2026-06-23T07:49:18.000Z",
+    "articleCount": 10,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-        "seendate": "2026-06-21T17:14:11.000Z",
-        "source_domain": "nytimes.com",
+        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+        "seendate": "2026-06-23T07:49:18.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-        "url": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html",
-        "seendate": "2026-06-21T17:14:11.000Z",
-        "source_domain": "nytimes.com",
+        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+        "seendate": "2026-06-23T07:49:18.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
+        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T07:18:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
+        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T07:18:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
       },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -260,9 +67,9 @@
       },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -270,9 +77,9 @@
       },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -280,9 +87,9 @@
       },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -290,9 +97,9 @@
       },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -300,9 +107,9 @@
       },
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T23:18:55.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -318,7 +125,7 @@
     "lon": -95.37,
     "timezone": "America/Chicago",
     "headline": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-    "headlineUrl": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-06-22T22:04:41.000Z",
     "articleCount": 7,
     "categories": [
@@ -327,9 +134,9 @@
     "articles": [
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-22T22:04:41.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -337,9 +144,9 @@
       },
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-22T22:04:41.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -347,9 +154,9 @@
       },
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-22T22:04:41.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -357,9 +164,9 @@
       },
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-22T22:04:41.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -367,9 +174,9 @@
       },
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-22T22:04:41.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -377,9 +184,9 @@
       },
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-22T22:04:41.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -398,6 +205,83 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+    "seendate": "2026-06-23T08:42:03.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+        "seendate": "2026-06-23T08:42:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+        "seendate": "2026-06-23T08:42:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Football offers escape for Gaza, but World Cup spirit dimmed",
+        "url": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss",
+        "seendate": "2026-06-23T05:41:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Football offers escape for Gaza, but World Cup spirit dimmed",
+        "url": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss",
+        "seendate": "2026-06-23T05:41:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
+        "seendate": "2026-06-23T04:40:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
+        "seendate": "2026-06-23T04:40:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -405,7 +289,7 @@
     "lon": -77.04,
     "timezone": "America/New_York",
     "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "headlineUrl": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-06-21T07:16:54.000Z",
     "articleCount": 6,
     "categories": [
@@ -414,9 +298,9 @@
     "articles": [
       {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -424,9 +308,9 @@
       },
       {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -434,9 +318,9 @@
       },
       {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -444,9 +328,9 @@
       },
       {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -454,9 +338,9 @@
       },
       {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -464,9 +348,9 @@
       },
       {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -482,7 +366,7 @@
     "lon": 37.62,
     "timezone": "Europe/Moscow",
     "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "headlineUrl": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-06-20T10:19:34.000Z",
     "articleCount": 6,
     "categories": [
@@ -491,9 +375,9 @@
     "articles": [
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -501,9 +385,9 @@
       },
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -511,9 +395,9 @@
       },
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -521,9 +405,9 @@
       },
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -531,9 +415,9 @@
       },
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -541,9 +425,9 @@
       },
       {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
@@ -559,7 +443,7 @@
     "lon": 2.35,
     "timezone": "Europe/Paris",
     "headline": "Parisians cool off in canal amid 'red alert' heatwave",
-    "headlineUrl": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-06-21T17:15:56.000Z",
     "articleCount": 6,
     "categories": [
@@ -568,9 +452,9 @@
     "articles": [
       {
         "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
         ],
@@ -578,9 +462,9 @@
       },
       {
         "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
         ],
@@ -588,9 +472,9 @@
       },
       {
         "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
         ],
@@ -598,9 +482,9 @@
       },
       {
         "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
         ],
@@ -608,9 +492,9 @@
       },
       {
         "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
         ],
@@ -618,50 +502,13 @@
       },
       {
         "title": "Parisians cool off in canal amid 'red alert' heatwave",
-        "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-21T17:15:56.000Z",
-        "source_domain": "bbc.com",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
-    "seendate": "2026-06-22T22:03:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
-        "seendate": "2026-06-22T22:03:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
-        "seendate": "2026-06-22T22:03:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -672,14 +519,35 @@
     "lat": 50.85,
     "lon": 4.35,
     "timezone": "Europe/Brussels",
-    "headline": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-    "headlineUrl": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-    "seendate": "2026-06-22T19:00:15.000Z",
-    "articleCount": 2,
+    "headline": "EU to hold migration meeting with Taliban officials in Brussels",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss",
+    "seendate": "2026-06-23T07:08:04.000Z",
+    "articleCount": 4,
     "categories": [
+      "climate-watch",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "EU to hold migration meeting with Taliban officials in Brussels",
+        "url": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss",
+        "seendate": "2026-06-23T07:08:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "EU to hold migration meeting with Taliban officials in Brussels",
+        "url": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss",
+        "seendate": "2026-06-23T07:08:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
         "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
@@ -699,6 +567,90 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "What to know about a cold storage warehouse fire in Los Angeles",
+    "headlineUrl": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
+    "seendate": "2026-06-23T05:53:46.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "What to know about a cold storage warehouse fire in Los Angeles",
+        "url": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
+        "seendate": "2026-06-23T05:53:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What to know about a cold storage warehouse fire in Los Angeles",
+        "url": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
+        "seendate": "2026-06-23T05:53:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "What to know about a cold storage warehouse fire in Los Angeles",
+        "url": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
+        "seendate": "2026-06-23T05:53:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
+    "seendate": "2026-06-23T05:47:47.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
+        "seendate": "2026-06-23T05:47:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
+        "seendate": "2026-06-23T05:47:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
