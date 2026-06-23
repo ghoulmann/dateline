@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
-    "seendate": "2026-06-23T11:55:55.000Z",
+    "headline": "Demand for tunnel maps and personal weapons tests Gaza talks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks?traffic_source=rss",
+    "seendate": "2026-06-23T13:59:31.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Demand for tunnel maps and personal weapons tests Gaza talks",
+        "url": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks?traffic_source=rss",
+        "seendate": "2026-06-23T13:59:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Demand for tunnel maps and personal weapons tests Gaza talks",
+        "url": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks?traffic_source=rss",
+        "seendate": "2026-06-23T13:59:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
         "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
@@ -93,26 +113,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
-        "seendate": "2026-06-23T08:42:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
-        "seendate": "2026-06-23T08:42:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -204,84 +204,6 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Arab fans celebrate World Cup results in New York",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
-    "seendate": "2026-06-23T12:05:02.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict",
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Arab fans celebrate World Cup results in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T12:05:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Arab fans celebrate World Cup results in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T12:05:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
-        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
-        "seendate": "2026-06-23T07:49:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
-        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
-        "seendate": "2026-06-23T07:49:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
-        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T07:18:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
-        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T07:18:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -359,60 +281,39 @@
     ]
   },
   {
-    "id": "Brussels",
-    "name": "Brussels",
-    "country": "BE",
-    "lat": 50.85,
-    "lon": 4.35,
-    "timezone": "Europe/Brussels",
-    "headline": "EU to hold migration meeting with Taliban officials in Brussels",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss",
-    "seendate": "2026-06-23T07:08:04.000Z",
-    "articleCount": 4,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Arab fans celebrate World Cup results in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
+    "seendate": "2026-06-23T12:05:02.000Z",
+    "articleCount": 2,
     "categories": [
-      "climate-watch",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "EU to hold migration meeting with Taliban officials in Brussels",
-        "url": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss",
-        "seendate": "2026-06-23T07:08:04.000Z",
+        "title": "Arab fans celebrate World Cup results in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T12:05:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "EU to hold migration meeting with Taliban officials in Brussels",
-        "url": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss",
-        "seendate": "2026-06-23T07:08:04.000Z",
+        "title": "Arab fans celebrate World Cup results in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T12:05:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-        "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-        "seendate": "2026-06-22T19:00:15.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-        "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-        "seendate": "2026-06-22T19:00:15.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -450,6 +351,80 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
+    "headlineUrl": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
+    "seendate": "2026-06-23T16:42:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
+        "url": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
+        "seendate": "2026-06-23T16:42:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
+        "url": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
+        "seendate": "2026-06-23T16:42:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+    "headlineUrl": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+    "seendate": "2026-06-22T19:00:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+        "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+        "seendate": "2026-06-22T19:00:15.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+        "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+        "seendate": "2026-06-22T19:00:15.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   }
