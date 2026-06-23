@@ -1,24 +1,23 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
-    "seendate": "2026-06-23T07:49:18.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+    "seendate": "2026-06-23T11:55:55.000Z",
     "articleCount": 10,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
-        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
-        "seendate": "2026-06-23T07:49:18.000Z",
+        "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
+        "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+        "seendate": "2026-06-23T11:55:55.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
-        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
-        "seendate": "2026-06-23T07:49:18.000Z",
+        "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
+        "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+        "seendate": "2026-06-23T11:55:55.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -36,29 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
-        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T07:18:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
-        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T07:18:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-23T11:10:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -66,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-23T11:10:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -76,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-23T11:10:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -86,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-23T11:10:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -96,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-23T11:10:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -106,14 +85,34 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T23:18:55.000Z",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-23T11:10:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+        "seendate": "2026-06-23T08:42:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+        "seendate": "2026-06-23T08:42:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -205,233 +204,80 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
-    "seendate": "2026-06-23T08:42:03.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
-        "seendate": "2026-06-23T08:42:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-        "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
-        "seendate": "2026-06-23T08:42:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Football offers escape for Gaza, but World Cup spirit dimmed",
-        "url": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss",
-        "seendate": "2026-06-23T05:41:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Football offers escape for Gaza, but World Cup spirit dimmed",
-        "url": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss",
-        "seendate": "2026-06-23T05:41:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
-        "seendate": "2026-06-23T04:40:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss",
-        "seendate": "2026-06-23T04:40:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "New York",
+    "name": "New York",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
+    "lat": 40.71,
+    "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-21T07:16:54.000Z",
+    "headline": "Arab fans celebrate World Cup results in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
+    "seendate": "2026-06-23T12:05:02.000Z",
     "articleCount": 6,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Arab fans celebrate World Cup results in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T12:05:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Arab fans celebrate World Cup results in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T12:05:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8d26051vv2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-21T07:16:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-20T10:19:34.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+        "seendate": "2026-06-23T07:49:18.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+        "seendate": "2026-06-23T07:49:18.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
+        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T07:18:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
+        "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss",
+        "seendate": "2026-06-23T07:18:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-20T10:19:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -571,84 +417,37 @@
     ]
   },
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
+    "id": "Washington",
+    "name": "Washington",
     "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "What to know about a cold storage warehouse fire in Los Angeles",
-    "headlineUrl": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
-    "seendate": "2026-06-23T05:53:46.000Z",
-    "articleCount": 3,
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "What Israeli and Lebanese officials are saying before Washington talks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+    "seendate": "2026-06-23T10:26:53.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "What to know about a cold storage warehouse fire in Los Angeles",
-        "url": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
-        "seendate": "2026-06-23T05:53:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "What to know about a cold storage warehouse fire in Los Angeles",
-        "url": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
-        "seendate": "2026-06-23T05:53:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "What to know about a cold storage warehouse fire in Los Angeles",
-        "url": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
-        "seendate": "2026-06-23T05:53:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
-    "seendate": "2026-06-23T05:47:47.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
-        "url": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
-        "seendate": "2026-06-23T05:47:47.000Z",
+        "title": "What Israeli and Lebanese officials are saying before Washington talks",
+        "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+        "seendate": "2026-06-23T10:26:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
-        "url": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
-        "seendate": "2026-06-23T05:47:47.000Z",
+        "title": "What Israeli and Lebanese officials are saying before Washington talks",
+        "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+        "seendate": "2026-06-23T10:26:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
