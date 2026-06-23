@@ -6,53 +6,33 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Demand for tunnel maps and personal weapons tests Gaza talks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks?traffic_source=rss",
-    "seendate": "2026-06-23T13:59:31.000Z",
-    "articleCount": 10,
+    "headline": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+    "headlineUrl": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+    "seendate": "2026-06-23T19:51:51.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Demand for tunnel maps and personal weapons tests Gaza talks",
-        "url": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks?traffic_source=rss",
-        "seendate": "2026-06-23T13:59:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+        "seendate": "2026-06-23T19:51:51.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Demand for tunnel maps and personal weapons tests Gaza talks",
-        "url": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks?traffic_source=rss",
-        "seendate": "2026-06-23T13:59:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+        "seendate": "2026-06-23T19:51:51.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-        "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
-        "seendate": "2026-06-23T11:55:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-        "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
-        "seendate": "2026-06-23T11:55:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
         "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
@@ -281,80 +261,6 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Arab fans celebrate World Cup results in New York",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
-    "seendate": "2026-06-23T12:05:02.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Arab fans celebrate World Cup results in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T12:05:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Arab fans celebrate World Cup results in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
-        "seendate": "2026-06-23T12:05:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "What Israeli and Lebanese officials are saying before Washington talks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
-    "seendate": "2026-06-23T10:26:53.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What Israeli and Lebanese officials are saying before Washington talks",
-        "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
-        "seendate": "2026-06-23T10:26:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What Israeli and Lebanese officials are saying before Washington talks",
-        "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
-        "seendate": "2026-06-23T10:26:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -363,7 +269,7 @@
     "timezone": "Europe/London",
     "headline": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
     "headlineUrl": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-    "seendate": "2026-06-23T16:42:37.000Z",
+    "seendate": "2026-06-23T16:42:38.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -372,7 +278,7 @@
       {
         "title": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
         "url": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-        "seendate": "2026-06-23T16:42:37.000Z",
+        "seendate": "2026-06-23T16:42:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -382,7 +288,7 @@
       {
         "title": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
         "url": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-        "seendate": "2026-06-23T16:42:37.000Z",
+        "seendate": "2026-06-23T16:42:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
