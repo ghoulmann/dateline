@@ -6,18 +6,38 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-    "headlineUrl": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-    "seendate": "2026-06-23T19:51:51.000Z",
-    "articleCount": 8,
+    "headline": "UN: Israel committed genocide by targeting Gaza children",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+    "seendate": "2026-06-23T21:38:23.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "UN: Israel committed genocide by targeting Gaza children",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+        "seendate": "2026-06-23T21:38:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UN: Israel committed genocide by targeting Gaza children",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+        "seendate": "2026-06-23T21:38:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
         "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-23T19:51:51.000Z",
+        "seendate": "2026-06-23T21:29:17.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +47,7 @@
       {
         "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
         "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-23T19:51:51.000Z",
+        "seendate": "2026-06-23T21:29:17.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -103,14 +123,24 @@
     "lat": 29.76,
     "lon": -95.37,
     "timezone": "America/Chicago",
-    "headline": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-22T22:04:41.000Z",
-    "articleCount": 7,
+    "headline": "Oprah Winfrey admits she begged talk show audience to bury footage of Whitney Houston onstage fall",
+    "headlineUrl": "https://www.foxnews.com/entertainment/oprah-winfrey-admits-begged-talk-show-audience-bury-footage-whitney-houston-onstage-fall",
+    "seendate": "2026-06-23T23:19:05.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Oprah Winfrey admits she begged talk show audience to bury footage of Whitney Houston onstage fall",
+        "url": "https://www.foxnews.com/entertainment/oprah-winfrey-admits-begged-talk-show-audience-bury-footage-whitney-houston-onstage-fall",
+        "seendate": "2026-06-23T23:19:05.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
         "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&amp;at_campaign=rss",
@@ -257,6 +287,43 @@
           "climate-watch"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+    "seendate": "2026-06-24T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+        "seendate": "2026-06-24T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+        "seendate": "2026-06-24T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
