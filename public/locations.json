@@ -1,23 +1,53 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Diabetes patients in Gaza face survival battle amid war shortages",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-    "seendate": "2026-06-24T06:04:30.000Z",
-    "articleCount": 10,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York primary could forecast future for Democrats. Here&apos;s what you need to know",
+    "headlineUrl": "https://www.npr.org/2026/06/24/nx-s1-5869118/new-york-primary-takeaways",
+    "seendate": "2026-06-24T09:00:00.000Z",
+    "articleCount": 11,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Diabetes patients in Gaza face survival battle amid war shortages",
-        "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-        "seendate": "2026-06-24T06:04:30.000Z",
+        "title": "New York primary could forecast future for Democrats. Here&apos;s what you need to know",
+        "url": "https://www.npr.org/2026/06/24/nx-s1-5869118/new-york-primary-takeaways",
+        "seendate": "2026-06-24T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "New York primary could forecast future for Democrats. Here&apos;s what you need to know",
+        "url": "https://www.npr.org/2026/06/24/nx-s1-5869118/new-york-primary-takeaways",
+        "seendate": "2026-06-24T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "New York primary could forecast future for Democrats. Here&apos;s what you need to know",
+        "url": "https://www.npr.org/2026/06/24/nx-s1-5869118/new-york-primary-takeaways",
+        "seendate": "2026-06-24T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
+        "url": "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss",
+        "seendate": "2026-06-24T08:01:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +55,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Diabetes patients in Gaza face survival battle amid war shortages",
-        "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-        "seendate": "2026-06-24T06:04:30.000Z",
+        "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
+        "url": "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss",
+        "seendate": "2026-06-24T08:01:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -35,29 +65,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-23T21:29:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-23T21:29:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-23T11:10:06.000Z",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T05:07:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +75,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-23T11:10:06.000Z",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T05:07:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +85,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-23T11:10:06.000Z",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T05:07:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +95,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-23T11:10:06.000Z",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T05:07:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,9 +105,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-23T11:10:06.000Z",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T05:07:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -105,9 +115,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-23T11:10:06.000Z",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T05:07:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -117,24 +127,45 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Mamdani-backed candidates sweep New York City Democratic primaries",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss",
-    "seendate": "2026-06-24T08:01:26.000Z",
-    "articleCount": 8,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Four Gaza aid flotilla activists released from Libya detention",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
+    "seendate": "2026-06-24T09:39:49.000Z",
+    "articleCount": 6,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
-        "url": "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss",
-        "seendate": "2026-06-24T08:01:26.000Z",
+        "title": "Four Gaza aid flotilla activists released from Libya detention",
+        "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
+        "seendate": "2026-06-24T09:39:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Four Gaza aid flotilla activists released from Libya detention",
+        "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
+        "seendate": "2026-06-24T09:39:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Diabetes patients in Gaza face survival battle amid war shortages",
+        "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
+        "seendate": "2026-06-24T06:04:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -142,9 +173,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
-        "url": "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss",
-        "seendate": "2026-06-24T08:01:26.000Z",
+        "title": "Diabetes patients in Gaza face survival battle amid war shortages",
+        "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
+        "seendate": "2026-06-24T06:04:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -152,64 +183,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T05:07:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T05:07:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T05:07:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T05:07:55.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+        "seendate": "2026-06-23T21:29:17.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T05:07:55.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+        "seendate": "2026-06-23T21:29:17.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T05:07:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -319,80 +310,6 @@
         "title": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
         "url": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
         "seendate": "2026-06-24T08:27:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kilts-and-bagpipes-flood-miami-streets-as-scotland-prepare-to-face-brazil?traffic_source=rss",
-    "seendate": "2026-06-24T04:42:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kilts-and-bagpipes-flood-miami-streets-as-scotland-prepare-to-face-brazil?traffic_source=rss",
-        "seendate": "2026-06-24T04:42:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kilts-and-bagpipes-flood-miami-streets-as-scotland-prepare-to-face-brazil?traffic_source=rss",
-        "seendate": "2026-06-24T04:42:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran says deal to end war a ‘declaration of US defeat’",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-    "seendate": "2026-06-24T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran says deal to end war a ‘declaration of US defeat’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-        "seendate": "2026-06-24T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran says deal to end war a ‘declaration of US defeat’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-        "seendate": "2026-06-24T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
