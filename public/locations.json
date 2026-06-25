@@ -103,18 +103,18 @@
     "lat": -1.29,
     "lon": 36.82,
     "timezone": "Africa/Nairobi",
-    "headline": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+    "headline": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-25T08:29:31.000Z",
+    "seendate": "2026-06-25T11:23:10.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
         "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T08:29:31.000Z",
+        "seendate": "2026-06-25T11:23:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +122,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
         "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T08:29:31.000Z",
+        "seendate": "2026-06-25T11:23:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +132,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
         "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T08:29:31.000Z",
+        "seendate": "2026-06-25T11:23:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +142,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
         "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T08:29:31.000Z",
+        "seendate": "2026-06-25T11:23:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +152,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
         "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T08:29:31.000Z",
+        "seendate": "2026-06-25T11:23:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,9 +162,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
         "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T08:29:31.000Z",
+        "seendate": "2026-06-25T11:23:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -251,6 +251,43 @@
     ]
   },
   {
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "US push for unified Libyan government tests Tripoli factions",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
+    "seendate": "2026-06-25T11:48:08.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US push for unified Libyan government tests Tripoli factions",
+        "url": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
+        "seendate": "2026-06-25T11:48:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US push for unified Libyan government tests Tripoli factions",
+        "url": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
+        "seendate": "2026-06-25T11:48:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -260,9 +297,8 @@
     "headline": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
     "headlineUrl": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
     "seendate": "2026-06-25T08:17:40.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
-      "humanitarian",
       "climate-watch"
     ],
     "articles": [
@@ -283,65 +319,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Migrants left to endure deadly Paris heat with little shelter or aid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss",
-        "seendate": "2026-06-25T03:50:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian",
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Migrants left to endure deadly Paris heat with little shelter or aid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss",
-        "seendate": "2026-06-25T03:50:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian",
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
-    "headlineUrl": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-    "seendate": "2026-06-24T16:09:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
-        "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "seendate": "2026-06-24T16:09:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
-        "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "seendate": "2026-06-24T16:09:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
@@ -379,6 +356,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
+    "headlineUrl": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
+    "seendate": "2026-06-24T16:09:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
+        "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
+        "seendate": "2026-06-24T16:09:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
+        "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
+        "seendate": "2026-06-24T16:09:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
