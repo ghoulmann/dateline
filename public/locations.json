@@ -1,193 +1,80 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "In New York’s Astoria neighbourhood, Arab nations unite in World Cup joy",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/25/in-new-yorks-astoria-neighbourhood-arab-nations-unite-in-world-cup-joy?traffic_source=rss",
-    "seendate": "2026-06-25T07:45:14.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "In New York’s Astoria neighbourhood, Arab nations unite in World Cup joy",
-        "url": "https://www.aljazeera.com/sports/2026/6/25/in-new-yorks-astoria-neighbourhood-arab-nations-unite-in-world-cup-joy?traffic_source=rss",
-        "seendate": "2026-06-25T07:45:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "In New York’s Astoria neighbourhood, Arab nations unite in World Cup joy",
-        "url": "https://www.aljazeera.com/sports/2026/6/25/in-new-yorks-astoria-neighbourhood-arab-nations-unite-in-world-cup-joy?traffic_source=rss",
-        "seendate": "2026-06-25T07:45:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T13:03:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T13:03:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T13:03:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T13:03:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T13:03:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T13:03:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Nairobi",
-    "name": "Nairobi",
-    "country": "KE",
-    "lat": -1.29,
-    "lon": 36.82,
-    "timezone": "Africa/Nairobi",
-    "headline": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-25T11:23:10.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T11:23:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T11:23:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T11:23:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T11:23:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T11:23:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T11:23:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Caracas",
     "name": "Caracas",
     "country": "VE",
     "lat": 10.49,
     "lon": -66.86,
     "timezone": "America/Caracas",
-    "headline": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-24T23:40:47.000Z",
-    "articleCount": 6,
+    "headline": "People flee as building collapses on Caracas outskirts",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-25T12:08:30.000Z",
+    "articleCount": 12,
     "categories": [
+      "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T12:08:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T12:08:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T12:08:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T12:08:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T12:08:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T12:08:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
       {
         "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
         "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
@@ -247,6 +134,224 @@
           "natural-disaster"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-24T13:03:35.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T13:03:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T13:03:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T13:03:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T13:03:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T13:03:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T13:03:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
+    "seendate": "2026-06-25T16:27:49.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
+        "seendate": "2026-06-25T16:27:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
+        "seendate": "2026-06-25T16:27:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+        "seendate": "2026-06-24T15:35:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+        "seendate": "2026-06-24T15:35:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Boston",
+    "name": "Boston",
+    "country": "US",
+    "lat": 42.36,
+    "lon": -71.06,
+    "timezone": "America/New_York",
+    "headline": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
+    "headlineUrl": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+    "seendate": "2026-06-25T13:38:20.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+        "seendate": "2026-06-25T13:38:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+        "seendate": "2026-06-25T13:38:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+        "seendate": "2026-06-25T13:38:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+    "seendate": "2026-06-25T15:05:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+        "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+        "seendate": "2026-06-25T15:05:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+        "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+        "seendate": "2026-06-25T15:05:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -390,80 +495,6 @@
         "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
         "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
         "seendate": "2026-06-24T16:09:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-    "headlineUrl": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-    "seendate": "2026-06-24T15:35:09.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-24T15:35:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-24T15:35:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
-    "headlineUrl": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-    "seendate": "2026-06-23T16:42:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
-        "url": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-        "seendate": "2026-06-23T16:42:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
-        "url": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-        "seendate": "2026-06-23T16:42:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
