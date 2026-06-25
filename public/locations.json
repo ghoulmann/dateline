@@ -6,15 +6,55 @@
     "lat": 10.49,
     "lon": -66.86,
     "timezone": "America/Caracas",
-    "headline": "People flee as building collapses on Caracas outskirts",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-25T12:08:30.000Z",
-    "articleCount": 12,
+    "headline": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
+    "seendate": "2026-06-25T19:44:43.000Z",
+    "articleCount": 16,
     "categories": [
-      "armed-conflict",
-      "natural-disaster"
+      "natural-disaster",
+      "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
+        "url": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
+        "seendate": "2026-06-25T19:44:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
+        "url": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
+        "seendate": "2026-06-25T19:44:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
+        "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
+        "seendate": "2026-06-25T17:58:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
+        "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
+        "seendate": "2026-06-25T17:58:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "People flee as building collapses on Caracas outskirts",
         "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
@@ -215,6 +255,53 @@
     ]
   },
   {
+    "id": "Boston",
+    "name": "Boston",
+    "country": "US",
+    "lat": 42.36,
+    "lon": -71.06,
+    "timezone": "America/New_York",
+    "headline": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
+    "headlineUrl": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+    "seendate": "2026-06-25T13:38:20.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+        "seendate": "2026-06-25T13:38:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+        "seendate": "2026-06-25T13:38:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+        "seendate": "2026-06-25T13:38:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -224,7 +311,7 @@
     "headline": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
     "headlineUrl": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
     "seendate": "2026-06-25T16:27:49.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -248,73 +335,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-24T15:35:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-        "seendate": "2026-06-24T15:35:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Boston",
-    "name": "Boston",
-    "country": "US",
-    "lat": 42.36,
-    "lon": -71.06,
-    "timezone": "America/New_York",
-    "headline": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
-    "headlineUrl": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-    "seendate": "2026-06-25T13:38:20.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-        "seendate": "2026-06-25T13:38:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-        "seendate": "2026-06-25T13:38:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "A federal judge in Boston has blocked parts of Trump&apos;s order to limit voting by mail",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-        "seendate": "2026-06-25T13:38:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -356,43 +376,6 @@
     ]
   },
   {
-    "id": "Tripoli",
-    "name": "Tripoli",
-    "country": "LY",
-    "lat": 32.9,
-    "lon": 13.18,
-    "timezone": "Africa/Tripoli",
-    "headline": "US push for unified Libyan government tests Tripoli factions",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
-    "seendate": "2026-06-25T11:48:08.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US push for unified Libyan government tests Tripoli factions",
-        "url": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
-        "seendate": "2026-06-25T11:48:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US push for unified Libyan government tests Tripoli factions",
-        "url": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
-        "seendate": "2026-06-25T11:48:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -421,6 +404,43 @@
         "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
         "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
         "seendate": "2026-06-25T08:17:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Global Warming Upends London Climate Week",
+    "headlineUrl": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+    "seendate": "2026-06-25T19:18:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -475,7 +495,7 @@
     "timezone": "Europe/Istanbul",
     "headline": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
     "headlineUrl": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-    "seendate": "2026-06-24T16:09:25.000Z",
+    "seendate": "2026-06-24T16:09:26.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -484,7 +504,7 @@
       {
         "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
         "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "seendate": "2026-06-24T16:09:25.000Z",
+        "seendate": "2026-06-24T16:09:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -494,7 +514,7 @@
       {
         "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
         "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "seendate": "2026-06-24T16:09:25.000Z",
+        "seendate": "2026-06-24T16:09:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
