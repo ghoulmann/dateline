@@ -8,7 +8,7 @@
     "timezone": "America/Caracas",
     "headline": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
     "headlineUrl": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
-    "seendate": "2026-06-25T17:58:13.000Z",
+    "seendate": "2026-06-26T08:37:35.000Z",
     "articleCount": 14,
     "categories": [
       "armed-conflict",
@@ -18,7 +18,7 @@
       {
         "title": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
         "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
-        "seendate": "2026-06-25T17:58:13.000Z",
+        "seendate": "2026-06-26T08:37:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "natural-disaster"
@@ -28,7 +28,7 @@
       {
         "title": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
         "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
-        "seendate": "2026-06-25T17:58:13.000Z",
+        "seendate": "2026-06-26T08:37:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "natural-disaster"
@@ -417,7 +417,7 @@
     "timezone": "Europe/London",
     "headline": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
     "headlineUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-    "seendate": "2026-06-26T04:05:11.000Z",
+    "seendate": "2026-06-26T04:05:12.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict",
@@ -427,7 +427,7 @@
       {
         "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
         "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T04:05:11.000Z",
+        "seendate": "2026-06-26T04:05:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -437,7 +437,7 @@
       {
         "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
         "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T04:05:11.000Z",
+        "seendate": "2026-06-26T04:05:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -463,53 +463,6 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Boston",
-    "name": "Boston",
-    "country": "US",
-    "lat": 42.36,
-    "lon": -71.06,
-    "timezone": "America/New_York",
-    "headline": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
-    "headlineUrl": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-    "seendate": "2026-06-25T13:38:20.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-        "seendate": "2026-06-25T13:38:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-        "seendate": "2026-06-25T13:38:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "A federal judge in Boston blocks key parts of Trump&apos;s order to limit voting by mail",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
-        "seendate": "2026-06-25T13:38:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
