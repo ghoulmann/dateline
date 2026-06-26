@@ -178,6 +178,103 @@
     ]
   },
   {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-26T00:06:45.000Z",
+    "articleCount": 8,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T00:06:45.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T00:06:45.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T00:06:45.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T00:06:45.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T00:06:45.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T00:06:45.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+        "seendate": "2026-06-25T08:17:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+        "seendate": "2026-06-25T08:17:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -255,6 +352,83 @@
     ]
   },
   {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "A Chinese box office hit sparks a debate about identity in Singapore",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-25T22:19:08.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T22:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T22:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T22:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T22:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T22:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-25T22:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Boston",
     "name": "Boston",
     "country": "US",
@@ -302,24 +476,61 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_dutch-fans-party-in-kansas-ahead-of-tunisia-match-250626?traffic_source=rss",
+    "seendate": "2026-06-25T20:45:54.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_dutch-fans-party-in-kansas-ahead-of-tunisia-match-250626?traffic_source=rss",
+        "seendate": "2026-06-25T20:45:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_dutch-fans-party-in-kansas-ahead-of-tunisia-match-250626?traffic_source=rss",
+        "seendate": "2026-06-25T20:45:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
-    "seendate": "2026-06-25T16:27:49.000Z",
+    "headline": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+    "seendate": "2026-06-25T20:34:02.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
-        "seendate": "2026-06-25T16:27:49.000Z",
+        "title": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+        "seendate": "2026-06-25T20:34:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -327,88 +538,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-        "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
-        "seendate": "2026-06-25T16:27:49.000Z",
+        "title": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+        "seendate": "2026-06-25T20:34:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-    "seendate": "2026-06-25T15:05:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-        "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-        "seendate": "2026-06-25T15:05:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-        "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-        "seendate": "2026-06-25T15:05:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-    "headlineUrl": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-    "seendate": "2026-06-25T08:17:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-        "seendate": "2026-06-25T08:17:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-        "seendate": "2026-06-25T08:17:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -481,43 +618,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
-    "headlineUrl": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-    "seendate": "2026-06-24T16:09:26.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
-        "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "seendate": "2026-06-24T16:09:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
-        "url": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "seendate": "2026-06-24T16:09:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
