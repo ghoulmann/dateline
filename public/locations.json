@@ -6,15 +6,35 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Housing board votes to freeze New York rents in victory for Mamdani",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-26T09:42:26.000Z",
-    "articleCount": 12,
+    "headline": "New York’s primaries signal a new force in US politics",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics?traffic_source=rss",
+    "seendate": "2026-06-26T13:37:17.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "New York’s primaries signal a new force in US politics",
+        "url": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics?traffic_source=rss",
+        "seendate": "2026-06-26T13:37:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York’s primaries signal a new force in US politics",
+        "url": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics?traffic_source=rss",
+        "seendate": "2026-06-26T13:37:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Housing board votes to freeze New York rents in victory for Mamdani",
         "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-26T09:42:26.000Z",
@@ -131,123 +151,6 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "Venezuela earthquakes: Why is Caracas so vulnerable?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-why-is-caracas-so-vulnerable?traffic_source=rss",
-    "seendate": "2026-06-26T09:36:27.000Z",
-    "articleCount": 10,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Venezuela earthquakes: Why is Caracas so vulnerable?",
-        "url": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-why-is-caracas-so-vulnerable?traffic_source=rss",
-        "seendate": "2026-06-26T09:36:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Venezuela earthquakes: Why is Caracas so vulnerable?",
-        "url": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-why-is-caracas-so-vulnerable?traffic_source=rss",
-        "seendate": "2026-06-26T09:36:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
-        "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
-        "seendate": "2026-06-26T08:37:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
-        "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
-        "seendate": "2026-06-26T08:37:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
         ],
         "source_category": "climate-watch"
       }
@@ -263,7 +166,7 @@
     "headline": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
     "headlineUrl": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
     "seendate": "2026-06-26T12:27:36.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "climate-watch"
     ],
@@ -347,26 +250,6 @@
           "climate-watch"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-        "seendate": "2026-06-25T08:17:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-        "seendate": "2026-06-25T08:17:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -379,8 +262,8 @@
     "timezone": "America/Lima",
     "headline": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action",
     "headlineUrl": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
-    "seendate": "2026-06-26T12:23:55.000Z",
-    "articleCount": 9,
+    "seendate": "2026-06-26T13:08:19.000Z",
+    "articleCount": 6,
     "categories": [
       "climate-watch"
     ],
@@ -388,7 +271,7 @@
       {
         "title": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action",
         "url": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
-        "seendate": "2026-06-26T12:23:55.000Z",
+        "seendate": "2026-06-26T13:08:19.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -398,7 +281,7 @@
       {
         "title": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action",
         "url": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
-        "seendate": "2026-06-26T12:23:55.000Z",
+        "seendate": "2026-06-26T13:08:19.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -444,114 +327,6 @@
           "climate-watch"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
-        "seendate": "2026-06-26T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
-        "seendate": "2026-06-26T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
-        "seendate": "2026-06-26T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "‘London cooking’: Why can’t the UK cope with the heat; when will it adapt?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking?traffic_source=rss",
-    "seendate": "2026-06-26T09:20:53.000Z",
-    "articleCount": 6,
-    "categories": [
-      "climate-watch",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘London cooking’: Why can’t the UK cope with the heat; when will it adapt?",
-        "url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking?traffic_source=rss",
-        "seendate": "2026-06-26T09:20:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘London cooking’: Why can’t the UK cope with the heat; when will it adapt?",
-        "url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking?traffic_source=rss",
-        "seendate": "2026-06-26T09:20:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T04:05:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T04:05:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -633,6 +408,150 @@
     ]
   },
   {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-24T23:40:47.000Z",
+    "articleCount": 6,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T23:40:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T23:40:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T23:40:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T23:40:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T23:40:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-24T23:40:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Plane crashes into Beijing&apos;s tallest building; damage reported",
+    "headlineUrl": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+    "seendate": "2026-06-26T15:05:48.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
+        "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+        "seendate": "2026-06-26T15:05:48.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
+        "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+        "seendate": "2026-06-26T15:05:48.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
+        "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+        "seendate": "2026-06-26T15:05:48.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "seendate": "2026-06-26T14:57:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "seendate": "2026-06-26T14:57:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Houston",
     "name": "Houston",
     "country": "US",
@@ -691,24 +610,25 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Crimea’s Moscow-Installed Leaders Declare State of Emergency After Ukrainian Attacks",
-    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-    "seendate": "2026-06-26T12:24:44.000Z",
-    "articleCount": 2,
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+    "headlineUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+    "seendate": "2026-06-26T15:48:25.000Z",
+    "articleCount": 4,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Crimea’s Moscow-Installed Leaders Declare State of Emergency After Ukrainian Attacks",
-        "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-        "seendate": "2026-06-26T12:24:44.000Z",
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T15:48:25.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -716,12 +636,32 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Crimea’s Moscow-Installed Leaders Declare State of Emergency After Ukrainian Attacks",
-        "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-        "seendate": "2026-06-26T12:24:44.000Z",
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T15:48:25.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
