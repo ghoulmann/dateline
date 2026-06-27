@@ -97,6 +97,140 @@
     ]
   },
   {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-27T14:22:37.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-27T14:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-27T14:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-27T14:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-27T14:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-27T14:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-27T14:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli drone attack kills young girl in Gaza safe zone",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+    "seendate": "2026-06-27T15:53:41.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli drone attack kills young girl in Gaza safe zone",
+        "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+        "seendate": "2026-06-27T15:53:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli drone attack kills young girl in Gaza safe zone",
+        "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+        "seendate": "2026-06-27T15:53:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "No school, living in a tent, but it’s exam time in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+        "seendate": "2026-06-27T11:29:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "No school, living in a tent, but it’s exam time in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+        "seendate": "2026-06-27T11:29:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -144,80 +278,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "No school, living in a tent, but it’s exam time in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-    "seendate": "2026-06-27T11:29:30.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "No school, living in a tent, but it’s exam time in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-        "seendate": "2026-06-27T11:29:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "No school, living in a tent, but it’s exam time in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-        "seendate": "2026-06-27T11:29:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-    "seendate": "2026-06-27T07:20:15.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-        "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-        "seendate": "2026-06-27T07:20:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-        "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-        "seendate": "2026-06-27T07:20:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -226,7 +286,7 @@
     "timezone": "America/New_York",
     "headline": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
     "headlineUrl": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-    "seendate": "2026-06-27T09:02:30.000Z",
+    "seendate": "2026-06-27T15:16:58.000Z",
     "articleCount": 2,
     "categories": [
       "democracy-crisis"
@@ -235,7 +295,7 @@
       {
         "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
         "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-        "seendate": "2026-06-27T09:02:30.000Z",
+        "seendate": "2026-06-27T15:16:58.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -245,10 +305,47 @@
       {
         "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
         "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-        "seendate": "2026-06-27T09:02:30.000Z",
+        "seendate": "2026-06-27T15:16:58.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+    "headlineUrl": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
+    "seendate": "2026-06-27T14:33:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
+        "seendate": "2026-06-27T14:33:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
+        "seendate": "2026-06-27T14:33:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
