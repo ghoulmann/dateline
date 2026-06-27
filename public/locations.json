@@ -1,132 +1,5 @@
 [
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Small Plane Crashes Into Tallest Building in Beijing",
-    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-    "seendate": "2026-06-26T20:32:02.000Z",
-    "articleCount": 11,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Small Plane Crashes Into Tallest Building in Beijing",
-        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Small Plane Crashes Into Tallest Building in Beijing",
-        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
-        "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-        "seendate": "2026-06-26T15:05:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
-        "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-        "seendate": "2026-06-26T15:05:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
-        "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-        "seendate": "2026-06-26T15:05:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -244,6 +117,221 @@
     ]
   },
   {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "The first non-stop London to Sydney flight is coming - with challenges",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-26T23:02:15.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "The first non-stop London to Sydney flight is coming - with challenges",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T23:02:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "The first non-stop London to Sydney flight is coming - with challenges",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T23:02:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "The first non-stop London to Sydney flight is coming - with challenges",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T23:02:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "The first non-stop London to Sydney flight is coming - with challenges",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T23:02:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The first non-stop London to Sydney flight is coming - with challenges",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T23:02:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "The first non-stop London to Sydney flight is coming - with challenges",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T23:02:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T19:39:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T19:39:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Small Plane Crashes Into Tallest Building in Beijing",
+    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+    "seendate": "2026-06-26T20:32:02.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "seendate": "2026-06-26T20:32:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "seendate": "2026-06-26T20:32:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T18:36:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T18:36:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T18:36:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T18:36:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T18:36:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T18:36:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -317,178 +405,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "A Chinese box office hit sparks a debate about identity in Singapore",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-25T22:19:08.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T22:19:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T22:19:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T22:19:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T22:19:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T22:19:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-25T22:19:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-    "headlineUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-    "seendate": "2026-06-26T19:39:30.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T19:39:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T19:39:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli attack on car in central Gaza kills three Palestinians",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
-    "seendate": "2026-06-26T19:49:32.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli attack on car in central Gaza kills three Palestinians",
-        "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
-        "seendate": "2026-06-26T19:49:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attack on car in central Gaza kills three Palestinians",
-        "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
-        "seendate": "2026-06-26T19:49:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
