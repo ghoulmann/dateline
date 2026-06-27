@@ -8,7 +8,7 @@
     "timezone": "Asia/Shanghai",
     "headline": "Small Plane Crashes Into Tallest Building in Beijing",
     "headlineUrl": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-    "seendate": "2026-06-26T20:32:01.000Z",
+    "seendate": "2026-06-26T20:32:02.000Z",
     "articleCount": 11,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "Small Plane Crashes Into Tallest Building in Beijing",
         "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:01.000Z",
+        "seendate": "2026-06-26T20:32:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "Small Plane Crashes Into Tallest Building in Beijing",
         "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:01.000Z",
+        "seendate": "2026-06-26T20:32:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -127,121 +127,44 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York City freezes rents for one million regulated apartments",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss",
-    "seendate": "2026-06-26T17:30:55.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York City freezes rents for one million regulated apartments",
-        "url": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss",
-        "seendate": "2026-06-26T17:30:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York City freezes rents for one million regulated apartments",
-        "url": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss",
-        "seendate": "2026-06-26T17:30:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-    "seendate": "2026-06-26T12:27:36.000Z",
-    "articleCount": 8,
+    "headline": "Paris Diamond League to go ahead with safety measures amid heatwave",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
+    "seendate": "2026-06-26T23:49:37.000Z",
+    "articleCount": 10,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
+        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
+        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
+        "seendate": "2026-06-26T23:49:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
+        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
+        "seendate": "2026-06-26T23:49:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
         "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-        "seendate": "2026-06-26T12:27:36.000Z",
+        "seendate": "2026-06-26T12:27:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -251,7 +174,7 @@
       {
         "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
         "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-        "seendate": "2026-06-26T12:27:36.000Z",
+        "seendate": "2026-06-26T12:27:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -315,6 +238,83 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Housing board votes to freeze New York rents in victory for Mamdani",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-26T09:42:26.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T09:42:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T09:42:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T09:42:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T09:42:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T09:42:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-26T09:42:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -392,83 +392,6 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-24T23:40:47.000Z",
-    "articleCount": 6,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-24T23:40:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
         ],
         "source_category": "climate-watch"
       }
@@ -561,43 +484,6 @@
         "title": "Israeli attack on car in central Gaza kills three Palestinians",
         "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
         "seendate": "2026-06-26T19:49:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lagos",
-    "name": "Lagos",
-    "country": "NG",
-    "lat": 6.52,
-    "lon": 3.36,
-    "timezone": "Africa/Lagos",
-    "headline": "Nine people killed in building collapse in Lagos, Nigeria",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
-    "seendate": "2026-06-26T17:40:36.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Nine people killed in building collapse in Lagos, Nigeria",
-        "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
-        "seendate": "2026-06-26T17:40:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nine people killed in building collapse in Lagos, Nigeria",
-        "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
-        "seendate": "2026-06-26T17:40:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
