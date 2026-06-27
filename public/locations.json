@@ -1,240 +1,5 @@
 [
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Paris Diamond League to go ahead with safety measures amid heatwave",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-    "seendate": "2026-06-26T23:49:37.000Z",
-    "articleCount": 10,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
-        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-        "seendate": "2026-06-26T23:49:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
-        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-        "seendate": "2026-06-26T23:49:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-        "seendate": "2026-06-26T12:27:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-        "seendate": "2026-06-26T12:27:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T00:06:45.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T00:06:45.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T00:06:45.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T00:06:45.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T00:06:45.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T00:06:45.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "The first non-stop London to Sydney flight is coming - with challenges",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-26T23:02:15.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "The first non-stop London to Sydney flight is coming - with challenges",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T23:02:15.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "The first non-stop London to Sydney flight is coming - with challenges",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T23:02:15.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "The first non-stop London to Sydney flight is coming - with challenges",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T23:02:15.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "The first non-stop London to Sydney flight is coming - with challenges",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T23:02:15.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The first non-stop London to Sydney flight is coming - with challenges",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T23:02:15.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "The first non-stop London to Sydney flight is coming - with challenges",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T23:02:15.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T19:39:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T19:39:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Beijing",
     "name": "Beijing",
     "country": "CN",
@@ -332,79 +97,154 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Housing board votes to freeze New York rents in victory for Mamdani",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-26T09:42:26.000Z",
-    "articleCount": 6,
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris Diamond League to go ahead with safety measures amid heatwave",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
+    "seendate": "2026-06-26T23:49:37.000Z",
+    "articleCount": 4,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
+        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
+        "seendate": "2026-06-26T23:49:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
+        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
+        "seendate": "2026-06-26T23:49:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+        "seendate": "2026-06-26T12:27:37.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "political-repression"
       },
       {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+        "seendate": "2026-06-26T12:27:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+    "headlineUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+    "seendate": "2026-06-26T19:39:30.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T19:39:30.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T19:39:30.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T09:42:26.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Global Warming Upends London Climate Week",
+        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+        "seendate": "2026-06-25T19:18:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+    "seendate": "2026-06-27T07:20:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+        "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+        "seendate": "2026-06-27T07:20:15.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+        "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+        "seendate": "2026-06-27T07:20:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
