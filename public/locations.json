@@ -97,117 +97,86 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Paris Diamond League to go ahead with safety measures amid heatwave",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-    "seendate": "2026-06-26T23:49:37.000Z",
-    "articleCount": 4,
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "What would George Washington say? It&apos;s a busy year for people who portray him",
+    "headlineUrl": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+    "seendate": "2026-06-27T09:00:00.000Z",
+    "articleCount": 3,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
-        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-        "seendate": "2026-06-26T23:49:37.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "What would George Washington say? It&apos;s a busy year for people who portray him",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+        "seendate": "2026-06-27T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
-        "url": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-        "seendate": "2026-06-26T23:49:37.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "What would George Washington say? It&apos;s a busy year for people who portray him",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+        "seendate": "2026-06-27T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       },
       {
-        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-        "seendate": "2026-06-26T12:27:37.000Z",
-        "source_domain": "nytimes.com",
+        "title": "What would George Washington say? It&apos;s a busy year for people who portray him",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+        "seendate": "2026-06-27T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-        "seendate": "2026-06-26T12:27:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "culture-wars"
       }
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-    "headlineUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-    "seendate": "2026-06-26T19:39:30.000Z",
-    "articleCount": 4,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "No school, living in a tent, but it’s exam time in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+    "seendate": "2026-06-27T11:29:30.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict",
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T19:39:30.000Z",
-        "source_domain": "nytimes.com",
+        "title": "No school, living in a tent, but it’s exam time in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+        "seendate": "2026-06-27T11:29:30.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
-        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
-        "seendate": "2026-06-26T19:39:30.000Z",
-        "source_domain": "nytimes.com",
+        "title": "No school, living in a tent, but it’s exam time in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+        "seendate": "2026-06-27T11:29:30.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Global Warming Upends London Climate Week",
-        "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-        "seendate": "2026-06-25T19:18:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -249,6 +218,43 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+    "headlineUrl": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+    "seendate": "2026-06-27T09:02:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+        "seendate": "2026-06-27T09:02:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+        "seendate": "2026-06-27T09:02:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -280,6 +286,80 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+    "seendate": "2026-06-26T12:27:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+        "seendate": "2026-06-26T12:27:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+        "seendate": "2026-06-26T12:27:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+    "headlineUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+    "seendate": "2026-06-26T19:39:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T19:39:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+        "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+        "seendate": "2026-06-26T19:39:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
