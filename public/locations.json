@@ -1,102 +1,5 @@
 [
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Small Plane Crashes Into Tallest Building in Beijing",
-    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-    "seendate": "2026-06-26T20:32:02.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Small Plane Crashes Into Tallest Building in Beijing",
-        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Small Plane Crashes Into Tallest Building in Beijing",
-        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Debris falls after plane hits Beijing's tallest building",
-        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-26T18:36:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Caracas",
     "name": "Caracas",
     "country": "VE",
@@ -306,6 +209,43 @@
     ]
   },
   {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Small Plane Crashes Into Tallest Building in Beijing",
+    "headlineUrl": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+    "seendate": "2026-06-26T20:32:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "seendate": "2026-06-26T20:32:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "seendate": "2026-06-26T20:32:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Beirut",
     "name": "Beirut",
     "country": "LB",
@@ -413,33 +353,6 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Houston",
-    "name": "Houston",
-    "country": "US",
-    "lat": 29.76,
-    "lon": -95.37,
-    "timezone": "America/Chicago",
-    "headline": "Oprah Winfrey admits she begged talk show audience to bury footage of Whitney Houston onstage fall",
-    "headlineUrl": "https://www.foxnews.com/entertainment/oprah-winfrey-admits-begged-talk-show-audience-bury-footage-whitney-houston-onstage-fall",
-    "seendate": "2026-06-23T23:19:05.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Oprah Winfrey admits she begged talk show audience to bury footage of Whitney Houston onstage fall",
-        "url": "https://www.foxnews.com/entertainment/oprah-winfrey-admits-begged-talk-show-audience-bury-footage-whitney-houston-onstage-fall",
-        "seendate": "2026-06-23T23:19:05.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
