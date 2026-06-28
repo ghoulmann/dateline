@@ -77,83 +77,6 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Bad Bunny: Latin star lights up London with history-making stadium show",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-28T01:46:24.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Budapest",
     "name": "Budapest",
     "country": "HU",
@@ -231,59 +154,126 @@
     ]
   },
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
-    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
-    "seendate": "2026-06-28T07:22:05.000Z",
-    "articleCount": 4,
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Bad Bunny lights up London with history-making stadium show",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-28T01:46:24.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
-        "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
-        "seendate": "2026-06-28T07:22:05.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-28T01:46:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-28T01:46:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-28T01:46:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-28T01:46:24.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
-        "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
-        "seendate": "2026-06-28T07:22:05.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-28T01:46:24.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Small Plane Crashes Into Tallest Building in Beijing",
-        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:02.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-28T01:46:24.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "July 4th fireworks in Washington: What&apos;s different for America&apos;s 250th?",
+    "headlineUrl": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+    "seendate": "2026-06-28T10:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "July 4th fireworks in Washington: What&apos;s different for America&apos;s 250th?",
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+        "seendate": "2026-06-28T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Small Plane Crashes Into Tallest Building in Beijing",
-        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-        "seendate": "2026-06-26T20:32:02.000Z",
-        "source_domain": "nytimes.com",
+        "title": "July 4th fireworks in Washington: What&apos;s different for America&apos;s 250th?",
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+        "seendate": "2026-06-28T10:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "July 4th fireworks in Washington: What&apos;s different for America&apos;s 250th?",
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+        "seendate": "2026-06-28T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -358,6 +348,43 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
+    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
+    "seendate": "2026-06-28T07:22:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
+        "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
+        "seendate": "2026-06-28T07:22:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
+        "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
+        "seendate": "2026-06-28T07:22:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
