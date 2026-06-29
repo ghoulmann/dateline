@@ -8,7 +8,7 @@
     "timezone": "Europe/London",
     "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
     "headlineUrl": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-    "seendate": "2026-06-29T12:56:49.000Z",
+    "seendate": "2026-06-29T16:22:11.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
         "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T12:56:49.000Z",
+        "seendate": "2026-06-29T16:22:11.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
         "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T12:56:49.000Z",
+        "seendate": "2026-06-29T16:22:11.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -88,83 +88,6 @@
         "title": "Bad Bunny lights up London with history-making stadium show",
         "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-06-28T01:46:24.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Budapest",
-    "name": "Budapest",
-    "country": "HU",
-    "lat": 47.5,
-    "lon": 19.04,
-    "timezone": "Europe/Budapest",
-    "headline": "Budapest's first Pride since Orban left power",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-27T21:28:04.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Budapest's first Pride since Orban left power",
-        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T21:28:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Budapest's first Pride since Orban left power",
-        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T21:28:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Budapest's first Pride since Orban left power",
-        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T21:28:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Budapest's first Pride since Orban left power",
-        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T21:28:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Budapest's first Pride since Orban left power",
-        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T21:28:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Budapest's first Pride since Orban left power",
-        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T21:28:04.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -251,114 +174,40 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli attack in Gaza kills three, including a child",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-    "seendate": "2026-06-29T12:02:35.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli attack in Gaza kills three, including a child",
-        "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-        "seendate": "2026-06-29T12:02:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attack in Gaza kills three, including a child",
-        "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-        "seendate": "2026-06-29T12:02:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-        "url": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
-        "seendate": "2026-06-29T08:37:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-        "url": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
-        "seendate": "2026-06-29T08:37:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Khartoum",
-    "name": "Khartoum",
-    "country": "SD",
-    "lat": 15.55,
-    "lon": 32.53,
-    "timezone": "Africa/Khartoum",
-    "headline": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-    "seendate": "2026-06-29T12:51:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-        "url": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-        "seendate": "2026-06-29T12:51:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-        "url": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-        "seendate": "2026-06-29T12:51:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Caracas",
     "name": "Caracas",
     "country": "VE",
     "lat": 10.49,
     "lon": -66.86,
     "timezone": "America/Caracas",
-    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-    "seendate": "2026-06-28T21:56:02.000Z",
-    "articleCount": 2,
+    "headline": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
+    "seendate": "2026-06-29T16:42:41.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+        "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
+        "seendate": "2026-06-29T16:42:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+        "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
+        "seendate": "2026-06-29T16:42:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
         "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
@@ -378,6 +227,63 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza high school student’s fight for a future",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+    "seendate": "2026-06-29T15:54:36.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza high school student’s fight for a future",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+        "seendate": "2026-06-29T15:54:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza high school student’s fight for a future",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+        "seendate": "2026-06-29T15:54:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Is the Israeli military deliberately targeting children in Gaza?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-29T13:55:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Is the Israeli military deliberately targeting children in Gaza?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
+        "seendate": "2026-06-29T13:55:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
