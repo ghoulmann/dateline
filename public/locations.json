@@ -1,102 +1,5 @@
 [
   {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-    "seendate": "2026-06-28T21:56:02.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T14:22:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T14:22:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T14:22:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T14:22:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T14:22:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-27T14:22:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Budapest",
     "name": "Budapest",
     "country": "HU",
@@ -466,6 +369,43 @@
     ]
   },
   {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+    "seendate": "2026-06-28T21:56:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Beirut",
     "name": "Beirut",
     "country": "LB",
@@ -536,6 +476,33 @@
           "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia",
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 39.95,
+    "lon": -75.17,
+    "timezone": "America/New_York",
+    "headline": "Rock star forced to issue plea after shocking incident at Philadelphia tour stop",
+    "headlineUrl": "https://www.foxnews.com/entertainment/rock-star-forced-issue-plea-after-shocking-incident-philadelphia-tour-stop",
+    "seendate": "2026-06-29T02:29:43.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Rock star forced to issue plea after shocking incident at Philadelphia tour stop",
+        "url": "https://www.foxnews.com/entertainment/rock-star-forced-issue-plea-after-shocking-incident-philadelphia-tour-stop",
+        "seendate": "2026-06-29T02:29:43.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
