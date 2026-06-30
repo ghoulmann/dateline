@@ -1,43 +1,23 @@
 [
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-    "headlineUrl": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-    "seendate": "2026-06-29T23:08:47.000Z",
-    "articleCount": 8,
+    "id": "Doha",
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.29,
+    "lon": 51.53,
+    "timezone": "Asia/Qatar",
+    "headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-30T15:40:50.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T23:08:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T23:08:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T15:40:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T15:40:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T15:40:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T15:40:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T15:40:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,91 +65,54 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-28T01:46:24.000Z",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T15:40:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Dallas",
-    "name": "Dallas",
-    "country": "US",
-    "lat": 32.78,
-    "lon": -96.8,
-    "timezone": "America/Chicago",
-    "headline": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-29T10:51:03.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
+      },
       {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-29T10:51:03.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
+        "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss",
+        "seendate": "2026-06-30T13:25:21.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-29T10:51:03.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
+        "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss",
+        "seendate": "2026-06-30T13:25:21.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-29T10:51:03.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
+        "seendate": "2026-06-30T11:57:22.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-29T10:51:03.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
+        "seendate": "2026-06-30T11:57:22.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-29T10:51:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-29T10:51:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -231,100 +174,6 @@
     ]
   },
   {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "Caracas park helps children cope through activities after twin quakes",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss",
-    "seendate": "2026-06-30T08:43:34.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Caracas park helps children cope through activities after twin quakes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss",
-        "seendate": "2026-06-30T08:43:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Caracas park helps children cope through activities after twin quakes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss",
-        "seendate": "2026-06-30T08:43:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-    "seendate": "2026-06-30T11:57:22.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-        "seendate": "2026-06-30T11:57:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-        "seendate": "2026-06-30T11:57:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -370,7 +219,7 @@
     "timezone": "Europe/Moscow",
     "headline": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
     "headlineUrl": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
-    "seendate": "2026-06-30T11:57:20.000Z",
+    "seendate": "2026-06-30T16:06:13.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -379,7 +228,7 @@
       {
         "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
-        "seendate": "2026-06-30T11:57:20.000Z",
+        "seendate": "2026-06-30T16:06:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -389,7 +238,81 @@
       {
         "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
-        "seendate": "2026-06-30T11:57:20.000Z",
+        "seendate": "2026-06-30T16:06:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+    "headlineUrl": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+    "seendate": "2026-06-29T23:08:47.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+        "seendate": "2026-06-29T23:08:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+        "seendate": "2026-06-29T23:08:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+    "seendate": "2026-06-28T21:56:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
