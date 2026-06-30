@@ -97,83 +97,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-    "seendate": "2026-06-29T23:29:41.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-        "seendate": "2026-06-29T23:29:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-        "seendate": "2026-06-29T23:29:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
-        "seendate": "2026-06-29T21:01:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
-        "seendate": "2026-06-29T21:01:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
-        "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
-        "seendate": "2026-06-29T19:08:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
-        "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
-        "seendate": "2026-06-29T19:08:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Dallas",
     "name": "Dallas",
     "country": "US",
@@ -251,6 +174,100 @@
     ]
   },
   {
+    "id": "Doha",
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.29,
+    "lon": 51.53,
+    "timezone": "Asia/Qatar",
+    "headline": "Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
+    "headlineUrl": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
+    "seendate": "2026-06-30T05:07:54.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
+        "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
+        "seendate": "2026-06-30T05:07:54.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
+        "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
+        "seendate": "2026-06-30T05:07:54.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss",
+        "seendate": "2026-06-30T02:41:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss",
+        "seendate": "2026-06-30T02:41:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
+    "seendate": "2026-06-30T02:30:26.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
+        "seendate": "2026-06-30T02:30:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
+        "seendate": "2026-06-30T02:30:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -288,39 +305,39 @@
     ]
   },
   {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
-    "headlineUrl": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-    "seendate": "2026-06-30T00:46:40.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+    "seendate": "2026-06-29T23:29:41.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
-        "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-        "seendate": "2026-06-30T00:46:40.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+        "seendate": "2026-06-29T23:29:41.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
-        "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-        "seendate": "2026-06-30T00:46:40.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+        "seendate": "2026-06-29T23:29:41.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
