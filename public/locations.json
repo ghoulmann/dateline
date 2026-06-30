@@ -1,5 +1,82 @@
 [
   {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-30T19:19:42.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Doha",
     "name": "Doha",
     "country": "QA",
@@ -9,7 +86,7 @@
     "headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-06-30T15:40:50.000Z",
-    "articleCount": 10,
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
@@ -73,46 +150,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
-        "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss",
-        "seendate": "2026-06-30T13:25:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
-        "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss",
-        "seendate": "2026-06-30T13:25:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-        "seendate": "2026-06-30T11:57:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-        "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-        "seendate": "2026-06-30T11:57:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -123,18 +160,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Man in Gaza survives double tap Israeli strike on vehicle",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
-    "seendate": "2026-06-30T10:09:27.000Z",
+    "headline": "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/6/30/palestine-weekly-israel-quiet-annexation?traffic_source=rss",
+    "seendate": "2026-06-30T16:55:22.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Man in Gaza survives double tap Israeli strike on vehicle",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
-        "seendate": "2026-06-30T10:09:27.000Z",
+        "title": "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
+        "url": "https://www.aljazeera.com/news/2026/6/30/palestine-weekly-israel-quiet-annexation?traffic_source=rss",
+        "seendate": "2026-06-30T16:55:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -142,9 +179,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Man in Gaza survives double tap Israeli strike on vehicle",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
-        "seendate": "2026-06-30T10:09:27.000Z",
+        "title": "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
+        "url": "https://www.aljazeera.com/news/2026/6/30/palestine-weekly-israel-quiet-annexation?traffic_source=rss",
+        "seendate": "2026-06-30T16:55:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -152,9 +189,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-30T09:10:10.000Z",
+        "title": "The path from Gaza to Trump’s return",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/30/the-path-from-gaza-to-trumps-return?traffic_source=rss",
+        "seendate": "2026-06-30T16:40:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -162,9 +199,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-        "seendate": "2026-06-30T09:10:10.000Z",
+        "title": "The path from Gaza to Trump’s return",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/30/the-path-from-gaza-to-trumps-return?traffic_source=rss",
+        "seendate": "2026-06-30T16:40:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -182,7 +219,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
     "headlineUrl": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
-    "seendate": "2026-06-30T09:00:55.000Z",
+    "seendate": "2026-06-30T20:14:02.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -191,7 +228,7 @@
       {
         "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
-        "seendate": "2026-06-30T09:00:55.000Z",
+        "seendate": "2026-06-30T20:14:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -201,7 +238,7 @@
       {
         "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
-        "seendate": "2026-06-30T09:00:55.000Z",
+        "seendate": "2026-06-30T20:14:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
