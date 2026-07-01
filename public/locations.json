@@ -1,23 +1,43 @@
 [
   {
-    "id": "Dublin",
-    "name": "Dublin",
-    "country": "IE",
-    "lat": 53.35,
-    "lon": -6.26,
-    "timezone": "Europe/Dublin",
-    "headline": "Man guilty of attempted murder of three children in Dublin",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-01T15:34:10.000Z",
-    "articleCount": 8,
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "3 People Die During World Cup Celebrations in Mexico City",
+    "headlineUrl": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+    "seendate": "2026-07-01T20:27:51.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Man guilty of attempted murder of three children in Dublin",
-        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T15:34:10.000Z",
+        "title": "3 People Die During World Cup Celebrations in Mexico City",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "seendate": "2026-07-01T20:27:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "3 People Die During World Cup Celebrations in Mexico City",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "seendate": "2026-07-01T20:27:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Four die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T20:15:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Man guilty of attempted murder of three children in Dublin",
-        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T15:34:10.000Z",
+        "title": "Four die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T20:15:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Man guilty of attempted murder of three children in Dublin",
-        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T15:34:10.000Z",
+        "title": "Four die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T20:15:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Man guilty of attempted murder of three children in Dublin",
-        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T15:34:10.000Z",
+        "title": "Four die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T20:15:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Man guilty of attempted murder of three children in Dublin",
-        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T15:34:10.000Z",
+        "title": "Four die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T20:15:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +85,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Man guilty of attempted murder of three children in Dublin",
-        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T15:34:10.000Z",
+        "title": "Four die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T20:15:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +95,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Man charged after arson attack on Islamic centre in Dublin",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss",
-        "seendate": "2026-07-01T13:05:11.000Z",
+        "title": "Three dead after massive World Cup celebrations in Mexico City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
+        "seendate": "2026-07-01T17:45:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -85,9 +105,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Man charged after arson attack on Islamic centre in Dublin",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss",
-        "seendate": "2026-07-01T13:05:11.000Z",
+        "title": "Three dead after massive World Cup celebrations in Mexico City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
+        "seendate": "2026-07-01T17:45:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -97,24 +117,101 @@
     ]
   },
   {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Three die in Mexico City World Cup celebrations",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-01T11:01:12.000Z",
-    "articleCount": 8,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+    "seendate": "2026-07-01T19:29:52.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T11:01:12.000Z",
+        "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+        "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+        "seendate": "2026-07-01T19:29:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+        "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+        "seendate": "2026-07-01T19:29:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+        "url": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
+        "seendate": "2026-07-01T16:08:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+        "url": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
+        "seendate": "2026-07-01T16:08:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-01T14:39:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-01T14:39:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Dublin",
+    "name": "Dublin",
+    "country": "IE",
+    "lat": 53.35,
+    "lon": -6.26,
+    "timezone": "Europe/Dublin",
+    "headline": "Man guilty of attempted murder of three children in Dublin",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-01T16:59:59.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T16:59:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +219,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T11:01:12.000Z",
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T16:59:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +229,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T11:01:12.000Z",
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T16:59:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +239,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T11:01:12.000Z",
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T16:59:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +249,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T11:01:12.000Z",
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T16:59:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,34 +259,14 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T11:01:12.000Z",
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T16:59:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "3 People Die During World Cup Celebrations in Mexico City",
-        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-        "seendate": "2026-07-01T10:00:01.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "3 People Die During World Cup Celebrations in Mexico City",
-        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-        "seendate": "2026-07-01T10:00:01.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -415,63 +492,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
-    "seendate": "2026-07-01T16:08:20.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
-        "url": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
-        "seendate": "2026-07-01T16:08:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
-        "url": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
-        "seendate": "2026-07-01T16:08:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-01T14:39:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-01T14:39:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -537,43 +557,6 @@
         "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
         "seendate": "2026-06-30T16:06:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-    "seendate": "2026-06-28T21:56:02.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
