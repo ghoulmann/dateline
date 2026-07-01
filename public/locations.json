@@ -237,7 +237,7 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+    "headline": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
     "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
     "seendate": "2026-07-01T00:00:09.000Z",
     "articleCount": 2,
@@ -246,7 +246,7 @@
     ],
     "articles": [
       {
-        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+        "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
         "seendate": "2026-07-01T00:00:09.000Z",
         "source_domain": "aljazeera.com",
@@ -256,46 +256,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+        "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
         "seendate": "2026-07-01T00:00:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Athens",
-    "name": "Athens",
-    "country": "GR",
-    "lat": 37.98,
-    "lon": 23.72,
-    "timezone": "Europe/Athens",
-    "headline": "Emergency crews search rubble after Athens building collapse",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
-    "seendate": "2026-06-30T21:07:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Emergency crews search rubble after Athens building collapse",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
-        "seendate": "2026-06-30T21:07:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Emergency crews search rubble after Athens building collapse",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
-        "seendate": "2026-06-30T21:07:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
