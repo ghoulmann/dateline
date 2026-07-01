@@ -77,83 +77,6 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-30T19:19:42.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Doha",
     "name": "Doha",
     "country": "QA",
@@ -231,39 +154,79 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-    "seendate": "2026-07-01T00:00:09.000Z",
-    "articleCount": 2,
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-30T19:19:42.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-        "seendate": "2026-07-01T00:00:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-        "seendate": "2026-07-01T00:00:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T19:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
