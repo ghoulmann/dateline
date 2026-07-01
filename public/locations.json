@@ -1,5 +1,102 @@
 [
   {
+    "id": "Dublin",
+    "name": "Dublin",
+    "country": "IE",
+    "lat": 53.35,
+    "lon": -6.26,
+    "timezone": "Europe/Dublin",
+    "headline": "Man guilty of attempted murder of three children in Dublin",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-01T15:34:10.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T15:34:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T15:34:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T15:34:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T15:34:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T15:34:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Man guilty of attempted murder of three children in Dublin",
+        "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T15:34:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Man charged after arson attack on Islamic centre in Dublin",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss",
+        "seendate": "2026-07-01T13:05:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man charged after arson attack on Islamic centre in Dublin",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss",
+        "seendate": "2026-07-01T13:05:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -97,83 +194,6 @@
     ]
   },
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "A plane crashed into a tower in Beijing but China is not saying what happened",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-30T23:24:05.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Doha",
     "name": "Doha",
     "country": "QA",
@@ -251,24 +271,24 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-06-30T19:19:42.000Z",
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "A plane crashed into a tower in Beijing but China is not saying what happened",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-06-30T23:24:05.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T23:24:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -276,9 +296,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T23:24:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -286,9 +306,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T23:24:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -296,9 +316,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T23:24:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -306,9 +326,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T23:24:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -316,9 +336,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T19:19:42.000Z",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-06-30T23:24:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -395,40 +415,77 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
+    "seendate": "2026-07-01T16:08:20.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+        "url": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
+        "seendate": "2026-07-01T16:08:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+        "url": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
+        "seendate": "2026-07-01T16:08:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-01T14:39:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli forces kill Palestinian goalkeeper in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-01T14:39:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-    "seendate": "2026-07-01T09:38:06.000Z",
-    "articleCount": 4,
+    "headline": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
+    "headlineUrl": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
+    "seendate": "2026-06-30T20:50:39.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-        "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-        "seendate": "2026-07-01T09:38:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-        "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-        "seendate": "2026-07-01T09:38:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
@@ -443,63 +500,6 @@
         "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
         "seendate": "2026-06-30T20:50:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "Venezuelan sky turns deep red as sun sets over Caracas",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/1/venezuelan-sky-turns-deep-red-as-sun-sets-over-caracas?traffic_source=rss",
-    "seendate": "2026-07-01T09:01:57.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Venezuelan sky turns deep red as sun sets over Caracas",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/venezuelan-sky-turns-deep-red-as-sun-sets-over-caracas?traffic_source=rss",
-        "seendate": "2026-07-01T09:01:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Venezuelan sky turns deep red as sun sets over Caracas",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/venezuelan-sky-turns-deep-red-as-sun-sets-over-caracas?traffic_source=rss",
-        "seendate": "2026-07-01T09:01:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -537,6 +537,43 @@
         "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
         "seendate": "2026-06-30T16:06:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+    "seendate": "2026-06-28T21:56:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
