@@ -1,5 +1,102 @@
 [
   {
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Three die in Mexico City World Cup celebrations",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-01T11:01:12.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Three die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T11:01:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T11:01:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Three die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T11:01:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Three die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T11:01:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Three die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T11:01:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Three die in Mexico City World Cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-01T11:01:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "3 People Die During World Cup Celebrations in Mexico City",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "seendate": "2026-07-01T10:00:01.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "3 People Die During World Cup Celebrations in Mexico City",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "seendate": "2026-07-01T10:00:01.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Beijing",
     "name": "Beijing",
     "country": "CN",
@@ -231,20 +328,107 @@
     ]
   },
   {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Greetings from London, where Banksy&apos;s flag man is a warning cry",
+    "headlineUrl": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+    "seendate": "2026-07-01T10:00:00.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greetings from London, where Banksy&apos;s flag man is a warning cry",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+        "seendate": "2026-07-01T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Greetings from London, where Banksy&apos;s flag man is a warning cry",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+        "seendate": "2026-07-01T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from London, where Banksy&apos;s flag man is a warning cry",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+        "seendate": "2026-07-01T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+        "seendate": "2026-06-29T23:08:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+        "seendate": "2026-06-29T23:08:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
-    "headlineUrl": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
-    "seendate": "2026-06-30T20:50:39.000Z",
-    "articleCount": 2,
+    "headline": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
+    "seendate": "2026-07-01T09:38:06.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+        "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
+        "seendate": "2026-07-01T09:38:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+        "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
+        "seendate": "2026-07-01T09:38:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
@@ -259,6 +443,63 @@
         "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
         "seendate": "2026-06-30T20:50:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "Venezuelan sky turns deep red as sun sets over Caracas",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/1/venezuelan-sky-turns-deep-red-as-sun-sets-over-caracas?traffic_source=rss",
+    "seendate": "2026-07-01T09:01:57.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Venezuelan sky turns deep red as sun sets over Caracas",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/venezuelan-sky-turns-deep-red-as-sun-sets-over-caracas?traffic_source=rss",
+        "seendate": "2026-07-01T09:01:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Venezuelan sky turns deep red as sun sets over Caracas",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/venezuelan-sky-turns-deep-red-as-sun-sets-over-caracas?traffic_source=rss",
+        "seendate": "2026-07-01T09:01:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+        "seendate": "2026-06-28T21:56:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -296,80 +537,6 @@
         "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
         "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
         "seendate": "2026-06-30T16:06:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-    "headlineUrl": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-    "seendate": "2026-06-29T23:08:47.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T23:08:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T23:08:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-    "headlineUrl": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-    "seendate": "2026-06-28T21:56:02.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-        "seendate": "2026-06-28T21:56:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
