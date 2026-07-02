@@ -6,18 +6,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "'Most massive' Russian attack on Kyiv kills at least 21",
+    "headline": "'Most massive' Russian attack on Kyiv kills at least 27",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-02T16:15:31.000Z",
+    "seendate": "2026-07-02T20:18:14.000Z",
     "articleCount": 18,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T16:15:31.000Z",
+        "seendate": "2026-07-02T20:18:14.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T16:15:31.000Z",
+        "seendate": "2026-07-02T20:18:14.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T16:15:31.000Z",
+        "seendate": "2026-07-02T20:18:14.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T16:15:31.000Z",
+        "seendate": "2026-07-02T20:18:14.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T16:15:31.000Z",
+        "seendate": "2026-07-02T20:18:14.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T16:15:31.000Z",
+        "seendate": "2026-07-02T20:18:14.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -193,6 +193,143 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-02T17:56:18.000Z",
+    "articleCount": 12,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T17:56:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T17:56:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T17:56:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T17:56:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T17:56:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T17:56:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+        "seendate": "2026-07-02T17:36:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+        "seendate": "2026-07-02T17:36:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+        "seendate": "2026-07-02T17:31:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+        "seendate": "2026-07-02T17:31:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+        "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
+        "seendate": "2026-07-02T17:22:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+        "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
+        "seendate": "2026-07-02T17:22:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -340,18 +477,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza’s first women’s amputee football team reclaims the pitch after war",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss",
-    "seendate": "2026-07-02T13:41:39.000Z",
-    "articleCount": 10,
+    "headline": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
+    "seendate": "2026-07-02T17:35:37.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza’s first women’s amputee football team reclaims the pitch after war",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss",
-        "seendate": "2026-07-02T13:41:39.000Z",
+        "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
+        "seendate": "2026-07-02T17:35:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -359,29 +496,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza’s first women’s amputee football team reclaims the pitch after war",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss",
-        "seendate": "2026-07-02T13:41:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
-        "url": "https://www.aljazeera.com/news/2026/7/2/gaza-wars-1000-days-90-of-strip-destroyed-80-seized-by-israel?traffic_source=rss",
-        "seendate": "2026-07-02T13:14:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
-        "url": "https://www.aljazeera.com/news/2026/7/2/gaza-wars-1000-days-90-of-strip-destroyed-80-seized-by-israel?traffic_source=rss",
-        "seendate": "2026-07-02T13:14:53.000Z",
+        "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
+        "seendate": "2026-07-02T17:35:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -451,99 +568,79 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Bomb Explodes at Damascus Cafe, Killing at Least 4",
-    "headlineUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-    "seendate": "2026-07-02T14:45:57.000Z",
-    "articleCount": 8,
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-02T19:48:21.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 4",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T14:45:57.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T19:48:21.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T19:48:21.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T19:48:21.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T19:48:21.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 4",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T14:45:57.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T19:48:21.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Explosion in Damascus cafe causes casualties",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss",
-        "seendate": "2026-07-02T13:39:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T19:48:21.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Explosion in Damascus cafe causes casualties",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss",
-        "seendate": "2026-07-02T13:39:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Syria explosion updates: Bomb blast kills 5 people in Damascus",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss",
-        "seendate": "2026-07-02T12:49:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Syria explosion updates: Bomb blast kills 5 people in Damascus",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss",
-        "seendate": "2026-07-02T12:49:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At least six killed in explosion inside central Damascus cafe",
-        "url": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss",
-        "seendate": "2026-07-02T12:32:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "At least six killed in explosion inside central Damascus cafe",
-        "url": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss",
-        "seendate": "2026-07-02T12:32:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -557,127 +654,30 @@
     "headline": "4 People Die During World Cup Celebrations in Mexico City",
     "headlineUrl": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
     "seendate": "2026-07-01T21:47:23.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "4 People Die During World Cup Celebrations in Mexico City",
-        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-        "seendate": "2026-07-01T21:47:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "4 People Die During World Cup Celebrations in Mexico City",
-        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-        "seendate": "2026-07-01T21:47:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Four die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T20:15:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Four die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T20:15:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Four die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T20:15:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Four die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T20:15:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Four die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T20:15:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Four die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T20:15:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Philadelphia",
-    "name": "Philadelphia",
-    "country": "US",
-    "lat": 39.95,
-    "lon": -75.17,
-    "timezone": "America/New_York",
-    "headline": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/2/jaylen-brown-traded-to-philadelphia-76ers-from-boston-celtics?traffic_source=rss",
-    "seendate": "2026-07-02T11:29:36.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
-        "url": "https://www.aljazeera.com/sports/2026/7/2/jaylen-brown-traded-to-philadelphia-76ers-from-boston-celtics?traffic_source=rss",
-        "seendate": "2026-07-02T11:29:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "4 People Die During World Cup Celebrations in Mexico City",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "seendate": "2026-07-01T21:47:23.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
-        "url": "https://www.aljazeera.com/sports/2026/7/2/jaylen-brown-traded-to-philadelphia-76ers-from-boston-celtics?traffic_source=rss",
-        "seendate": "2026-07-02T11:29:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "4 People Die During World Cup Celebrations in Mexico City",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "seendate": "2026-07-01T21:47:23.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   }
