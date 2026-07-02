@@ -6,18 +6,38 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-02T05:00:57.000Z",
+    "headline": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
+    "headlineUrl": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+    "seendate": "2026-07-02T08:21:33.000Z",
     "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
+        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+        "seendate": "2026-07-02T08:21:33.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
+        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+        "seendate": "2026-07-02T08:21:33.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T05:00:57.000Z",
+        "seendate": "2026-07-02T07:11:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T05:00:57.000Z",
+        "seendate": "2026-07-02T07:11:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T05:00:57.000Z",
+        "seendate": "2026-07-02T07:11:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T05:00:57.000Z",
+        "seendate": "2026-07-02T07:11:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T05:00:57.000Z",
+        "seendate": "2026-07-02T07:11:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +85,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T05:00:57.000Z",
+        "seendate": "2026-07-02T07:11:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,27 +95,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-        "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html",
-        "seendate": "2026-07-02T04:11:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-        "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html",
-        "seendate": "2026-07-02T04:11:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
+        "title": "At least 13 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’",
         "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
         "seendate": "2026-07-02T02:15:06.000Z",
         "source_domain": "aljazeera.com",
@@ -105,7 +105,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
+        "title": "At least 13 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’",
         "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
         "seendate": "2026-07-02T02:15:06.000Z",
         "source_domain": "aljazeera.com",
@@ -611,7 +611,7 @@
     "headline": "Greetings from London, where Banksy&apos;s flag man is a warning cry",
     "headlineUrl": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
     "seendate": "2026-07-01T10:00:00.000Z",
-    "articleCount": 5,
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
@@ -645,26 +645,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T23:08:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-        "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-        "seendate": "2026-06-29T23:08:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -697,43 +677,6 @@
         "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
         "seendate": "2026-07-02T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-    "seendate": "2026-07-01T21:09:15.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-        "seendate": "2026-07-01T21:09:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-        "seendate": "2026-07-01T21:09:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
