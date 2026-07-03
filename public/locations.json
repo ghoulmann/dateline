@@ -6,38 +6,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-    "headlineUrl": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-    "seendate": "2026-07-02T21:50:58.000Z",
-    "articleCount": 18,
+    "headline": "'Most massive' Russian attack on Kyiv kills at least 30",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-03T04:41:05.000Z",
+    "articleCount": 15,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-        "seendate": "2026-07-02T21:50:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-        "seendate": "2026-07-02T21:50:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:18:14.000Z",
+        "seendate": "2026-07-03T04:41:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:18:14.000Z",
+        "seendate": "2026-07-03T04:41:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:18:14.000Z",
+        "seendate": "2026-07-03T04:41:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:18:14.000Z",
+        "seendate": "2026-07-03T04:41:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:18:14.000Z",
+        "seendate": "2026-07-03T04:41:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:18:14.000Z",
+        "seendate": "2026-07-03T04:41:05.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,14 +75,14 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-        "seendate": "2026-07-02T14:49:35.000Z",
+        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+        "seendate": "2026-07-02T21:50:58.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "democracy-crisis"
       },
       {
         "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
@@ -173,16 +153,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
-        "seendate": "2026-07-02T11:48:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
       },
       {
         "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
@@ -343,7 +313,7 @@
     "headline": "Bomb blast at Damascus cafe kills six, Syrian state media say",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-07-02T17:56:18.000Z",
-    "articleCount": 10,
+    "articleCount": 7,
     "categories": [
       "armed-conflict"
     ],
@@ -409,36 +379,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
-        "seendate": "2026-07-02T17:36:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
-        "seendate": "2026-07-02T17:36:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T17:31:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
         "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
         "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
         "seendate": "2026-07-02T17:31:12.000Z",
@@ -451,44 +391,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Rally for Luxembourg teacher fired over pro-Gaza posts",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
-    "seendate": "2026-07-02T17:35:37.000Z",
-    "articleCount": 8,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-03T02:33:40.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
-        "seendate": "2026-07-02T17:35:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
-        "seendate": "2026-07-02T17:35:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-03T02:33:40.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -496,9 +416,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-03T02:33:40.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -506,9 +426,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-03T02:33:40.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -516,9 +436,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-03T02:33:40.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -526,9 +446,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-03T02:33:40.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -536,9 +456,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-03T02:33:40.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -616,6 +536,83 @@
         "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
         "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-02T20:34:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza patients face agonising delays for medical evacuation",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-02T04:59:55.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -708,21 +705,11 @@
     "headline": "Rare Copy of the Declaration of Independence Is Discovered in London",
     "headlineUrl": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
     "seendate": "2026-07-02T23:01:06.000Z",
-    "articleCount": 2,
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
-        "seendate": "2026-07-02T23:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
       {
         "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
         "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
@@ -745,21 +732,11 @@
     "headline": "4 People Die During World Cup Celebrations in Mexico City",
     "headlineUrl": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
     "seendate": "2026-07-01T21:47:23.000Z",
-    "articleCount": 2,
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "4 People Die During World Cup Celebrations in Mexico City",
-        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-        "seendate": "2026-07-01T21:47:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
       {
         "title": "4 People Die During World Cup Celebrations in Mexico City",
         "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
