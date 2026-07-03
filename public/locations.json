@@ -682,24 +682,45 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
-    "seendate": "2026-07-03T00:00:00.000Z",
-    "articleCount": 2,
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Argentina fans flood Miami for Cape Verde match",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/3/argentina-fans-flood-miami-for-cape-verde-match?traffic_source=rss",
+    "seendate": "2026-07-03T12:03:00.000Z",
+    "articleCount": 4,
     "categories": [
+      "natural-disaster",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
-        "seendate": "2026-07-03T00:00:00.000Z",
+        "title": "Argentina fans flood Miami for Cape Verde match",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/argentina-fans-flood-miami-for-cape-verde-match?traffic_source=rss",
+        "seendate": "2026-07-03T12:03:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Argentina fans flood Miami for Cape Verde match",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/argentina-fans-flood-miami-for-cape-verde-match?traffic_source=rss",
+        "seendate": "2026-07-03T12:03:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Argentina fans revel in Messi’s Miami homecoming before Cape Verde match",
+        "url": "https://www.aljazeera.com/sports/2026/7/3/argentina-fans-revel-in-messis-miami-homecoming-before-cape-verde-match?traffic_source=rss",
+        "seendate": "2026-07-03T11:09:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -707,9 +728,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
-        "seendate": "2026-07-03T00:00:00.000Z",
+        "title": "Argentina fans revel in Messi’s Miami homecoming before Cape Verde match",
+        "url": "https://www.aljazeera.com/sports/2026/7/3/argentina-fans-revel-in-messis-miami-homecoming-before-cape-verde-match?traffic_source=rss",
+        "seendate": "2026-07-03T11:09:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Bangkok’s ambulance volunteers: Saving lives or putting them at risk?",
+    "headlineUrl": "https://www.aljazeera.com/video/101-east/2026/7/3/bangkoks-ambulance-volunteers-saving-lives-or-putting-them-at-risk?traffic_source=rss",
+    "seendate": "2026-07-03T11:30:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bangkok’s ambulance volunteers: Saving lives or putting them at risk?",
+        "url": "https://www.aljazeera.com/video/101-east/2026/7/3/bangkoks-ambulance-volunteers-saving-lives-or-putting-them-at-risk?traffic_source=rss",
+        "seendate": "2026-07-03T11:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok’s ambulance volunteers: Saving lives or putting them at risk?",
+        "url": "https://www.aljazeera.com/video/101-east/2026/7/3/bangkoks-ambulance-volunteers-saving-lives-or-putting-them-at-risk?traffic_source=rss",
+        "seendate": "2026-07-03T11:30:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
