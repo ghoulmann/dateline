@@ -334,6 +334,103 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+    "seendate": "2026-07-04T00:20:08.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+        "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+        "seendate": "2026-07-04T00:20:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+        "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+        "seendate": "2026-07-04T00:20:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T04:59:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Damascus",
     "name": "Damascus",
     "country": "SY",
@@ -431,6 +528,83 @@
     ]
   },
   {
+    "id": "Philadelphia",
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 39.95,
+    "lon": -75.17,
+    "timezone": "America/New_York",
+    "headline": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-04T02:57:48.000Z",
+    "articleCount": 6,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T02:57:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T02:57:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T02:57:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T02:57:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T02:57:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T02:57:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
@@ -508,156 +682,106 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "New York",
+    "name": "New York",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
+    "lat": 40.71,
+    "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-02T20:34:52.000Z",
-    "articleCount": 6,
+    "headline": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+    "headlineUrl": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+    "seendate": "2026-07-03T21:03:00.000Z",
+    "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:34:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:34:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:34:52.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+        "seendate": "2026-07-03T21:03:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:34:52.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+        "seendate": "2026-07-03T21:03:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+        "seendate": "2026-07-03T21:03:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "seendate": "2026-07-03T18:32:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:34:52.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "seendate": "2026-07-03T18:32:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T20:34:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza patients face agonising delays for medical evacuation",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-02T04:59:55.000Z",
-    "articleCount": 6,
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/4/ahead-of-morocco-vs-canada-at-the-world-cup-comparisons-arise-with-the-2022-team?traffic_source=rss",
+    "seendate": "2026-07-04T03:31:37.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team",
+        "url": "https://www.aljazeera.com/sports/2026/7/4/ahead-of-morocco-vs-canada-at-the-world-cup-comparisons-arise-with-the-2022-team?traffic_source=rss",
+        "seendate": "2026-07-04T03:31:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team",
+        "url": "https://www.aljazeera.com/sports/2026/7/4/ahead-of-morocco-vs-canada-at-the-world-cup-comparisons-arise-with-the-2022-team?traffic_source=rss",
+        "seendate": "2026-07-04T03:31:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -764,43 +888,6 @@
         "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
         "url": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
         "seendate": "2026-07-03T17:47:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Tibetan Man Dies After Self-Immolation Protest in New York",
-    "headlineUrl": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-    "seendate": "2026-07-03T18:32:08.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-        "seendate": "2026-07-03T18:32:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-        "seendate": "2026-07-03T18:32:08.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
