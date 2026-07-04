@@ -6,392 +6,58 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "'Most massive' Russian attack on Kyiv kills at least 30",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-03T04:41:05.000Z",
-    "articleCount": 18,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T04:41:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T04:41:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T04:41:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T04:41:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T04:41:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T04:41:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-        "seendate": "2026-07-02T21:50:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-        "seendate": "2026-07-02T21:50:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-        "seendate": "2026-07-02T14:49:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-        "seendate": "2026-07-02T14:49:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
-        "seendate": "2026-07-02T11:48:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
-        "seendate": "2026-07-02T11:48:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-01T22:04:01.000Z",
-    "articleCount": 12,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T22:04:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T22:04:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T22:04:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T22:04:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T22:04:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-01T22:04:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-06-30T23:24:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Could Israel really build settlements in Gaza?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-04T05:41:23.000Z",
+    "headline": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+    "headlineUrl": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+    "seendate": "2026-07-02T21:50:58.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Could Israel really build settlements in Gaza?",
-        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-04T05:41:23.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+        "seendate": "2026-07-02T21:50:58.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Could Israel really build settlements in Gaza?",
-        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-04T05:41:23.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+        "seendate": "2026-07-02T21:50:58.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
-        "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
-        "seendate": "2026-07-04T00:20:08.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
+        "seendate": "2026-07-02T14:49:35.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
-        "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
-        "seendate": "2026-07-04T00:20:08.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
+        "seendate": "2026-07-02T14:49:35.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T12:37:02.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -399,9 +65,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T12:37:02.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -409,9 +75,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T12:37:02.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -419,9 +85,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T12:37:02.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -429,9 +95,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T12:37:02.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -439,9 +105,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T04:59:55.000Z",
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-02T12:37:02.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -451,24 +117,24 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-03T06:42:14.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-04T09:45:55.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T06:42:14.000Z",
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T09:45:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -476,9 +142,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T06:42:14.000Z",
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T09:45:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -486,9 +152,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T06:42:14.000Z",
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T09:45:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -496,9 +162,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T06:42:14.000Z",
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T09:45:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -506,9 +172,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T06:42:14.000Z",
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T09:45:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -516,9 +182,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-03T06:42:14.000Z",
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-04T09:45:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -526,24 +192,24 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T17:31:12.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss",
+        "seendate": "2026-07-04T09:35:45.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T17:31:12.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss",
+        "seendate": "2026-07-04T09:35:45.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -769,6 +435,43 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Could Israel really build settlements in Gaza?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-04T05:41:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Could Israel really build settlements in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-04T05:41:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Could Israel really build settlements in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-04T05:41:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -797,80 +500,6 @@
         "title": "Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team",
         "url": "https://www.aljazeera.com/sports/2026/7/4/ahead-of-morocco-vs-canada-at-the-world-cup-comparisons-arise-with-the-2022-team?traffic_source=rss",
         "seendate": "2026-07-04T03:31:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-    "seendate": "2026-07-04T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "seendate": "2026-07-04T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "seendate": "2026-07-04T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Dallas",
-    "name": "Dallas",
-    "country": "US",
-    "lat": 32.78,
-    "lon": -96.8,
-    "timezone": "America/Chicago",
-    "headline": "Egypt say Dallas police officer pushed player, team director at World Cup",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-    "seendate": "2026-07-03T22:20:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-        "seendate": "2026-07-03T22:20:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-        "seendate": "2026-07-03T22:20:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -945,6 +574,43 @@
         "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
         "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
         "seendate": "2026-07-03T15:04:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+    "headlineUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+    "seendate": "2026-07-02T17:31:12.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+        "seendate": "2026-07-02T17:31:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+        "seendate": "2026-07-02T17:31:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
