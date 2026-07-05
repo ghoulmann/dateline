@@ -8,7 +8,7 @@
     "timezone": "Asia/Tehran",
     "headline": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
     "headlineUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-    "seendate": "2026-07-05T01:03:49.000Z",
+    "seendate": "2026-07-05T06:37:32.000Z",
     "articleCount": 17,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
         "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-        "seendate": "2026-07-05T01:03:49.000Z",
+        "seendate": "2026-07-05T06:37:32.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
         "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-        "seendate": "2026-07-05T01:03:49.000Z",
+        "seendate": "2026-07-05T06:37:32.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -187,121 +187,85 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-    "seendate": "2026-07-04T19:19:18.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-        "seendate": "2026-07-04T19:19:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-        "seendate": "2026-07-04T19:19:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-02T12:37:02.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
+    "id": "Washington",
+    "name": "Washington",
     "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
+    "lat": 38.91,
+    "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Fireworks light up New York City to mark 250 years of US independence",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
-    "seendate": "2026-07-05T02:55:06.000Z",
-    "articleCount": 7,
+    "headline": "Scorching heat and delays: How Washington DC marked America 250",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-05T07:19:08.000Z",
+    "articleCount": 10,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Fireworks light up New York City to mark 250 years of US independence",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
-        "seendate": "2026-07-05T02:55:06.000Z",
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-05T07:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-05T07:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-05T07:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-05T07:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-05T07:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-05T07:19:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+        "seendate": "2026-07-05T00:08:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -309,9 +273,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Fireworks light up New York City to mark 250 years of US independence",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
-        "seendate": "2026-07-05T02:55:06.000Z",
+        "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+        "seendate": "2026-07-05T00:08:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -319,54 +283,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "seendate": "2026-07-03T21:03:00.000Z",
-        "source_domain": "npr.org",
+        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+        "seendate": "2026-07-04T23:57:52.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "seendate": "2026-07-03T21:03:00.000Z",
-        "source_domain": "npr.org",
+        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+        "seendate": "2026-07-04T23:57:52.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "seendate": "2026-07-03T21:03:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-        "seendate": "2026-07-03T18:32:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-        "seendate": "2026-07-03T18:32:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -448,24 +382,24 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "New York",
+    "name": "New York",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
+    "lat": 40.71,
+    "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
-    "seendate": "2026-07-05T00:08:47.000Z",
+    "headline": "Fireworks light up New York City to mark 250 years of US independence",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+    "seendate": "2026-07-05T02:55:06.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
-        "seendate": "2026-07-05T00:08:47.000Z",
+        "title": "Fireworks light up New York City to mark 250 years of US independence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+        "seendate": "2026-07-05T02:55:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -473,9 +407,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
-        "seendate": "2026-07-05T00:08:47.000Z",
+        "title": "Fireworks light up New York City to mark 250 years of US independence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+        "seendate": "2026-07-05T02:55:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -483,24 +417,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
-        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
-        "seendate": "2026-07-04T23:57:52.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "seendate": "2026-07-03T18:32:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
-        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
-        "seendate": "2026-07-04T23:57:52.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "seendate": "2026-07-03T18:32:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -568,18 +502,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-04T16:23:48.000Z",
+    "headline": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
+    "seendate": "2026-07-05T08:25:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-04T16:23:48.000Z",
+        "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
+        "seendate": "2026-07-05T08:25:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -587,9 +521,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-04T16:23:48.000Z",
+        "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
+        "seendate": "2026-07-05T08:25:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+    "seendate": "2026-07-04T19:19:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+        "seendate": "2026-07-04T19:19:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+        "seendate": "2026-07-04T19:19:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -627,43 +598,6 @@
         "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
         "url": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
         "seendate": "2026-07-03T17:47:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
-    "headlineUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-    "seendate": "2026-07-02T17:31:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T17:31:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-        "seendate": "2026-07-02T17:31:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
