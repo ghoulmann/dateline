@@ -6,14 +6,34 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "BBC in Tehran as mourners gather for former supreme leader's funeral",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-04T16:49:36.000Z",
-    "articleCount": 15,
+    "headline": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+    "headlineUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+    "seendate": "2026-07-04T20:39:12.000Z",
+    "articleCount": 17,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+        "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+        "seendate": "2026-07-04T20:39:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+        "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+        "seendate": "2026-07-04T20:39:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
         "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&amp;at_campaign=rss",
@@ -531,43 +551,110 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Washington&apos;s July 4 parade is off. The fireworks are still on",
-    "headlineUrl": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
-    "seendate": "2026-07-04T16:42:10.000Z",
-    "articleCount": 3,
+    "headline": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+    "seendate": "2026-07-05T00:08:47.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Washington&apos;s July 4 parade is off. The fireworks are still on",
-        "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
-        "seendate": "2026-07-04T16:42:10.000Z",
-        "source_domain": "npr.org",
+        "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+        "seendate": "2026-07-05T00:08:47.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Washington&apos;s July 4 parade is off. The fireworks are still on",
-        "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
-        "seendate": "2026-07-04T16:42:10.000Z",
-        "source_domain": "npr.org",
+        "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+        "seendate": "2026-07-05T00:08:47.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       },
       {
-        "title": "Washington&apos;s July 4 parade is off. The fireworks are still on",
-        "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
-        "seendate": "2026-07-04T16:42:10.000Z",
-        "source_domain": "npr.org",
+        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+        "seendate": "2026-07-04T23:57:52.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+        "seendate": "2026-07-04T23:57:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Prince Harry Will Travel to London, but Without His Family",
+    "headlineUrl": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+    "seendate": "2026-07-04T23:18:51.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Prince Harry Will Travel to London, but Without His Family",
+        "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+        "seendate": "2026-07-04T23:18:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Prince Harry Will Travel to London, but Without His Family",
+        "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+        "seendate": "2026-07-04T23:18:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
+        "seendate": "2026-07-03T15:04:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
+        "seendate": "2026-07-03T15:04:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -637,43 +724,6 @@
         "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
         "url": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
         "seendate": "2026-07-03T17:47:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Rare Copy of the Declaration of Independence Is Discovered in London",
-    "headlineUrl": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
-    "seendate": "2026-07-03T15:04:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
-        "seendate": "2026-07-03T15:04:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Rare Copy of the Declaration of Independence Is Discovered in London",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
-        "seendate": "2026-07-03T15:04:40.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
