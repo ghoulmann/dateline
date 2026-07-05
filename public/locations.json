@@ -8,7 +8,7 @@
     "timezone": "Asia/Tehran",
     "headline": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
     "headlineUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-    "seendate": "2026-07-04T20:39:12.000Z",
+    "seendate": "2026-07-05T01:03:49.000Z",
     "articleCount": 17,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
         "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-        "seendate": "2026-07-04T20:39:12.000Z",
+        "seendate": "2026-07-05T01:03:49.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
         "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-        "seendate": "2026-07-04T20:39:12.000Z",
+        "seendate": "2026-07-05T01:03:49.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -196,7 +196,7 @@
     "headline": "Will economic pressure move the Kremlin towards talks with Kyiv?",
     "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
     "seendate": "2026-07-04T19:19:18.000Z",
-    "articleCount": 12,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -220,46 +220,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-        "seendate": "2026-07-02T21:50:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
-        "seendate": "2026-07-02T21:50:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-        "seendate": "2026-07-02T14:49:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
-        "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-        "seendate": "2026-07-02T14:49:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       },
       {
         "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
@@ -324,79 +284,89 @@
     ]
   },
   {
-    "id": "Philadelphia",
-    "name": "Philadelphia",
+    "id": "New York",
+    "name": "New York",
     "country": "US",
-    "lat": 39.95,
-    "lon": -75.17,
+    "lat": 40.71,
+    "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-04T02:57:48.000Z",
-    "articleCount": 6,
+    "headline": "Fireworks light up New York City to mark 250 years of US independence",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+    "seendate": "2026-07-05T02:55:06.000Z",
+    "articleCount": 7,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-04T02:57:48.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Fireworks light up New York City to mark 250 years of US independence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+        "seendate": "2026-07-05T02:55:06.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-04T02:57:48.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Fireworks light up New York City to mark 250 years of US independence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+        "seendate": "2026-07-05T02:55:06.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-04T02:57:48.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+        "seendate": "2026-07-03T21:03:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-04T02:57:48.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+        "seendate": "2026-07-03T21:03:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+        "seendate": "2026-07-03T21:03:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "seendate": "2026-07-03T18:32:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-04T02:57:48.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "seendate": "2026-07-03T18:32:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-04T02:57:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -474,73 +444,6 @@
           "climate-watch"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-    "headlineUrl": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-    "seendate": "2026-07-03T21:03:00.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "seendate": "2026-07-03T21:03:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "seendate": "2026-07-03T21:03:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "seendate": "2026-07-03T21:03:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-        "seendate": "2026-07-03T18:32:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-        "seendate": "2026-07-03T18:32:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
