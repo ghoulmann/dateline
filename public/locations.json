@@ -196,7 +196,7 @@
     "headline": "Scorching heat and delays: How Washington DC marked America 250",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-07-05T07:19:08.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict",
       "climate-watch"
@@ -281,26 +281,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
-        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
-        "seendate": "2026-07-04T23:57:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "White nationalists march in Washington, DC, area during July 4 festivities",
-        "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
-        "seendate": "2026-07-04T23:57:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -378,6 +358,63 @@
           "climate-watch"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+    "seendate": "2026-07-05T11:24:18.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+        "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+        "seendate": "2026-07-05T11:24:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+        "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+        "seendate": "2026-07-05T11:24:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
+        "seendate": "2026-07-05T08:25:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
+        "seendate": "2026-07-05T08:25:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -496,76 +533,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
-    "seendate": "2026-07-05T08:25:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
-        "seendate": "2026-07-05T08:25:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
-        "seendate": "2026-07-05T08:25:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-    "seendate": "2026-07-04T19:19:18.000Z",
+    "headline": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
+    "headlineUrl": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+    "seendate": "2026-07-05T09:17:30.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-        "seendate": "2026-07-04T19:19:18.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
+        "url": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+        "seendate": "2026-07-05T09:17:30.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-        "seendate": "2026-07-04T19:19:18.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
+        "url": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+        "seendate": "2026-07-05T09:17:30.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
