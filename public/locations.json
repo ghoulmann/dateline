@@ -6,14 +6,34 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-05T17:54:47.000Z",
-    "articleCount": 22,
+    "headline": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
+    "seendate": "2026-07-06T00:00:00.000Z",
+    "articleCount": 24,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
+        "seendate": "2026-07-06T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
+        "seendate": "2026-07-06T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
         "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&amp;at_campaign=rss",
@@ -578,43 +598,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss",
-    "seendate": "2026-07-05T16:05:39.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
-        "url": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss",
-        "seendate": "2026-07-05T16:05:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
-        "url": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss",
-        "seendate": "2026-07-05T16:05:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
