@@ -6,14 +6,34 @@
     "lat": 33.51,
     "lon": 36.28,
     "timezone": "Asia/Damascus",
-    "headline": "Explosions injure 18 in Damascus during Macron's visit",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-07T11:16:30.000Z",
-    "articleCount": 17,
+    "headline": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
+    "headlineUrl": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+    "seendate": "2026-07-07T16:03:04.000Z",
+    "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+        "seendate": "2026-07-07T16:03:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+        "seendate": "2026-07-07T16:03:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Explosions injure 18 in Damascus during Macron's visit",
         "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
@@ -93,26 +113,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Explosions Hit Damascus During Macron Visit",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
-        "seendate": "2026-07-07T09:56:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Explosions Hit Damascus During Macron Visit",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
-        "seendate": "2026-07-07T09:56:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       },
       {
         "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
@@ -143,11 +143,109 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-07T16:10:14.000Z",
+    "articleCount": 12,
+    "categories": [
+      "political-repression",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T16:10:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Explosions in Damascus as French president visits",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
-        "seendate": "2026-07-07T08:28:31.000Z",
+        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T16:10:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T16:10:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T16:10:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T16:10:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T16:10:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss",
+        "seendate": "2026-07-07T13:16:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss",
+        "seendate": "2026-07-07T13:16:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+        "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
+        "seendate": "2026-07-07T12:56:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -155,9 +253,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Explosions in Damascus as French president visits",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
-        "seendate": "2026-07-07T08:28:31.000Z",
+        "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+        "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
+        "seendate": "2026-07-07T12:56:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -165,9 +263,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
-        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-        "seendate": "2026-07-07T07:32:04.000Z",
+        "title": "What is the new Gaza administration as Hamas dissolves government?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+        "seendate": "2026-07-07T10:38:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -175,9 +273,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
-        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-        "seendate": "2026-07-07T07:32:04.000Z",
+        "title": "What is the new Gaza administration as Hamas dissolves government?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+        "seendate": "2026-07-07T10:38:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -193,18 +291,18 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
+    "headline": "What Our Reporter Saw in Tehran: A Human Tide of Mourners",
     "headlineUrl": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-    "seendate": "2026-07-07T07:15:30.000Z",
-    "articleCount": 12,
+    "seendate": "2026-07-07T13:02:07.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
+        "title": "What Our Reporter Saw in Tehran: A Human Tide of Mourners",
         "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-        "seendate": "2026-07-07T07:15:30.000Z",
+        "seendate": "2026-07-07T13:02:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -212,9 +310,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
+        "title": "What Our Reporter Saw in Tehran: A Human Tide of Mourners",
         "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-        "seendate": "2026-07-07T07:15:30.000Z",
+        "seendate": "2026-07-07T13:02:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -300,26 +398,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
-        "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
-        "seendate": "2026-07-05T17:45:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
-        "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
-        "seendate": "2026-07-05T17:45:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -333,7 +411,7 @@
     "headline": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
     "headlineUrl": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
     "seendate": "2026-07-06T20:55:21.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -417,140 +495,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
-        "url": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
-        "seendate": "2026-07-05T09:17:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
-        "url": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
-        "seendate": "2026-07-05T09:17:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "What is the new Gaza administration as Hamas dissolves government?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
-    "seendate": "2026-07-07T10:38:03.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What is the new Gaza administration as Hamas dissolves government?",
-        "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
-        "seendate": "2026-07-07T10:38:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What is the new Gaza administration as Hamas dissolves government?",
-        "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
-        "seendate": "2026-07-07T10:38:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestine weekly: One thousand days of genocide in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-07T05:48:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestine weekly: One thousand days of genocide in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-07T05:48:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Ankara",
-    "name": "Ankara",
-    "country": "TR",
-    "lat": 39.93,
-    "lon": 32.87,
-    "timezone": "Europe/Istanbul",
-    "headline": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-    "seendate": "2026-07-07T07:09:27.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-        "seendate": "2026-07-07T07:09:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-        "seendate": "2026-07-07T07:09:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-        "seendate": "2026-07-07T06:12:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-        "seendate": "2026-07-07T06:12:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
