@@ -7,17 +7,17 @@
     "lon": 51.39,
     "timezone": "Asia/Tehran",
     "headline": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
-    "headlineUrl": "https://www.nytimes.com/2026/07/07/world/middleeast/joining-a-human-tide-of-mourners-flowing-through-tehrans-streets.html",
-    "seendate": "2026-07-07T04:01:14.000Z",
-    "articleCount": 14,
+    "headlineUrl": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+    "seendate": "2026-07-07T07:15:30.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
         "title": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/joining-a-human-tide-of-mourners-flowing-through-tehrans-streets.html",
-        "seendate": "2026-07-07T04:01:14.000Z",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+        "seendate": "2026-07-07T07:15:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -26,8 +26,8 @@
       },
       {
         "title": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/joining-a-human-tide-of-mourners-flowing-through-tehrans-streets.html",
-        "seendate": "2026-07-07T04:01:14.000Z",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+        "seendate": "2026-07-07T07:15:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -128,26 +128,6 @@
         "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
         "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
         "seendate": "2026-07-05T17:45:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
-        "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-        "seendate": "2026-07-05T06:37:32.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
-        "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-        "seendate": "2026-07-05T06:37:32.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -274,20 +254,204 @@
     ]
   },
   {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
+    "headlineUrl": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+    "seendate": "2026-07-07T08:59:44.000Z",
+    "articleCount": 9,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "seendate": "2026-07-07T08:59:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "seendate": "2026-07-07T08:59:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "seendate": "2026-07-07T08:59:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Explosions Hit Damascus as Macron Visits",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+        "seendate": "2026-07-07T08:43:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Explosions Hit Damascus as Macron Visits",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+        "seendate": "2026-07-07T08:43:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Explosions in Damascus as French president visits",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
+        "seendate": "2026-07-07T08:28:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosions in Damascus as French president visits",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
+        "seendate": "2026-07-07T08:28:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Explosions rock Damascus during Macron’s visit to Syria",
+        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+        "seendate": "2026-07-07T07:32:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosions rock Damascus during Macron’s visit to Syria",
+        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+        "seendate": "2026-07-07T07:32:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Ankara",
+    "name": "Ankara",
+    "country": "TR",
+    "lat": 39.93,
+    "lon": 32.87,
+    "timezone": "Europe/Istanbul",
+    "headline": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+    "seendate": "2026-07-07T07:09:27.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+        "seendate": "2026-07-07T07:09:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+        "seendate": "2026-07-07T07:09:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+        "seendate": "2026-07-07T06:12:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+        "seendate": "2026-07-07T06:12:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Hamas dissolves civilian governing body in Gaza after 20 years",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss",
-    "seendate": "2026-07-07T03:25:11.000Z",
-    "articleCount": 2,
+    "headline": "Palestine weekly: One thousand days of genocide in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-07T05:48:37.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Palestine weekly: One thousand days of genocide in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-07T05:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestine weekly: One thousand days of genocide in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-07T05:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss",
@@ -311,39 +475,49 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Prince Harry Will Travel to London, but Without His Family",
-    "headlineUrl": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
-    "seendate": "2026-07-04T23:18:51.000Z",
-    "articleCount": 2,
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "As climate change damages streets and highways, the road ahead may be expensive",
+    "headlineUrl": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave",
+    "seendate": "2026-07-07T09:00:00.000Z",
+    "articleCount": 3,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Prince Harry Will Travel to London, but Without His Family",
-        "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
-        "seendate": "2026-07-04T23:18:51.000Z",
-        "source_domain": "nytimes.com",
+        "title": "As climate change damages streets and highways, the road ahead may be expensive",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave",
+        "seendate": "2026-07-07T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "political-repression"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Prince Harry Will Travel to London, but Without His Family",
-        "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
-        "seendate": "2026-07-04T23:18:51.000Z",
-        "source_domain": "nytimes.com",
+        "title": "As climate change damages streets and highways, the road ahead may be expensive",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave",
+        "seendate": "2026-07-07T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "As climate change damages streets and highways, the road ahead may be expensive",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave",
+        "seendate": "2026-07-07T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
