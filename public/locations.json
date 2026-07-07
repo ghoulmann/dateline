@@ -1,5 +1,192 @@
 [
   {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Explosions injure 18 in Damascus during Macron's visit",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-07T11:16:30.000Z",
+    "articleCount": 17,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Explosions injure 18 in Damascus during Macron's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T11:16:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosions injure 18 in Damascus during Macron's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T11:16:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Explosions injure 18 in Damascus during Macron's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T11:16:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Explosions injure 18 in Damascus during Macron's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T11:16:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Explosions injure 18 in Damascus during Macron's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T11:16:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Explosions injure 18 in Damascus during Macron's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-07T11:16:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Explosions in Damascus during Macron visit to Syria: What we know",
+        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+        "seendate": "2026-07-07T10:32:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosions in Damascus during Macron visit to Syria: What we know",
+        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+        "seendate": "2026-07-07T10:32:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Explosions Hit Damascus During Macron Visit",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+        "seendate": "2026-07-07T09:56:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Explosions Hit Damascus During Macron Visit",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+        "seendate": "2026-07-07T09:56:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "seendate": "2026-07-07T08:59:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "seendate": "2026-07-07T08:59:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "seendate": "2026-07-07T08:59:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Explosions in Damascus as French president visits",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
+        "seendate": "2026-07-07T08:28:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosions in Damascus as French president visits",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
+        "seendate": "2026-07-07T08:28:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+        "seendate": "2026-07-07T07:32:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+        "seendate": "2026-07-07T07:32:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -254,74 +441,24 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
-    "headlineUrl": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
-    "seendate": "2026-07-07T08:59:44.000Z",
-    "articleCount": 9,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "What is the new Gaza administration as Hamas dissolves government?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+    "seendate": "2026-07-07T10:38:03.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
-        "seendate": "2026-07-07T08:59:44.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
-        "seendate": "2026-07-07T08:59:44.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
-        "seendate": "2026-07-07T08:59:44.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Explosions Hit Damascus as Macron Visits",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
-        "seendate": "2026-07-07T08:43:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Explosions Hit Damascus as Macron Visits",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
-        "seendate": "2026-07-07T08:43:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Explosions in Damascus as French president visits",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
-        "seendate": "2026-07-07T08:28:31.000Z",
+        "title": "What is the new Gaza administration as Hamas dissolves government?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+        "seendate": "2026-07-07T10:38:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -329,9 +466,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Explosions in Damascus as French president visits",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
-        "seendate": "2026-07-07T08:28:31.000Z",
+        "title": "What is the new Gaza administration as Hamas dissolves government?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+        "seendate": "2026-07-07T10:38:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -339,9 +476,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Explosions rock Damascus during Macron’s visit to Syria",
-        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-        "seendate": "2026-07-07T07:32:04.000Z",
+        "title": "Palestine weekly: One thousand days of genocide in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-07T05:48:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -349,9 +486,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Explosions rock Damascus during Macron’s visit to Syria",
-        "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-        "seendate": "2026-07-07T07:32:04.000Z",
+        "title": "Palestine weekly: One thousand days of genocide in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-07T05:48:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -367,7 +504,7 @@
     "lat": 39.93,
     "lon": 32.87,
     "timezone": "Europe/Istanbul",
-    "headline": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+    "headline": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
     "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
     "seendate": "2026-07-07T07:09:27.000Z",
     "articleCount": 4,
@@ -376,7 +513,7 @@
     ],
     "articles": [
       {
-        "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+        "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
         "seendate": "2026-07-07T07:09:27.000Z",
         "source_domain": "aljazeera.com",
@@ -386,7 +523,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+        "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
         "seendate": "2026-07-07T07:09:27.000Z",
         "source_domain": "aljazeera.com",
@@ -409,63 +546,6 @@
         "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
         "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
         "seendate": "2026-07-07T06:12:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Palestine weekly: One thousand days of genocide in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-07T05:48:37.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Palestine weekly: One thousand days of genocide in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-07T05:48:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestine weekly: One thousand days of genocide in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-07T05:48:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss",
-        "seendate": "2026-07-07T03:25:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss",
-        "seendate": "2026-07-07T03:25:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
