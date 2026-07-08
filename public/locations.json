@@ -332,83 +332,6 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-06T13:07:23.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T13:07:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T13:07:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T13:07:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T13:07:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T13:07:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T13:07:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -456,29 +379,39 @@
     ]
   },
   {
-    "id": "Victoria",
-    "name": "Victoria",
-    "country": "SC",
-    "lat": -4.62,
-    "lon": 55.45,
-    "timezone": "Indian/Mahe",
-    "headline": "David and Victoria Beckham, Ashton Kutcher and Mila Kunis share an unexpected Fourth of July tradition",
-    "headlineUrl": "https://www.foxnews.com/entertainment/david-victoria-beckham-ashton-kutcher-mila-kunis-share-unexpected-fourth-july-tradition",
-    "seendate": "2026-07-04T17:00:54.000Z",
-    "articleCount": 1,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+    "seendate": "2026-07-07T22:53:35.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "David and Victoria Beckham, Ashton Kutcher and Mila Kunis share an unexpected Fourth of July tradition",
-        "url": "https://www.foxnews.com/entertainment/david-victoria-beckham-ashton-kutcher-mila-kunis-share-unexpected-fourth-july-tradition",
-        "seendate": "2026-07-04T17:00:54.000Z",
-        "source_domain": "foxnews.com",
+        "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+        "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+        "seendate": "2026-07-07T22:53:35.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+        "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+        "seendate": "2026-07-07T22:53:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
