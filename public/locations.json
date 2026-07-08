@@ -6,61 +6,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-    "seendate": "2026-07-08T13:29:22.000Z",
-    "articleCount": 18,
+    "headline": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
+    "seendate": "2026-07-08T18:51:32.000Z",
+    "articleCount": 16,
     "categories": [
-      "democracy-crisis",
-      "humanitarian",
       "armed-conflict",
       "political-repression"
     ],
     "articles": [
       {
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "seendate": "2026-07-08T13:29:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "seendate": "2026-07-08T13:29:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza aid worker killed minutes before World Cup screening he organised",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
-        "seendate": "2026-07-08T12:36:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza aid worker killed minutes before World Cup screening he organised",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
-        "seendate": "2026-07-08T12:36:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
-        "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss",
-        "seendate": "2026-07-08T12:06:42.000Z",
+        "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
+        "seendate": "2026-07-08T18:51:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -68,9 +26,29 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
-        "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss",
-        "seendate": "2026-07-08T12:06:42.000Z",
+        "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
+        "seendate": "2026-07-08T18:51:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli air strikes in Gaza kill eight, including two children",
+        "url": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
+        "seendate": "2026-07-08T18:35:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli air strikes in Gaza kill eight, including two children",
+        "url": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
+        "seendate": "2026-07-08T18:35:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -200,79 +178,139 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Syria in tough balancing act as it tightens security after Damascus blasts",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss",
-    "seendate": "2026-07-08T13:11:25.000Z",
-    "articleCount": 6,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-08T18:05:31.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Syria in tough balancing act as it tightens security after Damascus blasts",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss",
-        "seendate": "2026-07-08T13:11:25.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T18:05:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Syria in tough balancing act as it tightens security after Damascus blasts",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss",
-        "seendate": "2026-07-08T13:11:25.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T18:05:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
-        "seendate": "2026-07-08T11:22:22.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T18:05:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
-        "seendate": "2026-07-08T11:22:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
-        "seendate": "2026-07-07T16:03:04.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T18:05:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
-        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
-        "seendate": "2026-07-07T16:03:04.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T18:05:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T18:05:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-06T16:23:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-06T16:23:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-06T16:23:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-06T16:23:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-06T16:23:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-06T16:23:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -354,79 +392,76 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-06T16:23:44.000Z",
-    "articleCount": 6,
+    "id": "Ankara",
+    "name": "Ankara",
+    "country": "TR",
+    "lat": 39.93,
+    "lon": 32.87,
+    "timezone": "Europe/Istanbul",
+    "headline": "Five key takeaways from the NATO summit in Ankara",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
+    "seendate": "2026-07-08T19:06:35.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T16:23:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Five key takeaways from the NATO summit in Ankara",
+        "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
+        "seendate": "2026-07-08T19:06:35.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T16:23:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Five key takeaways from the NATO summit in Ankara",
+        "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
+        "seendate": "2026-07-08T19:06:35.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Spanish football legend Alexia Putellas joins London City Lionesses",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses?traffic_source=rss",
+    "seendate": "2026-07-08T18:25:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T16:23:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Spanish football legend Alexia Putellas joins London City Lionesses",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses?traffic_source=rss",
+        "seendate": "2026-07-08T18:25:13.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T16:23:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Spanish football legend Alexia Putellas joins London City Lionesses",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses?traffic_source=rss",
+        "seendate": "2026-07-08T18:25:13.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T16:23:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-06T16:23:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
