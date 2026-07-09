@@ -6,34 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-09T07:08:32.000Z",
+    "headline": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+    "headlineUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+    "seendate": "2026-07-09T15:16:48.000Z",
     "articleCount": 14,
     "categories": [
+      "political-repression",
       "armed-conflict",
-      "political-repression"
+      "humanitarian"
     ],
     "articles": [
       {
-        "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
-        "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-09T07:08:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-09T15:16:48.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
-        "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-09T07:08:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-09T15:16:48.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
         "title": "Watch: Gaza football fans watch World Cup from rubble",
@@ -308,80 +309,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Inside King’s College London’s crackdown on pro-Palestine students",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
-    "seendate": "2026-07-09T09:00:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "political-repression"
-    ],
-    "articles": [
-      {
-        "title": "Inside King’s College London’s crackdown on pro-Palestine students",
-        "url": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
-        "seendate": "2026-07-09T09:00:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Inside King’s College London’s crackdown on pro-Palestine students",
-        "url": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
-        "seendate": "2026-07-09T09:00:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Boston",
-    "name": "Boston",
-    "country": "US",
-    "lat": 42.36,
-    "lon": -71.06,
-    "timezone": "America/New_York",
-    "headline": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
-    "seendate": "2026-07-09T08:32:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
-        "seendate": "2026-07-09T08:32:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
-        "seendate": "2026-07-09T08:32:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
