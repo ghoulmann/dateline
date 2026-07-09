@@ -6,20 +6,39 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-    "headlineUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-    "seendate": "2026-07-09T15:16:48.000Z",
-    "articleCount": 14,
+    "headline": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss",
+    "seendate": "2026-07-09T17:43:36.000Z",
+    "articleCount": 10,
     "categories": [
-      "political-repression",
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
+        "title": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss",
+        "seendate": "2026-07-09T17:43:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss",
+        "seendate": "2026-07-09T17:43:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
         "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-09T15:16:48.000Z",
+        "seendate": "2026-07-09T15:24:45.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
@@ -29,7 +48,7 @@
       {
         "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
         "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-09T15:16:48.000Z",
+        "seendate": "2026-07-09T15:24:45.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
@@ -95,64 +114,81 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Tehran launches more strikes after explosions reported in southern Iran",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-09T13:29:56.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-07T16:10:14.000Z",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T13:29:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-07T16:10:14.000Z",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T13:29:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-07T16:10:14.000Z",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T13:29:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-07T16:10:14.000Z",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T13:29:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-07T16:10:14.000Z",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T13:29:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-07T16:10:14.000Z",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T13:29:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -309,43 +345,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "What to Know About Australia’s Contest With China in the Pacific After Beijing Tested a Missile",
-    "headlineUrl": "https://www.nytimes.com/2026/07/08/world/asia/china-australia-pacific.html",
-    "seendate": "2026-07-08T04:00:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What to Know About Australia’s Contest With China in the Pacific After Beijing Tested a Missile",
-        "url": "https://www.nytimes.com/2026/07/08/world/asia/china-australia-pacific.html",
-        "seendate": "2026-07-08T04:00:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What to Know About Australia’s Contest With China in the Pacific After Beijing Tested a Missile",
-        "url": "https://www.nytimes.com/2026/07/08/world/asia/china-australia-pacific.html",
-        "seendate": "2026-07-08T04:00:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   }
