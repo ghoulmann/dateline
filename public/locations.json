@@ -6,9 +6,9 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Deadly strikes in Gaza leave 5 dead, children wounded",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
-    "seendate": "2026-07-08T21:12:50.000Z",
+    "headline": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-09T07:08:32.000Z",
     "articleCount": 14,
     "categories": [
       "armed-conflict",
@@ -16,9 +16,9 @@
     ],
     "articles": [
       {
-        "title": "Deadly strikes in Gaza leave 5 dead, children wounded",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
-        "seendate": "2026-07-08T21:12:50.000Z",
+        "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+        "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-09T07:08:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Deadly strikes in Gaza leave 5 dead, children wounded",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
-        "seendate": "2026-07-08T21:12:50.000Z",
+        "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+        "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-09T07:08:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -152,6 +152,83 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "political-repression"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "San Francisco",
+    "name": "San Francisco",
+    "country": "US",
+    "lat": 37.77,
+    "lon": -122.41,
+    "timezone": "America/Los_Angeles",
+    "headline": "Wealthy AI workers send San Francisco house prices soaring",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-08T23:11:35.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T23:11:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T23:11:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T23:11:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T23:11:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T23:11:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T23:11:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -235,24 +312,61 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran releases footage showing ruins of late Iranian leader’s compound",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss",
-    "seendate": "2026-07-09T00:15:49.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Inside King’s College London’s crackdown on pro-Palestine students",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
+    "seendate": "2026-07-09T09:00:33.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Inside King’s College London’s crackdown on pro-Palestine students",
+        "url": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
+        "seendate": "2026-07-09T09:00:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Inside King’s College London’s crackdown on pro-Palestine students",
+        "url": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
+        "seendate": "2026-07-09T09:00:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Boston",
+    "name": "Boston",
+    "country": "US",
+    "lat": 42.36,
+    "lon": -71.06,
+    "timezone": "America/New_York",
+    "headline": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
+    "seendate": "2026-07-09T08:32:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tehran releases footage showing ruins of late Iranian leader’s compound",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss",
-        "seendate": "2026-07-09T00:15:49.000Z",
+        "title": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
+        "seendate": "2026-07-09T08:32:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -260,9 +374,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tehran releases footage showing ruins of late Iranian leader’s compound",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss",
-        "seendate": "2026-07-09T00:15:49.000Z",
+        "title": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
+        "seendate": "2026-07-09T08:32:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
