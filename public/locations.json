@@ -6,236 +6,79 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-09T21:04:09.000Z",
+    "headline": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss",
+    "seendate": "2026-07-10T01:42:27.000Z",
     "articleCount": 20,
     "categories": [
-      "armed-conflict",
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
-        "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
-        "seendate": "2026-07-09T20:20:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
-        "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
-        "seendate": "2026-07-09T20:20:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
-        "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
-        "seendate": "2026-07-09T18:04:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
-        "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
-        "seendate": "2026-07-09T18:04:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss",
-        "seendate": "2026-07-09T17:43:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss",
-        "seendate": "2026-07-09T17:43:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-09T15:24:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-09T15:24:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran launches more strikes after explosions reported in southern Iran",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-09T21:13:49.000Z",
-    "articleCount": 6,
-    "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:13:49.000Z",
+        "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss",
+        "seendate": "2026-07-10T01:42:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss",
+        "seendate": "2026-07-10T01:42:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-10T00:32:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-10T00:32:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-09T22:11:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-09T22:11:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T21:04:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -243,9 +86,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:13:49.000Z",
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T21:04:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -253,9 +96,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:13:49.000Z",
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T21:04:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -263,9 +106,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:13:49.000Z",
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T21:04:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -273,9 +116,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:13:49.000Z",
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T21:04:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -283,9 +126,89 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:13:49.000Z",
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T21:04:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+        "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
+        "seendate": "2026-07-09T20:20:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+        "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
+        "seendate": "2026-07-09T20:20:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T07:26:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T07:26:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T07:26:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T07:26:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T07:26:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-08T07:26:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -368,6 +291,120 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "All the best looks from Paris Haute Couture Week 2026",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-09T23:07:47.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T23:07:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T23:07:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T23:07:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T23:07:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T23:07:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-09T23:07:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+    "seendate": "2026-07-09T21:39:54.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+        "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+        "seendate": "2026-07-09T21:39:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+        "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+        "seendate": "2026-07-09T21:39:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
