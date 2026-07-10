@@ -6,16 +6,36 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-    "headlineUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-    "seendate": "2026-07-10T15:27:46.000Z",
-    "articleCount": 24,
+    "headline": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+    "seendate": "2026-07-10T18:01:25.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
+        "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+        "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+        "seendate": "2026-07-10T18:01:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+        "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+        "seendate": "2026-07-10T18:01:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
         "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
         "seendate": "2026-07-10T15:27:46.000Z",
@@ -34,46 +54,6 @@
           "humanitarian"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
-        "url": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss",
-        "seendate": "2026-07-10T15:00:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
-        "url": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss",
-        "seendate": "2026-07-10T15:00:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
-        "url": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
-        "seendate": "2026-07-10T13:38:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
-        "url": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
-        "seendate": "2026-07-10T13:38:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
@@ -134,126 +114,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T21:04:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Gaza football fans watch World Cup from rubble",
-        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-08T07:26:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -264,14 +124,44 @@
     "lat": 29.76,
     "lon": -95.37,
     "timezone": "America/Chicago",
-    "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-10T12:51:46.000Z",
-    "articleCount": 6,
+    "headline": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+    "headlineUrl": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+    "seendate": "2026-07-10T19:08:57.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+        "seendate": "2026-07-10T19:08:57.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+        "seendate": "2026-07-10T19:08:57.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+        "seendate": "2026-07-10T19:08:57.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
         "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
