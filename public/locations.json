@@ -1,137 +1,79 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
-    "seendate": "2026-07-10T18:01:25.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict",
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
-        "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
-        "seendate": "2026-07-10T18:01:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
-        "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
-        "seendate": "2026-07-10T18:01:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-10T15:27:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-10T15:27:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
-        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-        "seendate": "2026-07-10T11:43:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
-        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-        "seendate": "2026-07-10T11:43:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
-        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-        "seendate": "2026-07-10T11:43:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-        "seendate": "2026-07-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-        "seendate": "2026-07-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-        "seendate": "2026-07-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Houston",
     "name": "Houston",
     "country": "US",
     "lat": 29.76,
     "lon": -95.37,
     "timezone": "America/Chicago",
-    "headline": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-    "headlineUrl": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
-    "seendate": "2026-07-10T19:08:57.000Z",
+    "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-10T22:38:03.000Z",
     "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
       {
         "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
         "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
@@ -161,180 +103,104 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+    "headlineUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+    "seendate": "2026-07-10T15:27:46.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
       {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T12:51:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-10T15:27:46.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T12:51:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-10T15:27:46.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T12:51:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
+        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+        "seendate": "2026-07-10T11:43:38.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T12:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T12:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T12:51:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
+        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+        "seendate": "2026-07-10T11:43:38.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "All the best looks from Paris Haute Couture Week 2026",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-09T23:07:47.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
+      },
       {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T23:07:47.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
+        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+        "seendate": "2026-07-10T11:43:38.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "culture-wars"
       },
       {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T23:07:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T23:07:47.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+        "seendate": "2026-07-10T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T23:07:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T23:07:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-09T23:07:47.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+        "seendate": "2026-07-10T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
-    "seendate": "2026-07-10T15:53:51.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-        "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
-        "seendate": "2026-07-10T15:53:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
       },
       {
-        "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-        "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
-        "seendate": "2026-07-10T15:53:51.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+        "seendate": "2026-07-10T09:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -347,7 +213,7 @@
     "timezone": "Europe/Moscow",
     "headline": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
     "headlineUrl": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
-    "seendate": "2026-07-10T13:03:33.000Z",
+    "seendate": "2026-07-10T13:03:34.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -356,7 +222,7 @@
       {
         "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
         "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
-        "seendate": "2026-07-10T13:03:33.000Z",
+        "seendate": "2026-07-10T13:03:34.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -366,7 +232,7 @@
       {
         "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
         "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
-        "seendate": "2026-07-10T13:03:33.000Z",
+        "seendate": "2026-07-10T13:03:34.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
