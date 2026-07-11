@@ -1,5 +1,209 @@
 [
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+    "headlineUrl": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+    "seendate": "2026-07-11T16:35:24.000Z",
+    "articleCount": 9,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+        "seendate": "2026-07-11T16:35:24.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+        "seendate": "2026-07-11T16:35:24.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+        "seendate": "2026-07-11T16:35:24.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T16:11:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T16:11:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T16:11:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T16:11:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T16:11:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T16:11:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Houston",
+    "name": "Houston",
+    "country": "US",
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+    "headlineUrl": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+    "seendate": "2026-07-11T16:49:44.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+        "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+        "seendate": "2026-07-11T16:49:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+        "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+        "seendate": "2026-07-11T16:49:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-10T22:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Rome",
     "name": "Rome",
     "country": "IT",
@@ -68,83 +272,6 @@
         "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
         "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-11T13:11:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Houston",
-    "name": "Houston",
-    "country": "US",
-    "lat": 29.76,
-    "lon": -95.37,
-    "timezone": "America/Chicago",
-    "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-10T22:38:03.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
