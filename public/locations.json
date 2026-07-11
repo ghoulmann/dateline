@@ -1,5 +1,82 @@
 [
   {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-11T13:11:52.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T13:11:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T13:11:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T13:11:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T13:11:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T13:11:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-11T13:11:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Houston",
     "name": "Houston",
     "country": "US",
@@ -9,7 +86,7 @@
     "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-07-10T22:38:03.000Z",
-    "articleCount": 9,
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
@@ -73,36 +150,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
-        "seendate": "2026-07-10T19:08:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
-        "seendate": "2026-07-10T19:08:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
-        "seendate": "2026-07-10T19:08:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -113,15 +160,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-    "headlineUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-    "seendate": "2026-07-10T15:27:46.000Z",
-    "articleCount": 5,
+    "headline": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+    "seendate": "2026-07-11T13:18:29.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
+      {
+        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+        "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+        "seendate": "2026-07-11T13:18:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+        "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+        "seendate": "2026-07-11T13:18:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
         "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
@@ -141,36 +208,6 @@
           "humanitarian"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
-        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-        "seendate": "2026-07-10T11:43:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
-        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-        "seendate": "2026-07-10T11:43:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
-        "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-        "seendate": "2026-07-10T11:43:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -181,34 +218,14 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian missile attacks wound 11 in Kyiv",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-    "seendate": "2026-07-11T08:53:23.000Z",
-    "articleCount": 4,
+    "headline": "Russian overnight strikes on Kyiv injure ten",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
+    "seendate": "2026-07-11T08:25:11.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Russian missile attacks wound 11 in Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-        "seendate": "2026-07-11T08:53:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian missile attacks wound 11 in Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-        "seendate": "2026-07-11T08:53:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Russian overnight strikes on Kyiv injure ten",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
@@ -277,7 +294,7 @@
     "timezone": "Europe/London",
     "headline": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
     "headlineUrl": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
-    "seendate": "2026-07-11T09:01:32.000Z",
+    "seendate": "2026-07-11T13:29:27.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -286,7 +303,7 @@
       {
         "title": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
         "url": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
-        "seendate": "2026-07-11T09:01:32.000Z",
+        "seendate": "2026-07-11T13:29:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -296,7 +313,7 @@
       {
         "title": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
         "url": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
-        "seendate": "2026-07-11T09:01:32.000Z",
+        "seendate": "2026-07-11T13:29:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
