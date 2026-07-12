@@ -1,5 +1,132 @@
 [
   {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+    "seendate": "2026-07-12T20:48:37.000Z",
+    "articleCount": 11,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+        "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+        "seendate": "2026-07-12T20:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+        "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+        "seendate": "2026-07-12T20:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-12T20:13:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-12T20:13:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-12T20:13:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-12T20:13:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-12T20:13:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-12T20:13:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+        "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+        "seendate": "2026-07-12T19:53:24.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+        "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+        "seendate": "2026-07-12T19:53:24.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+        "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+        "seendate": "2026-07-12T19:53:24.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -77,6 +204,80 @@
     ]
   },
   {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
+    "seendate": "2026-07-12T19:48:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+        "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
+        "seendate": "2026-07-12T19:48:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+        "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
+        "seendate": "2026-07-12T19:48:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Doha",
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.29,
+    "lon": 51.53,
+    "timezone": "Asia/Qatar",
+    "headline": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
+    "seendate": "2026-07-12T16:58:11.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
+        "url": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
+        "seendate": "2026-07-12T16:58:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
+        "url": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
+        "seendate": "2026-07-12T16:58:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -86,7 +287,7 @@
     "headline": "UK Christians protest for Church of England to recognise genocide in Gaza",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
     "seendate": "2026-07-12T16:54:49.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -105,26 +306,6 @@
         "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
         "seendate": "2026-07-12T16:54:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-07-12T15:16:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-07-12T15:16:44.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -241,6 +422,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Harrison Ford turns heads with toned physique during Los Angeles bike ride",
+    "headlineUrl": "https://www.foxnews.com/entertainment/harrison-ford-turns-heads-toned-physique-during-los-angeles-bike-ride",
+    "seendate": "2026-07-12T20:01:20.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Harrison Ford turns heads with toned physique during Los Angeles bike ride",
+        "url": "https://www.foxnews.com/entertainment/harrison-ford-turns-heads-toned-physique-during-los-angeles-bike-ride",
+        "seendate": "2026-07-12T20:01:20.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
