@@ -127,103 +127,6 @@
     ]
   },
   {
-    "id": "Houston",
-    "name": "Houston",
-    "country": "US",
-    "lat": 29.76,
-    "lon": -95.37,
-    "timezone": "America/Chicago",
-    "headline": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
-    "headlineUrl": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
-    "seendate": "2026-07-11T18:47:36.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
-        "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
-        "seendate": "2026-07-11T18:47:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
-        "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
-        "seendate": "2026-07-11T18:47:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-10T22:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Rome",
     "name": "Rome",
     "country": "IT",
@@ -301,64 +204,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-    "seendate": "2026-07-11T13:18:29.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict",
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-        "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-        "seendate": "2026-07-11T13:18:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-        "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-        "seendate": "2026-07-11T13:18:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-10T15:27:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-        "seendate": "2026-07-10T15:27:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -387,6 +232,43 @@
         "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
         "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
         "seendate": "2026-07-10T13:03:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Houston",
+    "name": "Houston",
+    "country": "US",
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+    "headlineUrl": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+    "seendate": "2026-07-11T18:47:36.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+        "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+        "seendate": "2026-07-11T18:47:36.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+        "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+        "seendate": "2026-07-11T18:47:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -427,6 +309,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+    "headlineUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+    "seendate": "2026-07-10T15:27:46.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-10T15:27:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "seendate": "2026-07-10T15:27:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
         ],
         "source_category": "democracy-crisis"
       }
