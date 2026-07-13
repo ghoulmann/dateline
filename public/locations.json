@@ -6,14 +6,34 @@
     "lat": 13.74,
     "lon": 100.5,
     "timezone": "Asia/Bangkok",
-    "headline": "Fire in Bangkok Bar Leaves at Least 27 Dead",
-    "headlineUrl": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
-    "seendate": "2026-07-13T17:38:50.000Z",
-    "articleCount": 24,
+    "headline": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
+    "seendate": "2026-07-13T18:43:26.000Z",
+    "articleCount": 26,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
+        "seendate": "2026-07-13T18:43:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
+        "seendate": "2026-07-13T18:43:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Fire in Bangkok Bar Leaves at Least 27 Dead",
         "url": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
@@ -265,16 +285,17 @@
     "timezone": "Europe/Paris",
     "headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-13T10:29:17.000Z",
-    "articleCount": 6,
+    "seendate": "2026-07-13T20:15:00.000Z",
+    "articleCount": 12,
     "categories": [
-      "natural-disaster"
+      "natural-disaster",
+      "armed-conflict"
     ],
     "articles": [
       {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T10:29:17.000Z",
+        "seendate": "2026-07-13T20:15:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -284,7 +305,7 @@
       {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T10:29:17.000Z",
+        "seendate": "2026-07-13T20:15:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -294,7 +315,7 @@
       {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T10:29:17.000Z",
+        "seendate": "2026-07-13T20:15:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -304,7 +325,7 @@
       {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T10:29:17.000Z",
+        "seendate": "2026-07-13T20:15:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -314,7 +335,7 @@
       {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T10:29:17.000Z",
+        "seendate": "2026-07-13T20:15:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -324,10 +345,70 @@
       {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T10:29:17.000Z",
+        "seendate": "2026-07-13T20:15:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -340,15 +421,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "EU unveils $1bn fund for Gaza war recovery",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
-    "seendate": "2026-07-13T16:28:52.000Z",
+    "headline": "Gaza man builds roadside library from books buried in rubble",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
+    "seendate": "2026-07-13T20:26:38.000Z",
     "articleCount": 4,
     "categories": [
-      "armed-conflict",
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Gaza man builds roadside library from books buried in rubble",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
+        "seendate": "2026-07-13T20:26:38.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza man builds roadside library from books buried in rubble",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
+        "seendate": "2026-07-13T20:26:38.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "EU unveils $1bn fund for Gaza war recovery",
         "url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
@@ -363,100 +463,6 @@
         "title": "EU unveils $1bn fund for Gaza war recovery",
         "url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
         "seendate": "2026-07-13T16:28:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Hamas denies UN accusations over Gaza aid distribution interference",
-        "url": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference?traffic_source=rss",
-        "seendate": "2026-07-13T13:59:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hamas denies UN accusations over Gaza aid distribution interference",
-        "url": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference?traffic_source=rss",
-        "seendate": "2026-07-13T13:59:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Yemeni government forces strike Sanaa airport",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/yemeni-government-forces-strike-sanaa-airport?traffic_source=rss",
-    "seendate": "2026-07-13T14:03:44.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Yemeni government forces strike Sanaa airport",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/yemeni-government-forces-strike-sanaa-airport?traffic_source=rss",
-        "seendate": "2026-07-13T14:03:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Yemeni government forces strike Sanaa airport",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/yemeni-government-forces-strike-sanaa-airport?traffic_source=rss",
-        "seendate": "2026-07-13T14:03:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss",
-    "seendate": "2026-07-13T13:07:15.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
-        "url": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss",
-        "seendate": "2026-07-13T13:07:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
-        "url": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss",
-        "seendate": "2026-07-13T13:07:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
