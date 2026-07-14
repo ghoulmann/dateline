@@ -8,8 +8,8 @@
     "timezone": "Asia/Bangkok",
     "headline": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
     "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-    "seendate": "2026-07-14T12:50:51.000Z",
-    "articleCount": 27,
+    "seendate": "2026-07-14T16:37:26.000Z",
+    "articleCount": 24,
     "categories": [
       "armed-conflict"
     ],
@@ -17,7 +17,7 @@
       {
         "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-14T12:50:51.000Z",
+        "seendate": "2026-07-14T16:37:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,42 +27,12 @@
       {
         "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-14T12:50:51.000Z",
+        "seendate": "2026-07-14T16:37:26.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-        "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
-        "seendate": "2026-07-14T06:43:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-        "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
-        "seendate": "2026-07-14T06:43:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-        "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
-        "seendate": "2026-07-14T06:43:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       },
       {
         "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
@@ -287,105 +257,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Photos: Wildfires ravage historic forest near Paris",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss",
-    "seendate": "2026-07-14T08:38:07.000Z",
-    "articleCount": 14,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-14T17:13:27.000Z",
+    "articleCount": 8,
     "categories": [
-      "natural-disaster",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Photos: Wildfires ravage historic forest near Paris",
-        "url": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss",
-        "seendate": "2026-07-14T08:38:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Wildfires ravage historic forest near Paris",
-        "url": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss",
-        "seendate": "2026-07-14T08:38:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T20:15:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T20:15:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T20:15:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T20:15:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T20:15:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T20:15:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -393,9 +282,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -403,9 +292,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -413,9 +302,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -423,9 +312,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -433,14 +322,34 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Israeli attack on north Gaza police station kills eight",
+        "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+        "seendate": "2026-07-14T16:02:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attack on north Gaza police station kills eight",
+        "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+        "seendate": "2026-07-14T16:02:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -542,6 +451,181 @@
     ]
   },
   {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
+    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+    "seendate": "2026-07-14T16:15:55.000Z",
+    "articleCount": 8,
+    "categories": [
+      "democracy-crisis",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+        "seendate": "2026-07-14T16:15:55.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+        "seendate": "2026-07-14T16:15:55.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T11:21:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T11:21:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T11:21:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T11:21:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T11:21:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T11:21:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-13T16:28:19.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
@@ -575,117 +659,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Lebanon, Israel hold talks in Rome on implementing framework deal",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
-    "seendate": "2026-07-14T11:00:58.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Lebanon, Israel hold talks in Rome on implementing framework deal",
-        "url": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
-        "seendate": "2026-07-14T11:00:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lebanon, Israel hold talks in Rome on implementing framework deal",
-        "url": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
-        "seendate": "2026-07-14T11:00:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
-    "seendate": "2026-07-14T08:52:22.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-        "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-07-14T08:52:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-        "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-07-14T08:52:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-    "seendate": "2026-07-14T12:14:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T12:14:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T12:14:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
