@@ -6,18 +6,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Father, mother, daughter killed in Israeli attack on Gaza home",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
-    "seendate": "2026-07-15T16:24:39.000Z",
+    "headline": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+    "seendate": "2026-07-15T19:48:50.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
-        "seendate": "2026-07-15T16:24:39.000Z",
+        "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+        "seendate": "2026-07-15T19:48:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
-        "seendate": "2026-07-15T16:24:39.000Z",
+        "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+        "seendate": "2026-07-15T19:48:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -117,109 +117,116 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-    "headlineUrl": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
-    "seendate": "2026-07-15T12:40:50.000Z",
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Five arrested after Hong Kong police raid independent bookshops",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-15T16:51:07.000Z",
     "articleCount": 9,
     "categories": [
-      "armed-conflict"
+      "humanitarian",
+      "political-repression"
     ],
     "articles": [
       {
-        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
-        "seendate": "2026-07-15T12:40:50.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
-        "seendate": "2026-07-15T12:40:50.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
-        "seendate": "2026-07-15T12:40:50.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
+        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+        "seendate": "2026-07-15T15:37:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
+        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+        "seendate": "2026-07-15T15:37:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
+        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+        "seendate": "2026-07-15T15:37:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -281,49 +288,86 @@
     ]
   },
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong booksellers arrested for allegedly selling seditious books",
-    "headlineUrl": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-    "seendate": "2026-07-15T15:37:22.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+    "headlineUrl": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+    "seendate": "2026-07-15T12:40:50.000Z",
     "articleCount": 3,
     "categories": [
-      "political-repression"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "seendate": "2026-07-15T15:37:22.000Z",
+        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+        "seendate": "2026-07-15T12:40:50.000Z",
         "source_domain": "npr.org",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "seendate": "2026-07-15T15:37:22.000Z",
+        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+        "seendate": "2026-07-15T12:40:50.000Z",
         "source_domain": "npr.org",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "seendate": "2026-07-15T15:37:22.000Z",
+        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+        "seendate": "2026-07-15T12:40:50.000Z",
         "source_domain": "npr.org",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+    "seendate": "2026-07-15T19:09:32.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
+        "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+        "seendate": "2026-07-15T19:09:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
+        "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+        "seendate": "2026-07-15T19:09:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -334,31 +378,31 @@
     "lat": 33.75,
     "lon": -84.39,
     "timezone": "America/New_York",
-    "headline": "Atlanta police gear up for trouble at England vs Argentina World Cup match",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss",
-    "seendate": "2026-07-15T16:12:32.000Z",
+    "headline": "Argentina fans flood Atlanta ahead of England World Cup match",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
+    "seendate": "2026-07-15T19:08:24.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "natural-disaster"
     ],
     "articles": [
       {
-        "title": "Atlanta police gear up for trouble at England vs Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss",
-        "seendate": "2026-07-15T16:12:32.000Z",
+        "title": "Argentina fans flood Atlanta ahead of England World Cup match",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
+        "seendate": "2026-07-15T19:08:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Atlanta police gear up for trouble at England vs Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss",
-        "seendate": "2026-07-15T16:12:32.000Z",
+        "title": "Argentina fans flood Atlanta ahead of England World Cup match",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
+        "seendate": "2026-07-15T19:08:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "humanitarian"
       }
