@@ -6,14 +6,34 @@
     "lat": 13.74,
     "lon": 100.5,
     "timezone": "Asia/Bangkok",
-    "headline": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-    "seendate": "2026-07-15T07:24:10.000Z",
+    "headline": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
+    "seendate": "2026-07-15T10:13:58.000Z",
     "articleCount": 24,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
+        "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
+        "seendate": "2026-07-15T10:13:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
+        "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
+        "seendate": "2026-07-15T10:13:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
@@ -93,26 +113,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Fire in Bangkok Bar Leaves at Least 27 Dead",
-        "url": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
-        "seendate": "2026-07-13T17:38:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Fire in Bangkok Bar Leaves at Least 27 Dead",
-        "url": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
-        "seendate": "2026-07-13T17:38:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       },
       {
         "title": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
@@ -263,18 +263,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
-    "seendate": "2026-07-15T06:55:33.000Z",
-    "articleCount": 10,
+    "headline": "Israeli air attack on Gaza apartment kills family of three",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss",
+    "seendate": "2026-07-15T12:11:11.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
-        "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
-        "seendate": "2026-07-15T06:55:33.000Z",
+        "title": "Israeli air attack on Gaza apartment kills family of three",
+        "url": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss",
+        "seendate": "2026-07-15T12:11:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -282,9 +282,29 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
-        "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
-        "seendate": "2026-07-15T06:55:33.000Z",
+        "title": "Israeli air attack on Gaza apartment kills family of three",
+        "url": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss",
+        "seendate": "2026-07-15T12:11:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+        "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+        "seendate": "2026-07-15T11:36:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+        "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+        "seendate": "2026-07-15T11:36:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -380,33 +400,43 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Spain crashes Paris party by beating France in the World Cup semis",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
-    "seendate": "2026-07-15T02:00:03.000Z",
-    "articleCount": 8,
+    "headline": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+    "headlineUrl": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+    "seendate": "2026-07-15T12:40:50.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Spain crashes Paris party by beating France in the World Cup semis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
-        "seendate": "2026-07-15T02:00:03.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+        "seendate": "2026-07-15T12:40:50.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Spain crashes Paris party by beating France in the World Cup semis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
-        "seendate": "2026-07-15T02:00:03.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+        "seendate": "2026-07-15T12:40:50.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+        "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+        "seendate": "2026-07-15T12:40:50.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       },
       {
         "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
@@ -471,122 +501,24 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-    "seendate": "2026-07-14T21:12:28.000Z",
-    "articleCount": 8,
-    "categories": [
-      "democracy-crisis",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T21:12:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T21:12:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T11:21:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T11:21:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T11:21:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T11:21:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T11:21:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-        "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T11:21:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
+    "id": "Washington",
+    "name": "Washington",
     "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
+    "lat": 38.91,
+    "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "T.Rex skeleton sells for $50.1 million at New York auction",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss",
-    "seendate": "2026-07-15T04:59:39.000Z",
+    "headline": "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/7/15/will-lindsey-grahams-death-affect-israels-standing-in-washington?traffic_source=rss",
+    "seendate": "2026-07-15T12:38:10.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "T.Rex skeleton sells for $50.1 million at New York auction",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss",
-        "seendate": "2026-07-15T04:59:39.000Z",
+        "title": "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
+        "url": "https://www.aljazeera.com/opinions/2026/7/15/will-lindsey-grahams-death-affect-israels-standing-in-washington?traffic_source=rss",
+        "seendate": "2026-07-15T12:38:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -594,9 +526,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "T.Rex skeleton sells for $50.1 million at New York auction",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss",
-        "seendate": "2026-07-15T04:59:39.000Z",
+        "title": "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
+        "url": "https://www.aljazeera.com/opinions/2026/7/15/will-lindsey-grahams-death-affect-israels-standing-in-washington?traffic_source=rss",
+        "seendate": "2026-07-15T12:38:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -634,6 +566,43 @@
         "title": "Six Dead in an Elevator After Fire in Central Brussels",
         "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
         "seendate": "2026-07-15T07:01:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
+    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+    "seendate": "2026-07-14T21:12:28.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+        "seendate": "2026-07-14T21:12:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+        "seendate": "2026-07-14T21:12:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
