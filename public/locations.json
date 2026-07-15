@@ -283,14 +283,54 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-14T17:13:27.000Z",
-    "articleCount": 8,
+    "headline": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-14T21:05:39.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-14T21:05:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-14T21:05:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Israeli strike on police post in north Gaza kills seven, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
@@ -350,11 +390,28 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Spain crashes Paris party by beating France in the World Cup semis",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+    "seendate": "2026-07-15T02:00:03.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Israeli attack on north Gaza police station kills eight",
-        "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
-        "seendate": "2026-07-14T16:02:54.000Z",
+        "title": "Spain crashes Paris party by beating France in the World Cup semis",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+        "seendate": "2026-07-15T02:00:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -362,14 +419,74 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli attack on north Gaza police station kills eight",
-        "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
-        "seendate": "2026-07-14T16:02:54.000Z",
+        "title": "Spain crashes Paris party by beating France in the World Cup semis",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+        "seendate": "2026-07-15T02:00:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-13T16:28:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -382,7 +499,7 @@
     "timezone": "Asia/Singapore",
     "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
     "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-    "seendate": "2026-07-14T18:05:02.000Z",
+    "seendate": "2026-07-14T21:12:28.000Z",
     "articleCount": 8,
     "categories": [
       "democracy-crisis",
@@ -392,7 +509,7 @@
       {
         "title": "Bloomberg Loses Landmark Libel Case in Singapore",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T18:05:02.000Z",
+        "seendate": "2026-07-14T21:12:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -402,7 +519,7 @@
       {
         "title": "Bloomberg Loses Landmark Libel Case in Singapore",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T18:05:02.000Z",
+        "seendate": "2026-07-14T21:12:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -549,83 +666,6 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-13T16:28:19.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-        "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-13T16:28:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -654,43 +694,6 @@
         "title": "New York imposes landmark one-year ban on large data centres",
         "url": "https://www.aljazeera.com/economy/2026/7/14/new-york-imposes-landmark-one-year-ban-on-large-data-centres?traffic_source=rss",
         "seendate": "2026-07-14T20:13:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
-    "seendate": "2026-07-14T19:47:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
-        "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
-        "seendate": "2026-07-14T19:47:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
-        "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
-        "seendate": "2026-07-14T19:47:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -733,6 +736,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Dallas",
+    "name": "Dallas",
+    "country": "US",
+    "lat": 32.78,
+    "lon": -96.8,
+    "timezone": "America/Chicago",
+    "headline": "David Beckham goes full cowboy in Dallas before Spain&apos;s World Cup semifinal victory",
+    "headlineUrl": "https://www.foxnews.com/entertainment/david-beckham-goes-full-cowboy-dallas-before-spains-world-cup-semifinal-victory",
+    "seendate": "2026-07-14T23:20:19.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "David Beckham goes full cowboy in Dallas before Spain&apos;s World Cup semifinal victory",
+        "url": "https://www.foxnews.com/entertainment/david-beckham-goes-full-cowboy-dallas-before-spains-world-cup-semifinal-victory",
+        "seendate": "2026-07-14T23:20:19.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
