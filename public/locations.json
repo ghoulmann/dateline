@@ -8,7 +8,7 @@
     "timezone": "Asia/Bangkok",
     "headline": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
     "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-    "seendate": "2026-07-14T16:37:26.000Z",
+    "seendate": "2026-07-15T07:24:10.000Z",
     "articleCount": 24,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-14T16:37:26.000Z",
+        "seendate": "2026-07-15T07:24:10.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
         "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-14T16:37:26.000Z",
+        "seendate": "2026-07-15T07:24:10.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -263,18 +263,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-14T21:05:39.000Z",
+    "headline": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
+    "seendate": "2026-07-15T06:55:33.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-14T21:05:39.000Z",
+        "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+        "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
+        "seendate": "2026-07-15T06:55:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -282,9 +282,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-14T21:05:39.000Z",
+        "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+        "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
+        "seendate": "2026-07-15T06:55:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -569,83 +569,6 @@
     ]
   },
   {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-14T10:02:43.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T10:02:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T10:02:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T10:02:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T10:02:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T10:02:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T10:02:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -691,7 +614,7 @@
     "timezone": "Europe/Brussels",
     "headline": "Six Dead in an Elevator After Fire in Central Brussels",
     "headlineUrl": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
-    "seendate": "2026-07-14T18:57:54.000Z",
+    "seendate": "2026-07-15T07:01:30.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -700,7 +623,7 @@
       {
         "title": "Six Dead in an Elevator After Fire in Central Brussels",
         "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
-        "seendate": "2026-07-14T18:57:54.000Z",
+        "seendate": "2026-07-15T07:01:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -710,7 +633,7 @@
       {
         "title": "Six Dead in an Elevator After Fire in Central Brussels",
         "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
-        "seendate": "2026-07-14T18:57:54.000Z",
+        "seendate": "2026-07-15T07:01:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
