@@ -134,117 +134,40 @@
     ]
   },
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-15T22:03:47.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-15T07:24:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-15T07:24:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
-    "seendate": "2026-07-16T12:31:08.000Z",
-    "articleCount": 4,
+    "headline": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+    "seendate": "2026-07-16T15:53:42.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
+        "url": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+        "seendate": "2026-07-16T15:53:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
+        "url": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+        "seendate": "2026-07-16T15:53:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
@@ -284,80 +207,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
-    "seendate": "2026-07-16T10:45:36.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
-        "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
-        "seendate": "2026-07-16T10:45:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
-        "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
-        "seendate": "2026-07-16T10:45:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate funding: Who pays for the transition?",
-    "headlineUrl": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-    "seendate": "2026-07-16T10:39:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Climate funding: Who pays for the transition?",
-        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-        "seendate": "2026-07-16T10:39:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Climate funding: Who pays for the transition?",
-        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-        "seendate": "2026-07-16T10:39:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -390,43 +239,6 @@
         "title": "Six Dead in an Elevator After Fire in Central Brussels",
         "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
         "seendate": "2026-07-15T07:01:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-    "seendate": "2026-07-14T21:12:28.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T21:12:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bloomberg Loses Landmark Libel Case in Singapore",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-        "seendate": "2026-07-14T21:12:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
