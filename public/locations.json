@@ -9,10 +9,9 @@
     "headline": "Hong Kong official warns booksellers on security risks after raids",
     "headlineUrl": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
     "seendate": "2026-07-16T13:31:33.000Z",
-    "articleCount": 11,
+    "articleCount": 5,
     "categories": [
-      "humanitarian",
-      "political-repression"
+      "humanitarian"
     ],
     "articles": [
       {
@@ -64,72 +63,6 @@
           "humanitarian"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -143,7 +76,7 @@
     "headline": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
     "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
     "seendate": "2026-07-16T15:53:42.000Z",
-    "articleCount": 6,
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
@@ -169,26 +102,6 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
-        "seendate": "2026-07-16T12:31:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
-        "seendate": "2026-07-16T12:31:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
         "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
         "seendate": "2026-07-14T19:03:21.000Z",
@@ -207,6 +120,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Rare protests in Kyiv over dismissal of defence minister",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+    "seendate": "2026-07-16T17:15:03.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Rare protests in Kyiv over dismissal of defence minister",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+        "seendate": "2026-07-16T17:15:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Rare protests in Kyiv over dismissal of defence minister",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+        "seendate": "2026-07-16T17:15:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
