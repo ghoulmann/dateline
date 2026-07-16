@@ -1,139 +1,5 @@
 [
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-    "headlineUrl": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-    "seendate": "2026-07-16T06:07:53.000Z",
-    "articleCount": 11,
-    "categories": [
-      "humanitarian",
-      "political-repression"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T06:07:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T06:07:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Five arrested after Hong Kong police raid independent bookshops",
-        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T16:51:07.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "seendate": "2026-07-15T15:37:22.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "seendate": "2026-07-15T15:37:22.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "seendate": "2026-07-15T15:37:22.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Bangkok",
     "name": "Bangkok",
     "country": "TH",
@@ -261,84 +127,128 @@
     ]
   },
   {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+    "headlineUrl": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+    "seendate": "2026-07-16T06:07:53.000Z",
+    "articleCount": 8,
+    "categories": [
+      "humanitarian",
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+        "seendate": "2026-07-16T06:07:53.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+        "seendate": "2026-07-16T06:07:53.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Five arrested after Hong Kong police raid independent bookshops",
+        "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T16:51:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-16T04:06:11.000Z",
-    "articleCount": 8,
+    "headline": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
+    "seendate": "2026-07-16T08:23:40.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-16T04:06:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-16T04:06:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-16T04:06:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-16T04:06:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-16T04:06:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-16T04:06:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-        "seendate": "2026-07-16T00:00:48.000Z",
+        "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+        "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
+        "seendate": "2026-07-16T08:23:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -346,9 +256,29 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-        "seendate": "2026-07-16T00:00:48.000Z",
+        "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+        "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
+        "seendate": "2026-07-16T08:23:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+        "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+        "seendate": "2026-07-16T08:18:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+        "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+        "seendate": "2026-07-16T08:18:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -358,99 +288,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-    "seendate": "2026-07-14T19:03:21.000Z",
-    "articleCount": 8,
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
+    "seendate": "2026-07-16T08:10:20.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-        "seendate": "2026-07-14T19:03:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-        "seendate": "2026-07-14T19:03:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
+        "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
+        "seendate": "2026-07-16T08:10:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
+        "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
+        "seendate": "2026-07-16T08:10:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -461,7 +331,7 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+    "headline": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
     "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
     "seendate": "2026-07-16T01:58:45.000Z",
     "articleCount": 2,
@@ -470,7 +340,7 @@
     ],
     "articles": [
       {
-        "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+        "title": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
         "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
         "seendate": "2026-07-16T01:58:45.000Z",
         "source_domain": "aljazeera.com",
@@ -480,7 +350,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+        "title": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
         "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
         "seendate": "2026-07-16T01:58:45.000Z",
         "source_domain": "aljazeera.com",
@@ -520,6 +390,43 @@
         "title": "Six Dead in an Elevator After Fire in Central Brussels",
         "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
         "seendate": "2026-07-15T07:01:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+    "seendate": "2026-07-14T19:03:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
