@@ -1,151 +1,54 @@
 [
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
-    "headlineUrl": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
-    "seendate": "2026-07-16T06:03:21.000Z",
-    "articleCount": 11,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
-        "url": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
-        "seendate": "2026-07-16T06:03:21.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
-        "url": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
-        "seendate": "2026-07-16T06:03:21.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
-        "url": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
-        "seendate": "2026-07-16T06:03:21.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-15T22:03:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-15T07:24:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-15T07:24:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
     "lat": 22.3,
     "lon": 114.18,
     "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-    "headlineUrl": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-    "seendate": "2026-07-16T06:07:53.000Z",
-    "articleCount": 8,
+    "headline": "Hong Kong official warns booksellers on security risks after raids",
+    "headlineUrl": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
+    "seendate": "2026-07-16T13:31:33.000Z",
+    "articleCount": 11,
     "categories": [
       "humanitarian",
       "political-repression"
     ],
     "articles": [
       {
+        "title": "Hong Kong official warns booksellers on security risks after raids",
+        "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
+        "seendate": "2026-07-16T13:31:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hong Kong official warns booksellers on security risks after raids",
+        "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
+        "seendate": "2026-07-16T13:31:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Hong Kong official warns booksellers on security risks after raids",
+        "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
+        "seendate": "2026-07-16T13:31:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
         "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
         "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T06:07:53.000Z",
+        "seendate": "2026-07-16T12:22:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
@@ -155,7 +58,7 @@
       {
         "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
         "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T06:07:53.000Z",
+        "seendate": "2026-07-16T12:22:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
@@ -231,24 +134,121 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
-    "seendate": "2026-07-16T08:23:40.000Z",
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-15T22:03:47.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+        "seendate": "2026-07-15T07:24:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+        "seendate": "2026-07-15T07:24:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+    "seendate": "2026-07-16T12:31:08.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-        "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-07-16T08:23:40.000Z",
+        "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+        "seendate": "2026-07-16T12:31:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -256,9 +256,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-        "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-07-16T08:23:40.000Z",
+        "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+        "seendate": "2026-07-16T12:31:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -266,61 +266,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
-        "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
-        "seendate": "2026-07-16T08:18:23.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
-        "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
-        "seendate": "2026-07-16T08:18:23.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
-    "seendate": "2026-07-16T08:10:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
-        "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
-        "seendate": "2026-07-16T08:10:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
-        "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
-        "seendate": "2026-07-16T08:10:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -331,18 +294,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-    "seendate": "2026-07-16T01:58:45.000Z",
+    "headline": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
+    "seendate": "2026-07-16T10:45:36.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
-        "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-        "seendate": "2026-07-16T01:58:45.000Z",
+        "title": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
+        "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
+        "seendate": "2026-07-16T10:45:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -350,12 +313,49 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
-        "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-        "seendate": "2026-07-16T01:58:45.000Z",
+        "title": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
+        "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
+        "seendate": "2026-07-16T10:45:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate funding: Who pays for the transition?",
+    "headlineUrl": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+    "seendate": "2026-07-16T10:39:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Climate funding: Who pays for the transition?",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+        "seendate": "2026-07-16T10:39:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Climate funding: Who pays for the transition?",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+        "seendate": "2026-07-16T10:39:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       }
@@ -390,43 +390,6 @@
         "title": "Six Dead in an Elevator After Fire in Central Brussels",
         "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
         "seendate": "2026-07-15T07:01:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-    "seendate": "2026-07-14T19:03:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-        "seendate": "2026-07-14T19:03:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-        "seendate": "2026-07-14T19:03:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
