@@ -1,63 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Protests in Paris, Gaza for release of Hussam Abu Safia",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
-    "seendate": "2026-07-15T19:48:50.000Z",
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-15T22:03:47.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
-        "seendate": "2026-07-15T19:48:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
-        "seendate": "2026-07-15T19:48:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-        "seendate": "2026-07-14T19:03:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
-        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-        "seendate": "2026-07-14T19:03:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -105,14 +65,54 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-14T17:13:27.000Z",
+        "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+        "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-15T22:03:47.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+        "seendate": "2026-07-15T07:24:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+        "seendate": "2026-07-15T07:24:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
+        "url": "https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html",
+        "seendate": "2026-07-13T13:58:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
+        "url": "https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html",
+        "seendate": "2026-07-13T13:58:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -231,24 +231,121 @@
     ]
   },
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-    "seendate": "2026-07-15T07:24:10.000Z",
-    "articleCount": 4,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-16T03:08:09.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-15T07:24:10.000Z",
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T03:08:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T03:08:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T03:08:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T03:08:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T03:08:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T03:08:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+        "seendate": "2026-07-16T00:00:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+        "seendate": "2026-07-16T00:00:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+    "seendate": "2026-07-14T19:03:21.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -256,9 +353,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-        "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-        "seendate": "2026-07-15T07:24:10.000Z",
+        "title": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+        "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
+        "seendate": "2026-07-14T19:03:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -266,24 +363,64 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
-        "url": "https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html",
-        "seendate": "2026-07-13T13:58:11.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
-        "url": "https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html",
-        "seendate": "2026-07-13T13:58:11.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-14T17:13:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -335,24 +472,24 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
-    "seendate": "2026-07-15T19:09:32.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+    "seendate": "2026-07-16T01:58:45.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-        "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
-        "seendate": "2026-07-15T19:09:32.000Z",
+        "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+        "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+        "seendate": "2026-07-16T01:58:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -360,49 +497,12 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-        "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
-        "seendate": "2026-07-15T19:09:32.000Z",
+        "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+        "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+        "seendate": "2026-07-16T01:58:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Atlanta",
-    "name": "Atlanta",
-    "country": "US",
-    "lat": 33.75,
-    "lon": -84.39,
-    "timezone": "America/New_York",
-    "headline": "Argentina fans flood Atlanta ahead of England World Cup match",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
-    "seendate": "2026-07-15T19:08:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Argentina fans flood Atlanta ahead of England World Cup match",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
-        "seendate": "2026-07-15T19:08:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Argentina fans flood Atlanta ahead of England World Cup match",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
-        "seendate": "2026-07-15T19:08:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
         ],
         "source_category": "humanitarian"
       }
