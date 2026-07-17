@@ -1,90 +1,100 @@
 [
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong official warns booksellers on security risks after raids",
-    "headlineUrl": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-    "seendate": "2026-07-16T13:31:33.000Z",
-    "articleCount": 5,
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-16T22:01:32.000Z",
+    "articleCount": 6,
     "categories": [
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong official warns booksellers on security risks after raids",
-        "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-        "seendate": "2026-07-16T13:31:33.000Z",
-        "source_domain": "npr.org",
+        "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+        "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T22:01:32.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+        "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T22:01:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+        "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T22:01:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Hong Kong official warns booksellers on security risks after raids",
-        "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-        "seendate": "2026-07-16T13:31:33.000Z",
-        "source_domain": "npr.org",
+        "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+        "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T22:01:32.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Hong Kong official warns booksellers on security risks after raids",
-        "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-        "seendate": "2026-07-16T13:31:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T12:22:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T12:22:39.000Z",
-        "source_domain": "nytimes.com",
+        "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+        "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T22:01:32.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+        "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-16T22:01:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
-    "seendate": "2026-07-16T23:39:36.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+    "seendate": "2026-07-17T07:56:06.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
-        "seendate": "2026-07-16T23:39:36.000Z",
+        "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
+        "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+        "seendate": "2026-07-17T07:56:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -92,9 +102,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
-        "seendate": "2026-07-16T23:39:36.000Z",
+        "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
+        "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+        "seendate": "2026-07-17T07:56:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -110,55 +120,55 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Grand Mosque of Paris celebrates 100-year anniversary",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
-    "seendate": "2026-07-16T21:28:03.000Z",
+    "headline": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+    "headlineUrl": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
+    "seendate": "2026-07-17T09:01:52.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Grand Mosque of Paris celebrates 100-year anniversary",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
-        "seendate": "2026-07-16T21:28:03.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+        "url": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
+        "seendate": "2026-07-17T09:01:52.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Grand Mosque of Paris celebrates 100-year anniversary",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
-        "seendate": "2026-07-16T21:28:03.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+        "url": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
+        "seendate": "2026-07-17T09:01:52.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Brussels",
-    "name": "Brussels",
-    "country": "BE",
-    "lat": 50.85,
-    "lon": 4.35,
-    "timezone": "Europe/Brussels",
-    "headline": "Six Dead in an Elevator After Fire in Central Brussels",
-    "headlineUrl": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
-    "seendate": "2026-07-15T07:01:30.000Z",
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+    "seendate": "2026-07-17T09:56:14.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Six Dead in an Elevator After Fire in Central Brussels",
-        "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
-        "seendate": "2026-07-15T07:01:30.000Z",
+        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+        "seendate": "2026-07-17T09:56:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -166,12 +176,49 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Six Dead in an Elevator After Fire in Central Brussels",
-        "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
-        "seendate": "2026-07-15T07:01:30.000Z",
+        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+        "seendate": "2026-07-17T09:56:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+    "headlineUrl": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+    "seendate": "2026-07-16T12:22:39.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+        "seendate": "2026-07-16T12:22:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+        "seendate": "2026-07-16T12:22:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
         ],
         "source_category": "democracy-crisis"
       }
