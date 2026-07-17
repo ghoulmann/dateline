@@ -1,66 +1,79 @@
 [
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
-    "headlineUrl": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-    "seendate": "2026-07-17T11:13:58.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
-        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-        "seendate": "2026-07-17T11:13:58.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
-        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-        "seendate": "2026-07-17T11:13:58.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
-        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-        "seendate": "2026-07-17T11:13:58.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
-    "seendate": "2026-07-17T16:21:49.000Z",
-    "articleCount": 2,
+    "headline": "Israel, Gaza and the future of US power",
+    "headlineUrl": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+    "seendate": "2026-07-17T20:38:12.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israel, Gaza and the future of US power",
+        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+        "seendate": "2026-07-17T20:38:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel, Gaza and the future of US power",
+        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+        "seendate": "2026-07-17T20:38:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Life after amputation: Gaza women find recovery through football",
+        "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+        "seendate": "2026-07-17T18:02:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Life after amputation: Gaza women find recovery through football",
+        "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+        "seendate": "2026-07-17T18:02:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
         "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
@@ -75,6 +88,168 @@
         "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
         "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
         "seendate": "2026-07-17T16:21:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
+    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
+    "seendate": "2026-07-17T19:34:51.000Z",
+    "articleCount": 7,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
+        "seendate": "2026-07-17T19:34:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
+        "seendate": "2026-07-17T19:34:51.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "China signals possible return of U.S. trade privileges for Hong Kong",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+        "seendate": "2026-07-17T19:16:16.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "China signals possible return of U.S. trade privileges for Hong Kong",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+        "seendate": "2026-07-17T19:16:16.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "China signals possible return of U.S. trade privileges for Hong Kong",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+        "seendate": "2026-07-17T19:16:16.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+        "seendate": "2026-07-16T12:22:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
+        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+        "seendate": "2026-07-16T12:22:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+    "seendate": "2026-07-17T18:28:34.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+        "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+        "seendate": "2026-07-17T18:28:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+        "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+        "seendate": "2026-07-17T18:28:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+    "seendate": "2026-07-17T15:19:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
+        "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+        "seendate": "2026-07-17T15:19:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
+        "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+        "seendate": "2026-07-17T15:19:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -152,43 +327,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-    "headlineUrl": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-    "seendate": "2026-07-16T12:22:39.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T12:22:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "url": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
-        "seendate": "2026-07-16T12:22:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
         ],
         "source_category": "democracy-crisis"
       }
