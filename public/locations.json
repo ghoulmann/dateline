@@ -77,24 +77,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
-    "seendate": "2026-07-17T07:56:06.000Z",
-    "articleCount": 2,
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+    "seendate": "2026-07-17T10:06:25.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-        "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-07-17T07:56:06.000Z",
+        "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+        "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+        "seendate": "2026-07-17T10:06:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -102,9 +102,113 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-        "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-07-17T07:56:06.000Z",
+        "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+        "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+        "seendate": "2026-07-17T10:06:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+        "seendate": "2026-07-17T09:56:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+        "seendate": "2026-07-17T09:56:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+    "headlineUrl": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+    "seendate": "2026-07-17T11:13:58.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+        "seendate": "2026-07-17T11:13:58.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+        "seendate": "2026-07-17T11:13:58.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+        "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+        "seendate": "2026-07-17T11:13:58.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump?traffic_source=rss",
+    "seendate": "2026-07-17T09:47:55.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+        "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump?traffic_source=rss",
+        "seendate": "2026-07-17T09:47:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+        "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump?traffic_source=rss",
+        "seendate": "2026-07-17T09:47:55.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -145,43 +249,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
-    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
-    "seendate": "2026-07-17T09:56:14.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
-        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
-        "seendate": "2026-07-17T09:56:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
-        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
-        "seendate": "2026-07-17T09:56:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
