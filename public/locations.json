@@ -1,102 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel, Gaza and the future of US power",
-    "headlineUrl": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
-    "seendate": "2026-07-17T20:38:12.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel, Gaza and the future of US power",
-        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
-        "seendate": "2026-07-17T20:38:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel, Gaza and the future of US power",
-        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
-        "seendate": "2026-07-17T20:38:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Life after amputation: Gaza women find recovery through football",
-        "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
-        "seendate": "2026-07-17T18:02:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Life after amputation: Gaza women find recovery through football",
-        "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
-        "seendate": "2026-07-17T18:02:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-        "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
-        "seendate": "2026-07-17T16:21:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-        "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
-        "seendate": "2026-07-17T16:21:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
@@ -105,7 +8,7 @@
     "timezone": "Asia/Hong_Kong",
     "headline": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
     "headlineUrl": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
-    "seendate": "2026-07-17T19:34:51.000Z",
+    "seendate": "2026-07-17T21:03:38.000Z",
     "articleCount": 7,
     "categories": [
       "armed-conflict",
@@ -115,7 +18,7 @@
       {
         "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
         "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
-        "seendate": "2026-07-17T19:34:51.000Z",
+        "seendate": "2026-07-17T21:03:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -125,7 +28,7 @@
       {
         "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
         "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
-        "seendate": "2026-07-17T19:34:51.000Z",
+        "seendate": "2026-07-17T21:03:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -185,24 +88,24 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
-    "seendate": "2026-07-17T18:28:34.000Z",
-    "articleCount": 2,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel, Gaza and the future of US power",
+    "headlineUrl": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+    "seendate": "2026-07-17T20:38:12.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
-        "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
-        "seendate": "2026-07-17T18:28:34.000Z",
+        "title": "Israel, Gaza and the future of US power",
+        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+        "seendate": "2026-07-17T20:38:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -210,9 +113,66 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
-        "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
-        "seendate": "2026-07-17T18:28:34.000Z",
+        "title": "Israel, Gaza and the future of US power",
+        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+        "seendate": "2026-07-17T20:38:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
+    "seendate": "2026-07-18T02:43:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
+        "seendate": "2026-07-18T02:43:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
+        "seendate": "2026-07-18T02:43:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -222,24 +182,24 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-    "seendate": "2026-07-17T15:19:37.000Z",
+    "id": "Sanaa",
+    "name": "Sanaa",
+    "country": "YE",
+    "lat": 15.36,
+    "lon": 48.22,
+    "timezone": "Asia/Aden",
+    "headline": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
+    "seendate": "2026-07-17T20:59:53.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
-        "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-        "seendate": "2026-07-17T15:19:37.000Z",
+        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
+        "seendate": "2026-07-17T20:59:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -247,9 +207,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
-        "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-        "seendate": "2026-07-17T15:19:37.000Z",
+        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
+        "seendate": "2026-07-17T20:59:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
