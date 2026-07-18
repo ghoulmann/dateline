@@ -88,24 +88,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel, Gaza and the future of US power",
-    "headlineUrl": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
-    "seendate": "2026-07-17T20:38:12.000Z",
-    "articleCount": 4,
+    "id": "Manila",
+    "name": "Manila",
+    "country": "PH",
+    "lat": 14.6,
+    "lon": 120.98,
+    "timezone": "Asia/Manila",
+    "headline": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
+    "seendate": "2026-07-18T03:54:23.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel, Gaza and the future of US power",
-        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
-        "seendate": "2026-07-17T20:38:12.000Z",
+        "title": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
+        "url": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
+        "seendate": "2026-07-18T03:54:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -113,34 +113,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel, Gaza and the future of US power",
-        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
-        "seendate": "2026-07-17T20:38:12.000Z",
+        "title": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
+        "url": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
+        "seendate": "2026-07-18T03:54:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -182,39 +162,39 @@
     ]
   },
   {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
-    "seendate": "2026-07-17T20:59:53.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+    "seendate": "2026-07-17T19:52:28.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
-        "seendate": "2026-07-17T20:59:53.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
-        "seendate": "2026-07-17T20:59:53.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
