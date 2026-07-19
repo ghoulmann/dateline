@@ -1,254 +1,39 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia launches major ballistic missile attack on Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-19T09:54:50.000Z",
-    "articleCount": 12,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T09:54:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T09:54:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T09:54:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T09:54:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T09:54:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T09:54:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Russia Batters Kyiv in Overnight Attack",
-        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-        "seendate": "2026-07-19T09:43:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Batters Kyiv in Overnight Attack",
-        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-        "seendate": "2026-07-19T09:43:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-        "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
-        "seendate": "2026-07-19T07:28:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-        "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
-        "seendate": "2026-07-19T07:28:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
-        "seendate": "2026-07-19T04:32:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
-        "seendate": "2026-07-19T04:32:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
-    "seendate": "2026-07-19T03:36:44.000Z",
-    "articleCount": 8,
-    "categories": [
-      "political-repression",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
-        "seendate": "2026-07-19T03:36:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
-        "seendate": "2026-07-19T03:36:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-        "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
-        "seendate": "2026-07-19T02:05:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-        "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
-        "seendate": "2026-07-19T02:05:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-        "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-        "seendate": "2026-07-19T00:57:08.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-        "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-        "seendate": "2026-07-19T00:57:08.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-        "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-        "seendate": "2026-07-19T00:57:08.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
-        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
-        "seendate": "2026-07-18T20:00:17.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-19T08:46:42.000Z",
-    "articleCount": 4,
+    "headline": "Gaza cheers for Spain as World Cup final anticipation mounts",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+    "seendate": "2026-07-19T10:09:25.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
+        "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+        "seendate": "2026-07-19T10:09:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
+        "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+        "seendate": "2026-07-19T10:09:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
         "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
@@ -288,6 +73,63 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+    "headlineUrl": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+    "seendate": "2026-07-19T10:52:23.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+        "seendate": "2026-07-19T10:52:23.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+        "seendate": "2026-07-19T10:52:23.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+        "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+        "seendate": "2026-07-19T07:28:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+        "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+        "seendate": "2026-07-19T07:28:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -301,72 +143,15 @@
     "headline": "Spain fans bring the party to New York before World Cup final",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
     "seendate": "2026-07-19T08:41:18.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Spain fans bring the party to New York before World Cup final",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
-        "seendate": "2026-07-19T08:41:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Spain fans bring the party to New York before World Cup final",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
-        "seendate": "2026-07-19T08:41:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
-        "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
-        "seendate": "2026-07-19T03:02:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
-        "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
-        "seendate": "2026-07-19T03:02:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Mogadishu",
-    "name": "Mogadishu",
-    "country": "SO",
-    "lat": 2.05,
-    "lon": 45.34,
-    "timezone": "Africa/Mogadishu",
-    "headline": "Somalia races to save Radio Mogadishu’s fading archive",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
-    "seendate": "2026-07-19T03:38:03.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Somalia races to save Radio Mogadishu’s fading archive",
-        "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
-        "seendate": "2026-07-19T03:38:03.000Z",
+        "title": "Spain fans bring the party to New York before World Cup final",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
+        "seendate": "2026-07-19T08:41:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -374,9 +159,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Somalia races to save Radio Mogadishu’s fading archive",
-        "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
-        "seendate": "2026-07-19T03:38:03.000Z",
+        "title": "Spain fans bring the party to New York before World Cup final",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
+        "seendate": "2026-07-19T08:41:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -394,7 +179,7 @@
     "timezone": "Asia/Tokyo",
     "headline": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
     "headlineUrl": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-    "seendate": "2026-07-19T04:01:05.000Z",
+    "seendate": "2026-07-19T04:01:06.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -403,7 +188,7 @@
       {
         "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
         "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-        "seendate": "2026-07-19T04:01:05.000Z",
+        "seendate": "2026-07-19T04:01:06.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -413,7 +198,7 @@
       {
         "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
         "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-        "seendate": "2026-07-19T04:01:05.000Z",
+        "seendate": "2026-07-19T04:01:06.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -493,6 +278,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
+    "headlineUrl": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
+    "seendate": "2026-07-18T20:00:17.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
+        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
+        "seendate": "2026-07-18T20:00:17.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
