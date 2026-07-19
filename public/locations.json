@@ -97,59 +97,80 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "Miami",
+    "name": "Miami",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
+    "lat": 25.76,
+    "lon": -80.19,
     "timezone": "America/New_York",
-    "headline": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss",
-    "seendate": "2026-07-18T17:35:21.000Z",
-    "articleCount": 4,
+    "headline": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
+    "seendate": "2026-07-19T02:05:41.000Z",
+    "articleCount": 6,
     "categories": [
+      "political-repression",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-        "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss",
-        "seendate": "2026-07-18T17:35:21.000Z",
+        "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
+        "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
+        "seendate": "2026-07-19T02:05:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-        "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss",
-        "seendate": "2026-07-18T17:35:21.000Z",
+        "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
+        "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
+        "seendate": "2026-07-19T02:05:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
-        "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
-        "seendate": "2026-07-18T14:23:33.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+        "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+        "seendate": "2026-07-19T00:57:08.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
-        "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
-        "seendate": "2026-07-18T14:23:33.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+        "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+        "seendate": "2026-07-19T00:57:08.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+        "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+        "seendate": "2026-07-19T00:57:08.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
+        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
+        "seendate": "2026-07-18T20:00:17.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -160,18 +181,18 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
-    "seendate": "2026-07-18T18:17:00.000Z",
-    "articleCount": 2,
+    "headline": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
+    "seendate": "2026-07-19T03:02:22.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
-        "seendate": "2026-07-18T18:17:00.000Z",
+        "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
+        "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
+        "seendate": "2026-07-19T03:02:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,36 +200,19 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
-        "seendate": "2026-07-18T18:17:00.000Z",
+        "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
+        "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
+        "seendate": "2026-07-19T03:02:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "UK’s Josh Kerr smashes longstanding world mile record in London",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss",
-    "seendate": "2026-07-18T17:29:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
+      },
       {
-        "title": "UK’s Josh Kerr smashes longstanding world mile record in London",
-        "url": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss",
-        "seendate": "2026-07-18T17:29:23.000Z",
+        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
+        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
+        "seendate": "2026-07-18T18:17:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -216,9 +220,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "UK’s Josh Kerr smashes longstanding world mile record in London",
-        "url": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss",
-        "seendate": "2026-07-18T17:29:23.000Z",
+        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
+        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
+        "seendate": "2026-07-18T18:17:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -298,33 +302,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Shakira soaks up the Miami sun as bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
-    "headlineUrl": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
-    "seendate": "2026-07-18T20:00:17.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Shakira soaks up the Miami sun as bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
-        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
-        "seendate": "2026-07-18T20:00:17.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
