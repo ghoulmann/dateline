@@ -1,117 +1,40 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-    "seendate": "2026-07-18T19:55:16.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-        "seendate": "2026-07-18T19:55:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-        "seendate": "2026-07-18T19:55:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Thousands rally in London in support of Gaza, demand new PM take action",
-        "url": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss",
-        "seendate": "2026-07-18T19:30:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands rally in London in support of Gaza, demand new PM take action",
-        "url": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss",
-        "seendate": "2026-07-18T19:30:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks on residential areas in Gaza kill eight",
-        "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
-        "seendate": "2026-07-18T18:45:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks on residential areas in Gaza kill eight",
-        "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
-        "seendate": "2026-07-18T18:45:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Miami",
     "name": "Miami",
     "country": "US",
     "lat": 25.76,
     "lon": -80.19,
     "timezone": "America/New_York",
-    "headline": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
-    "seendate": "2026-07-19T02:05:41.000Z",
-    "articleCount": 6,
+    "headline": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
+    "seendate": "2026-07-19T03:36:44.000Z",
+    "articleCount": 8,
     "categories": [
       "political-repression",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
+        "seendate": "2026-07-19T03:36:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
+        "seendate": "2026-07-19T03:36:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
         "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
@@ -175,6 +98,137 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+    "seendate": "2026-07-18T19:55:16.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+        "seendate": "2026-07-18T19:55:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+        "seendate": "2026-07-18T19:55:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+    "seendate": "2026-07-19T04:32:28.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+        "seendate": "2026-07-19T04:32:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+        "seendate": "2026-07-19T04:32:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "Somalia races to save Radio Mogadishu’s fading archive",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+    "seendate": "2026-07-19T03:38:03.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Somalia races to save Radio Mogadishu’s fading archive",
+        "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+        "seendate": "2026-07-19T03:38:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Somalia races to save Radio Mogadishu’s fading archive",
+        "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+        "seendate": "2026-07-19T03:38:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -184,7 +238,7 @@
     "headline": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
     "headlineUrl": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
     "seendate": "2026-07-19T03:02:22.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -208,26 +262,43 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+    "headlineUrl": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+    "seendate": "2026-07-19T04:01:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
-        "seendate": "2026-07-18T18:17:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+        "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+        "seendate": "2026-07-19T04:01:05.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
-        "seendate": "2026-07-18T18:17:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+        "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+        "seendate": "2026-07-19T04:01:05.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
