@@ -1,23 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli ministers join march to Gaza to demand return of settlements",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-    "seendate": "2026-07-19T20:55:11.000Z",
-    "articleCount": 6,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Fans in Madrid party all night long after Spain’s World Cup victory",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
+    "seendate": "2026-07-20T03:59:18.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli ministers join march to Gaza to demand return of settlements",
-        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-        "seendate": "2026-07-19T20:55:11.000Z",
+        "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
+        "seendate": "2026-07-20T03:59:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli ministers join march to Gaza to demand return of settlements",
-        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-        "seendate": "2026-07-19T20:55:11.000Z",
+        "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
+        "seendate": "2026-07-20T03:59:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -35,44 +35,84 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
-        "seendate": "2026-07-19T18:54:54.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
-        "seendate": "2026-07-19T18:54:54.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+        "seendate": "2026-07-19T23:05:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+        "seendate": "2026-07-19T23:05:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -231,24 +271,24 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-    "seendate": "2026-07-19T23:05:40.000Z",
-    "articleCount": 2,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli ministers join march to Gaza to demand return of settlements",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+    "seendate": "2026-07-19T20:55:11.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-        "seendate": "2026-07-19T23:05:40.000Z",
+        "title": "Israeli ministers join march to Gaza to demand return of settlements",
+        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+        "seendate": "2026-07-19T20:55:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -256,9 +296,103 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-        "seendate": "2026-07-19T23:05:40.000Z",
+        "title": "Israeli ministers join march to Gaza to demand return of settlements",
+        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+        "seendate": "2026-07-19T20:55:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Houston",
+    "name": "Houston",
+    "country": "US",
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+    "seendate": "2026-07-20T05:01:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+        "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+        "seendate": "2026-07-20T05:01:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+        "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+        "seendate": "2026-07-20T05:01:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Buenos Aires",
+    "name": "Buenos Aires",
+    "country": "AR",
+    "lat": -34.6,
+    "lon": -58.38,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "headline": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
+    "seendate": "2026-07-20T03:52:54.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
+        "seendate": "2026-07-20T03:52:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
+        "seendate": "2026-07-20T03:52:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -342,6 +476,43 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+    "seendate": "2026-07-20T04:01:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+        "seendate": "2026-07-20T04:01:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+        "seendate": "2026-07-20T04:01:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
@@ -370,43 +541,6 @@
         "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
         "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
         "seendate": "2026-07-17T21:03:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
-    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
-    "seendate": "2026-07-17T09:56:14.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
-        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
-        "seendate": "2026-07-17T09:56:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
-        "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
-        "seendate": "2026-07-17T09:56:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
