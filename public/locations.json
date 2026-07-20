@@ -1,5 +1,82 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli ministers join march to Gaza to demand return of settlements",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+    "seendate": "2026-07-19T20:55:11.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli ministers join march to Gaza to demand return of settlements",
+        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+        "seendate": "2026-07-19T20:55:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli ministers join march to Gaza to demand return of settlements",
+        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+        "seendate": "2026-07-19T20:55:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
+        "seendate": "2026-07-19T18:54:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
+        "seendate": "2026-07-19T18:54:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Los Angeles",
     "name": "Los Angeles",
     "country": "US",
@@ -77,81 +154,101 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "The story behind Gaza’s #TheyLiedToYou campaign",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
-    "seendate": "2026-07-19T18:54:54.000Z",
-    "articleCount": 4,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-19T21:43:54.000Z",
+    "articleCount": 6,
     "categories": [
-      "armed-conflict"
+      "natural-disaster"
     ],
     "articles": [
       {
-        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
-        "seendate": "2026-07-19T18:54:54.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
-        "seendate": "2026-07-19T18:54:54.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Israel uses law to destroy Palestinian education in East Jerusalem",
-    "headlineUrl": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
-    "seendate": "2026-07-19T15:46:23.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+    "seendate": "2026-07-19T23:05:40.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel uses law to destroy Palestinian education in East Jerusalem",
-        "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
-        "seendate": "2026-07-19T15:46:23.000Z",
+        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+        "seendate": "2026-07-19T23:05:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -159,9 +256,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel uses law to destroy Palestinian education in East Jerusalem",
-        "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
-        "seendate": "2026-07-19T15:46:23.000Z",
+        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+        "seendate": "2026-07-19T23:05:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -216,7 +313,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
     "headlineUrl": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-    "seendate": "2026-07-19T18:26:40.000Z",
+    "seendate": "2026-07-19T18:26:41.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -225,7 +322,7 @@
       {
         "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
         "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-        "seendate": "2026-07-19T18:26:40.000Z",
+        "seendate": "2026-07-19T18:26:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -235,7 +332,7 @@
       {
         "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
         "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-        "seendate": "2026-07-19T18:26:40.000Z",
+        "seendate": "2026-07-19T18:26:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
