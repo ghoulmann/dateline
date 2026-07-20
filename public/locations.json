@@ -1,117 +1,40 @@
 [
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
-    "seendate": "2026-07-20T11:09:16.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
-        "seendate": "2026-07-20T11:09:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
-        "seendate": "2026-07-20T11:09:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli ministers and settlers call for return to Gaza settlements",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
-    "seendate": "2026-07-20T13:29:39.000Z",
+    "headline": "Israeli air strike injures 14 in Gaza City",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+    "seendate": "2026-07-20T16:45:23.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Israeli air strike injures 14 in Gaza City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+        "seendate": "2026-07-20T16:45:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli air strike injures 14 in Gaza City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+        "seendate": "2026-07-20T16:45:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israeli ministers and settlers call for return to Gaza settlements",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
         "seendate": "2026-07-20T13:29:39.000Z",
@@ -150,26 +73,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -242,6 +145,83 @@
         "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
         "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-19T14:50:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Moment fans in Madrid celebrate World Cup win",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-19T23:48:36.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Moment fans in Madrid celebrate World Cup win",
+        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T23:48:36.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -365,80 +345,6 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
-    "seendate": "2026-07-20T12:50:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
-        "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
-        "seendate": "2026-07-20T12:50:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
-        "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
-        "seendate": "2026-07-20T12:50:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-    "seendate": "2026-07-20T08:09:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-        "seendate": "2026-07-20T08:09:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-        "seendate": "2026-07-20T08:09:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Tokyo",
     "name": "Tokyo",
     "country": "JP",
@@ -504,43 +410,6 @@
         "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
         "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
         "seendate": "2026-07-19T18:26:41.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
-    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
-    "seendate": "2026-07-17T21:03:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
-        "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
-        "seendate": "2026-07-17T21:03:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
-        "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
-        "seendate": "2026-07-17T21:03:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
