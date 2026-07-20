@@ -1,20 +1,165 @@
 [
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Man arrested after fire outside New York immigration court",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
+    "seendate": "2026-07-20T20:45:11.000Z",
+    "articleCount": 8,
+    "categories": [
+      "political-repression",
+      "democracy-crisis",
+      "climate-watch",
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Man arrested after fire outside New York immigration court",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
+        "seendate": "2026-07-20T20:45:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression",
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man arrested after fire outside New York immigration court",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
+        "seendate": "2026-07-20T20:45:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression",
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli air strike injures 14 in Gaza City",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
-    "seendate": "2026-07-20T16:45:23.000Z",
+    "headline": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+    "seendate": "2026-07-20T19:54:20.000Z",
     "articleCount": 6,
     "categories": [
+      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+        "seendate": "2026-07-20T19:43:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+        "seendate": "2026-07-20T19:43:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israeli air strike injures 14 in Gaza City",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
         "seendate": "2026-07-20T16:45:23.000Z",
@@ -28,46 +173,6 @@
         "title": "Israeli air strike injures 14 in Gaza City",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
         "seendate": "2026-07-20T16:45:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli ministers and settlers call for return to Gaza settlements",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
-        "seendate": "2026-07-20T13:29:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli ministers and settlers call for return to Gaza settlements",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
-        "seendate": "2026-07-20T13:29:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
-        "seendate": "2026-07-20T13:21:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
-        "seendate": "2026-07-20T13:21:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -231,116 +336,39 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-19T21:43:54.000Z",
-    "articleCount": 6,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Islamabad",
-    "name": "Islamabad",
-    "country": "PK",
-    "lat": 33.68,
-    "lon": 73.04,
-    "timezone": "Asia/Karachi",
-    "headline": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
-    "seendate": "2026-07-20T13:06:32.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+    "headlineUrl": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+    "seendate": "2026-07-19T18:26:41.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-        "url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
-        "seendate": "2026-07-20T13:06:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+        "seendate": "2026-07-19T18:26:41.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-        "url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
-        "seendate": "2026-07-20T13:06:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+        "seendate": "2026-07-19T18:26:41.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -373,43 +401,6 @@
         "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
         "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
         "seendate": "2026-07-19T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-    "headlineUrl": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-    "seendate": "2026-07-19T18:26:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-        "seendate": "2026-07-19T18:26:41.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-        "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-        "seendate": "2026-07-19T18:26:41.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
