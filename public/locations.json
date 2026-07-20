@@ -6,18 +6,18 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Fans in Madrid party all night long after Spain’s World Cup victory",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
-    "seendate": "2026-07-20T03:59:18.000Z",
+    "headline": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
+    "seendate": "2026-07-20T11:09:16.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
-        "seendate": "2026-07-20T03:59:18.000Z",
+        "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
+        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
+        "seendate": "2026-07-20T11:09:16.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
-        "seendate": "2026-07-20T03:59:18.000Z",
+        "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
+        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
+        "seendate": "2026-07-20T11:09:16.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -93,6 +93,83 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli ministers and settlers call for return to Gaza settlements",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+    "seendate": "2026-07-20T13:29:39.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli ministers and settlers call for return to Gaza settlements",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+        "seendate": "2026-07-20T13:29:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli ministers and settlers call for return to Gaza settlements",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+        "seendate": "2026-07-20T13:29:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+        "seendate": "2026-07-20T13:21:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+        "seendate": "2026-07-20T13:21:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -251,24 +328,24 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore minister resigns over ‘interactions with a woman’, PM says",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
-    "seendate": "2026-07-20T07:32:47.000Z",
+    "id": "Islamabad",
+    "name": "Islamabad",
+    "country": "PK",
+    "lat": 33.68,
+    "lon": 73.04,
+    "timezone": "Asia/Karachi",
+    "headline": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
+    "seendate": "2026-07-20T13:06:32.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
-        "url": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
-        "seendate": "2026-07-20T07:32:47.000Z",
+        "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
+        "url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
+        "seendate": "2026-07-20T13:06:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -276,9 +353,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
-        "url": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
-        "seendate": "2026-07-20T07:32:47.000Z",
+        "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
+        "url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
+        "seendate": "2026-07-20T13:06:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -288,24 +365,24 @@
     ]
   },
   {
-    "id": "Houston",
-    "name": "Houston",
-    "country": "US",
-    "lat": 29.76,
-    "lon": -95.37,
-    "timezone": "America/Chicago",
-    "headline": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
-    "seendate": "2026-07-20T05:01:07.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
+    "seendate": "2026-07-20T12:50:04.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-        "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
-        "seendate": "2026-07-20T05:01:07.000Z",
+        "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+        "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
+        "seendate": "2026-07-20T12:50:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -313,46 +390,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-        "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
-        "seendate": "2026-07-20T05:01:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Buenos Aires",
-    "name": "Buenos Aires",
-    "country": "AR",
-    "lat": -34.6,
-    "lon": -58.38,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "headline": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
-    "seendate": "2026-07-20T03:52:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
-        "seendate": "2026-07-20T03:52:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
-        "seendate": "2026-07-20T03:52:54.000Z",
+        "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+        "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
+        "seendate": "2026-07-20T12:50:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -501,43 +541,6 @@
         "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
         "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
         "seendate": "2026-07-17T21:03:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-    "seendate": "2026-07-17T19:52:28.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
