@@ -9,7 +9,7 @@
     "headline": "Fans in Madrid party all night long after Spain’s World Cup victory",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
     "seendate": "2026-07-20T03:59:18.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -93,26 +93,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-        "seendate": "2026-07-19T23:05:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-        "seendate": "2026-07-19T23:05:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -271,24 +251,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli ministers join march to Gaza to demand return of settlements",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-    "seendate": "2026-07-19T20:55:11.000Z",
-    "articleCount": 4,
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Singapore minister resigns over ‘interactions with a woman’, PM says",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
+    "seendate": "2026-07-20T07:32:47.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli ministers join march to Gaza to demand return of settlements",
-        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-        "seendate": "2026-07-19T20:55:11.000Z",
+        "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
+        "url": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
+        "seendate": "2026-07-20T07:32:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -296,34 +276,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli ministers join march to Gaza to demand return of settlements",
-        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-        "seendate": "2026-07-19T20:55:11.000Z",
+        "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
+        "url": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
+        "seendate": "2026-07-20T07:32:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-        "seendate": "2026-07-17T19:52:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -402,6 +362,43 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+    "seendate": "2026-07-20T08:09:12.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+        "seendate": "2026-07-20T08:09:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+        "seendate": "2026-07-20T08:09:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Tokyo",
     "name": "Tokyo",
     "country": "JP",
@@ -476,43 +473,6 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-    "seendate": "2026-07-20T04:01:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-        "seendate": "2026-07-20T04:01:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-        "seendate": "2026-07-20T04:01:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
@@ -541,6 +501,43 @@
         "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
         "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
         "seendate": "2026-07-17T21:03:38.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+    "seendate": "2026-07-17T19:52:28.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+        "seendate": "2026-07-17T19:52:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
