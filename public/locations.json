@@ -1,301 +1,95 @@
 [
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Spain’s World Cup heroes welcomed by millions in Madrid",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
-    "seendate": "2026-07-21T03:16:56.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
-        "seendate": "2026-07-21T03:16:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
-        "seendate": "2026-07-21T03:16:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T23:48:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Five Palestinians killed in fire after Israeli attack in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-21T07:55:43.000Z",
-    "articleCount": 6,
+    "headline": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-21T13:26:40.000Z",
+    "articleCount": 4,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-21T07:55:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-21T07:55:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
-        "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-        "seendate": "2026-07-21T06:18:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
-        "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-        "seendate": "2026-07-21T06:18:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-19T21:43:54.000Z",
-    "articleCount": 6,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Tate brothers vow to fight extradition as they appear at court in Miami",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss",
-    "seendate": "2026-07-21T00:58:10.000Z",
-    "articleCount": 3,
-    "categories": [
-      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tate brothers vow to fight extradition as they appear at court in Miami",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss",
-        "seendate": "2026-07-21T00:58:10.000Z",
+        "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-21T13:26:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tate brothers vow to fight extradition as they appear at court in Miami",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss",
-        "seendate": "2026-07-21T00:58:10.000Z",
+        "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-21T13:26:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
-        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
-        "seendate": "2026-07-18T20:00:17.000Z",
-        "source_domain": "foxnews.com",
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:21.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
+    "seendate": "2026-07-21T11:10:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+        "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
+        "seendate": "2026-07-21T11:10:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+        "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
+        "seendate": "2026-07-21T11:10:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -337,39 +131,29 @@
     ]
   },
   {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
-    "headlineUrl": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-    "seendate": "2026-07-19T04:01:06.000Z",
-    "articleCount": 2,
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
+    "headlineUrl": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
+    "seendate": "2026-07-18T20:00:17.000Z",
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
-        "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-        "seendate": "2026-07-19T04:01:06.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
+        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
+        "seendate": "2026-07-18T20:00:17.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
-        "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-        "seendate": "2026-07-19T04:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "culture-wars"
       }
     ]
   }
