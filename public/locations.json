@@ -6,15 +6,35 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "World Cup champions Spain return to royal welcome, parade through Madrid",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
-    "seendate": "2026-07-20T21:52:02.000Z",
-    "articleCount": 10,
+    "headline": "Spain’s World Cup heroes welcomed by millions in Madrid",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
+    "seendate": "2026-07-21T03:16:56.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
+        "seendate": "2026-07-21T03:16:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
+        "seendate": "2026-07-21T03:16:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
         "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
         "seendate": "2026-07-20T21:52:02.000Z",
@@ -111,110 +131,6 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Man arrested after fire outside New York immigration court",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-    "seendate": "2026-07-20T20:45:11.000Z",
-    "articleCount": 8,
-    "categories": [
-      "political-repression",
-      "democracy-crisis",
-      "climate-watch",
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Man arrested after fire outside New York immigration court",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-        "seendate": "2026-07-20T20:45:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression",
-          "democracy-crisis",
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Man arrested after fire outside New York immigration court",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-        "seendate": "2026-07-20T20:45:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression",
-          "democracy-crisis",
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T21:43:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
         ],
         "source_category": "climate-watch"
       }
@@ -298,60 +214,79 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza residents weigh in on election of new Hamas leader",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-    "seendate": "2026-07-20T20:53:29.000Z",
-    "articleCount": 4,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-19T21:43:54.000Z",
+    "articleCount": 6,
     "categories": [
-      "democracy-crisis",
-      "armed-conflict"
+      "natural-disaster"
     ],
     "articles": [
       {
-        "title": "Gaza residents weigh in on election of new Hamas leader",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-        "seendate": "2026-07-20T20:53:29.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "democracy-crisis"
+          "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza residents weigh in on election of new Hamas leader",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-        "seendate": "2026-07-20T20:53:29.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "democracy-crisis"
+          "natural-disaster"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:20.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:20.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+        "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-19T21:43:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -437,6 +372,43 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+    "seendate": "2026-07-20T19:54:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
