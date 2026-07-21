@@ -9,7 +9,7 @@
     "headline": "Spain’s World Cup heroes welcomed by millions in Madrid",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
     "seendate": "2026-07-21T03:16:56.000Z",
-    "articleCount": 12,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -28,46 +28,6 @@
         "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
         "seendate": "2026-07-21T03:16:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
-        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
-        "seendate": "2026-07-20T21:52:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
-        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
-        "seendate": "2026-07-20T21:52:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "King of Spain celebrates World Cup winners in Madrid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
-        "seendate": "2026-07-20T21:01:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "King of Spain celebrates World Cup winners in Madrid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
-        "seendate": "2026-07-20T21:01:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -137,79 +97,80 @@
     ]
   },
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-19T14:50:11.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Five Palestinians killed in fire after Israeli attack in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-21T07:55:43.000Z",
     "articleCount": 6,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T14:50:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-21T07:55:43.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T14:50:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-21T07:55:43.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T14:50:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
+        "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
+        "seendate": "2026-07-21T06:18:42.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T14:50:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
+        "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
+        "seendate": "2026-07-21T06:18:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:20.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T14:50:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:20.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-19T14:50:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -335,80 +296,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-    "seendate": "2026-07-21T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-        "seendate": "2026-07-21T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-        "seendate": "2026-07-21T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-    "seendate": "2026-07-20T19:54:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
