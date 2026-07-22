@@ -1,177 +1,23 @@
 [
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Modelling scout linked to Epstein found dead in Paris suburbs",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-22T12:08:41.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-21T22:26:19.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-21T22:26:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-21T22:26:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-21T22:26:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-21T22:26:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-21T22:26:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-21T22:26:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
-    "seendate": "2026-07-22T11:52:29.000Z",
-    "articleCount": 4,
+    "headline": "Hamas’s new leader calls for permanent Gaza ceasefire",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+    "seendate": "2026-07-22T17:02:50.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
-        "seendate": "2026-07-22T11:52:29.000Z",
+        "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+        "seendate": "2026-07-22T17:02:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,9 +25,29 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
-        "seendate": "2026-07-22T11:52:29.000Z",
+        "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+        "seendate": "2026-07-22T17:02:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Elon and the Other Gaza",
+        "url": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
+        "seendate": "2026-07-22T15:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Elon and the Other Gaza",
+        "url": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
+        "seendate": "2026-07-22T15:30:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -207,6 +73,160 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-22T14:14:16.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:14:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:14:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:14:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:14:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:14:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:14:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Modelling scout linked to Epstein found dead in Paris",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-22T14:54:27.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:54:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:54:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:54:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:54:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:54:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T14:54:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -258,49 +278,76 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
+    "id": "Houston",
+    "name": "Houston",
     "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
-    "headlineUrl": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-    "seendate": "2026-07-22T06:04:29.000Z",
-    "articleCount": 3,
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
+    "seendate": "2026-07-22T16:34:24.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-        "seendate": "2026-07-22T06:04:29.000Z",
-        "source_domain": "npr.org",
+        "title": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
+        "seendate": "2026-07-22T16:34:24.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-        "seendate": "2026-07-22T06:04:29.000Z",
-        "source_domain": "npr.org",
+        "title": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
+        "seendate": "2026-07-22T16:34:24.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+    "headlineUrl": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
+    "seendate": "2026-07-22T16:23:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+        "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
+        "seendate": "2026-07-22T16:23:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
       },
       {
-        "title": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-        "seendate": "2026-07-22T06:04:29.000Z",
-        "source_domain": "npr.org",
+        "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+        "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
+        "seendate": "2026-07-22T16:23:06.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "democracy-crisis"
       }
     ]
   },
