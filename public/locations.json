@@ -1,5 +1,82 @@
 [
   {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Modelling scout linked to Epstein found dead in Paris suburbs",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-22T12:08:41.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T12:08:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T12:08:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T12:08:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T12:08:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T12:08:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-22T12:08:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Tokyo",
     "name": "Tokyo",
     "country": "JP",
@@ -77,6 +154,110 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
+    "seendate": "2026-07-22T11:52:29.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
+        "seendate": "2026-07-22T11:52:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
+        "seendate": "2026-07-22T11:52:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
+        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
+        "seendate": "2026-07-20T19:54:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+    "headlineUrl": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+    "seendate": "2026-07-22T13:45:35.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+        "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+        "seendate": "2026-07-22T13:45:35.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+        "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+        "seendate": "2026-07-22T13:45:35.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+        "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+        "seendate": "2026-07-22T13:45:35.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -86,7 +267,7 @@
     "headline": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
     "headlineUrl": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
     "seendate": "2026-07-22T06:04:29.000Z",
-    "articleCount": 5,
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
@@ -120,63 +301,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
-        "seendate": "2026-07-22T04:07:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
-        "seendate": "2026-07-22T04:07:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
-    "seendate": "2026-07-22T07:35:26.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
-        "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
-        "seendate": "2026-07-22T07:35:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
-        "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
-        "seendate": "2026-07-22T07:35:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -189,7 +313,7 @@
     "timezone": "Asia/Bangkok",
     "headline": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
     "headlineUrl": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
-    "seendate": "2026-07-22T09:01:06.000Z",
+    "seendate": "2026-07-22T12:58:19.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -198,7 +322,7 @@
       {
         "title": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
         "url": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
-        "seendate": "2026-07-22T09:01:06.000Z",
+        "seendate": "2026-07-22T12:58:19.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -208,76 +332,12 @@
       {
         "title": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
         "url": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
-        "seendate": "2026-07-22T09:01:06.000Z",
+        "seendate": "2026-07-22T12:58:19.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-    "headlineUrl": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-    "seendate": "2026-07-20T19:54:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
-        "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
-        "seendate": "2026-07-20T19:54:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
-    "headlineUrl": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
-    "seendate": "2026-07-18T20:00:17.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Shakira soaks up the Miami sun; bikini-clad Nina Dobrev, Kim Kardashian showcase summer getaways",
-        "url": "https://www.foxnews.com/entertainment/shakira-soaks-up-miami-sun-bikini-clad-nina-dobrev-kim-kardashian-showcase-summer-getaways",
-        "seendate": "2026-07-18T20:00:17.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
