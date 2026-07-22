@@ -97,37 +97,144 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Spain battles latest in series of major wildfires near Madrid",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-    "seendate": "2026-07-21T20:17:04.000Z",
-    "articleCount": 2,
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-21T22:26:19.000Z",
+    "articleCount": 6,
     "categories": [
-      "natural-disaster"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Spain battles latest in series of major wildfires near Madrid",
-        "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-        "seendate": "2026-07-21T20:17:04.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-21T22:26:19.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Spain battles latest in series of major wildfires near Madrid",
-        "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-        "seendate": "2026-07-21T20:17:04.000Z",
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-21T22:26:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-21T22:26:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-21T22:26:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-21T22:26:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-21T22:26:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
+    "headlineUrl": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
+    "seendate": "2026-07-22T06:04:29.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
+        "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
+        "seendate": "2026-07-22T06:04:29.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
+        "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
+        "seendate": "2026-07-22T06:04:29.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Mamdani says New York City can&apos;t arrest Netanyahu but the federal government should",
+        "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
+        "seendate": "2026-07-22T06:04:29.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
+        "seendate": "2026-07-22T04:07:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
+        "seendate": "2026-07-22T04:07:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
