@@ -6,15 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
-    "seendate": "2026-07-23T03:07:01.000Z",
+    "headline": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+    "seendate": "2026-07-23T05:15:27.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+        "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+        "seendate": "2026-07-23T05:15:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+        "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+        "seendate": "2026-07-23T05:15:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
         "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
         "seendate": "2026-07-23T03:07:01.000Z",
@@ -48,26 +68,6 @@
         "title": "Wounded Gaza journalists call for urgent medical evacuation",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
         "seendate": "2026-07-22T21:36:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza man returns home after family believed he was dead",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
-        "seendate": "2026-07-22T19:59:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza man returns home after family believed he was dead",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
-        "seendate": "2026-07-22T19:59:42.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -231,49 +231,39 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-    "headlineUrl": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
-    "seendate": "2026-07-22T13:45:35.000Z",
-    "articleCount": 3,
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
+    "seendate": "2026-07-23T03:53:36.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
-        "seendate": "2026-07-22T13:45:35.000Z",
-        "source_domain": "npr.org",
+        "title": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
+        "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
+        "seendate": "2026-07-23T03:53:36.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
-        "seendate": "2026-07-22T13:45:35.000Z",
-        "source_domain": "npr.org",
+        "title": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
+        "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
+        "seendate": "2026-07-23T03:53:36.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
-        "seendate": "2026-07-22T13:45:35.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
+        "source_category": "humanitarian"
       }
     ]
   },
