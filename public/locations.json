@@ -77,24 +77,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
-    "seendate": "2026-07-23T13:06:35.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "US government cancels subpoena against three New York Times reporters",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss",
+    "seendate": "2026-07-23T20:46:17.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
-        "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
-        "seendate": "2026-07-23T13:06:35.000Z",
+        "title": "US government cancels subpoena against three New York Times reporters",
+        "url": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss",
+        "seendate": "2026-07-23T20:46:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -102,9 +102,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
-        "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
-        "seendate": "2026-07-23T13:06:35.000Z",
+        "title": "US government cancels subpoena against three New York Times reporters",
+        "url": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss",
+        "seendate": "2026-07-23T20:46:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
