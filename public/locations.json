@@ -6,15 +6,55 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
-    "seendate": "2026-07-23T08:57:18.000Z",
+    "headline": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+    "seendate": "2026-07-23T13:06:35.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+        "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+        "seendate": "2026-07-23T13:06:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+        "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+        "seendate": "2026-07-23T13:06:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel releases 35 detainees from Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss",
+        "seendate": "2026-07-23T11:36:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel releases 35 detainees from Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss",
+        "seendate": "2026-07-23T11:36:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
         "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
         "seendate": "2026-07-23T08:57:18.000Z",
@@ -48,321 +88,6 @@
         "title": "Photos: Gaza’s shelter crisis",
         "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
         "seendate": "2026-07-23T08:12:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
-        "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
-        "seendate": "2026-07-23T05:15:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
-        "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
-        "seendate": "2026-07-23T05:15:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
-        "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
-        "seendate": "2026-07-23T03:07:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
-        "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
-        "seendate": "2026-07-23T03:07:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-22T14:14:16.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T14:14:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T14:14:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T14:14:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T14:14:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T14:14:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T14:14:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Modelling scout linked to Epstein found dead in Paris",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-22T18:21:55.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T18:21:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T18:21:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T18:21:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T18:21:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T18:21:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-22T18:21:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "&apos;New York Times&apos; alleges White House abuses legal system to intimidate reporters",
-    "headlineUrl": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
-    "seendate": "2026-07-23T09:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "&apos;New York Times&apos; alleges White House abuses legal system to intimidate reporters",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
-        "seendate": "2026-07-23T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "&apos;New York Times&apos; alleges White House abuses legal system to intimidate reporters",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
-        "seendate": "2026-07-23T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "&apos;New York Times&apos; alleges White House abuses legal system to intimidate reporters",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
-        "seendate": "2026-07-23T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
-    "seendate": "2026-07-23T09:18:37.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-        "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
-        "seendate": "2026-07-23T09:18:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-        "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
-        "seendate": "2026-07-23T09:18:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Manila",
-    "name": "Manila",
-    "country": "PH",
-    "lat": 14.6,
-    "lon": 120.98,
-    "timezone": "Asia/Manila",
-    "headline": "Top US and Russian diplomats discuss Ukraine war in Manila",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
-    "seendate": "2026-07-23T07:18:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
-        "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
-        "seendate": "2026-07-23T07:18:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
-        "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
-        "seendate": "2026-07-23T07:18:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -378,31 +103,145 @@
     "lat": 36.82,
     "lon": 10.17,
     "timezone": "Africa/Tunis",
-    "headline": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
-    "seendate": "2026-07-23T03:53:36.000Z",
-    "articleCount": 2,
+    "headline": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-23T13:44:19.000Z",
+    "articleCount": 6,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
-        "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
-        "seendate": "2026-07-23T03:53:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-23T13:44:19.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
-        "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
-        "seendate": "2026-07-23T03:53:36.000Z",
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-23T13:44:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-23T13:44:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-23T13:44:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-23T13:44:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-23T13:44:19.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Baghdad",
+    "name": "Baghdad",
+    "country": "IQ",
+    "lat": 33.31,
+    "lon": 44.36,
+    "timezone": "Asia/Baghdad",
+    "headline": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
+    "seendate": "2026-07-23T11:53:11.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+        "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
+        "seendate": "2026-07-23T11:53:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+        "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
+        "seendate": "2026-07-23T11:53:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "More than 4,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
+    "seendate": "2026-07-23T09:18:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "More than 4,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
+        "seendate": "2026-07-23T09:18:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "More than 4,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
+        "seendate": "2026-07-23T09:18:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
