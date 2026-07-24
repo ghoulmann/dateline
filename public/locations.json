@@ -1,5 +1,103 @@
 [
   {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-24T11:50:17.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict",
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-24T11:50:17.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-24T11:50:17.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-24T11:50:17.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-24T11:50:17.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-24T11:50:17.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-24T11:50:17.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
+        "url": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
+        "seendate": "2026-07-24T07:58:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
+        "url": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
+        "seendate": "2026-07-24T07:58:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -8,7 +106,7 @@
     "timezone": "Asia/Singapore",
     "headline": "Indonesian babies were trafficked to Singapore. What happens to them now?",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-23T23:19:58.000Z",
+    "seendate": "2026-07-24T13:33:06.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -17,7 +115,7 @@
       {
         "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
         "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T23:19:58.000Z",
+        "seendate": "2026-07-24T13:33:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -27,7 +125,7 @@
       {
         "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
         "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T23:19:58.000Z",
+        "seendate": "2026-07-24T13:33:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -37,7 +135,7 @@
       {
         "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
         "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T23:19:58.000Z",
+        "seendate": "2026-07-24T13:33:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -47,7 +145,7 @@
       {
         "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
         "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T23:19:58.000Z",
+        "seendate": "2026-07-24T13:33:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -57,7 +155,7 @@
       {
         "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
         "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T23:19:58.000Z",
+        "seendate": "2026-07-24T13:33:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -67,7 +165,7 @@
       {
         "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
         "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T23:19:58.000Z",
+        "seendate": "2026-07-24T13:33:06.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -154,71 +252,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Justice Dept. drops &apos;New York Times&apos; subpoenas under pressure from judge",
-    "headlineUrl": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-    "seendate": "2026-07-24T03:31:19.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Justice Dept. drops &apos;New York Times&apos; subpoenas under pressure from judge",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-        "seendate": "2026-07-24T03:31:19.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Justice Dept. drops &apos;New York Times&apos; subpoenas under pressure from judge",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-        "seendate": "2026-07-24T03:31:19.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Justice Dept. drops &apos;New York Times&apos; subpoenas under pressure from judge",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-        "seendate": "2026-07-24T03:31:19.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-    "seendate": "2026-07-24T07:58:18.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+    "seendate": "2026-07-24T11:45:04.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-        "url": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-        "seendate": "2026-07-24T07:58:18.000Z",
+        "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+        "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+        "seendate": "2026-07-24T11:45:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -226,46 +277,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-        "url": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-        "seendate": "2026-07-24T07:58:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-    "seendate": "2026-07-24T06:48:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-        "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-        "seendate": "2026-07-24T06:48:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-        "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-        "seendate": "2026-07-24T06:48:07.000Z",
+        "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+        "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+        "seendate": "2026-07-24T11:45:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -308,6 +322,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
+    "headlineUrl": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
+    "seendate": "2026-07-24T13:00:03.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
+        "url": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
+        "seendate": "2026-07-24T13:00:03.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
