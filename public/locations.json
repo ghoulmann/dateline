@@ -1,103 +1,5 @@
 [
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-24T11:50:17.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict",
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T11:50:17.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T11:50:17.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T11:50:17.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T11:50:17.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T11:50:17.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T11:50:17.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-        "url": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-        "seendate": "2026-07-24T07:58:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-        "url": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-        "seendate": "2026-07-24T07:58:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -175,101 +77,45 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-23T13:44:19.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Life without refrigerators: Gaza residents fight heat and food spoilage",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
+    "seendate": "2026-07-24T16:32:35.000Z",
+    "articleCount": 4,
     "categories": [
+      "climate-watch",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T13:44:19.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
+        "url": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
+        "seendate": "2026-07-24T16:32:35.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T13:44:19.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
+        "url": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
+        "seendate": "2026-07-24T16:32:35.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T13:44:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T13:44:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T13:44:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-23T13:44:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-    "seendate": "2026-07-24T11:45:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-        "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-        "seendate": "2026-07-24T11:45:04.000Z",
+        "title": "Israel builds Gaza barrier as politicians push for settlements",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
+        "seendate": "2026-07-24T15:27:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -277,51 +123,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-        "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-        "seendate": "2026-07-24T11:45:04.000Z",
+        "title": "Israel builds Gaza barrier as politicians push for settlements",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
+        "seendate": "2026-07-24T15:27:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
-    "headlineUrl": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-    "seendate": "2026-07-22T16:23:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
-        "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-        "seendate": "2026-07-22T16:23:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
-        "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-        "seendate": "2026-07-22T16:23:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -332,14 +141,34 @@
     "lat": 34.05,
     "lon": -118.24,
     "timezone": "America/Los_Angeles",
-    "headline": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
-    "headlineUrl": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
-    "seendate": "2026-07-24T13:00:03.000Z",
-    "articleCount": 1,
+    "headline": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
+    "seendate": "2026-07-24T16:07:17.000Z",
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
+        "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
+        "seendate": "2026-07-24T16:07:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
+        "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
+        "seendate": "2026-07-24T16:07:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
         "url": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
