@@ -1,84 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-    "seendate": "2026-07-24T18:01:18.000Z",
-    "articleCount": 6,
-    "categories": [
-      "humanitarian",
-      "climate-watch",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-        "seendate": "2026-07-24T18:01:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-        "seendate": "2026-07-24T18:01:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
-        "url": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
-        "seendate": "2026-07-24T16:32:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
-        "url": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
-        "seendate": "2026-07-24T16:32:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel builds Gaza barrier as politicians push for settlements",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
-        "seendate": "2026-07-24T15:27:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel builds Gaza barrier as politicians push for settlements",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
-        "seendate": "2026-07-24T15:27:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -87,7 +8,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-24T18:51:17.000Z",
+    "seendate": "2026-07-25T00:06:53.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -96,7 +17,7 @@
       {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T18:51:17.000Z",
+        "seendate": "2026-07-25T00:06:53.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -106,7 +27,7 @@
       {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T18:51:17.000Z",
+        "seendate": "2026-07-25T00:06:53.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -116,7 +37,7 @@
       {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T18:51:17.000Z",
+        "seendate": "2026-07-25T00:06:53.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -126,7 +47,7 @@
       {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T18:51:17.000Z",
+        "seendate": "2026-07-25T00:06:53.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -136,7 +57,7 @@
       {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T18:51:17.000Z",
+        "seendate": "2026-07-25T00:06:53.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -146,7 +67,7 @@
       {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T18:51:17.000Z",
+        "seendate": "2026-07-25T00:06:53.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -233,71 +154,24 @@
     ]
   },
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
-    "seendate": "2026-07-24T16:07:17.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
-        "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
-        "seendate": "2026-07-24T16:07:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
-        "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
-        "seendate": "2026-07-24T16:07:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
-        "url": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
-        "seendate": "2026-07-24T13:00:03.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
-    "seendate": "2026-07-24T18:15:01.000Z",
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+    "seendate": "2026-07-25T01:09:01.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-        "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
-        "seendate": "2026-07-24T18:15:01.000Z",
+        "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+        "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+        "seendate": "2026-07-25T01:09:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -305,9 +179,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-        "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
-        "seendate": "2026-07-24T18:15:01.000Z",
+        "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+        "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+        "seendate": "2026-07-25T01:09:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -350,6 +224,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
+    "headlineUrl": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
+    "seendate": "2026-07-24T13:00:03.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
+        "url": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
+        "seendate": "2026-07-24T13:00:03.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
