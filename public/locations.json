@@ -6,14 +6,54 @@
     "lat": 52.52,
     "lon": 13.4,
     "timezone": "Europe/Berlin",
-    "headline": "What we know so far about the Berlin Pride ramming attack",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-26T13:40:29.000Z",
+    "headline": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
+    "headlineUrl": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+    "seendate": "2026-07-26T15:09:44.000Z",
     "articleCount": 21,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T15:09:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T15:09:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "seendate": "2026-07-26T13:46:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "seendate": "2026-07-26T13:46:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "What we know so far about the Berlin Pride ramming attack",
         "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
@@ -75,49 +115,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-26T13:19:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-26T13:19:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T09:59:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T09:59:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
         "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
         "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T08:58:02.000Z",
+        "seendate": "2026-07-26T08:58:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -127,7 +127,7 @@
       {
         "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
         "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T08:58:02.000Z",
+        "seendate": "2026-07-26T08:58:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -381,6 +381,63 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel carries out double tap strike in central Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+    "seendate": "2026-07-26T14:47:02.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel carries out double tap strike in central Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+        "seendate": "2026-07-26T14:47:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel carries out double tap strike in central Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+        "seendate": "2026-07-26T14:47:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+        "seendate": "2026-07-26T13:51:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+        "seendate": "2026-07-26T13:51:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -428,6 +485,43 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia grapples with five years of crisis since Saied’s power grab",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
+    "seendate": "2026-07-26T14:39:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
+        "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
+        "seendate": "2026-07-26T14:39:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
+        "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
+        "seendate": "2026-07-26T14:39:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Miami",
     "name": "Miami",
     "country": "US",
@@ -456,80 +550,6 @@
         "title": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
         "url": "https://www.aljazeera.com/sports/2026/7/26/casemiro-makes-inter-miami-debut-despite-mls-investigation-into-transfer?traffic_source=rss",
         "seendate": "2026-07-26T12:20:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Thousands rally against Tunisia’s president five years after power grab",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
-    "seendate": "2026-07-26T08:55:46.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Thousands rally against Tunisia’s president five years after power grab",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
-        "seendate": "2026-07-26T08:55:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands rally against Tunisia’s president five years after power grab",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
-        "seendate": "2026-07-26T08:55:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-    "seendate": "2026-07-26T08:55:10.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-        "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-        "seendate": "2026-07-26T08:55:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-        "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-        "seendate": "2026-07-26T08:55:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
