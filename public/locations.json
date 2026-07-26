@@ -1,5 +1,212 @@
 [
   {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+    "headlineUrl": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+    "seendate": "2026-07-26T09:59:47.000Z",
+    "articleCount": 19,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T09:59:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T09:59:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T09:18:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T09:18:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T09:18:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T09:18:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T09:18:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T09:18:33.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+        "seendate": "2026-07-26T08:58:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+        "seendate": "2026-07-26T08:58:02.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T08:14:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T08:14:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T08:14:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T08:14:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T08:14:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T08:14:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "seendate": "2026-07-26T01:10:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "seendate": "2026-07-26T01:10:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "seendate": "2026-07-26T01:10:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -97,93 +304,6 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-    "headlineUrl": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-    "seendate": "2026-07-26T06:40:20.000Z",
-    "articleCount": 7,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T06:40:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T06:40:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-        "seendate": "2026-07-26T01:10:56.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-        "seendate": "2026-07-26T01:10:56.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-        "seendate": "2026-07-26T01:10:56.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
-        "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-        "seendate": "2026-07-25T22:31:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
-        "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-        "seendate": "2026-07-25T22:31:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -261,6 +381,63 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Thousands rally against Tunisia’s president five years after power grab",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+    "seendate": "2026-07-26T08:55:46.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Thousands rally against Tunisia’s president five years after power grab",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+        "seendate": "2026-07-26T08:55:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thousands rally against Tunisia’s president five years after power grab",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+        "seendate": "2026-07-26T08:55:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
+        "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
+        "seendate": "2026-07-26T04:14:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
+        "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
+        "seendate": "2026-07-26T04:14:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tel Aviv",
     "name": "Tel Aviv",
     "country": "IL",
@@ -318,81 +495,71 @@
     ]
   },
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate change is now threatening a pillar of childhood: summer break",
+    "headlineUrl": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+    "seendate": "2026-07-26T09:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Climate change is now threatening a pillar of childhood: summer break",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+        "seendate": "2026-07-26T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Climate change is now threatening a pillar of childhood: summer break",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+        "seendate": "2026-07-26T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Climate change is now threatening a pillar of childhood: summer break",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+        "seendate": "2026-07-26T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli forces target Gaza’s Al-Aqsa hospital",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-    "seendate": "2026-07-25T22:07:36.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-        "seendate": "2026-07-25T22:07:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-        "seendate": "2026-07-25T22:07:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Head of police in northern Gaza killed in Israeli strike",
-        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-        "seendate": "2026-07-25T20:00:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Head of police in northern Gaza killed in Israeli strike",
-        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-        "seendate": "2026-07-25T20:00:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
-    "seendate": "2026-07-26T04:14:23.000Z",
+    "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+    "seendate": "2026-07-26T08:55:10.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
-        "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
-        "seendate": "2026-07-26T04:14:23.000Z",
+        "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+        "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+        "seendate": "2026-07-26T08:55:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -400,46 +567,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
-        "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
-        "seendate": "2026-07-26T04:14:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-    "seendate": "2026-07-26T00:00:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-        "seendate": "2026-07-26T00:00:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-        "seendate": "2026-07-26T00:00:25.000Z",
+        "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+        "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+        "seendate": "2026-07-26T08:55:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
