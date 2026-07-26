@@ -1,5 +1,102 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+    "seendate": "2026-07-26T03:49:29.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+        "seendate": "2026-07-26T03:49:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+        "seendate": "2026-07-26T03:49:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-25T00:06:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-25T00:06:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-25T00:06:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-25T00:06:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-25T00:06:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-25T00:06:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Berlin",
     "name": "Berlin",
     "country": "DE",
@@ -8,7 +105,7 @@
     "timezone": "Europe/Berlin",
     "headline": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
     "headlineUrl": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-    "seendate": "2026-07-26T03:30:29.000Z",
+    "seendate": "2026-07-26T06:40:20.000Z",
     "articleCount": 7,
     "categories": [
       "armed-conflict"
@@ -17,7 +114,7 @@
       {
         "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
         "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T03:30:29.000Z",
+        "seendate": "2026-07-26T06:40:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +124,7 @@
       {
         "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
         "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T03:30:29.000Z",
+        "seendate": "2026-07-26T06:40:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -65,7 +162,7 @@
         "source_category": "culture-wars"
       },
       {
-        "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+        "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
         "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
         "seendate": "2026-07-25T22:31:19.000Z",
         "source_domain": "aljazeera.com",
@@ -75,7 +172,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+        "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
         "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
         "seendate": "2026-07-25T22:31:19.000Z",
         "source_domain": "aljazeera.com",
@@ -83,83 +180,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-25T00:06:53.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -355,13 +375,50 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
+    "seendate": "2026-07-26T04:14:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
+        "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
+        "seendate": "2026-07-26T04:14:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
+        "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
+        "seendate": "2026-07-26T04:14:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+    "headline": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
     "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
     "seendate": "2026-07-26T00:00:25.000Z",
     "articleCount": 2,
@@ -370,7 +427,7 @@
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
         "seendate": "2026-07-26T00:00:25.000Z",
         "source_domain": "aljazeera.com",
@@ -380,7 +437,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
         "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
         "seendate": "2026-07-26T00:00:25.000Z",
         "source_domain": "aljazeera.com",
