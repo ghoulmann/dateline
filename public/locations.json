@@ -1,5 +1,92 @@
 [
   {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+    "headlineUrl": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+    "seendate": "2026-07-26T03:30:29.000Z",
+    "articleCount": 7,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+        "seendate": "2026-07-26T03:30:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+        "seendate": "2026-07-26T03:30:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "seendate": "2026-07-26T01:10:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "seendate": "2026-07-26T01:10:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "seendate": "2026-07-26T01:10:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+        "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+        "seendate": "2026-07-25T22:31:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+        "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+        "seendate": "2026-07-25T22:31:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -77,24 +164,24 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-24T13:33:06.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Would you pay $58.5m to live in this iconic New York building?",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-26T00:05:03.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T13:33:06.000Z",
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -102,9 +189,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T13:33:06.000Z",
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -112,9 +199,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T13:33:06.000Z",
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +209,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T13:33:06.000Z",
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +219,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T13:33:06.000Z",
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,88 +229,14 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-24T13:33:06.000Z",
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-    "seendate": "2026-07-25T20:00:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-        "seendate": "2026-07-25T20:00:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-        "seendate": "2026-07-25T20:00:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-    "seendate": "2026-07-25T14:20:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-        "url": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-        "seendate": "2026-07-25T14:20:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-        "url": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-        "seendate": "2026-07-25T14:20:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -234,14 +247,34 @@
     "lat": 32.09,
     "lon": 34.77,
     "timezone": "Asia/Jerusalem",
-    "headline": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
-    "headlineUrl": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
-    "seendate": "2026-07-24T19:28:52.000Z",
-    "articleCount": 2,
+    "headline": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+    "seendate": "2026-07-26T01:52:56.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+        "seendate": "2026-07-26T01:52:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+        "seendate": "2026-07-26T01:52:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
         "url": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
@@ -261,6 +294,100 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli forces target Gaza’s Al-Aqsa hospital",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+    "seendate": "2026-07-25T22:07:36.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+        "seendate": "2026-07-25T22:07:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+        "seendate": "2026-07-25T22:07:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Head of police in northern Gaza killed in Israeli strike",
+        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+        "seendate": "2026-07-25T20:00:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Head of police in northern Gaza killed in Israeli strike",
+        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+        "seendate": "2026-07-25T20:00:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+    "seendate": "2026-07-26T00:00:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+        "seendate": "2026-07-26T00:00:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+        "seendate": "2026-07-26T00:00:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
