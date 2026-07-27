@@ -6,15 +6,35 @@
     "lat": 52.52,
     "lon": 13.4,
     "timezone": "Europe/Berlin",
-    "headline": "What we know so far about the Berlin Pride ramming attack",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-26T20:34:23.000Z",
+    "headline": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+    "seendate": "2026-07-26T22:00:25.000Z",
     "articleCount": 29,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T22:00:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T22:00:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
         "title": "What we know so far about the Berlin Pride ramming attack",
         "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-26T20:34:23.000Z",
@@ -148,26 +168,6 @@
         "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
         "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
         "seendate": "2026-07-26T19:10:51.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T19:07:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T19:07:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -481,20 +481,117 @@
     ]
   },
   {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-27T01:54:30.000Z",
+    "articleCount": 6,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T01:54:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T01:54:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T01:54:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T01:54:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T01:54:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T01:54:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-    "headlineUrl": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-    "seendate": "2026-07-26T17:16:06.000Z",
-    "articleCount": 3,
+    "headline": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+    "seendate": "2026-07-27T00:00:00.000Z",
+    "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+        "seendate": "2026-07-27T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+        "seendate": "2026-07-27T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
         "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
@@ -524,6 +621,63 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli government nods to international stabilisation force in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-26T21:10:07.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli government nods to international stabilisation force in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-26T21:10:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli government nods to international stabilisation force in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-26T21:10:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinians hope international peace force can rebuild Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
+        "seendate": "2026-07-26T21:01:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians hope international peace force can rebuild Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
+        "seendate": "2026-07-26T21:01:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -575,80 +729,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel carries out double tap strike in central Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-    "seendate": "2026-07-26T14:47:02.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel carries out double tap strike in central Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-        "seendate": "2026-07-26T14:47:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel carries out double tap strike in central Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-        "seendate": "2026-07-26T14:47:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia grapples with five years of crisis since Saied’s power grab",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-    "seendate": "2026-07-26T14:39:30.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-        "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-        "seendate": "2026-07-26T14:39:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-        "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-        "seendate": "2026-07-26T14:39:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Tel Aviv",
     "name": "Tel Aviv",
     "country": "IL",
@@ -682,33 +762,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
-    "headlineUrl": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
-    "seendate": "2026-07-24T13:00:03.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "&apos;Ransom Canyon&apos; star Josh Duhamel says he&apos;d rather put money into North Dakota after selling Los Angeles home",
-        "url": "https://www.foxnews.com/entertainment/ransom-canyon-star-josh-duhamel-says-hed-rather-put-money-north-dakota-after-selling-los-angeles-home",
-        "seendate": "2026-07-24T13:00:03.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
