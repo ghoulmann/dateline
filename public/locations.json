@@ -6,14 +6,55 @@
     "lat": 52.52,
     "lon": 13.4,
     "timezone": "Europe/Berlin",
-    "headline": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-    "seendate": "2026-07-26T22:00:25.000Z",
-    "articleCount": 27,
+    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+    "seendate": "2026-07-27T11:08:50.000Z",
+    "articleCount": 28,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "culture-wars"
     ],
     "articles": [
+      {
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T11:08:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T11:08:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T10:24:23.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T10:24:23.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
         "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
@@ -157,7 +198,7 @@
       {
         "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
         "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-26T19:10:51.000Z",
+        "seendate": "2026-07-26T19:10:52.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -167,7 +208,7 @@
       {
         "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
         "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-26T19:10:51.000Z",
+        "seendate": "2026-07-26T19:10:52.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -253,135 +294,28 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
-        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-        "seendate": "2026-07-26T01:10:56.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
-        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-        "seendate": "2026-07-26T01:10:56.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
-        "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-        "seendate": "2026-07-26T01:10:56.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-25T00:06:53.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-25T00:06:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
+    "id": "Seattle",
+    "name": "Seattle",
     "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Would you pay $58.5m to live in this iconic New York building?",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-26T00:05:03.000Z",
-    "articleCount": 6,
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-27T10:46:50.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
+        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T10:46:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -389,9 +323,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
+        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T10:46:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -399,9 +333,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
+        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T10:46:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -409,9 +343,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
+        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T10:46:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -419,9 +353,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
+        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T10:46:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -429,14 +363,34 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
+        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T10:46:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+        "seendate": "2026-07-27T04:07:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+        "seendate": "2026-07-27T04:07:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -518,6 +472,164 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+    "headlineUrl": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+    "seendate": "2026-07-26T17:16:06.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+        "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+        "seendate": "2026-07-26T17:16:06.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+        "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+        "seendate": "2026-07-26T17:16:06.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+        "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+        "seendate": "2026-07-26T17:16:06.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
+    "seendate": "2026-07-27T09:00:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
+        "url": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
+        "seendate": "2026-07-27T09:00:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
+        "url": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
+        "seendate": "2026-07-27T09:00:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Greta Thunberg joins London rally in support of Indian students",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
+    "seendate": "2026-07-27T08:43:47.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greta Thunberg joins London rally in support of Indian students",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
+        "seendate": "2026-07-27T08:43:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Greta Thunberg joins London rally in support of Indian students",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
+        "seendate": "2026-07-27T08:43:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+    "seendate": "2026-07-27T08:43:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+        "seendate": "2026-07-27T08:43:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+        "seendate": "2026-07-27T08:43:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -527,7 +639,7 @@
     "headline": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
     "headlineUrl": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
     "seendate": "2026-07-27T05:47:46.000Z",
-    "articleCount": 5,
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
@@ -549,217 +661,6 @@
         "source_domain": "aljazeera.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Climate change is now threatening a pillar of childhood: summer break",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-        "seendate": "2026-07-26T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Climate change is now threatening a pillar of childhood: summer break",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-        "seendate": "2026-07-26T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Climate change is now threatening a pillar of childhood: summer break",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-        "seendate": "2026-07-26T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-    "seendate": "2026-07-27T00:00:00.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-        "seendate": "2026-07-27T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-        "seendate": "2026-07-27T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-        "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-        "seendate": "2026-07-26T17:16:06.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-        "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-        "seendate": "2026-07-26T17:16:06.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-        "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-        "seendate": "2026-07-26T17:16:06.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Khartoum",
-    "name": "Khartoum",
-    "country": "SD",
-    "lat": 15.55,
-    "lon": 32.53,
-    "timezone": "Africa/Khartoum",
-    "headline": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
-    "seendate": "2026-07-27T04:21:37.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
-        "seendate": "2026-07-27T04:21:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
-        "seendate": "2026-07-27T04:21:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
-        "seendate": "2026-07-27T04:00:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
-        "seendate": "2026-07-27T04:00:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli government nods to international stabilisation force in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-    "seendate": "2026-07-26T21:10:07.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli government nods to international stabilisation force in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-26T21:10:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli government nods to international stabilisation force in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-26T21:10:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians hope international peace force can rebuild Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-        "seendate": "2026-07-26T21:01:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians hope international peace force can rebuild Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-        "seendate": "2026-07-26T21:01:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -803,24 +704,24 @@
     ]
   },
   {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
-    "seendate": "2026-07-27T04:07:57.000Z",
+    "id": "Khartoum",
+    "name": "Khartoum",
+    "country": "SD",
+    "lat": 15.55,
+    "lon": 32.53,
+    "timezone": "Africa/Khartoum",
+    "headline": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+    "seendate": "2026-07-27T04:21:37.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
-        "seendate": "2026-07-27T04:07:57.000Z",
+        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+        "seendate": "2026-07-27T04:21:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -828,14 +729,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
-        "seendate": "2026-07-27T04:07:57.000Z",
+        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+        "seendate": "2026-07-27T04:21:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "In Washington, Netanyahu Faces a Delicate Balancing Act",
+    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
+    "seendate": "2026-07-27T08:56:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
+        "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
+        "seendate": "2026-07-27T08:56:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
+        "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
+        "seendate": "2026-07-27T08:56:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
