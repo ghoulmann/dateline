@@ -6,39 +6,39 @@
     "lat": 52.52,
     "lon": 13.4,
     "timezone": "Europe/Berlin",
-    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-    "seendate": "2026-07-27T11:08:50.000Z",
-    "articleCount": 28,
+    "headline": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+    "seendate": "2026-07-27T13:33:20.000Z",
+    "articleCount": 34,
     "categories": [
       "armed-conflict",
       "culture-wars"
     ],
     "articles": [
       {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T11:08:50.000Z",
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T13:33:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "culture-wars"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T11:08:50.000Z",
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T13:33:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "culture-wars"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-        "seendate": "2026-07-27T10:24:23.000Z",
+        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "seendate": "2026-07-27T12:54:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -46,12 +46,92 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-        "seendate": "2026-07-27T10:24:23.000Z",
+        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "seendate": "2026-07-27T12:54:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T12:33:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T12:33:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T12:33:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T12:33:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T12:33:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T12:33:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T11:08:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T11:08:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
         ],
         "source_category": "democracy-crisis"
       },
@@ -194,26 +274,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-26T19:10:52.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-26T19:10:52.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       },
       {
         "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
@@ -304,14 +364,64 @@
     "lat": 47.61,
     "lon": -122.33,
     "timezone": "America/Los_Angeles",
-    "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-27T10:46:50.000Z",
-    "articleCount": 8,
+    "headline": "Three killed in suspected shootout in US city of Seattle, police say",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+    "seendate": "2026-07-27T12:49:37.000Z",
+    "articleCount": 11,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Three killed in suspected shootout in US city of Seattle, police say",
+        "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+        "seendate": "2026-07-27T12:49:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three killed in suspected shootout in US city of Seattle, police say",
+        "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+        "seendate": "2026-07-27T12:49:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+        "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+        "seendate": "2026-07-27T11:45:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+        "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+        "seendate": "2026-07-27T11:45:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+        "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+        "seendate": "2026-07-27T11:45:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
         "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
@@ -371,11 +481,29 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
+    "seendate": "2026-07-27T12:58:20.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
       {
-        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
-        "seendate": "2026-07-27T04:07:57.000Z",
+        "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+        "url": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
+        "seendate": "2026-07-27T12:58:20.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -383,9 +511,69 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
-        "seendate": "2026-07-27T04:07:57.000Z",
+        "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+        "url": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
+        "seendate": "2026-07-27T12:58:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza student tops national exams despite war and displacement",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
+        "seendate": "2026-07-27T12:41:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza student tops national exams despite war and displacement",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
+        "seendate": "2026-07-27T12:41:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Students and staff work to bring Islamic University of Gaza back to life",
+        "url": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
+        "seendate": "2026-07-27T12:26:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Students and staff work to bring Islamic University of Gaza back to life",
+        "url": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
+        "seendate": "2026-07-27T12:26:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+        "seendate": "2026-07-27T08:43:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+        "seendate": "2026-07-27T08:43:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -519,6 +707,43 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Five years after Saied’s power grab, Tunisians are no better off",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+    "seendate": "2026-07-27T14:03:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Five years after Saied’s power grab, Tunisians are no better off",
+        "url": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+        "seendate": "2026-07-27T14:03:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Five years after Saied’s power grab, Tunisians are no better off",
+        "url": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+        "seendate": "2026-07-27T14:03:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
@@ -593,154 +818,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
-    "seendate": "2026-07-27T08:43:15.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
-        "seendate": "2026-07-27T08:43:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
-        "seendate": "2026-07-27T08:43:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
-    "seendate": "2026-07-27T05:47:46.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-        "url": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
-        "seendate": "2026-07-27T05:47:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-        "url": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
-        "seendate": "2026-07-27T05:47:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tripoli",
-    "name": "Tripoli",
-    "country": "LY",
-    "lat": 32.9,
-    "lon": 13.18,
-    "timezone": "Africa/Tripoli",
-    "headline": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
-    "seendate": "2026-07-27T04:49:22.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-        "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
-        "seendate": "2026-07-27T04:49:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-        "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
-        "seendate": "2026-07-27T04:49:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Khartoum",
-    "name": "Khartoum",
-    "country": "SD",
-    "lat": 15.55,
-    "lon": 32.53,
-    "timezone": "Africa/Khartoum",
-    "headline": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
-    "seendate": "2026-07-27T04:21:37.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
-        "seendate": "2026-07-27T04:21:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
-        "seendate": "2026-07-27T04:21:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -749,7 +826,7 @@
     "timezone": "America/New_York",
     "headline": "In Washington, Netanyahu Faces a Delicate Balancing Act",
     "headlineUrl": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-    "seendate": "2026-07-27T08:56:13.000Z",
+    "seendate": "2026-07-27T13:31:30.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -758,7 +835,7 @@
       {
         "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
         "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-        "seendate": "2026-07-27T08:56:13.000Z",
+        "seendate": "2026-07-27T13:31:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -768,7 +845,7 @@
       {
         "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
         "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-        "seendate": "2026-07-27T08:56:13.000Z",
+        "seendate": "2026-07-27T13:31:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
