@@ -9,7 +9,7 @@
     "headline": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
     "headlineUrl": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
     "seendate": "2026-07-26T22:00:25.000Z",
-    "articleCount": 29,
+    "articleCount": 27,
     "categories": [
       "armed-conflict"
     ],
@@ -173,26 +173,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
-        "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
-        "seendate": "2026-07-26T17:51:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
-        "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
-        "seendate": "2026-07-26T17:51:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
@@ -303,103 +283,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
-    "seendate": "2026-07-26T19:13:02.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
-        "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
-        "seendate": "2026-07-26T19:13:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
-        "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
-        "seendate": "2026-07-26T19:13:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Would you pay $58.5m to live in this iconic New York building?",
-        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-26T00:05:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -481,13 +364,90 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Would you pay $58.5m to live in this iconic New York building?",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-26T00:05:03.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Would you pay $58.5m to live in this iconic New York building?",
+        "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-26T00:05:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
     "lat": 22.3,
     "lon": 114.18,
     "timezone": "Asia/Hong_Kong",
-    "headline": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+    "headline": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-07-27T01:54:30.000Z",
     "articleCount": 6,
@@ -496,7 +456,7 @@
     ],
     "articles": [
       {
-        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
         "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-27T01:54:30.000Z",
         "source_domain": "bbc.co.uk",
@@ -506,7 +466,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
         "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-27T01:54:30.000Z",
         "source_domain": "bbc.co.uk",
@@ -516,7 +476,7 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
         "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-27T01:54:30.000Z",
         "source_domain": "bbc.co.uk",
@@ -526,7 +486,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
         "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-27T01:54:30.000Z",
         "source_domain": "bbc.co.uk",
@@ -536,7 +496,7 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
         "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-27T01:54:30.000Z",
         "source_domain": "bbc.co.uk",
@@ -546,7 +506,7 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
         "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-27T01:54:30.000Z",
         "source_domain": "bbc.co.uk",
@@ -554,6 +514,73 @@
           "natural-disaster"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
+    "seendate": "2026-07-27T05:47:46.000Z",
+    "articleCount": 5,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
+        "url": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
+        "seendate": "2026-07-27T05:47:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
+        "url": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
+        "seendate": "2026-07-27T05:47:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Climate change is now threatening a pillar of childhood: summer break",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+        "seendate": "2026-07-26T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Climate change is now threatening a pillar of childhood: summer break",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+        "seendate": "2026-07-26T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Climate change is now threatening a pillar of childhood: summer break",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+        "seendate": "2026-07-26T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -625,6 +652,63 @@
     ]
   },
   {
+    "id": "Khartoum",
+    "name": "Khartoum",
+    "country": "SD",
+    "lat": 15.55,
+    "lon": 32.53,
+    "timezone": "Africa/Khartoum",
+    "headline": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+    "seendate": "2026-07-27T04:21:37.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+        "seendate": "2026-07-27T04:21:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+        "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+        "seendate": "2026-07-27T04:21:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
+        "seendate": "2026-07-27T04:00:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
+        "seendate": "2026-07-27T04:00:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -682,49 +766,76 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate change is now threatening a pillar of childhood: summer break",
-    "headlineUrl": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-    "seendate": "2026-07-26T09:00:00.000Z",
-    "articleCount": 3,
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
+    "seendate": "2026-07-27T04:49:22.000Z",
+    "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Climate change is now threatening a pillar of childhood: summer break",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-        "seendate": "2026-07-26T09:00:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+        "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
+        "seendate": "2026-07-27T04:49:22.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Climate change is now threatening a pillar of childhood: summer break",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-        "seendate": "2026-07-26T09:00:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+        "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
+        "seendate": "2026-07-27T04:49:22.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+    "seendate": "2026-07-27T04:07:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+        "seendate": "2026-07-27T04:07:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Climate change is now threatening a pillar of childhood: summer break",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-        "seendate": "2026-07-26T09:00:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+        "seendate": "2026-07-27T04:07:57.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "humanitarian"
       }
     ]
   },
