@@ -143,7 +143,7 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+    "headline": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
     "headlineUrl": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
     "seendate": "2026-07-28T17:08:29.000Z",
     "articleCount": 11,
@@ -152,7 +152,7 @@
     ],
     "articles": [
       {
-        "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+        "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
         "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
         "seendate": "2026-07-28T17:08:29.000Z",
         "source_domain": "npr.org",
@@ -162,7 +162,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+        "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
         "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
         "seendate": "2026-07-28T17:08:29.000Z",
         "source_domain": "npr.org",
@@ -172,7 +172,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+        "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
         "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
         "seendate": "2026-07-28T17:08:29.000Z",
         "source_domain": "npr.org",
@@ -270,35 +270,15 @@
     "lat": 52.52,
     "lon": 13.4,
     "timezone": "Europe/Berlin",
-    "headline": "German investigators find apparent motive after Berlin Pride attack",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
-    "seendate": "2026-07-28T15:20:43.000Z",
-    "articleCount": 10,
+    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+    "seendate": "2026-07-27T19:39:44.000Z",
+    "articleCount": 8,
     "categories": [
-      "armed-conflict",
-      "culture-wars"
+      "culture-wars",
+      "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "German investigators find apparent motive after Berlin Pride attack",
-        "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
-        "seendate": "2026-07-28T15:20:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "German investigators find apparent motive after Berlin Pride attack",
-        "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
-        "seendate": "2026-07-28T15:20:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
         "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
@@ -459,24 +439,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli soldier runs marathon around Gaza outpost",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
-    "seendate": "2026-07-28T13:18:48.000Z",
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+    "seendate": "2026-07-28T20:41:18.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli soldier runs marathon around Gaza outpost",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
-        "seendate": "2026-07-28T13:18:48.000Z",
+        "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+        "seendate": "2026-07-28T20:41:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -484,9 +464,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli soldier runs marathon around Gaza outpost",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
-        "seendate": "2026-07-28T13:18:48.000Z",
+        "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+        "seendate": "2026-07-28T20:41:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -496,24 +476,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "US walks out on France at UN over North Korea, Russia comparison",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
-    "seendate": "2026-07-28T12:31:15.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+    "seendate": "2026-07-28T20:29:42.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US walks out on France at UN over North Korea, Russia comparison",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
-        "seendate": "2026-07-28T12:31:15.000Z",
+        "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+        "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+        "seendate": "2026-07-28T20:29:42.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -521,9 +501,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US walks out on France at UN over North Korea, Russia comparison",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
-        "seendate": "2026-07-28T12:31:15.000Z",
+        "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+        "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+        "seendate": "2026-07-28T20:29:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+    "seendate": "2026-07-28T18:46:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+        "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+        "seendate": "2026-07-28T18:46:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+        "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+        "seendate": "2026-07-28T18:46:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
