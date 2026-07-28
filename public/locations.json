@@ -137,138 +137,50 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-    "seendate": "2026-07-27T19:39:44.000Z",
-    "articleCount": 10,
-    "categories": [
-      "culture-wars",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T19:39:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T19:39:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-        "seendate": "2026-07-27T15:56:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-        "seendate": "2026-07-27T15:56:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-27T12:54:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-27T12:54:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T22:00:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T22:00:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T08:58:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "seendate": "2026-07-26T08:58:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "What to expect from Zelensky and Netanyahu's visit to Washington",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-28T00:30:11.000Z",
-    "articleCount": 8,
+    "headline": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+    "headlineUrl": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+    "seendate": "2026-07-28T17:08:29.000Z",
+    "articleCount": 11,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+        "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+        "seendate": "2026-07-28T17:08:29.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+        "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+        "seendate": "2026-07-28T17:08:29.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+        "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+        "seendate": "2026-07-28T17:08:29.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
         "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
@@ -343,6 +255,124 @@
         "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
         "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
         "seendate": "2026-07-27T21:11:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "German investigators find apparent motive after Berlin Pride attack",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
+    "seendate": "2026-07-28T15:20:43.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict",
+      "culture-wars"
+    ],
+    "articles": [
+      {
+        "title": "German investigators find apparent motive after Berlin Pride attack",
+        "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
+        "seendate": "2026-07-28T15:20:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "German investigators find apparent motive after Berlin Pride attack",
+        "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
+        "seendate": "2026-07-28T15:20:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T19:39:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T19:39:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T15:56:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T15:56:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "seendate": "2026-07-27T12:54:36.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+        "seendate": "2026-07-27T12:54:36.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T22:00:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+        "seendate": "2026-07-26T22:00:25.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -438,10 +468,9 @@
     "headline": "Israeli soldier runs marathon around Gaza outpost",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
     "seendate": "2026-07-28T13:18:48.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
-      "armed-conflict",
-      "political-repression"
+      "armed-conflict"
     ],
     "articles": [
       {
@@ -461,26 +490,6 @@
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-        "url": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-        "seendate": "2026-07-28T08:25:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-        "url": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-        "seendate": "2026-07-28T08:25:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
         ],
         "source_category": "humanitarian"
       }
@@ -515,43 +524,6 @@
         "title": "US walks out on France at UN over North Korea, Russia comparison",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
         "seendate": "2026-07-28T12:31:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
-    "seendate": "2026-07-28T11:14:27.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-        "url": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
-        "seendate": "2026-07-28T11:14:27.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-        "url": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
-        "seendate": "2026-07-28T11:14:27.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
