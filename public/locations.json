@@ -1,5 +1,142 @@
 [
   {
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-28T11:50:59.000Z",
+    "articleCount": 12,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T11:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T11:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T11:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T11:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T11:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T11:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T23:36:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T23:36:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T23:36:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T23:36:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T23:36:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-27T23:36:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Berlin",
     "name": "Berlin",
     "country": "DE",
@@ -9,10 +146,10 @@
     "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
     "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
     "seendate": "2026-07-27T19:39:44.000Z",
-    "articleCount": 16,
+    "articleCount": 10,
     "categories": [
-      "armed-conflict",
-      "culture-wars"
+      "culture-wars",
+      "armed-conflict"
     ],
     "articles": [
       {
@@ -74,66 +211,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T12:33:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T12:33:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T12:33:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T12:33:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T12:33:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T12:33:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       },
       {
         "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
@@ -184,34 +261,14 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
-    "seendate": "2026-07-28T08:06:35.000Z",
-    "articleCount": 10,
+    "headline": "What to expect from Zelensky and Netanyahu's visit to Washington",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-28T00:30:11.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
-        "seendate": "2026-07-28T08:06:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
-        "seendate": "2026-07-28T08:06:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
         "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
@@ -291,83 +348,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "Number of suspects in fatal Seattle food festival shooting rises to three",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-27T23:36:31.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -455,14 +435,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-    "seendate": "2026-07-28T08:25:07.000Z",
-    "articleCount": 2,
+    "headline": "Israeli soldier runs marathon around Gaza outpost",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+    "seendate": "2026-07-28T13:18:48.000Z",
+    "articleCount": 4,
     "categories": [
+      "armed-conflict",
       "political-repression"
     ],
     "articles": [
+      {
+        "title": "Israeli soldier runs marathon around Gaza outpost",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+        "seendate": "2026-07-28T13:18:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli soldier runs marathon around Gaza outpost",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+        "seendate": "2026-07-28T13:18:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
         "url": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
@@ -486,24 +487,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Mamdani tackles cost of living crisis in New York with 30% discounts",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
-    "seendate": "2026-07-28T05:00:05.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "US walks out on France at UN over North Korea, Russia comparison",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
+    "seendate": "2026-07-28T12:31:15.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mamdani tackles cost of living crisis in New York with 30% discounts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
-        "seendate": "2026-07-28T05:00:05.000Z",
+        "title": "US walks out on France at UN over North Korea, Russia comparison",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
+        "seendate": "2026-07-28T12:31:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -511,9 +512,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mamdani tackles cost of living crisis in New York with 30% discounts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
-        "seendate": "2026-07-28T05:00:05.000Z",
+        "title": "US walks out on France at UN over North Korea, Russia comparison",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
+        "seendate": "2026-07-28T12:31:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+    "seendate": "2026-07-28T11:14:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+        "url": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+        "seendate": "2026-07-28T11:14:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+        "url": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+        "seendate": "2026-07-28T11:14:27.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
