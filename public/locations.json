@@ -1,78 +1,78 @@
 [
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "What to expect from Zelensky and Netanyahu's visit to Washington",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-28T00:30:11.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+    "seendate": "2026-07-29T14:09:09.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T00:30:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+        "seendate": "2026-07-29T14:09:09.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T00:30:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+        "seendate": "2026-07-29T14:09:09.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T00:30:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T00:30:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-29T14:04:49.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T00:30:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-29T14:04:49.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T00:30:11.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+        "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+        "seendate": "2026-07-29T09:51:52.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+        "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+        "seendate": "2026-07-29T09:51:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -113,7 +113,7 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+        "title": "Wildfires spread in Greece and Turkiye as EU chief urges climate action",
         "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
         "seendate": "2026-07-29T10:19:28.000Z",
         "source_domain": "aljazeera.com",
@@ -124,70 +124,13 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+        "title": "Wildfires spread in Greece and Turkiye as EU chief urges climate action",
         "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
         "seendate": "2026-07-29T10:19:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "natural-disaster",
           "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Strikes Mosque in Gaza City",
-    "headlineUrl": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-    "seendate": "2026-07-29T14:04:49.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-29T14:04:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-29T14:04:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-        "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-        "seendate": "2026-07-29T09:51:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-        "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-        "seendate": "2026-07-29T09:51:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -407,7 +350,7 @@
     "timezone": "Europe/Amsterdam",
     "headline": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
     "headlineUrl": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-    "seendate": "2026-07-28T09:00:19.000Z",
+    "seendate": "2026-07-28T09:00:20.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -416,7 +359,7 @@
       {
         "title": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
         "url": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-        "seendate": "2026-07-28T09:00:19.000Z",
+        "seendate": "2026-07-28T09:00:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -426,7 +369,7 @@
       {
         "title": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
         "url": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-        "seendate": "2026-07-28T09:00:19.000Z",
+        "seendate": "2026-07-28T09:00:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -467,43 +410,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-    "seendate": "2026-07-27T19:39:44.000Z",
-    "articleCount": 2,
-    "categories": [
-      "culture-wars"
-    ],
-    "articles": [
-      {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T19:39:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T19:39:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "culture-wars"
         ],
         "source_category": "democracy-crisis"
       }
