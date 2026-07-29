@@ -1,156 +1,39 @@
 [
   {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-28T23:12:09.000Z",
-    "articleCount": 12,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T23:12:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T23:12:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T23:12:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T23:12:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T23:12:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T23:12:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-27T23:36:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
-    "headlineUrl": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
-    "seendate": "2026-07-28T17:08:29.000Z",
-    "articleCount": 11,
+    "headline": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+    "seendate": "2026-07-29T05:07:33.000Z",
+    "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-07-29T05:07:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-07-29T05:07:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
         "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
@@ -264,122 +147,24 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-    "seendate": "2026-07-27T19:39:44.000Z",
-    "articleCount": 8,
-    "categories": [
-      "culture-wars",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T19:39:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-        "seendate": "2026-07-27T19:39:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-        "seendate": "2026-07-27T15:56:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-        "seendate": "2026-07-27T15:56:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-27T12:54:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "seendate": "2026-07-27T12:54:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T22:00:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-        "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "seendate": "2026-07-26T22:00:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong activist allowed to stay in UK after deportation threat",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-28T04:59:36.000Z",
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-07-28T23:12:09.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T04:59:36.000Z",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T23:12:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -387,9 +172,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T04:59:36.000Z",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T23:12:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -397,9 +182,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T04:59:36.000Z",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T23:12:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -407,9 +192,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T04:59:36.000Z",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T23:12:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -417,9 +202,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T04:59:36.000Z",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T23:12:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -427,9 +212,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-28T04:59:36.000Z",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-07-28T23:12:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -517,9 +302,9 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-    "seendate": "2026-07-28T21:24:20.000Z",
+    "headline": "Israel kills Palestinian, destroys mosque in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+    "seendate": "2026-07-29T02:45:59.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict",
@@ -527,83 +312,104 @@
     ],
     "articles": [
       {
-        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-        "seendate": "2026-07-28T21:24:20.000Z",
+        "title": "Israel kills Palestinian, destroys mosque in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-29T02:45:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict",
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-        "seendate": "2026-07-28T21:24:20.000Z",
+        "title": "Israel kills Palestinian, destroys mosque in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-29T02:45:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict",
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-        "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-        "seendate": "2026-07-28T18:46:57.000Z",
+        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+        "seendate": "2026-07-28T21:24:20.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "armed-conflict",
+          "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-        "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-        "seendate": "2026-07-28T18:46:57.000Z",
+        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+        "seendate": "2026-07-28T21:24:20.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "armed-conflict",
+          "humanitarian"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-    "seendate": "2026-07-29T00:00:00.000Z",
-    "articleCount": 2,
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+    "headlineUrl": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+    "seendate": "2026-07-27T19:39:44.000Z",
+    "articleCount": 4,
     "categories": [
+      "culture-wars",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-        "seendate": "2026-07-29T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T19:39:44.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "culture-wars"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-        "seendate": "2026-07-29T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+        "seendate": "2026-07-27T19:39:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T15:56:43.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "seendate": "2026-07-27T15:56:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
