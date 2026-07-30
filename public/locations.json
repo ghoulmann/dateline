@@ -6,14 +6,54 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "War and shortages push Gaza hospitals to breaking point",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
-    "seendate": "2026-07-30T05:21:15.000Z",
-    "articleCount": 6,
+    "headline": "Apartheid wealth cannot buy silence on Gaza",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
+    "seendate": "2026-07-30T09:24:32.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Apartheid wealth cannot buy silence on Gaza",
+        "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
+        "seendate": "2026-07-30T09:24:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Apartheid wealth cannot buy silence on Gaza",
+        "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
+        "seendate": "2026-07-30T09:24:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+        "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+        "seendate": "2026-07-30T07:13:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+        "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+        "seendate": "2026-07-30T07:13:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "War and shortages push Gaza hospitals to breaking point",
         "url": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
@@ -160,14 +200,34 @@
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
-    "headlineUrl": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-    "seendate": "2026-07-30T04:00:12.000Z",
-    "articleCount": 4,
+    "headline": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+    "headlineUrl": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+    "seendate": "2026-07-30T09:03:07.000Z",
+    "articleCount": 6,
     "categories": [
       "climate-watch"
     ],
     "articles": [
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "How Climate Change and Tariffs Help China Raise More Cattle",
         "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
@@ -205,6 +265,80 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
+    "seendate": "2026-07-30T09:43:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+        "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
+        "seendate": "2026-07-30T09:43:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+        "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
+        "seendate": "2026-07-30T09:43:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
+    "headlineUrl": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+    "seendate": "2026-07-30T09:02:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
+        "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+        "seendate": "2026-07-30T09:02:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
+        "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+        "seendate": "2026-07-30T09:02:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
@@ -242,80 +376,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Amsterdam",
-    "name": "Amsterdam",
-    "country": "NL",
-    "lat": 52.37,
-    "lon": 4.9,
-    "timezone": "Europe/Amsterdam",
-    "headline": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
-    "headlineUrl": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-    "seendate": "2026-07-28T09:00:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
-        "url": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-        "seendate": "2026-07-28T09:00:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
-        "url": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-        "seendate": "2026-07-28T09:00:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Massive Wildfires Draw Close to Madrid",
-    "headlineUrl": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
-    "seendate": "2026-07-28T04:01:36.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Massive Wildfires Draw Close to Madrid",
-        "url": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
-        "seendate": "2026-07-28T04:01:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Massive Wildfires Draw Close to Madrid",
-        "url": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
-        "seendate": "2026-07-28T04:01:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster"
         ],
         "source_category": "democracy-crisis"
       }
