@@ -1,5 +1,102 @@
 [
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
+    "seendate": "2026-07-30T17:58:14.000Z",
+    "articleCount": 8,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
+        "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
+        "seendate": "2026-07-30T17:58:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
+        "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
+        "seendate": "2026-07-30T17:58:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+        "seendate": "2026-07-30T12:13:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+        "seendate": "2026-07-30T12:13:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+        "seendate": "2026-07-29T14:06:53.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+        "seendate": "2026-07-29T14:06:53.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -154,265 +251,37 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
-    "headlineUrl": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-    "seendate": "2026-07-30T12:13:25.000Z",
-    "articleCount": 6,
+    "id": "Prague",
+    "name": "Prague",
+    "country": "CZ",
+    "lat": 50.09,
+    "lon": 14.42,
+    "timezone": "Europe/Prague",
+    "headline": "Prague Zoo keeps polar bears cool with ice amid heatwave",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss",
+    "seendate": "2026-07-30T21:00:11.000Z",
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-        "seendate": "2026-07-29T14:06:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-        "seendate": "2026-07-29T14:06:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Police arrest dozens at London rally supporting Palestine Action",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
-    "seendate": "2026-07-30T14:22:02.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Police arrest dozens at London rally supporting Palestine Action",
-        "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
-        "seendate": "2026-07-30T14:22:02.000Z",
+        "title": "Prague Zoo keeps polar bears cool with ice amid heatwave",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss",
+        "seendate": "2026-07-30T21:00:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Police arrest dozens at London rally supporting Palestine Action",
-        "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
-        "seendate": "2026-07-30T14:22:02.000Z",
+        "title": "Prague Zoo keeps polar bears cool with ice amid heatwave",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss",
+        "seendate": "2026-07-30T21:00:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill at least four, including children, across Gaza Strip",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-    "seendate": "2026-07-30T11:32:30.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-        "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-        "seendate": "2026-07-30T11:32:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-        "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-        "seendate": "2026-07-30T11:32:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Islamabad",
-    "name": "Islamabad",
-    "country": "PK",
-    "lat": 33.68,
-    "lon": 73.04,
-    "timezone": "Asia/Karachi",
-    "headline": "Islamabad residents rally in solidarity with Kashmir protests",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
-    "seendate": "2026-07-30T13:35:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Islamabad residents rally in solidarity with Kashmir protests",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
-        "seendate": "2026-07-30T13:35:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Islamabad residents rally in solidarity with Kashmir protests",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
-        "seendate": "2026-07-30T13:35:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Khartoum",
-    "name": "Khartoum",
-    "country": "SD",
-    "lat": 15.55,
-    "lon": 32.53,
-    "timezone": "Africa/Khartoum",
-    "headline": "Sudan’s RSF vows to return to Khartoum",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
-    "seendate": "2026-07-30T13:26:26.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Sudan’s RSF vows to return to Khartoum",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
-        "seendate": "2026-07-30T13:26:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sudan’s RSF vows to return to Khartoum",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
-        "seendate": "2026-07-30T13:26:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       }
@@ -447,6 +316,80 @@
         "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
         "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
         "seendate": "2026-07-30T09:02:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel Strikes Mosque in Gaza City",
+    "headlineUrl": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+    "seendate": "2026-07-30T01:54:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-30T01:54:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-30T01:54:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+    "headlineUrl": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+    "seendate": "2026-07-29T22:18:43.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+        "seendate": "2026-07-29T22:18:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+        "seendate": "2026-07-29T22:18:43.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
