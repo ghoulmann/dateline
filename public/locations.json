@@ -1,102 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill at least four, including children, across Gaza Strip",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-    "seendate": "2026-07-30T11:32:30.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-        "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-        "seendate": "2026-07-30T11:32:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-        "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-        "seendate": "2026-07-30T11:32:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Several children killed and wounded in Israeli attacks across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-        "seendate": "2026-07-30T10:20:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Several children killed and wounded in Israeli attacks across Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-        "seendate": "2026-07-30T10:20:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Apartheid wealth cannot buy silence on Gaza",
-        "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
-        "seendate": "2026-07-30T09:24:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Apartheid wealth cannot buy silence on Gaza",
-        "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
-        "seendate": "2026-07-30T09:24:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -288,7 +191,7 @@
       {
         "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
         "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:07.000Z",
+        "seendate": "2026-07-30T09:03:08.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -298,7 +201,7 @@
       {
         "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
         "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:07.000Z",
+        "seendate": "2026-07-30T09:03:08.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -322,6 +225,120 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Police arrest dozens at London rally supporting Palestine Action",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+    "seendate": "2026-07-30T14:22:02.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Police arrest dozens at London rally supporting Palestine Action",
+        "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+        "seendate": "2026-07-30T14:22:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Police arrest dozens at London rally supporting Palestine Action",
+        "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+        "seendate": "2026-07-30T14:22:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+        "seendate": "2026-07-29T22:18:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+        "seendate": "2026-07-29T22:18:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strikes kill at least four, including children, across Gaza Strip",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+    "seendate": "2026-07-30T11:32:30.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+        "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+        "seendate": "2026-07-30T11:32:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+        "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+        "seendate": "2026-07-30T11:32:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-30T01:54:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-30T01:54:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
@@ -402,43 +419,6 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
-    "seendate": "2026-07-30T09:43:50.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-        "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
-        "seendate": "2026-07-30T09:43:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-        "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
-        "seendate": "2026-07-30T09:43:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Beijing",
     "name": "Beijing",
     "country": "CN",
@@ -467,43 +447,6 @@
         "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
         "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
         "seendate": "2026-07-30T09:02:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-    "headlineUrl": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-    "seendate": "2026-07-29T22:18:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
