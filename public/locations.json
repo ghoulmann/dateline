@@ -6,14 +6,75 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-31T04:25:49.000Z",
-    "articleCount": 12,
+    "headline": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+    "headlineUrl": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+    "seendate": "2026-07-31T10:35:17.000Z",
+    "articleCount": 14,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+        "seendate": "2026-07-31T10:35:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+        "seendate": "2026-07-31T10:35:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Her mother said no to a phone. Then came the Gaza genocide",
+        "url": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-07-31T09:23:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Her mother said no to a phone. Then came the Gaza genocide",
+        "url": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-07-31T09:23:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hamas agrees to phased disarmament in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-31T08:53:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hamas agrees to phased disarmament in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-31T08:53:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
         "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&amp;at_campaign=rss",
@@ -73,46 +134,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Gaza live: Hamas reportedly agrees to ‘historic’ disarmament agreement",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-        "seendate": "2026-07-31T00:03:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza live: Hamas reportedly agrees to ‘historic’ disarmament agreement",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-        "seendate": "2026-07-31T00:03:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
-        "seendate": "2026-07-30T23:51:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
-        "seendate": "2026-07-30T23:51:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Israel Strikes Mosque in Gaza City",
@@ -300,7 +321,7 @@
     "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
     "headlineUrl": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
     "seendate": "2026-07-30T12:13:26.000Z",
-    "articleCount": 6,
+    "articleCount": 4,
     "categories": [
       "climate-watch"
     ],
@@ -342,83 +363,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-        "seendate": "2026-07-29T14:06:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-        "seendate": "2026-07-29T14:06:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "London protesters march through streets in solidarity with Azad Kashmir",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
-    "seendate": "2026-07-31T01:05:18.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "London protesters march through streets in solidarity with Azad Kashmir",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
-        "seendate": "2026-07-31T01:05:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "London protesters march through streets in solidarity with Azad Kashmir",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
-        "seendate": "2026-07-31T01:05:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
