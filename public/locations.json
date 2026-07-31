@@ -6,19 +6,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+    "headline": "Concerns Remain About Eagerness of Israel and Hamas to Fulfill Gaza Deal",
     "headlineUrl": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-    "seendate": "2026-07-31T10:35:17.000Z",
-    "articleCount": 14,
+    "seendate": "2026-07-31T14:08:37.000Z",
+    "articleCount": 20,
     "categories": [
-      "humanitarian",
-      "armed-conflict"
+      "armed-conflict",
+      "humanitarian"
     ],
     "articles": [
       {
-        "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+        "title": "Concerns Remain About Eagerness of Israel and Hamas to Fulfill Gaza Deal",
         "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T10:35:17.000Z",
+        "seendate": "2026-07-31T14:08:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -26,14 +26,94 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+        "title": "Concerns Remain About Eagerness of Israel and Hamas to Fulfill Gaza Deal",
         "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T10:35:17.000Z",
+        "seendate": "2026-07-31T14:08:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Palestinians in Gaza react to latest ceasefire deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+        "seendate": "2026-07-31T12:59:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians in Gaza react to latest ceasefire deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+        "seendate": "2026-07-31T12:59:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
+        "url": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
+        "seendate": "2026-07-31T12:55:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
+        "url": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
+        "seendate": "2026-07-31T12:55:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+        "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+        "seendate": "2026-07-31T11:23:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+        "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+        "seendate": "2026-07-31T11:23:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
+        "seendate": "2026-07-31T10:47:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
+        "seendate": "2026-07-31T10:47:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       },
       {
         "title": "Her mother said no to a phone. Then came the Gaza genocide",
@@ -134,26 +214,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -365,6 +425,43 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Approval for China’s mega embassy in London was lawful, UK court rules",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+    "seendate": "2026-07-31T12:38:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+        "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+        "seendate": "2026-07-31T12:38:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+        "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+        "seendate": "2026-07-31T12:38:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
