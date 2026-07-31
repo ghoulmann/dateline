@@ -1,96 +1,96 @@
 [
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
-    "seendate": "2026-07-30T17:58:14.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+    "seendate": "2026-07-31T00:03:58.000Z",
     "articleCount": 8,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
-        "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
-        "seendate": "2026-07-30T17:58:14.000Z",
+        "title": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+        "seendate": "2026-07-31T00:03:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
-        "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
-        "seendate": "2026-07-30T17:58:14.000Z",
+        "title": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+        "seendate": "2026-07-31T00:03:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:26.000Z",
+        "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+        "seendate": "2026-07-30T23:51:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+        "seendate": "2026-07-30T23:51:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hamas reaches Gaza disarmament agreement with Board of Peace",
+        "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-30T22:34:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hamas reaches Gaza disarmament agreement with Board of Peace",
+        "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+        "seendate": "2026-07-30T22:34:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-30T01:54:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:26.000Z",
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "seendate": "2026-07-30T01:54:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-        "seendate": "2026-07-29T14:06:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-        "seendate": "2026-07-29T14:06:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
@@ -103,14 +103,34 @@
     "lat": 1.35,
     "lon": 103.82,
     "timezone": "Asia/Singapore",
-    "headline": "Singapore fines French teen $465 for viral straw-licking stunt",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-30T02:54:54.000Z",
-    "articleCount": 6,
+    "headline": "French teen fined in Singapore over ‘straw licking’ stunt",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
+    "seendate": "2026-07-30T21:34:39.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "French teen fined in Singapore over ‘straw licking’ stunt",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
+        "seendate": "2026-07-30T21:34:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "French teen fined in Singapore over ‘straw licking’ stunt",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
+        "seendate": "2026-07-30T21:34:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Singapore fines French teen $465 for viral straw-licking stunt",
         "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
@@ -251,6 +271,140 @@
     ]
   },
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
+    "headlineUrl": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+    "seendate": "2026-07-30T12:13:26.000Z",
+    "articleCount": 6,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+        "seendate": "2026-07-30T12:13:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+        "seendate": "2026-07-30T12:13:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+        "seendate": "2026-07-29T14:06:53.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+        "seendate": "2026-07-29T14:06:53.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London protesters march through streets in solidarity with Azad Kashmir",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
+    "seendate": "2026-07-31T01:05:18.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "London protesters march through streets in solidarity with Azad Kashmir",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
+        "seendate": "2026-07-31T01:05:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "London protesters march through streets in solidarity with Azad Kashmir",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
+        "seendate": "2026-07-31T01:05:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+        "seendate": "2026-07-29T22:18:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+        "seendate": "2026-07-29T22:18:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Prague",
     "name": "Prague",
     "country": "CZ",
@@ -284,117 +438,6 @@
           "climate-watch"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
-    "headlineUrl": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-    "seendate": "2026-07-30T09:02:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
-        "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-        "seendate": "2026-07-30T09:02:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
-        "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-        "seendate": "2026-07-30T09:02:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Strikes Mosque in Gaza City",
-    "headlineUrl": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-    "seendate": "2026-07-30T01:54:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Strikes Mosque in Gaza City",
-        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-        "seendate": "2026-07-30T01:54:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-    "headlineUrl": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-    "seendate": "2026-07-29T22:18:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-        "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-        "seendate": "2026-07-29T22:18:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   }
