@@ -6,18 +6,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Trump’s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply",
+    "headline": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
     "headlineUrl": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-    "seendate": "2026-07-31T16:52:25.000Z",
-    "articleCount": 24,
+    "seendate": "2026-07-31T19:10:16.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply",
+        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
         "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T16:52:25.000Z",
+        "seendate": "2026-07-31T19:10:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply",
+        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
         "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T16:52:25.000Z",
+        "seendate": "2026-07-31T19:10:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -173,86 +173,93 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate adaptation at its limits, says one scientist",
+    "headlineUrl": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+    "seendate": "2026-07-31T20:28:46.000Z",
+    "articleCount": 7,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Climate adaptation at its limits, says one scientist",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+        "seendate": "2026-07-31T20:28:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Palestinians in Gaza react to latest ceasefire deal",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
-        "seendate": "2026-07-31T12:59:48.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Climate adaptation at its limits, says one scientist",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+        "seendate": "2026-07-31T20:28:46.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "climate-watch"
       },
       {
-        "title": "Palestinians in Gaza react to latest ceasefire deal",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
-        "seendate": "2026-07-31T12:59:48.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Climate adaptation at its limits, says one scientist",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+        "seendate": "2026-07-31T20:28:46.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "humanitarian"
+        "source_category": "culture-wars"
       },
       {
-        "title": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
-        "url": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
-        "seendate": "2026-07-31T12:55:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+        "seendate": "2026-07-30T12:13:26.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
-        "url": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
-        "seendate": "2026-07-31T12:55:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+        "seendate": "2026-07-30T12:13:26.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
-        "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
-        "seendate": "2026-07-31T11:23:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
-        "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
-        "seendate": "2026-07-31T11:23:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
-        "seendate": "2026-07-31T10:47:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
-        "seendate": "2026-07-31T10:47:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -411,59 +418,39 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
-    "headlineUrl": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-    "seendate": "2026-07-30T12:13:26.000Z",
-    "articleCount": 4,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+    "seendate": "2026-07-31T17:52:23.000Z",
+    "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:26.000Z",
-        "source_domain": "nytimes.com",
+        "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+        "url": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+        "seendate": "2026-07-31T17:52:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:26.000Z",
-        "source_domain": "nytimes.com",
+        "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+        "url": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+        "seendate": "2026-07-31T17:52:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -536,43 +523,6 @@
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Approval for China’s mega embassy in London was lawful, UK court rules",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
-    "seendate": "2026-07-31T12:38:15.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
-        "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
-        "seendate": "2026-07-31T12:38:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
-        "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
-        "seendate": "2026-07-31T12:38:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       }
