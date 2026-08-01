@@ -6,14 +6,54 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
-    "seendate": "2026-08-01T16:07:10.000Z",
-    "articleCount": 22,
+    "headline": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+    "seendate": "2026-08-01T20:54:03.000Z",
+    "articleCount": 24,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-01T20:54:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-01T20:54:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+        "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+        "seendate": "2026-08-01T17:57:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+        "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+        "seendate": "2026-08-01T17:57:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
         "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
@@ -33,26 +73,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-01T15:50:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-01T15:50:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       },
       {
         "title": "Israeli strike destroys Gaza hospital warehouse",
@@ -243,14 +263,64 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
-    "seendate": "2026-08-01T13:49:10.000Z",
-    "articleCount": 8,
+    "headline": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+    "headlineUrl": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+    "seendate": "2026-08-01T20:27:32.000Z",
+    "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "seendate": "2026-08-01T20:27:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "seendate": "2026-08-01T20:27:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "seendate": "2026-08-01T20:27:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+        "seendate": "2026-08-01T17:45:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+        "seendate": "2026-08-01T17:45:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
         "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
@@ -334,24 +404,84 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Beneath Tunisia’s silence, public anger simmers",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
-    "seendate": "2026-08-01T09:42:50.000Z",
-    "articleCount": 2,
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-01T20:39:16.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Beneath Tunisia’s silence, public anger simmers",
-        "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
-        "seendate": "2026-08-01T09:42:50.000Z",
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T20:39:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T20:39:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T20:39:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T20:39:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T20:39:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T20:39:16.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+        "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+        "seendate": "2026-08-01T18:22:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -359,14 +489,91 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Beneath Tunisia’s silence, public anger simmers",
-        "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
-        "seendate": "2026-08-01T09:42:50.000Z",
+        "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+        "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+        "seendate": "2026-08-01T18:22:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Amsterdam",
+    "name": "Amsterdam",
+    "country": "NL",
+    "lat": 52.37,
+    "lon": 4.9,
+    "timezone": "Europe/Amsterdam",
+    "headline": "Crowds line Amsterdam's canals for Pride boat parade",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-01T19:39:48.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Crowds line Amsterdam's canals for Pride boat parade",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T19:39:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Crowds line Amsterdam's canals for Pride boat parade",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T19:39:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Crowds line Amsterdam's canals for Pride boat parade",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T19:39:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Crowds line Amsterdam's canals for Pride boat parade",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T19:39:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Crowds line Amsterdam's canals for Pride boat parade",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T19:39:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Crowds line Amsterdam's canals for Pride boat parade",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T19:39:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
