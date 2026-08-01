@@ -205,8 +205,8 @@
     "timezone": "Europe/Kyiv",
     "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-01T04:06:34.000Z",
-    "articleCount": 8,
+    "seendate": "2026-08-01T08:24:09.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
@@ -214,7 +214,7 @@
       {
         "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
         "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T04:06:34.000Z",
+        "seendate": "2026-08-01T08:24:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -224,7 +224,7 @@
       {
         "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
         "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T04:06:34.000Z",
+        "seendate": "2026-08-01T08:24:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -234,7 +234,7 @@
       {
         "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
         "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T04:06:34.000Z",
+        "seendate": "2026-08-01T08:24:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -244,7 +244,7 @@
       {
         "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
         "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T04:06:34.000Z",
+        "seendate": "2026-08-01T08:24:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -254,7 +254,7 @@
       {
         "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
         "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T04:06:34.000Z",
+        "seendate": "2026-08-01T08:24:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -264,7 +264,7 @@
       {
         "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
         "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T04:06:34.000Z",
+        "seendate": "2026-08-01T08:24:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -272,7 +272,27 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+        "seendate": "2026-08-01T07:14:41.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+        "seendate": "2026-08-01T07:14:41.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
         "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
         "seendate": "2026-08-01T02:06:00.000Z",
         "source_domain": "aljazeera.com",
@@ -282,7 +302,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
         "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
         "seendate": "2026-08-01T02:06:00.000Z",
         "source_domain": "aljazeera.com",
@@ -294,69 +314,76 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate adaptation at its limits, says one scientist",
-    "headlineUrl": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
-    "seendate": "2026-07-31T20:28:46.000Z",
-    "articleCount": 5,
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Beneath Tunisia’s silence, public anger simmers",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
+    "seendate": "2026-08-01T09:42:50.000Z",
+    "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Climate adaptation at its limits, says one scientist",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
-        "seendate": "2026-07-31T20:28:46.000Z",
-        "source_domain": "npr.org",
+        "title": "Beneath Tunisia’s silence, public anger simmers",
+        "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
+        "seendate": "2026-08-01T09:42:50.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Climate adaptation at its limits, says one scientist",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
-        "seendate": "2026-07-31T20:28:46.000Z",
-        "source_domain": "npr.org",
+        "title": "Beneath Tunisia’s silence, public anger simmers",
+        "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
+        "seendate": "2026-08-01T09:42:50.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+    "seendate": "2026-07-31T23:59:40.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+        "seendate": "2026-07-31T23:59:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Climate adaptation at its limits, says one scientist",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
-        "seendate": "2026-07-31T20:28:46.000Z",
-        "source_domain": "npr.org",
+        "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+        "seendate": "2026-07-31T23:59:40.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-        "seendate": "2026-07-30T09:03:08.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -369,7 +396,7 @@
     "timezone": "Asia/Shanghai",
     "headline": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
     "headlineUrl": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-    "seendate": "2026-08-01T04:02:29.000Z",
+    "seendate": "2026-08-01T07:28:20.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -378,7 +405,7 @@
       {
         "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
         "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-        "seendate": "2026-08-01T04:02:29.000Z",
+        "seendate": "2026-08-01T07:28:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -388,10 +415,47 @@
       {
         "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
         "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-        "seendate": "2026-08-01T04:02:29.000Z",
+        "seendate": "2026-08-01T07:28:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+    "headlineUrl": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+    "seendate": "2026-07-30T09:03:08.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+        "seendate": "2026-07-30T09:03:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
