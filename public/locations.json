@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-    "seendate": "2026-08-01T00:48:37.000Z",
-    "articleCount": 16,
+    "headline": "Is Israel really ready to withdraw from Gaza?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+    "seendate": "2026-08-01T03:21:52.000Z",
+    "articleCount": 18,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Is Israel really ready to withdraw from Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+        "seendate": "2026-08-01T03:21:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Is Israel really ready to withdraw from Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+        "seendate": "2026-08-01T03:21:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
@@ -177,6 +197,103 @@
     ]
   },
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-01T04:06:34.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T04:06:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T04:06:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T04:06:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T04:06:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T04:06:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-01T04:06:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+        "seendate": "2026-08-01T02:06:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+        "seendate": "2026-08-01T02:06:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -186,7 +303,7 @@
     "headline": "Climate adaptation at its limits, says one scientist",
     "headlineUrl": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
     "seendate": "2026-07-31T20:28:46.000Z",
-    "articleCount": 7,
+    "articleCount": 5,
     "categories": [
       "climate-watch"
     ],
@@ -222,26 +339,6 @@
         "source_category": "culture-wars"
       },
       {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-        "seendate": "2026-07-30T12:13:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
         "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
         "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
         "seendate": "2026-07-30T09:03:08.000Z",
@@ -264,193 +361,39 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore fines French teen $465 for viral straw-licking stunt",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-30T02:54:54.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-30T02:54:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-30T02:54:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-30T02:54:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-30T02:54:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-30T02:54:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-30T02:54:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Worth $5m? Visitors react to renovated Washington horse statues",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-07-29T22:23:08.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-29T22:23:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-29T22:23:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-29T22:23:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-29T22:23:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-29T22:23:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-29T22:23:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russian missile attack kills three in Ukraine’s Kyiv",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
-    "seendate": "2026-08-01T02:06:00.000Z",
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
+    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+    "seendate": "2026-08-01T04:02:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
-        "seendate": "2026-08-01T02:06:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
+        "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+        "seendate": "2026-08-01T04:02:29.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
-        "seendate": "2026-08-01T02:06:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
+        "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+        "seendate": "2026-08-01T04:02:29.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
