@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-    "headlineUrl": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-    "seendate": "2026-07-31T19:10:16.000Z",
+    "headline": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+    "seendate": "2026-08-01T00:48:37.000Z",
     "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+        "seendate": "2026-08-01T00:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+        "seendate": "2026-08-01T00:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
         "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
@@ -33,26 +53,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-31T16:35:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-        "seendate": "2026-07-31T16:35:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "What's in the Gaza peace deal roadmap?",
@@ -418,24 +418,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
-    "seendate": "2026-07-31T17:52:23.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russian missile attack kills three in Ukraine’s Kyiv",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+    "seendate": "2026-08-01T02:06:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
-        "url": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
-        "seendate": "2026-07-31T17:52:23.000Z",
+        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+        "seendate": "2026-08-01T02:06:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -443,9 +443,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
-        "url": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
-        "seendate": "2026-07-31T17:52:23.000Z",
+        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+        "seendate": "2026-08-01T02:06:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -455,76 +455,29 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss",
-    "seendate": "2026-07-31T16:06:05.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
-        "url": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss",
-        "seendate": "2026-07-31T16:06:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
-        "url": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss",
-        "seendate": "2026-07-31T16:06:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Seattle",
-    "name": "Seattle",
+    "id": "Los Angeles",
+    "name": "Los Angeles",
     "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
+    "lat": 34.05,
+    "lon": -118.24,
     "timezone": "America/Los_Angeles",
-    "headline": "Police chief resigns days after deadly shooting in US city of Seattle",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
-    "seendate": "2026-07-31T14:46:09.000Z",
-    "articleCount": 2,
+    "headline": "&apos;Fire Country&apos; star Diane Farr leaves Los Angeles after 30 years to start her &apos;third act&apos;",
+    "headlineUrl": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-leaves-los-angeles-after-30-years-start-her-third-act",
+    "seendate": "2026-07-31T21:06:14.000Z",
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Police chief resigns days after deadly shooting in US city of Seattle",
-        "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
-        "seendate": "2026-07-31T14:46:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "&apos;Fire Country&apos; star Diane Farr leaves Los Angeles after 30 years to start her &apos;third act&apos;",
+        "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-leaves-los-angeles-after-30-years-start-her-third-act",
+        "seendate": "2026-07-31T21:06:14.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Police chief resigns days after deadly shooting in US city of Seattle",
-        "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
-        "seendate": "2026-07-31T14:46:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "culture-wars"
       }
     ]
   }
