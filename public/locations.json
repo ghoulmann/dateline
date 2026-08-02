@@ -6,58 +6,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-    "seendate": "2026-08-02T05:27:04.000Z",
+    "headline": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+    "seendate": "2026-08-02T06:53:14.000Z",
     "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-        "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-        "seendate": "2026-08-02T05:27:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-        "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-        "seendate": "2026-08-02T05:27:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
-        "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
-        "seendate": "2026-08-02T02:58:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
-        "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
-        "seendate": "2026-08-02T02:58:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-01T20:54:03.000Z",
+        "seendate": "2026-08-02T06:53:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -67,12 +27,52 @@
       {
         "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-01T20:54:03.000Z",
+        "seendate": "2026-08-02T06:53:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
+        "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+        "seendate": "2026-08-02T05:27:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
+        "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+        "seendate": "2026-08-02T05:27:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+        "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+        "seendate": "2026-08-02T02:58:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+        "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+        "seendate": "2026-08-02T02:58:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       },
       {
         "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
@@ -148,133 +148,6 @@
         "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
         "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-07-31T15:18:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-    "headlineUrl": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-    "seendate": "2026-08-01T20:27:32.000Z",
-    "articleCount": 11,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "seendate": "2026-08-01T20:27:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "seendate": "2026-08-01T20:27:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "seendate": "2026-08-01T20:27:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
-        "seendate": "2026-08-01T13:49:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
-        "seendate": "2026-08-01T13:49:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T13:35:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T13:35:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T13:35:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T13:35:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T13:35:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T13:35:39.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -474,6 +347,110 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+    "headlineUrl": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+    "seendate": "2026-08-01T20:27:32.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "seendate": "2026-08-01T20:27:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "seendate": "2026-08-01T20:27:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "seendate": "2026-08-01T20:27:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+        "seendate": "2026-08-01T13:49:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+        "seendate": "2026-08-01T13:49:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+    "seendate": "2026-08-02T08:20:43.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+        "url": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+        "seendate": "2026-08-02T08:20:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+        "url": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+        "seendate": "2026-08-02T08:20:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
