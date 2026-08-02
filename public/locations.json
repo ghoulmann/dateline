@@ -223,14 +223,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-02T15:50:59.000Z",
-    "articleCount": 10,
+    "headline": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+    "seendate": "2026-08-02T17:57:01.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+        "seendate": "2026-08-02T17:57:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+        "seendate": "2026-08-02T17:57:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
         "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
@@ -340,14 +360,35 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-02T10:20:10.000Z",
-    "articleCount": 6,
+    "headline": "Is Washington dictating the agenda for talks in Venezuela?",
+    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+    "seendate": "2026-08-02T20:01:21.000Z",
+    "articleCount": 8,
     "categories": [
+      "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
+      {
+        "title": "Is Washington dictating the agenda for talks in Venezuela?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+        "seendate": "2026-08-02T20:01:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Is Washington dictating the agenda for talks in Venezuela?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+        "seendate": "2026-08-02T20:01:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
@@ -488,73 +529,6 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-    "headlineUrl": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-    "seendate": "2026-08-01T20:27:32.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "seendate": "2026-08-01T20:27:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "seendate": "2026-08-01T20:27:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "seendate": "2026-08-01T20:27:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
-        "seendate": "2026-08-01T13:49:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
-        "seendate": "2026-08-01T13:49:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Seattle",
     "name": "Seattle",
     "country": "US",
@@ -602,6 +576,154 @@
     ]
   },
   {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+    "seendate": "2026-08-02T19:39:32.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+        "seendate": "2026-08-02T19:39:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+        "seendate": "2026-08-02T19:39:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+    "headlineUrl": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+    "seendate": "2026-08-02T18:28:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+        "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+        "seendate": "2026-08-02T18:28:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+        "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+        "seendate": "2026-08-02T18:28:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "‘Iran war participation trophy’ mocking Trump appears in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+    "seendate": "2026-08-02T17:06:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+        "seendate": "2026-08-02T17:06:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+        "seendate": "2026-08-02T17:06:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+    "seendate": "2026-08-01T13:49:10.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+        "seendate": "2026-08-01T13:49:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+        "seendate": "2026-08-01T13:49:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Beijing",
     "name": "Beijing",
     "country": "CN",
@@ -635,33 +757,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "&apos;Fire Country&apos; star Diane Farr leaves Los Angeles after 30 years to start her &apos;third act&apos;",
-    "headlineUrl": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-leaves-los-angeles-after-30-years-start-her-third-act",
-    "seendate": "2026-07-31T21:06:14.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "&apos;Fire Country&apos; star Diane Farr leaves Los Angeles after 30 years to start her &apos;third act&apos;",
-        "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-leaves-los-angeles-after-30-years-start-her-third-act",
-        "seendate": "2026-07-31T21:06:14.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
