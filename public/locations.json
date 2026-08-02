@@ -1,83 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-    "seendate": "2026-08-02T06:53:14.000Z",
-    "articleCount": 12,
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "At the scene of deadly Moscow bomb blast",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-02T16:52:35.000Z",
+    "articleCount": 20,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-02T06:53:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-02T06:53:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-        "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-        "seendate": "2026-08-02T05:27:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-        "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-        "seendate": "2026-08-02T05:27:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T19:10:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T19:10:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-31T15:18:31.000Z",
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-31T15:18:31.000Z",
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-31T15:18:31.000Z",
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -105,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-31T15:18:31.000Z",
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -115,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-31T15:18:31.000Z",
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -125,9 +65,149 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-07-31T15:18:31.000Z",
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:48:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:48:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:48:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:48:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:48:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:48:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+        "seendate": "2026-08-02T11:55:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+        "seendate": "2026-08-02T11:55:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T10:54:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T10:54:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T10:54:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T10:54:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T10:54:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T10:54:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -137,44 +217,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-    "headlineUrl": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-    "seendate": "2026-08-02T11:55:03.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-02T15:50:59.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-        "seendate": "2026-08-02T11:55:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-        "seendate": "2026-08-02T11:55:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -182,9 +242,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -192,9 +252,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -202,9 +262,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -212,9 +272,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -222,9 +282,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -232,24 +292,44 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Three dead including female bomber in Moscow restaurant attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
-        "seendate": "2026-08-02T04:44:55.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Three dead including female bomber in Moscow restaurant attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
-        "seendate": "2026-08-02T04:44:55.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
+        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+        "seendate": "2026-07-31T19:10:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
+        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+        "seendate": "2026-07-31T19:10:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -260,7 +340,7 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Washington state wildfires trigger evacuations",
+    "headline": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-02T10:20:10.000Z",
     "articleCount": 6,
@@ -269,7 +349,7 @@
     ],
     "articles": [
       {
-        "title": "Washington state wildfires trigger evacuations",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-02T10:20:10.000Z",
         "source_domain": "bbc.co.uk",
@@ -279,7 +359,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Washington state wildfires trigger evacuations",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-02T10:20:10.000Z",
         "source_domain": "bbc.co.uk",
@@ -289,7 +369,7 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Washington state wildfires trigger evacuations",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-02T10:20:10.000Z",
         "source_domain": "bbc.co.uk",
@@ -299,7 +379,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Washington state wildfires trigger evacuations",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-02T10:20:10.000Z",
         "source_domain": "bbc.co.uk",
@@ -309,7 +389,7 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Washington state wildfires trigger evacuations",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-02T10:20:10.000Z",
         "source_domain": "bbc.co.uk",
@@ -319,7 +399,7 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Washington state wildfires trigger evacuations",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
         "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-02T10:20:10.000Z",
         "source_domain": "bbc.co.uk",
@@ -481,8 +561,8 @@
     "lat": 47.61,
     "lon": -122.33,
     "timezone": "America/Los_Angeles",
-    "headline": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-    "headlineUrl": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+    "headline": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+    "headlineUrl": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
     "seendate": "2026-08-02T12:00:00.000Z",
     "articleCount": 3,
     "categories": [
@@ -490,8 +570,8 @@
     ],
     "articles": [
       {
-        "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-        "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+        "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+        "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
         "seendate": "2026-08-02T12:00:00.000Z",
         "source_domain": "npr.org",
         "categories": [
@@ -500,8 +580,8 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-        "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+        "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+        "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
         "seendate": "2026-08-02T12:00:00.000Z",
         "source_domain": "npr.org",
         "categories": [
@@ -510,51 +590,14 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-        "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+        "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+        "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
         "seendate": "2026-08-02T12:00:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
-    "seendate": "2026-08-02T08:20:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
-        "url": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
-        "seendate": "2026-08-02T08:20:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
-        "url": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
-        "seendate": "2026-08-02T08:20:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
