@@ -9,7 +9,7 @@
     "headline": "Outside the Moscow restaurant where bomb killed three",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-03T03:53:05.000Z",
-    "articleCount": 20,
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
@@ -153,66 +153,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:54:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -223,38 +163,39 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-    "seendate": "2026-08-03T10:53:47.000Z",
-    "articleCount": 14,
+    "headline": "Heatwave in Gaza compounds Palestinian suffering",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
+    "seendate": "2026-08-03T13:31:52.000Z",
+    "articleCount": 12,
     "categories": [
+      "climate-watch",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-08-03T10:53:47.000Z",
+        "title": "Heatwave in Gaza compounds Palestinian suffering",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
+        "seendate": "2026-08-03T13:31:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-08-03T10:53:47.000Z",
+        "title": "Heatwave in Gaza compounds Palestinian suffering",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
+        "seendate": "2026-08-03T13:31:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-        "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
-        "seendate": "2026-08-03T06:09:00.000Z",
+        "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+        "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+        "seendate": "2026-08-03T10:53:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -262,9 +203,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-        "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
-        "seendate": "2026-08-03T06:09:00.000Z",
+        "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+        "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+        "seendate": "2026-08-03T10:53:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -345,26 +286,6 @@
         "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
         "seendate": "2026-08-02T06:53:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T19:10:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-        "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-        "seendate": "2026-07-31T19:10:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -380,15 +301,45 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-    "headlineUrl": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
-    "seendate": "2026-08-03T09:00:00.000Z",
-    "articleCount": 11,
+    "headline": "Washington wildfires destroy homes, force thousands to evacuate",
+    "headlineUrl": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+    "seendate": "2026-08-03T14:28:44.000Z",
+    "articleCount": 12,
     "categories": [
-      "armed-conflict",
-      "natural-disaster"
+      "natural-disaster",
+      "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Washington wildfires destroy homes, force thousands to evacuate",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+        "seendate": "2026-08-03T14:28:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Washington wildfires destroy homes, force thousands to evacuate",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+        "seendate": "2026-08-03T14:28:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Washington wildfires destroy homes, force thousands to evacuate",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+        "seendate": "2026-08-03T14:28:44.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
         "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
@@ -418,26 +369,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-        "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-        "seendate": "2026-08-03T03:26:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-        "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-        "seendate": "2026-08-03T03:26:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
@@ -508,18 +439,38 @@
     "lat": 1.35,
     "lon": 103.82,
     "timezone": "Asia/Singapore",
-    "headline": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
-    "headlineUrl": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
-    "seendate": "2026-08-03T10:35:49.000Z",
-    "articleCount": 8,
+    "headline": "Massive Attack says members held after pro-Palestine display in Singapore",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
+    "seendate": "2026-08-03T13:23:21.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Massive Attack says members held after pro-Palestine display in Singapore",
+        "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
+        "seendate": "2026-08-03T13:23:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Massive Attack says members held after pro-Palestine display in Singapore",
+        "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
+        "seendate": "2026-08-03T13:23:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
         "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
-        "seendate": "2026-08-03T10:35:49.000Z",
+        "seendate": "2026-08-03T11:49:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -529,7 +480,7 @@
       {
         "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
         "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
-        "seendate": "2026-08-03T10:35:49.000Z",
+        "seendate": "2026-08-03T11:49:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
