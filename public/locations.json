@@ -223,18 +223,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
-    "seendate": "2026-08-02T17:57:01.000Z",
+    "headline": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+    "seendate": "2026-08-03T06:09:00.000Z",
     "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
-        "seendate": "2026-08-02T17:57:01.000Z",
+        "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+        "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+        "seendate": "2026-08-03T06:09:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -242,9 +242,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
-        "seendate": "2026-08-02T17:57:01.000Z",
+        "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+        "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+        "seendate": "2026-08-03T06:09:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -360,15 +360,35 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Is Washington dictating the agenda for talks in Venezuela?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
-    "seendate": "2026-08-02T20:01:21.000Z",
-    "articleCount": 8,
+    "headline": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+    "seendate": "2026-08-03T03:26:08.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
+      {
+        "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+        "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+        "seendate": "2026-08-03T03:26:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+        "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+        "seendate": "2026-08-03T03:26:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Is Washington dictating the agenda for talks in Venezuela?",
         "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
@@ -446,6 +466,83 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Massive Attack respond after Singapore ban over Palestine display",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-03T01:31:05.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Massive Attack respond after Singapore ban over Palestine display",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-03T01:31:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Massive Attack respond after Singapore ban over Palestine display",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-03T01:31:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Massive Attack respond after Singapore ban over Palestine display",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-03T01:31:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Massive Attack respond after Singapore ban over Palestine display",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-03T01:31:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Massive Attack respond after Singapore ban over Palestine display",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-03T01:31:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Massive Attack respond after Singapore ban over Palestine display",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-03T01:31:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -535,7 +632,7 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+    "headline": "Iran war live: Trump says talks to resume; Tehran, Oman near deal on Hormuz",
     "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
     "seendate": "2026-08-03T00:00:15.000Z",
     "articleCount": 4,
@@ -544,7 +641,7 @@
     ],
     "articles": [
       {
-        "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+        "title": "Iran war live: Trump says talks to resume; Tehran, Oman near deal on Hormuz",
         "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
         "seendate": "2026-08-03T00:00:15.000Z",
         "source_domain": "aljazeera.com",
@@ -554,7 +651,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+        "title": "Iran war live: Trump says talks to resume; Tehran, Oman near deal on Hormuz",
         "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
         "seendate": "2026-08-03T00:00:15.000Z",
         "source_domain": "aljazeera.com",
