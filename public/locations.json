@@ -157,144 +157,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Heatwave in Gaza compounds Palestinian suffering",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
-    "seendate": "2026-08-03T13:31:52.000Z",
-    "articleCount": 12,
-    "categories": [
-      "climate-watch",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Heatwave in Gaza compounds Palestinian suffering",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
-        "seendate": "2026-08-03T13:31:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Heatwave in Gaza compounds Palestinian suffering",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
-        "seendate": "2026-08-03T13:31:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-08-03T10:53:47.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-08-03T10:53:47.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T15:50:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T15:50:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T15:50:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T15:50:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T15:50:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T15:50:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-02T06:53:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-        "seendate": "2026-08-02T06:53:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -429,6 +291,124 @@
           "natural-disaster"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Heatwave in Gaza compounds Palestinian suffering",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
+    "seendate": "2026-08-03T13:31:52.000Z",
+    "articleCount": 10,
+    "categories": [
+      "climate-watch",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Heatwave in Gaza compounds Palestinian suffering",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
+        "seendate": "2026-08-03T13:31:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Heatwave in Gaza compounds Palestinian suffering",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
+        "seendate": "2026-08-03T13:31:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T15:50:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -623,6 +603,80 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+    "seendate": "2026-08-03T17:38:01.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+        "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+        "seendate": "2026-08-03T17:38:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+        "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+        "seendate": "2026-08-03T17:38:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+    "seendate": "2026-08-03T16:12:55.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+        "url": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+        "seendate": "2026-08-03T16:12:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+        "url": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+        "seendate": "2026-08-03T16:12:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
