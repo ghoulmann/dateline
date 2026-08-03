@@ -529,6 +529,63 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+    "seendate": "2026-08-03T00:00:15.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+        "seendate": "2026-08-03T00:00:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+        "seendate": "2026-08-03T00:00:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+        "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+        "seendate": "2026-08-02T18:28:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+        "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+        "seendate": "2026-08-02T18:28:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Seattle",
     "name": "Seattle",
     "country": "US",
@@ -613,80 +670,6 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-    "headlineUrl": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
-    "seendate": "2026-08-02T18:28:13.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-        "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
-        "seendate": "2026-08-02T18:28:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-        "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
-        "seendate": "2026-08-02T18:28:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "‘Iran war participation trophy’ mocking Trump appears in New York",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-    "seendate": "2026-08-02T17:06:30.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-        "seendate": "2026-08-02T17:06:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-        "seendate": "2026-08-02T17:06:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -732,7 +715,7 @@
     "timezone": "Asia/Shanghai",
     "headline": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
     "headlineUrl": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-    "seendate": "2026-08-01T07:28:20.000Z",
+    "seendate": "2026-08-01T07:28:21.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -741,7 +724,7 @@
       {
         "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
         "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-        "seendate": "2026-08-01T07:28:20.000Z",
+        "seendate": "2026-08-01T07:28:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -751,7 +734,7 @@
       {
         "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
         "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-        "seendate": "2026-08-01T07:28:20.000Z",
+        "seendate": "2026-08-01T07:28:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
