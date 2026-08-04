@@ -6,14 +6,54 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-    "seendate": "2026-08-04T06:00:10.000Z",
-    "articleCount": 14,
+    "headline": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+    "seendate": "2026-08-04T10:11:06.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+        "url": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+        "seendate": "2026-08-04T10:11:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+        "url": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+        "seendate": "2026-08-04T10:11:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinian patients return to Gaza as thousands still await evacuation",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
+        "seendate": "2026-08-04T10:04:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinian patients return to Gaza as thousands still await evacuation",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
+        "seendate": "2026-08-04T10:04:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
         "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
@@ -115,26 +155,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-        "seendate": "2026-08-03T21:05:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-        "seendate": "2026-08-03T21:05:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
         "seendate": "2026-08-02T06:53:14.000Z",
@@ -148,6 +168,163 @@
         "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
         "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-04T09:35:06.000Z",
+    "articleCount": 14,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:35:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:35:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:35:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:35:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:35:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:35:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-02T16:52:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+        "seendate": "2026-08-02T11:55:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+        "seendate": "2026-08-02T11:55:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -163,15 +340,96 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Why are the Washington wildfires so severe? Spokane fires explained",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-    "seendate": "2026-08-04T05:03:44.000Z",
-    "articleCount": 11,
+    "headline": "US primaries: What to watch in Kansas, Missouri, Virginia, Washington",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss",
+    "seendate": "2026-08-04T09:47:40.000Z",
+    "articleCount": 10,
     "categories": [
+      "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
       {
+        "title": "US primaries: What to watch in Kansas, Missouri, Virginia, Washington",
+        "url": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss",
+        "seendate": "2026-08-04T09:47:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US primaries: What to watch in Kansas, Missouri, Virginia, Washington",
+        "url": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss",
+        "seendate": "2026-08-04T09:47:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Arson arrest made over largest of Washington state's wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:32:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Arson arrest made over largest of Washington state's wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:32:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Arson arrest made over largest of Washington state's wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:32:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Arson arrest made over largest of Washington state's wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:32:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Arson arrest made over largest of Washington state's wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:32:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Arson arrest made over largest of Washington state's wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-04T09:32:12.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
         "title": "Why are the Washington wildfires so severe? Spokane fires explained",
         "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
         "seendate": "2026-08-04T05:03:44.000Z",
@@ -190,270 +448,43 @@
           "natural-disaster"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Washington wildfires destroy homes, force thousands to evacuate",
-        "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-        "seendate": "2026-08-03T14:28:44.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Washington wildfires destroy homes, force thousands to evacuate",
-        "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-        "seendate": "2026-08-03T14:28:44.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Washington wildfires destroy homes, force thousands to evacuate",
-        "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-        "seendate": "2026-08-03T14:28:44.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:20:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:20:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:20:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:20:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:20:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T10:20:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "At the scene of deadly Moscow bomb blast",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-02T16:52:35.000Z",
-    "articleCount": 8,
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "We demand accountability for the Beirut blast",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+    "seendate": "2026-08-04T08:51:46.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "We demand accountability for the Beirut blast",
+        "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+        "seendate": "2026-08-04T08:51:46.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "We demand accountability for the Beirut blast",
+        "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+        "seendate": "2026-08-04T08:51:46.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-        "seendate": "2026-08-02T11:55:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-        "seendate": "2026-08-02T11:55:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Amsterdam",
-    "name": "Amsterdam",
-    "country": "NL",
-    "lat": 52.37,
-    "lon": 4.9,
-    "timezone": "Europe/Amsterdam",
-    "headline": "Crowds line Amsterdam's canals for Pride boat parade",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-01T19:39:48.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T19:39:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T19:39:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T19:39:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T19:39:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T19:39:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-01T19:39:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
