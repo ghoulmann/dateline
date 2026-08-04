@@ -6,15 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
-    "seendate": "2026-08-04T17:03:24.000Z",
-    "articleCount": 16,
+    "headline": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+    "seendate": "2026-08-04T20:32:51.000Z",
+    "articleCount": 18,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+        "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+        "seendate": "2026-08-04T20:32:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+        "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+        "seendate": "2026-08-04T20:32:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
         "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
         "seendate": "2026-08-04T17:03:24.000Z",
@@ -95,26 +115,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-        "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
-        "seendate": "2026-08-04T14:51:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-        "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
-        "seendate": "2026-08-04T14:51:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
         "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-03T23:13:03.000Z",
@@ -173,6 +173,26 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+        "seendate": "2026-08-02T06:53:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -186,7 +206,7 @@
     "headline": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-04T11:19:01.000Z",
-    "articleCount": 12,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -252,64 +272,24 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+        "seendate": "2026-08-02T11:55:03.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+        "seendate": "2026-08-02T11:55:03.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-02T16:52:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -322,7 +302,7 @@
     "timezone": "America/New_York",
     "headline": "Arson arrest made over largest of Washington state's wildfires",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-04T14:20:16.000Z",
+    "seendate": "2026-08-04T19:18:45.000Z",
     "articleCount": 6,
     "categories": [
       "natural-disaster"
@@ -331,7 +311,7 @@
       {
         "title": "Arson arrest made over largest of Washington state's wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T14:20:16.000Z",
+        "seendate": "2026-08-04T19:18:45.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -341,7 +321,7 @@
       {
         "title": "Arson arrest made over largest of Washington state's wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T14:20:16.000Z",
+        "seendate": "2026-08-04T19:18:45.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -351,7 +331,7 @@
       {
         "title": "Arson arrest made over largest of Washington state's wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T14:20:16.000Z",
+        "seendate": "2026-08-04T19:18:45.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -361,7 +341,7 @@
       {
         "title": "Arson arrest made over largest of Washington state's wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T14:20:16.000Z",
+        "seendate": "2026-08-04T19:18:45.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -371,7 +351,7 @@
       {
         "title": "Arson arrest made over largest of Washington state's wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T14:20:16.000Z",
+        "seendate": "2026-08-04T19:18:45.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -381,7 +361,7 @@
       {
         "title": "Arson arrest made over largest of Washington state's wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T14:20:16.000Z",
+        "seendate": "2026-08-04T19:18:45.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
@@ -397,16 +377,16 @@
     "lat": 35.68,
     "lon": 139.69,
     "timezone": "Asia/Tokyo",
-    "headline": "Three lionesses die in Tokyo zoo as heatwave scorches East Asia",
+    "headline": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
     "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
     "seendate": "2026-08-04T17:50:06.000Z",
-    "articleCount": 2,
+    "articleCount": 4,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "Three lionesses die in Tokyo zoo as heatwave scorches East Asia",
+        "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
         "url": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
         "seendate": "2026-08-04T17:50:06.000Z",
         "source_domain": "aljazeera.com",
@@ -416,11 +396,71 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Three lionesses die in Tokyo zoo as heatwave scorches East Asia",
+        "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
         "url": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
         "seendate": "2026-08-04T17:50:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Stressed by Heat, 3 Lions Die at Tokyo Zoo",
+        "url": "https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html",
+        "seendate": "2026-08-04T17:13:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Stressed by Heat, 3 Lions Die at Tokyo Zoo",
+        "url": "https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html",
+        "seendate": "2026-08-04T17:13:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "US court deals blow to Trump’s bid to scrap climate grant programme",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+    "seendate": "2026-08-04T20:35:56.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+        "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+        "seendate": "2026-08-04T20:35:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+        "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+        "seendate": "2026-08-04T20:35:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis",
           "climate-watch"
         ],
         "source_category": "humanitarian"
@@ -465,39 +505,39 @@
     ]
   },
   {
-    "id": "Beirut",
-    "name": "Beirut",
-    "country": "LB",
-    "lat": 33.89,
-    "lon": 35.5,
-    "timezone": "Asia/Beirut",
-    "headline": "Beirut port blast anniversary overshadowed by new wave of destruction",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
-    "seendate": "2026-08-04T14:23:33.000Z",
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+    "headlineUrl": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+    "seendate": "2026-08-03T20:53:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
-        "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
-        "seendate": "2026-08-04T14:23:33.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+        "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+        "seendate": "2026-08-03T20:53:29.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
-        "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
-        "seendate": "2026-08-04T14:23:33.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+        "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+        "seendate": "2026-08-03T20:53:29.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   }
