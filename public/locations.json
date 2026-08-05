@@ -6,18 +6,38 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-    "headlineUrl": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-    "seendate": "2026-08-05T08:59:30.000Z",
-    "articleCount": 10,
+    "headline": "Gaza father opens play center to restore childhood amid Israeli attacks",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+    "seendate": "2026-08-05T14:08:46.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+        "seendate": "2026-08-05T14:08:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+        "seendate": "2026-08-05T14:08:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
         "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-        "seendate": "2026-08-05T08:59:30.000Z",
+        "seendate": "2026-08-05T12:05:18.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,287 +47,49 @@
       {
         "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
         "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-        "seendate": "2026-08-05T08:59:30.000Z",
+        "seendate": "2026-08-05T12:05:18.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Return of goods to markets in Gaza doesn’t mean people can afford them",
-        "url": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
-        "seendate": "2026-08-05T05:46:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Return of goods to markets in Gaza doesn’t mean people can afford them",
-        "url": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
-        "seendate": "2026-08-05T05:46:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T15:07:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T15:07:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T15:07:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T15:07:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T15:07:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T15:07:52.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Michigan, Missouri, Washington primary elections: Key takeaways",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
-    "seendate": "2026-08-05T09:14:41.000Z",
-    "articleCount": 8,
-    "categories": [
-      "democracy-crisis",
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
-        "url": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
-        "seendate": "2026-08-05T09:14:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
-        "url": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
-        "seendate": "2026-08-05T09:14:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-05T00:40:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-05T00:40:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-05T00:40:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-05T00:40:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-05T00:40:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-05T00:40:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-04T11:19:01.000Z",
-    "articleCount": 8,
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+    "seendate": "2026-08-05T11:01:32.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T11:19:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+        "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+        "seendate": "2026-08-05T11:01:32.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T11:19:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+        "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+        "seendate": "2026-08-05T11:01:32.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T11:19:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T11:19:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T11:19:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-04T11:19:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-        "seendate": "2026-08-02T11:55:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-        "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-        "seendate": "2026-08-02T11:55:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -321,7 +103,7 @@
     "headline": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
     "headlineUrl": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
     "seendate": "2026-08-05T10:41:55.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -345,26 +127,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
-        "seendate": "2026-08-05T04:38:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
-        "seendate": "2026-08-05T04:38:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
