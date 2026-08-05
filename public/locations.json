@@ -1,5 +1,120 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia kills 17 in ballistic missile attacks around Kyiv",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+    "seendate": "2026-08-05T16:42:24.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+        "seendate": "2026-08-05T16:42:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+        "seendate": "2026-08-05T16:42:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
+        "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+        "seendate": "2026-08-05T15:31:36.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
+        "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+        "seendate": "2026-08-05T15:31:36.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Arab officials call for action over Jerusalem tensions",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+    "seendate": "2026-08-05T15:59:52.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict",
+      "culture-wars"
+    ],
+    "articles": [
+      {
+        "title": "Arab officials call for action over Jerusalem tensions",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+        "seendate": "2026-08-05T15:59:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Arab officials call for action over Jerusalem tensions",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+        "seendate": "2026-08-05T15:59:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
+        "url": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
+        "seendate": "2026-08-05T15:50:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
+        "url": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
+        "seendate": "2026-08-05T15:50:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "culture-wars"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -57,74 +172,37 @@
     ]
   },
   {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-    "seendate": "2026-08-05T11:01:32.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate Change Comes to Sesame Street",
+    "headlineUrl": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
+    "seendate": "2026-08-05T15:38:43.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-        "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-        "seendate": "2026-08-05T11:01:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-        "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-        "seendate": "2026-08-05T11:01:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-    "headlineUrl": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-    "seendate": "2026-08-05T10:41:55.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-        "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-        "seendate": "2026-08-05T10:41:55.000Z",
+        "title": "Climate Change Comes to Sesame Street",
+        "url": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
+        "seendate": "2026-08-05T15:38:43.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-        "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-        "seendate": "2026-08-05T10:41:55.000Z",
+        "title": "Climate Change Comes to Sesame Street",
+        "url": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
+        "seendate": "2026-08-05T15:38:43.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
