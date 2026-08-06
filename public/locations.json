@@ -9,7 +9,7 @@
     "headline": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-05T18:19:51.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -75,29 +75,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-        "seendate": "2026-08-05T16:42:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-        "seendate": "2026-08-05T16:42:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
         "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-        "seendate": "2026-08-05T15:31:36.000Z",
+        "seendate": "2026-08-05T15:31:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -107,7 +87,7 @@
       {
         "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
         "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-        "seendate": "2026-08-05T15:31:36.000Z",
+        "seendate": "2026-08-05T15:31:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -117,25 +97,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Arab officials call for action over Jerusalem tensions",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
-    "seendate": "2026-08-05T15:59:52.000Z",
-    "articleCount": 4,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+    "seendate": "2026-08-06T00:00:00.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict",
-      "culture-wars"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Arab officials call for action over Jerusalem tensions",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
-        "seendate": "2026-08-05T15:59:52.000Z",
+        "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+        "seendate": "2026-08-06T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -143,32 +122,12 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Arab officials call for action over Jerusalem tensions",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
-        "seendate": "2026-08-05T15:59:52.000Z",
+        "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+        "seendate": "2026-08-06T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
-        "url": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
-        "seendate": "2026-08-05T15:50:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "culture-wars"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
-        "url": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
-        "seendate": "2026-08-05T15:50:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "culture-wars"
         ],
         "source_category": "humanitarian"
       }
@@ -181,34 +140,14 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza father opens play center to restore childhood amid Israeli attacks",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
-    "seendate": "2026-08-05T14:08:46.000Z",
-    "articleCount": 4,
+    "headline": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+    "headlineUrl": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+    "seendate": "2026-08-05T12:05:18.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
-        "seendate": "2026-08-05T14:08:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
-        "seendate": "2026-08-05T14:08:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
         "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
@@ -223,6 +162,43 @@
         "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
         "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
         "seendate": "2026-08-05T12:05:18.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Havana",
+    "name": "Havana",
+    "country": "CU",
+    "lat": 23.13,
+    "lon": -82.38,
+    "timezone": "America/Havana",
+    "headline": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+    "headlineUrl": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+    "seendate": "2026-08-06T00:30:39.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+        "seendate": "2026-08-06T00:30:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+        "seendate": "2026-08-06T00:30:39.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
