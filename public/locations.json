@@ -97,6 +97,83 @@
     ]
   },
   {
+    "id": "Athens",
+    "name": "Athens",
+    "country": "GR",
+    "lat": 37.98,
+    "lon": 23.72,
+    "timezone": "Europe/Athens",
+    "headline": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-06T17:26:56.000Z",
+    "articleCount": 6,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-06T17:26:56.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-06T17:26:56.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-06T17:26:56.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-06T17:26:56.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-06T17:26:56.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
+        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-06T17:26:56.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -174,37 +251,168 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Video: Wildfires in Washington state force thousands to evacuate homes",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
-    "seendate": "2026-08-06T11:59:30.000Z",
-    "articleCount": 2,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Travel restrictions – from Israel and Europe – trap students in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
+    "seendate": "2026-08-06T23:49:21.000Z",
+    "articleCount": 4,
     "categories": [
-      "natural-disaster"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
-        "seendate": "2026-08-06T11:59:30.000Z",
+        "title": "Travel restrictions – from Israel and Europe – trap students in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
+        "seendate": "2026-08-06T23:49:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
-        "seendate": "2026-08-06T11:59:30.000Z",
+        "title": "Travel restrictions – from Israel and Europe – trap students in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
+        "seendate": "2026-08-06T23:49:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+        "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+        "seendate": "2026-08-05T12:05:18.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+        "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+        "seendate": "2026-08-05T12:05:18.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Deadly explosion on minibus near Damascus",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
+    "seendate": "2026-08-06T19:41:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Deadly explosion on minibus near Damascus",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
+        "seendate": "2026-08-06T19:41:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Deadly explosion on minibus near Damascus",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
+        "seendate": "2026-08-06T19:41:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Vinicius Jr extends Real Madrid deal to 2032, ending transfer speculation",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/6/vinicius-jr-extends-real-madrid-deal-to-2032-ending-transfer-speculation?traffic_source=rss",
+    "seendate": "2026-08-06T19:21:40.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Vinicius Jr extends Real Madrid deal to 2032, ending transfer speculation",
+        "url": "https://www.aljazeera.com/sports/2026/8/6/vinicius-jr-extends-real-madrid-deal-to-2032-ending-transfer-speculation?traffic_source=rss",
+        "seendate": "2026-08-06T19:21:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Vinicius Jr extends Real Madrid deal to 2032, ending transfer speculation",
+        "url": "https://www.aljazeera.com/sports/2026/8/6/vinicius-jr-extends-real-madrid-deal-to-2032-ending-transfer-speculation?traffic_source=rss",
+        "seendate": "2026-08-06T19:21:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Israeli attacks wound eight in Lebanon despite Rome talks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks?traffic_source=rss",
+    "seendate": "2026-08-06T19:21:33.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli attacks wound eight in Lebanon despite Rome talks",
+        "url": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks?traffic_source=rss",
+        "seendate": "2026-08-06T19:21:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attacks wound eight in Lebanon despite Rome talks",
+        "url": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks?traffic_source=rss",
+        "seendate": "2026-08-06T19:21:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -239,43 +447,6 @@
         "title": "Country Music Festival Lights Up Nairobi",
         "url": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
         "seendate": "2026-08-06T04:01:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-    "headlineUrl": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-    "seendate": "2026-08-05T12:05:18.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-        "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-        "seendate": "2026-08-05T12:05:18.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-        "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-        "seendate": "2026-08-05T12:05:18.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
