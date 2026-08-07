@@ -1,96 +1,39 @@
 [
   {
-    "id": "Athens",
-    "name": "Athens",
-    "country": "GR",
-    "lat": 37.98,
-    "lon": 23.72,
-    "timezone": "Europe/Athens",
-    "headline": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-06T17:26:56.000Z",
-    "articleCount": 6,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-06T17:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-06T17:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-06T17:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-06T17:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-06T17:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
-        "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-06T17:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Travel restrictions – from Israel and Europe – trap students in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
-    "seendate": "2026-08-06T23:49:21.000Z",
-    "articleCount": 4,
+    "headline": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+    "headlineUrl": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+    "seendate": "2026-08-07T09:00:14.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+        "seendate": "2026-08-07T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+        "seendate": "2026-08-07T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Travel restrictions – from Israel and Europe – trap students in Gaza",
         "url": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
@@ -171,43 +114,6 @@
     ]
   },
   {
-    "id": "Nairobi",
-    "name": "Nairobi",
-    "country": "KE",
-    "lat": -1.29,
-    "lon": 36.82,
-    "timezone": "Africa/Nairobi",
-    "headline": "Country Music Festival Lights Up Nairobi",
-    "headlineUrl": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
-    "seendate": "2026-08-06T04:01:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Country Music Festival Lights Up Nairobi",
-        "url": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
-        "seendate": "2026-08-06T04:01:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Country Music Festival Lights Up Nairobi",
-        "url": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
-        "seendate": "2026-08-06T04:01:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -236,6 +142,43 @@
         "title": "Residents of London’s Barbican Are Battling a New Tower",
         "url": "https://www.nytimes.com/2026/08/07/world/europe/barbican-london-redevelopment-tower-block.html",
         "seendate": "2026-08-07T04:01:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Nairobi",
+    "name": "Nairobi",
+    "country": "KE",
+    "lat": -1.29,
+    "lon": 36.82,
+    "timezone": "Africa/Nairobi",
+    "headline": "Country Music Festival Lights Up Nairobi",
+    "headlineUrl": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+    "seendate": "2026-08-06T04:01:12.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Country Music Festival Lights Up Nairobi",
+        "url": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+        "seendate": "2026-08-06T04:01:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Country Music Festival Lights Up Nairobi",
+        "url": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+        "seendate": "2026-08-06T04:01:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
