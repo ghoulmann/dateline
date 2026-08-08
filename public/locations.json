@@ -8,7 +8,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "Child among three killed in Russian missile attacks near Kyiv",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-08T06:12:56.000Z",
+    "seendate": "2026-08-08T15:49:41.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T06:12:56.000Z",
+        "seendate": "2026-08-08T15:49:41.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T06:12:56.000Z",
+        "seendate": "2026-08-08T15:49:41.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -37,7 +37,7 @@
       {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T06:12:56.000Z",
+        "seendate": "2026-08-08T15:49:41.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -47,7 +47,7 @@
       {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T06:12:56.000Z",
+        "seendate": "2026-08-08T15:49:41.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -57,7 +57,7 @@
       {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T06:12:56.000Z",
+        "seendate": "2026-08-08T15:49:41.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -67,12 +67,59 @@
       {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T06:12:56.000Z",
+        "seendate": "2026-08-08T15:49:41.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Atlanta",
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.75,
+    "lon": -84.39,
+    "timezone": "America/New_York",
+    "headline": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+    "headlineUrl": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
+    "seendate": "2026-08-07T20:24:46.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+        "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
+        "seendate": "2026-08-07T20:24:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+        "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
+        "seendate": "2026-08-07T20:24:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+        "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
+        "seendate": "2026-08-07T20:24:46.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -105,80 +152,6 @@
         "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
         "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
         "seendate": "2026-08-08T12:01:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-    "seendate": "2026-08-08T11:31:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
-        "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-        "seendate": "2026-08-08T11:31:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
-        "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-        "seendate": "2026-08-08T11:31:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-    "seendate": "2026-08-08T05:45:58.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-        "url": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-        "seendate": "2026-08-08T05:45:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-        "url": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-        "seendate": "2026-08-08T05:45:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
