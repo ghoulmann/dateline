@@ -77,63 +77,6 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-    "seendate": "2026-08-07T18:54:55.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-        "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-        "seendate": "2026-08-07T18:54:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-        "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-        "seendate": "2026-08-07T18:54:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-        "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-        "seendate": "2026-08-05T15:31:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-        "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-        "seendate": "2026-08-05T15:31:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Doha",
     "name": "Doha",
     "country": "QA",
@@ -165,6 +108,43 @@
         "source_domain": "aljazeera.com",
         "categories": [
           "political-repression"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+    "seendate": "2026-08-07T18:54:55.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+        "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+        "seendate": "2026-08-07T18:54:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+        "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+        "seendate": "2026-08-07T18:54:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -253,7 +233,7 @@
     "timezone": "America/Havana",
     "headline": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
     "headlineUrl": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-    "seendate": "2026-08-06T00:30:39.000Z",
+    "seendate": "2026-08-08T01:24:17.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -262,7 +242,7 @@
       {
         "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
         "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-        "seendate": "2026-08-06T00:30:39.000Z",
+        "seendate": "2026-08-08T01:24:17.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -272,7 +252,7 @@
       {
         "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
         "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-        "seendate": "2026-08-06T00:30:39.000Z",
+        "seendate": "2026-08-08T01:24:17.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
