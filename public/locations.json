@@ -6,18 +6,99 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-09T12:12:10.000Z",
-    "articleCount": 10,
+    "headline": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+    "headlineUrl": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+    "seendate": "2026-08-09T16:08:19.000Z",
+    "articleCount": 22,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "humanitarian"
     ],
     "articles": [
       {
+        "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+        "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+        "seendate": "2026-08-09T16:08:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+        "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+        "seendate": "2026-08-09T16:08:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza’s children still struggling with hunger as another famine threatens",
+        "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
+        "seendate": "2026-08-09T14:47:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza’s children still struggling with hunger as another famine threatens",
+        "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
+        "seendate": "2026-08-09T14:47:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza engineer builds animal shelters out of empty cans",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+        "seendate": "2026-08-09T14:28:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza engineer builds animal shelters out of empty cans",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+        "seendate": "2026-08-09T14:28:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+        "seendate": "2026-08-09T14:26:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+        "seendate": "2026-08-09T14:26:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T12:12:10.000Z",
+        "seendate": "2026-08-09T14:18:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -27,7 +108,7 @@
       {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T12:12:10.000Z",
+        "seendate": "2026-08-09T14:18:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -37,7 +118,7 @@
       {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T12:12:10.000Z",
+        "seendate": "2026-08-09T14:18:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -47,7 +128,7 @@
       {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T12:12:10.000Z",
+        "seendate": "2026-08-09T14:18:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -57,7 +138,7 @@
       {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T12:12:10.000Z",
+        "seendate": "2026-08-09T14:18:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -67,7 +148,7 @@
       {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T12:12:10.000Z",
+        "seendate": "2026-08-09T14:18:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +156,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Israel rejects Trump’s 15-point plan for Gaza",
-        "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-        "seendate": "2026-08-09T11:31:18.000Z",
+        "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+        "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
+        "seendate": "2026-08-09T13:54:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -85,9 +166,49 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel rejects Trump’s 15-point plan for Gaza",
-        "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-        "seendate": "2026-08-09T11:31:18.000Z",
+        "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+        "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
+        "seendate": "2026-08-09T13:54:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+        "seendate": "2026-08-09T13:15:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+        "seendate": "2026-08-09T13:15:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+        "seendate": "2026-08-09T12:51:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+        "seendate": "2026-08-09T12:51:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -194,37 +315,74 @@
     ]
   },
   {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Hundreds forced onto Rome streets amid crackdown on squatted building",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
-    "seendate": "2026-08-09T11:31:54.000Z",
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+    "seendate": "2026-08-09T16:05:10.000Z",
     "articleCount": 2,
     "categories": [
-      "political-repression"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
-        "seendate": "2026-08-09T11:31:54.000Z",
+        "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+        "url": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+        "seendate": "2026-08-09T16:05:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
-        "seendate": "2026-08-09T11:31:54.000Z",
+        "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+        "url": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+        "seendate": "2026-08-09T16:05:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Syria says it reached deal with Moscow on future of Russian bases",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+    "seendate": "2026-08-09T14:20:51.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Syria says it reached deal with Moscow on future of Russian bases",
+        "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+        "seendate": "2026-08-09T14:20:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Syria says it reached deal with Moscow on future of Russian bases",
+        "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+        "seendate": "2026-08-09T14:20:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -342,39 +500,29 @@
     ]
   },
   {
-    "id": "Havana",
-    "name": "Havana",
-    "country": "CU",
-    "lat": 23.13,
-    "lon": -82.38,
-    "timezone": "America/Havana",
-    "headline": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-    "headlineUrl": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-    "seendate": "2026-08-08T01:24:17.000Z",
-    "articleCount": 2,
+    "id": "Dallas",
+    "name": "Dallas",
+    "country": "US",
+    "lat": 32.78,
+    "lon": -96.8,
+    "timezone": "America/Chicago",
+    "headline": "&apos;Dallas&apos; star Linda Gray reveals the bizarre way Larry Hagman avoided kissing scenes",
+    "headlineUrl": "https://www.foxnews.com/entertainment/dallas-star-linda-gray-reveals-bizarre-way-larry-hagman-avoided-kissing-scenes",
+    "seendate": "2026-08-09T16:00:14.000Z",
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-        "seendate": "2026-08-08T01:24:17.000Z",
-        "source_domain": "nytimes.com",
+        "title": "&apos;Dallas&apos; star Linda Gray reveals the bizarre way Larry Hagman avoided kissing scenes",
+        "url": "https://www.foxnews.com/entertainment/dallas-star-linda-gray-reveals-bizarre-way-larry-hagman-avoided-kissing-scenes",
+        "seendate": "2026-08-09T16:00:14.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-        "seendate": "2026-08-08T01:24:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "culture-wars"
       }
     ]
   },
