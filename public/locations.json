@@ -1,5 +1,82 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
+    "seendate": "2026-08-08T23:09:30.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+        "url": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
+        "seendate": "2026-08-08T23:09:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+        "url": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
+        "seendate": "2026-08-08T23:09:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+        "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+        "seendate": "2026-08-08T17:26:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+        "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+        "seendate": "2026-08-08T17:26:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+        "seendate": "2026-08-07T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+        "seendate": "2026-08-07T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -154,24 +231,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-    "seendate": "2026-08-08T17:26:59.000Z",
-    "articleCount": 4,
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "seendate": "2026-08-09T00:00:00.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-        "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-        "seendate": "2026-08-08T17:26:59.000Z",
+        "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "seendate": "2026-08-09T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,34 +256,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-        "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-        "seendate": "2026-08-08T17:26:59.000Z",
+        "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "seendate": "2026-08-09T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Rio de Janeiro",
+    "name": "Rio de Janeiro",
+    "country": "BR",
+    "lat": -22.91,
+    "lon": -43.17,
+    "timezone": "America/Sao_Paulo",
+    "headline": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+    "seendate": "2026-08-08T23:19:28.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-        "seendate": "2026-08-07T09:00:14.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+        "url": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+        "seendate": "2026-08-08T23:19:28.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-        "seendate": "2026-08-07T09:00:14.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+        "url": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+        "seendate": "2026-08-08T23:19:28.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -220,7 +314,7 @@
     "headline": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
     "headlineUrl": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
     "seendate": "2026-08-08T16:26:36.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -244,73 +338,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-        "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
-        "seendate": "2026-08-08T12:01:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-        "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
-        "seendate": "2026-08-08T12:01:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Atlanta",
-    "name": "Atlanta",
-    "country": "US",
-    "lat": 33.75,
-    "lon": -84.39,
-    "timezone": "America/New_York",
-    "headline": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
-    "headlineUrl": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
-    "seendate": "2026-08-07T20:24:46.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
-        "seendate": "2026-08-07T20:24:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
-        "seendate": "2026-08-07T20:24:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
-        "seendate": "2026-08-07T20:24:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
