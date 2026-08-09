@@ -1,5 +1,122 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-09T12:12:10.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-09T12:12:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-09T12:12:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-09T12:12:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-09T12:12:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-09T12:12:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-09T12:12:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Israel rejects Trump’s 15-point plan for Gaza",
+        "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+        "seendate": "2026-08-09T11:31:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel rejects Trump’s 15-point plan for Gaza",
+        "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+        "seendate": "2026-08-09T11:31:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+        "seendate": "2026-08-07T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+        "seendate": "2026-08-07T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -77,133 +194,76 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-    "seendate": "2026-08-08T23:09:30.000Z",
-    "articleCount": 4,
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
+    "seendate": "2026-08-09T11:31:54.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "political-repression"
     ],
     "articles": [
       {
-        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-        "url": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-        "seendate": "2026-08-08T23:09:30.000Z",
+        "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
+        "seendate": "2026-08-09T11:31:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-        "url": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-        "seendate": "2026-08-08T23:09:30.000Z",
+        "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
+        "seendate": "2026-08-09T11:31:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
+    "headlineUrl": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+    "seendate": "2026-08-09T09:00:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
       {
-        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-        "seendate": "2026-08-07T09:00:14.000Z",
+        "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
+        "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+        "seendate": "2026-08-09T09:00:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-        "seendate": "2026-08-07T09:00:14.000Z",
+        "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
+        "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+        "seendate": "2026-08-09T09:00:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-    "seendate": "2026-08-09T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "seendate": "2026-08-09T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "seendate": "2026-08-09T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Rio de Janeiro",
-    "name": "Rio de Janeiro",
-    "country": "BR",
-    "lat": -22.91,
-    "lon": -43.17,
-    "timezone": "America/Sao_Paulo",
-    "headline": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-    "seendate": "2026-08-08T23:19:28.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-        "url": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-        "seendate": "2026-08-08T23:19:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-        "url": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-        "seendate": "2026-08-08T23:19:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
