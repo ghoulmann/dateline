@@ -6,18 +6,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-    "headlineUrl": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
-    "seendate": "2026-08-10T11:17:16.000Z",
-    "articleCount": 16,
+    "headline": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+    "seendate": "2026-08-10T16:24:13.000Z",
+    "articleCount": 24,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-        "url": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
-        "seendate": "2026-08-10T11:17:16.000Z",
+        "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+        "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+        "seendate": "2026-08-10T16:24:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-        "url": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
-        "seendate": "2026-08-10T11:17:16.000Z",
+        "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+        "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+        "seendate": "2026-08-10T16:24:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -35,29 +36,109 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-        "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
-        "seendate": "2026-08-10T10:13:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+        "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+        "seendate": "2026-08-10T15:40:38.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+        "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+        "seendate": "2026-08-10T15:40:38.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-10T14:43:08.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-        "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
-        "seendate": "2026-08-10T10:13:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-10T14:43:08.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
-        "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-        "seendate": "2026-08-10T07:43:01.000Z",
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-10T14:43:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-10T14:43:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-10T14:43:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-10T14:43:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+        "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
+        "seendate": "2026-08-10T13:59:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+        "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
+        "seendate": "2026-08-10T13:59:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss",
+        "seendate": "2026-08-10T13:32:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -65,9 +146,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
-        "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-        "seendate": "2026-08-10T07:43:01.000Z",
+        "title": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss",
+        "seendate": "2026-08-10T13:32:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
