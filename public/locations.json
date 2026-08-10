@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Still Waiting for Peace in Gaza",
-    "headlineUrl": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
-    "seendate": "2026-08-10T04:36:22.000Z",
-    "articleCount": 15,
+    "headline": "Israeli forces kill one in Gaza as another body recovered from rubble",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+    "seendate": "2026-08-10T07:43:01.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+        "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+        "seendate": "2026-08-10T07:43:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+        "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+        "seendate": "2026-08-10T07:43:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Still Waiting for Peace in Gaza",
         "url": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
@@ -115,36 +135,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Netanyahu rejects Trump&apos;s Gaza Peace Plan, demands Hamas disarm first",
-        "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-        "seendate": "2026-08-09T18:21:45.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Netanyahu rejects Trump&apos;s Gaza Peace Plan, demands Hamas disarm first",
-        "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-        "seendate": "2026-08-09T18:21:45.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Netanyahu rejects Trump&apos;s Gaza Peace Plan, demands Hamas disarm first",
-        "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-        "seendate": "2026-08-09T18:21:45.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
         "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
         "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
         "seendate": "2026-08-07T09:00:14.000Z",
@@ -163,83 +153,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Child among three killed in Russian missile attacks near Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-08T18:06:25.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T18:06:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T18:06:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T18:06:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T18:06:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T18:06:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-08T18:06:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -317,43 +230,6 @@
           "democracy-crisis"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "Can the Doha Framework end the conflict in eastern DRC?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-    "seendate": "2026-08-09T19:07:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Can the Doha Framework end the conflict in eastern DRC?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-        "seendate": "2026-08-09T19:07:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Can the Doha Framework end the conflict in eastern DRC?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-        "seendate": "2026-08-09T19:07:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
