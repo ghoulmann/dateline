@@ -77,6 +77,43 @@
     ]
   },
   {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Frenzy for Solar Eclipse Glasses Takes Over London",
+    "headlineUrl": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
+    "seendate": "2026-08-11T15:22:49.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
+        "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
+        "seendate": "2026-08-11T15:22:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
+        "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
+        "seendate": "2026-08-11T15:22:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -132,33 +169,6 @@
         "title": "&apos;Dallas&apos; star Linda Gray reveals the bizarre way Larry Hagman avoided kissing scenes",
         "url": "https://www.foxnews.com/entertainment/dallas-star-linda-gray-reveals-bizarre-way-larry-hagman-avoided-kissing-scenes",
         "seendate": "2026-08-09T16:00:14.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Antonio Banderas says he always knew Los Angeles wasn&apos;t where he belonged",
-    "headlineUrl": "https://www.foxnews.com/entertainment/antonio-banderas-says-he-always-knew-los-angeles-wasnt-where-he-belonged",
-    "seendate": "2026-08-08T19:23:33.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Antonio Banderas says he always knew Los Angeles wasn&apos;t where he belonged",
-        "url": "https://www.foxnews.com/entertainment/antonio-banderas-says-he-always-knew-los-angeles-wasnt-where-he-belonged",
-        "seendate": "2026-08-08T19:23:33.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
