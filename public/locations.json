@@ -6,15 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-    "headlineUrl": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-    "seendate": "2026-08-10T22:00:49.000Z",
-    "articleCount": 10,
+    "headline": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+    "seendate": "2026-08-11T11:28:05.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+        "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+        "seendate": "2026-08-11T11:28:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+        "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+        "seendate": "2026-08-11T11:28:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
         "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
         "seendate": "2026-08-10T22:00:49.000Z",
@@ -35,66 +55,6 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-10T14:43:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-10T14:43:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-10T14:43:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-10T14:43:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-10T14:43:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-10T14:43:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
         "title": "Still Waiting for Peace in Gaza",
         "url": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
         "seendate": "2026-08-10T04:36:22.000Z",
@@ -113,83 +73,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Dublin",
-    "name": "Dublin",
-    "country": "IE",
-    "lat": 53.35,
-    "lon": -6.26,
-    "timezone": "Europe/Dublin",
-    "headline": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-09T21:26:56.000Z",
-    "articleCount": 6,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T21:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T21:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T21:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T21:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T21:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-09T21:26:56.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
