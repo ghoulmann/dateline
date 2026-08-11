@@ -6,18 +6,38 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-    "headlineUrl": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-    "seendate": "2026-08-10T19:14:20.000Z",
-    "articleCount": 16,
+    "headline": "Can Netanyahu defy Trump on his Gaza peace plan?",
+    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+    "seendate": "2026-08-11T00:00:19.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+        "seendate": "2026-08-11T00:00:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+        "seendate": "2026-08-11T00:00:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
         "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-        "seendate": "2026-08-10T19:14:20.000Z",
+        "seendate": "2026-08-10T22:00:49.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +47,7 @@
       {
         "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
         "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-        "seendate": "2026-08-10T19:14:20.000Z",
+        "seendate": "2026-08-10T22:00:49.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Palestinian club football to restart in September after Gaza war suspension",
-        "url": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-        "seendate": "2026-08-10T17:30:36.000Z",
+        "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+        "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+        "seendate": "2026-08-10T21:03:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -45,29 +65,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestinian club football to restart in September after Gaza war suspension",
-        "url": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-        "seendate": "2026-08-10T17:30:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
-        "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
-        "seendate": "2026-08-10T16:24:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
-        "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
-        "seendate": "2026-08-10T16:24:13.000Z",
+        "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+        "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+        "seendate": "2026-08-10T21:03:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -148,26 +148,6 @@
         "title": "Still Waiting for Peace in Gaza",
         "url": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
         "seendate": "2026-08-10T04:36:22.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-        "seendate": "2026-08-07T09:00:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-        "seendate": "2026-08-07T09:00:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -297,6 +277,80 @@
           "natural-disaster"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Bogota",
+    "name": "Bogota",
+    "country": "CO",
+    "lat": 4.71,
+    "lon": -74.07,
+    "timezone": "America/Bogota",
+    "headline": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+    "seendate": "2026-08-10T21:48:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+        "seendate": "2026-08-10T21:48:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+        "seendate": "2026-08-10T21:48:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Trump to demand compensation for Tehran’s ‘conflicts’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+    "seendate": "2026-08-10T20:55:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+        "seendate": "2026-08-10T20:55:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+        "seendate": "2026-08-10T20:55:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
