@@ -6,34 +6,14 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Can Netanyahu defy Trump on his Gaza peace plan?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
-    "seendate": "2026-08-11T00:00:19.000Z",
-    "articleCount": 14,
+    "headline": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+    "headlineUrl": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+    "seendate": "2026-08-10T22:00:49.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
-        "seendate": "2026-08-11T00:00:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
-        "seendate": "2026-08-11T00:00:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
         "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
@@ -53,26 +33,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
-        "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-        "seendate": "2026-08-10T21:03:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
-        "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-        "seendate": "2026-08-10T21:03:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
@@ -230,127 +190,6 @@
           "democracy-crisis"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Assam",
-    "name": "Assam",
-    "country": "IN",
-    "lat": 26.2,
-    "lon": 92.9,
-    "timezone": "Asia/Kolkata",
-    "headline": "Flood death toll in India&apos;s Assam reaches 100 as thousands lose their homes",
-    "headlineUrl": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-    "seendate": "2026-08-10T12:39:05.000Z",
-    "articleCount": 3,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Flood death toll in India&apos;s Assam reaches 100 as thousands lose their homes",
-        "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-        "seendate": "2026-08-10T12:39:05.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Flood death toll in India&apos;s Assam reaches 100 as thousands lose their homes",
-        "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-        "seendate": "2026-08-10T12:39:05.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Flood death toll in India&apos;s Assam reaches 100 as thousands lose their homes",
-        "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-        "seendate": "2026-08-10T12:39:05.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Bogota",
-    "name": "Bogota",
-    "country": "CO",
-    "lat": 4.71,
-    "lon": -74.07,
-    "timezone": "America/Bogota",
-    "headline": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
-    "seendate": "2026-08-10T21:48:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
-        "seendate": "2026-08-10T21:48:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
-        "seendate": "2026-08-10T21:48:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Trump to demand compensation for Tehran’s ‘conflicts’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-    "seendate": "2026-08-10T20:55:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-        "seendate": "2026-08-10T20:55:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-        "seendate": "2026-08-10T20:55:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
