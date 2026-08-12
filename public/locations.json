@@ -77,6 +77,53 @@
     ]
   },
   {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/12/josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn?traffic_source=rss",
+    "seendate": "2026-08-12T20:04:24.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
+        "url": "https://www.aljazeera.com/sports/2026/8/12/josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn?traffic_source=rss",
+        "seendate": "2026-08-12T20:04:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
+        "url": "https://www.aljazeera.com/sports/2026/8/12/josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn?traffic_source=rss",
+        "seendate": "2026-08-12T20:04:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
+        "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
+        "seendate": "2026-08-12T14:00:08.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -110,33 +157,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
-    "headlineUrl": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
-    "seendate": "2026-08-12T14:00:08.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
-        "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
-        "seendate": "2026-08-12T14:00:08.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
