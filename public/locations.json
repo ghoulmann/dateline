@@ -77,63 +77,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Autism and war: Gaza families grapple with destruction and loss",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-    "seendate": "2026-08-12T07:27:42.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Autism and war: Gaza families grapple with destruction and loss",
-        "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-        "seendate": "2026-08-12T07:27:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Autism and war: Gaza families grapple with destruction and loss",
-        "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-        "seendate": "2026-08-12T07:27:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-        "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-        "seendate": "2026-08-10T22:00:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-        "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-        "seendate": "2026-08-10T22:00:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -171,24 +114,24 @@
     ]
   },
   {
-    "id": "Dallas",
-    "name": "Dallas",
+    "id": "Los Angeles",
+    "name": "Los Angeles",
     "country": "US",
-    "lat": 32.78,
-    "lon": -96.8,
-    "timezone": "America/Chicago",
-    "headline": "&apos;Dallas&apos; star Linda Gray reveals the bizarre way Larry Hagman avoided kissing scenes",
-    "headlineUrl": "https://www.foxnews.com/entertainment/dallas-star-linda-gray-reveals-bizarre-way-larry-hagman-avoided-kissing-scenes",
-    "seendate": "2026-08-09T16:00:14.000Z",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
+    "headlineUrl": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
+    "seendate": "2026-08-12T14:00:08.000Z",
     "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "&apos;Dallas&apos; star Linda Gray reveals the bizarre way Larry Hagman avoided kissing scenes",
-        "url": "https://www.foxnews.com/entertainment/dallas-star-linda-gray-reveals-bizarre-way-larry-hagman-avoided-kissing-scenes",
-        "seendate": "2026-08-09T16:00:14.000Z",
+        "title": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
+        "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
+        "seendate": "2026-08-12T14:00:08.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
