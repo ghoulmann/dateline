@@ -6,14 +6,34 @@
     "lat": 1.35,
     "lon": 103.82,
     "timezone": "Asia/Singapore",
-    "headline": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-12T07:44:44.000Z",
-    "articleCount": 6,
+    "headline": "Singapore-flagged container ship crashes into riverbank in India",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
+    "seendate": "2026-08-13T09:42:18.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Singapore-flagged container ship crashes into riverbank in India",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
+        "seendate": "2026-08-13T09:42:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Singapore-flagged container ship crashes into riverbank in India",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
+        "seendate": "2026-08-13T09:42:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
         "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
@@ -77,108 +97,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-    "seendate": "2026-08-13T02:42:24.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-        "seendate": "2026-08-13T02:42:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-        "seendate": "2026-08-13T02:42:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Paris Jackson says dad Michael’s unusual rule helped protect her childhood",
-        "url": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
-        "seendate": "2026-08-12T21:36:20.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
-    "seendate": "2026-08-13T07:17:55.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
-        "url": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
-        "seendate": "2026-08-13T07:17:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
-        "url": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
-        "seendate": "2026-08-13T07:17:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestinian women in Gaza face legal hurdles in divorce struggles",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-    "seendate": "2026-08-13T07:01:35.000Z",
+    "headline": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+    "seendate": "2026-08-13T11:29:32.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
-        "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-        "seendate": "2026-08-13T07:01:35.000Z",
+        "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+        "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+        "seendate": "2026-08-13T11:29:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -186,14 +122,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
-        "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-        "seendate": "2026-08-13T07:01:35.000Z",
+        "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+        "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+        "seendate": "2026-08-13T11:29:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+    "headlineUrl": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+    "seendate": "2026-08-13T13:12:44.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "seendate": "2026-08-13T13:12:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "seendate": "2026-08-13T13:12:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -231,6 +204,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris Jackson says dad Michael’s unusual rule helped protect her childhood",
+    "headlineUrl": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
+    "seendate": "2026-08-12T21:36:20.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Paris Jackson says dad Michael’s unusual rule helped protect her childhood",
+        "url": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
+        "seendate": "2026-08-12T21:36:20.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
