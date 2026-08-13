@@ -1,98 +1,172 @@
 [
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore-flagged container ship crashes into riverbank in India",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
-    "seendate": "2026-08-13T09:42:18.000Z",
-    "articleCount": 8,
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
+    "headlineUrl": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+    "seendate": "2026-08-13T16:40:26.000Z",
+    "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Singapore-flagged container ship crashes into riverbank in India",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
-        "seendate": "2026-08-13T09:42:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Singapore-flagged container ship crashes into riverbank in India",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
-        "seendate": "2026-08-13T09:42:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-12T07:44:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-12T07:44:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-12T07:44:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
+        "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+        "seendate": "2026-08-13T16:40:26.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-12T07:44:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
+        "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+        "seendate": "2026-08-13T16:40:26.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
+        "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+        "seendate": "2026-08-13T16:40:26.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "seendate": "2026-08-13T13:12:44.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-12T07:44:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "seendate": "2026-08-13T13:12:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Quito",
+    "name": "Quito",
+    "country": "EC",
+    "lat": -0.18,
+    "lon": -78.47,
+    "timezone": "America/Guayaquil",
+    "headline": "Brazil’s Disease-Fighting Mosquitoes",
+    "headlineUrl": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
+    "seendate": "2026-08-13T14:58:07.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Brazil’s Disease-Fighting Mosquitoes",
+        "url": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
+        "seendate": "2026-08-13T14:58:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Brazil’s Disease-Fighting Mosquitoes",
+        "url": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
+        "seendate": "2026-08-13T14:58:07.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-12T07:44:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+        "url": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
+        "seendate": "2026-08-13T14:49:56.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+        "url": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
+        "seendate": "2026-08-13T14:49:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
+    "headlineUrl": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+    "seendate": "2026-08-12T21:37:33.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
+        "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+        "seendate": "2026-08-12T21:37:33.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
+        "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+        "seendate": "2026-08-12T21:37:33.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Paris Jackson says dad Michael’s unusual rule helped protect her childhood",
+        "url": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
+        "seendate": "2026-08-12T21:36:20.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -130,107 +204,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-    "headlineUrl": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-    "seendate": "2026-08-13T13:12:44.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-        "seendate": "2026-08-13T13:12:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-        "seendate": "2026-08-13T13:12:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Frenzy for Solar Eclipse Glasses Takes Over London",
-    "headlineUrl": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-    "seendate": "2026-08-12T10:37:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
-        "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-        "seendate": "2026-08-12T10:37:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
-        "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-        "seendate": "2026-08-12T10:37:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Paris Jackson says dad Michael’s unusual rule helped protect her childhood",
-    "headlineUrl": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
-    "seendate": "2026-08-12T21:36:20.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Paris Jackson says dad Michael’s unusual rule helped protect her childhood",
-        "url": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
-        "seendate": "2026-08-12T21:36:20.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
