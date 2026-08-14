@@ -6,14 +6,34 @@
     "lat": 35.68,
     "lon": 139.69,
     "timezone": "Asia/Tokyo",
-    "headline": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
-    "headlineUrl": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-    "seendate": "2026-08-13T16:40:26.000Z",
+    "headline": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+    "headlineUrl": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+    "seendate": "2026-08-13T22:38:32.000Z",
     "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "seendate": "2026-08-13T22:38:32.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "seendate": "2026-08-13T22:38:32.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
         "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
@@ -43,26 +63,63 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+    "seendate": "2026-08-13T23:09:15.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-        "seendate": "2026-08-13T13:12:45.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+        "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+        "seendate": "2026-08-13T23:09:15.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-        "seendate": "2026-08-13T13:12:45.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+        "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+        "seendate": "2026-08-13T23:09:15.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill two, including police chief",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+        "seendate": "2026-08-13T21:10:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill two, including police chief",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+        "seendate": "2026-08-13T21:10:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -171,24 +228,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
-    "seendate": "2026-08-13T17:57:21.000Z",
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
+    "seendate": "2026-08-13T21:17:45.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
-        "seendate": "2026-08-13T17:57:21.000Z",
+        "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
+        "seendate": "2026-08-13T21:17:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -196,9 +253,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
-        "seendate": "2026-08-13T17:57:21.000Z",
+        "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
+        "seendate": "2026-08-13T21:17:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Huge explosion rocks Italian munitions factory south of Rome",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
+    "seendate": "2026-08-13T20:52:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Huge explosion rocks Italian munitions factory south of Rome",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
+        "seendate": "2026-08-13T20:52:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Huge explosion rocks Italian munitions factory south of Rome",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
+        "seendate": "2026-08-13T20:52:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
