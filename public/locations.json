@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-    "seendate": "2026-08-14T14:48:54.000Z",
-    "articleCount": 4,
+    "headline": "Art offers young Gaza survivors solace and escape from war’s devastation",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+    "seendate": "2026-08-14T18:43:36.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+        "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+        "seendate": "2026-08-14T18:43:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+        "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+        "seendate": "2026-08-14T18:43:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
         "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
@@ -57,6 +77,83 @@
     ]
   },
   {
+    "id": "Buenos Aires",
+    "name": "Buenos Aires",
+    "country": "AR",
+    "lat": -34.6,
+    "lon": -58.38,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "headline": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-14T17:00:46.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-14T17:00:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-14T17:00:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-14T17:00:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-14T17:00:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-14T17:00:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-14T17:00:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Quito",
     "name": "Quito",
     "country": "EC",
@@ -65,7 +162,7 @@
     "timezone": "America/Guayaquil",
     "headline": "Brazil’s Disease-Fighting Mosquitoes",
     "headlineUrl": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-    "seendate": "2026-08-14T10:27:36.000Z",
+    "seendate": "2026-08-14T18:36:00.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -74,7 +171,7 @@
       {
         "title": "Brazil’s Disease-Fighting Mosquitoes",
         "url": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-        "seendate": "2026-08-14T10:27:36.000Z",
+        "seendate": "2026-08-14T18:36:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -84,7 +181,7 @@
       {
         "title": "Brazil’s Disease-Fighting Mosquitoes",
         "url": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-        "seendate": "2026-08-14T10:27:36.000Z",
+        "seendate": "2026-08-14T18:36:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -161,24 +258,24 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-    "seendate": "2026-08-14T11:18:22.000Z",
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+    "seendate": "2026-08-14T18:55:24.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-        "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-        "seendate": "2026-08-14T11:18:22.000Z",
+        "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+        "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-08-14T18:55:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -186,46 +283,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-        "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-        "seendate": "2026-08-14T11:18:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
-    "seendate": "2026-08-14T11:04:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-        "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
-        "seendate": "2026-08-14T11:04:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-        "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
-        "seendate": "2026-08-14T11:04:40.000Z",
+        "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+        "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-08-14T18:55:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
