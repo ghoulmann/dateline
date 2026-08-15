@@ -1,78 +1,58 @@
 [
   {
-    "id": "Buenos Aires",
-    "name": "Buenos Aires",
-    "country": "AR",
-    "lat": -34.6,
-    "lon": -58.38,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "headline": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-14T17:00:46.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+    "seendate": "2026-08-15T06:10:07.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-14T17:00:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+        "url": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+        "seendate": "2026-08-15T06:10:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-14T17:00:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+        "url": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+        "seendate": "2026-08-15T06:10:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-14T17:00:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-14T17:00:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "seendate": "2026-08-14T13:20:34.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-14T17:00:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "seendate": "2026-08-14T13:20:34.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-14T17:00:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -181,39 +161,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-    "headlineUrl": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-    "seendate": "2026-08-14T13:20:34.000Z",
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "A Syrian intervention in Lebanon would be too costly for Damascus",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+    "seendate": "2026-08-15T07:27:32.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
+        "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+        "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+        "seendate": "2026-08-15T07:27:32.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
+        "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+        "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+        "seendate": "2026-08-15T07:27:32.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
