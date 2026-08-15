@@ -57,6 +57,43 @@
     ]
   },
   {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+    "seendate": "2026-08-15T18:19:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+        "url": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+        "seendate": "2026-08-15T18:19:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+        "url": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+        "seendate": "2026-08-15T18:19:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -122,43 +159,6 @@
         "title": "Vienna woman sues city for discrimination over toilet fees",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
         "seendate": "2026-08-15T13:01:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-    "seendate": "2026-08-15T10:48:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-        "url": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-        "seendate": "2026-08-15T10:48:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-        "url": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-        "seendate": "2026-08-15T10:48:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
