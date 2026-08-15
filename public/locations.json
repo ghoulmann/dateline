@@ -1,82 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Art offers young Gaza survivors solace and escape from war’s devastation",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-    "seendate": "2026-08-14T18:43:36.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-        "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-        "seendate": "2026-08-14T18:43:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-        "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-        "seendate": "2026-08-14T18:43:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-        "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-        "seendate": "2026-08-14T14:48:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-        "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-        "seendate": "2026-08-14T14:48:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Buenos Aires",
     "name": "Buenos Aires",
     "country": "AR",
@@ -150,6 +73,63 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Art offers young Gaza survivors solace and escape from war’s devastation",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+    "seendate": "2026-08-14T18:43:36.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+        "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+        "seendate": "2026-08-14T18:43:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+        "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+        "seendate": "2026-08-14T18:43:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "seendate": "2026-08-14T13:20:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "seendate": "2026-08-14T13:20:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -328,33 +308,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
-    "headlineUrl": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
-    "seendate": "2026-08-12T14:00:08.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "&apos;Fire Country&apos; star Diane Farr reveals where she now lives after leaving Los Angeles behind",
-        "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-reveals-where-she-now-lives-leaving-los-angeles",
-        "seendate": "2026-08-12T14:00:08.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
