@@ -1,20 +1,137 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "How a simple lighter has become the backbone of life in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-    "seendate": "2026-08-16T06:10:58.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "BBC visits smouldering Kyiv market after Russian strikes",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-16T12:18:09.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-16T12:18:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-16T12:18:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-16T12:18:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-16T12:18:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-16T12:18:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-16T12:18:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+        "seendate": "2026-08-16T04:54:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+        "seendate": "2026-08-16T04:54:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+    "seendate": "2026-08-16T10:32:42.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+        "seendate": "2026-08-16T10:32:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+        "seendate": "2026-08-16T10:32:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "How a simple lighter has become the backbone of life in Gaza",
         "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
         "seendate": "2026-08-16T06:10:58.000Z",
@@ -28,46 +145,6 @@
         "title": "How a simple lighter has become the backbone of life in Gaza",
         "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
         "seendate": "2026-08-16T06:10:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-        "seendate": "2026-08-16T02:26:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-        "seendate": "2026-08-16T02:26:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-        "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-        "seendate": "2026-08-16T00:44:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-        "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-        "seendate": "2026-08-16T00:44:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -97,59 +174,39 @@
     ]
   },
   {
-    "id": "Quito",
-    "name": "Quito",
-    "country": "EC",
-    "lat": -0.18,
-    "lon": -78.47,
-    "timezone": "America/Guayaquil",
-    "headline": "Brazil’s Disease-Fighting Mosquitoes",
-    "headlineUrl": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-    "seendate": "2026-08-14T18:36:00.000Z",
-    "articleCount": 4,
+    "id": "Kabul",
+    "name": "Kabul",
+    "country": "AF",
+    "lat": 34.52,
+    "lon": 69.18,
+    "timezone": "Asia/Kabul",
+    "headline": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+    "seendate": "2026-08-16T08:40:34.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Brazil’s Disease-Fighting Mosquitoes",
-        "url": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-        "seendate": "2026-08-14T18:36:00.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+        "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+        "seendate": "2026-08-16T08:40:34.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Brazil’s Disease-Fighting Mosquitoes",
-        "url": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-        "seendate": "2026-08-14T18:36:00.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+        "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+        "seendate": "2026-08-16T08:40:34.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
-        "url": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
-        "seendate": "2026-08-13T14:49:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
-        "url": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
-        "seendate": "2026-08-13T14:49:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -182,80 +239,6 @@
         "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
         "url": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
         "seendate": "2026-08-16T07:47:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-    "seendate": "2026-08-16T04:54:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "seendate": "2026-08-16T04:54:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "seendate": "2026-08-16T04:54:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-    "seendate": "2026-08-15T20:55:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
-        "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-        "seendate": "2026-08-15T20:55:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
-        "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-        "seendate": "2026-08-15T20:55:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
