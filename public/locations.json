@@ -1,5 +1,82 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+    "seendate": "2026-08-16T14:35:15.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+        "seendate": "2026-08-16T14:35:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+        "seendate": "2026-08-16T14:35:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+        "seendate": "2026-08-16T10:32:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+        "seendate": "2026-08-16T10:32:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "seendate": "2026-08-14T13:20:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "seendate": "2026-08-14T13:20:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -9,7 +86,7 @@
     "headline": "BBC visits smouldering Kyiv market after Russian strikes",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-16T12:18:09.000Z",
-    "articleCount": 8,
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
@@ -73,125 +150,28 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "seendate": "2026-08-16T04:54:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "seendate": "2026-08-16T04:54:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-    "seendate": "2026-08-16T10:32:42.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-        "seendate": "2026-08-16T10:32:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-        "seendate": "2026-08-16T10:32:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "How a simple lighter has become the backbone of life in Gaza",
-        "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-        "seendate": "2026-08-16T06:10:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "How a simple lighter has become the backbone of life in Gaza",
-        "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-        "seendate": "2026-08-16T06:10:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kabul",
-    "name": "Kabul",
-    "country": "AF",
-    "lat": 34.52,
-    "lon": 69.18,
-    "timezone": "Asia/Kabul",
-    "headline": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-    "seendate": "2026-08-16T08:40:34.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+    "seendate": "2026-08-16T15:35:53.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-        "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-        "seendate": "2026-08-16T08:40:34.000Z",
+        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+        "seendate": "2026-08-16T15:35:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,9 +179,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-        "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-        "seendate": "2026-08-16T08:40:34.000Z",
+        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+        "seendate": "2026-08-16T15:35:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -211,24 +191,24 @@
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-    "seendate": "2026-08-16T07:47:45.000Z",
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+    "seendate": "2026-08-16T14:29:18.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-        "url": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-        "seendate": "2026-08-16T07:47:45.000Z",
+        "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+        "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+        "seendate": "2026-08-16T14:29:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -236,9 +216,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-        "url": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-        "seendate": "2026-08-16T07:47:45.000Z",
+        "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+        "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+        "seendate": "2026-08-16T14:29:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
