@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-    "seendate": "2026-08-16T00:44:59.000Z",
-    "articleCount": 4,
+    "headline": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+    "seendate": "2026-08-16T02:26:54.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "seendate": "2026-08-16T02:26:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "seendate": "2026-08-16T02:26:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
         "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
@@ -114,6 +134,43 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+    "seendate": "2026-08-15T20:55:29.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+        "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+        "seendate": "2026-08-15T20:55:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+        "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+        "seendate": "2026-08-15T20:55:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
@@ -142,43 +199,6 @@
         "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
         "url": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
         "seendate": "2026-08-15T18:19:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-    "seendate": "2026-08-15T15:50:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-        "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-        "seendate": "2026-08-15T15:50:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-        "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-        "seendate": "2026-08-15T15:50:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
