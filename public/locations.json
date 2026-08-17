@@ -6,14 +6,75 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-    "headlineUrl": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-    "seendate": "2026-08-16T20:20:22.000Z",
-    "articleCount": 17,
+    "headline": "Israel releases 35 Palestinian prisoners back into Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
+    "seendate": "2026-08-17T00:05:34.000Z",
+    "articleCount": 19,
     "categories": [
+      "political-repression",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israel releases 35 Palestinian prisoners back into Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
+        "seendate": "2026-08-17T00:05:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel releases 35 Palestinian prisoners back into Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
+        "seendate": "2026-08-17T00:05:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+        "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+        "seendate": "2026-08-16T23:58:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+        "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+        "seendate": "2026-08-16T23:58:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
         "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
@@ -105,26 +166,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Kushner Holds Talks With Hamas to Advance Trump Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T19:46:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Holds Talks With Hamas to Advance Trump Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T19:46:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
         "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
         "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
         "seendate": "2026-08-16T19:23:28.000Z",
@@ -138,26 +179,6 @@
         "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
         "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
         "seendate": "2026-08-16T19:23:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
-        "seendate": "2026-08-16T14:35:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
-        "seendate": "2026-08-16T14:35:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -264,24 +285,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-    "seendate": "2026-08-16T15:35:53.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+    "seendate": "2026-08-17T00:00:35.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-        "seendate": "2026-08-16T15:35:53.000Z",
+        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+        "seendate": "2026-08-17T00:00:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -289,9 +310,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-        "seendate": "2026-08-16T15:35:53.000Z",
+        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+        "seendate": "2026-08-17T00:00:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -301,37 +322,40 @@
     ]
   },
   {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-    "seendate": "2026-08-16T14:29:18.000Z",
+    "id": "Baghdad",
+    "name": "Baghdad",
+    "country": "IQ",
+    "lat": 33.31,
+    "lon": 44.36,
+    "timezone": "Asia/Baghdad",
+    "headline": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+    "seendate": "2026-08-16T20:02:09.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "humanitarian",
+      "political-repression"
     ],
     "articles": [
       {
-        "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-        "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-        "seendate": "2026-08-16T14:29:18.000Z",
+        "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+        "seendate": "2026-08-16T20:02:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-        "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-        "seendate": "2026-08-16T14:29:18.000Z",
+        "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+        "seendate": "2026-08-16T20:02:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "political-repression"
         ],
         "source_category": "humanitarian"
       }
