@@ -8,17 +8,17 @@
     "timezone": "Asia/Gaza",
     "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-17T04:50:56.000Z",
+    "seendate": "2026-08-17T08:43:12.000Z",
     "articleCount": 19,
     "categories": [
-      "political-repression",
-      "armed-conflict"
+      "armed-conflict",
+      "political-repression"
     ],
     "articles": [
       {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-17T04:50:56.000Z",
+        "seendate": "2026-08-17T08:43:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -28,7 +28,7 @@
       {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-17T04:50:56.000Z",
+        "seendate": "2026-08-17T08:43:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -38,7 +38,7 @@
       {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-17T04:50:56.000Z",
+        "seendate": "2026-08-17T08:43:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -48,7 +48,7 @@
       {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-17T04:50:56.000Z",
+        "seendate": "2026-08-17T08:43:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -58,7 +58,7 @@
       {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-17T04:50:56.000Z",
+        "seendate": "2026-08-17T08:43:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -68,12 +68,32 @@
       {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-17T04:50:56.000Z",
+        "seendate": "2026-08-17T08:43:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+        "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+        "seendate": "2026-08-17T08:13:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+        "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+        "seendate": "2026-08-17T08:13:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       },
       {
         "title": "Israel releases 35 Palestinian prisoners back into Gaza",
@@ -164,26 +184,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-        "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-        "seendate": "2026-08-16T19:23:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-        "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-        "seendate": "2026-08-16T19:23:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
@@ -291,7 +291,7 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+    "headline": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
     "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
     "seendate": "2026-08-17T00:00:35.000Z",
     "articleCount": 2,
@@ -300,7 +300,7 @@
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+        "title": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
         "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
         "seendate": "2026-08-17T00:00:35.000Z",
         "source_domain": "aljazeera.com",
@@ -310,52 +310,12 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+        "title": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
         "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
         "seendate": "2026-08-17T00:00:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Baghdad",
-    "name": "Baghdad",
-    "country": "IQ",
-    "lat": 33.31,
-    "lon": 44.36,
-    "timezone": "Asia/Baghdad",
-    "headline": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-    "seendate": "2026-08-16T20:02:09.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian",
-      "political-repression"
-    ],
-    "articles": [
-      {
-        "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-        "seendate": "2026-08-16T20:02:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian",
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-        "seendate": "2026-08-16T20:02:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian",
-          "political-repression"
         ],
         "source_category": "humanitarian"
       }
