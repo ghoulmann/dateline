@@ -1,102 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel’s siege on Gaza is creating a breast cancer crisis",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-    "seendate": "2026-08-18T07:43:45.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-        "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-        "seendate": "2026-08-18T07:43:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-        "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-        "seendate": "2026-08-18T07:43:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
-        "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-        "seendate": "2026-08-17T23:25:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
-        "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-        "seendate": "2026-08-17T23:25:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-        "seendate": "2026-08-17T21:23:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-        "seendate": "2026-08-17T21:23:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -174,81 +77,81 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
-    "seendate": "2026-08-18T03:17:58.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+    "headlineUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+    "seendate": "2026-08-17T21:23:29.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-        "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
-        "seendate": "2026-08-18T03:17:58.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "seendate": "2026-08-17T21:23:29.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-        "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
-        "seendate": "2026-08-18T03:17:58.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "seendate": "2026-08-17T21:23:29.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-        "seendate": "2026-08-18T01:26:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-        "seendate": "2026-08-18T01:26:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "Portland",
+    "name": "Portland",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-    "headlineUrl": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-    "seendate": "2026-08-17T11:48:21.000Z",
+    "lat": 45.52,
+    "lon": -122.68,
+    "timezone": "America/Los_Angeles",
+    "headline": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+    "headlineUrl": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+    "seendate": "2026-08-18T09:30:00.000Z",
     "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-        "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-        "seendate": "2026-08-17T11:48:21.000Z",
+        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+        "seendate": "2026-08-18T09:30:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -256,9 +159,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-        "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-        "seendate": "2026-08-17T11:48:21.000Z",
+        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+        "seendate": "2026-08-18T09:30:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -266,9 +169,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-        "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-        "seendate": "2026-08-17T11:48:21.000Z",
+        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+        "seendate": "2026-08-18T09:30:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -278,24 +181,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-    "seendate": "2026-08-18T06:47:40.000Z",
+    "id": "Idlib",
+    "name": "Idlib",
+    "country": "SY",
+    "lat": 35.93,
+    "lon": 36.66,
+    "timezone": "Asia/Damascus",
+    "headline": "Eight air strikes hit airbase in Syria’s Idlib",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+    "seendate": "2026-08-18T10:11:53.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-        "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-        "seendate": "2026-08-18T06:47:40.000Z",
+        "title": "Eight air strikes hit airbase in Syria’s Idlib",
+        "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+        "seendate": "2026-08-18T10:11:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -303,9 +206,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-        "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-        "seendate": "2026-08-18T06:47:40.000Z",
+        "title": "Eight air strikes hit airbase in Syria’s Idlib",
+        "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+        "seendate": "2026-08-18T10:11:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
