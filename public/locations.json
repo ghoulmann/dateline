@@ -1,5 +1,102 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "What to know about Gaza working groups and their mandate?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+    "seendate": "2026-08-18T13:58:58.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "What to know about Gaza working groups and their mandate?",
+        "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+        "seendate": "2026-08-18T13:58:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What to know about Gaza working groups and their mandate?",
+        "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+        "seendate": "2026-08-18T13:58:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+        "seendate": "2026-08-18T12:47:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+        "seendate": "2026-08-18T12:47:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "seendate": "2026-08-17T21:23:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "seendate": "2026-08-17T21:23:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -77,63 +174,6 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-    "headlineUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-    "seendate": "2026-08-17T21:23:29.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-        "seendate": "2026-08-17T21:23:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-        "seendate": "2026-08-17T21:23:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Portland",
     "name": "Portland",
     "country": "US",
@@ -181,24 +221,24 @@
     ]
   },
   {
-    "id": "Idlib",
-    "name": "Idlib",
-    "country": "SY",
-    "lat": 35.93,
-    "lon": 36.66,
-    "timezone": "Asia/Damascus",
-    "headline": "Eight air strikes hit airbase in Syria’s Idlib",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-    "seendate": "2026-08-18T10:11:53.000Z",
+    "id": "Doha",
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.29,
+    "lon": 51.53,
+    "timezone": "Asia/Qatar",
+    "headline": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+    "seendate": "2026-08-18T13:12:56.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Eight air strikes hit airbase in Syria’s Idlib",
-        "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-        "seendate": "2026-08-18T10:11:53.000Z",
+        "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+        "seendate": "2026-08-18T13:12:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -206,9 +246,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Eight air strikes hit airbase in Syria’s Idlib",
-        "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-        "seendate": "2026-08-18T10:11:53.000Z",
+        "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+        "seendate": "2026-08-18T13:12:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
