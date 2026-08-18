@@ -9,7 +9,7 @@
     "headline": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
     "headlineUrl": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
     "seendate": "2026-08-17T23:25:17.000Z",
-    "articleCount": 18,
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
@@ -68,26 +68,6 @@
         "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
         "seendate": "2026-08-17T19:32:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
-        "seendate": "2026-08-17T16:50:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
-        "seendate": "2026-08-17T16:50:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -168,26 +148,6 @@
         "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
         "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
         "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-        "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-        "seendate": "2026-08-14T13:20:34.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -274,6 +234,63 @@
     ]
   },
   {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
+    "seendate": "2026-08-18T03:17:58.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
+        "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
+        "seendate": "2026-08-18T03:17:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
+        "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
+        "seendate": "2026-08-18T03:17:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+        "seendate": "2026-08-18T01:26:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+        "seendate": "2026-08-18T01:26:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -352,43 +369,6 @@
         "source_domain": "aljazeera.com",
         "categories": [
           "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kabul",
-    "name": "Kabul",
-    "country": "AF",
-    "lat": 34.52,
-    "lon": 69.18,
-    "timezone": "Asia/Kabul",
-    "headline": "Explosion reported at school in Afghan capital Kabul",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-    "seendate": "2026-08-17T17:30:11.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Explosion reported at school in Afghan capital Kabul",
-        "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-        "seendate": "2026-08-17T17:30:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Explosion reported at school in Afghan capital Kabul",
-        "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-        "seendate": "2026-08-17T17:30:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
