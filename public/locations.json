@@ -6,18 +6,38 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strike on Gaza City cafe kills six, including child",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-    "seendate": "2026-08-18T18:32:24.000Z",
-    "articleCount": 6,
+    "headline": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+    "headlineUrl": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+    "seendate": "2026-08-18T21:13:16.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli strike on Gaza City cafe kills six, including child",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-        "seendate": "2026-08-18T18:32:24.000Z",
+        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+        "seendate": "2026-08-18T21:13:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+        "seendate": "2026-08-18T21:13:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strike reported to kill at least six in Gaza City",
+        "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+        "seendate": "2026-08-18T21:03:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strike on Gaza City cafe kills six, including child",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-        "seendate": "2026-08-18T18:32:24.000Z",
+        "title": "Israeli strike reported to kill at least six in Gaza City",
+        "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+        "seendate": "2026-08-18T21:03:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -278,24 +298,24 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-    "seendate": "2026-08-18T17:51:46.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+    "seendate": "2026-08-19T00:00:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-        "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-        "seendate": "2026-08-18T17:51:46.000Z",
+        "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+        "seendate": "2026-08-19T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -303,9 +323,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-        "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-        "seendate": "2026-08-18T17:51:46.000Z",
+        "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+        "seendate": "2026-08-19T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -321,18 +341,18 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
-    "seendate": "2026-08-18T16:09:49.000Z",
+    "headline": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
+    "seendate": "2026-08-18T20:41:50.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
-        "url": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
-        "seendate": "2026-08-18T16:09:49.000Z",
+        "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
+        "seendate": "2026-08-18T20:41:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -340,14 +360,41 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
-        "url": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
-        "seendate": "2026-08-18T16:09:49.000Z",
+        "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
+        "seendate": "2026-08-18T20:41:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Taylor Sheridan takes swipe at Los Angeles after building TV empire from Texas",
+    "headlineUrl": "https://www.foxnews.com/entertainment/taylor-sheridan-takes-swipe-los-angeles-after-building-tv-empire-from-texas",
+    "seendate": "2026-08-18T22:40:51.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Taylor Sheridan takes swipe at Los Angeles after building TV empire from Texas",
+        "url": "https://www.foxnews.com/entertainment/taylor-sheridan-takes-swipe-los-angeles-after-building-tv-empire-from-texas",
+        "seendate": "2026-08-18T22:40:51.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
