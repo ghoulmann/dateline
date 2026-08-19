@@ -6,18 +6,216 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-19T12:41:46.000Z",
-    "articleCount": 20,
+    "headline": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
+    "seendate": "2026-08-19T15:44:02.000Z",
+    "articleCount": 18,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+        "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
+        "seendate": "2026-08-19T15:44:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+        "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
+        "seendate": "2026-08-19T15:44:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+        "seendate": "2026-08-19T14:28:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+        "seendate": "2026-08-19T14:28:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Why aid entering Gaza may not reach those who need it",
+        "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+        "seendate": "2026-08-19T13:01:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why aid entering Gaza may not reach those who need it",
+        "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+        "seendate": "2026-08-19T13:01:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T05:04:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T05:04:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T05:04:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T05:04:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T05:04:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T05:04:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+        "seendate": "2026-08-18T21:13:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+        "seendate": "2026-08-18T21:13:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "seendate": "2026-08-17T21:23:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "seendate": "2026-08-17T21:23:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+        "seendate": "2026-08-16T21:16:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "South Korea shortens war games with US, citing Washington request",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-19T14:16:27.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T12:41:46.000Z",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T14:16:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +223,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T12:41:46.000Z",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T14:16:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +233,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T12:41:46.000Z",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T14:16:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +243,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T12:41:46.000Z",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T14:16:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +253,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T12:41:46.000Z",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T14:16:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,19 +263,36 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T12:41:46.000Z",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T14:16:27.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+    "seendate": "2026-08-19T13:24:34.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Breastfeeding in Gaza: Mothers seek help to provide for their babies",
-        "url": "https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss",
-        "seendate": "2026-08-19T08:46:51.000Z",
+        "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+        "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+        "seendate": "2026-08-19T13:24:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -85,79 +300,36 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Breastfeeding in Gaza: Mothers seek help to provide for their babies",
-        "url": "https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss",
-        "seendate": "2026-08-19T08:46:51.000Z",
+        "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+        "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+        "seendate": "2026-08-19T13:24:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+    "headlineUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+    "seendate": "2026-08-19T16:00:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
-        "seendate": "2026-08-18T21:13:16.000Z",
+        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+        "seendate": "2026-08-19T16:00:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -165,49 +337,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
-        "seendate": "2026-08-18T21:13:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-        "seendate": "2026-08-17T21:23:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-        "seendate": "2026-08-17T21:23:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
+        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+        "seendate": "2026-08-19T16:00:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -226,7 +358,7 @@
     "headline": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
     "headlineUrl": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
     "seendate": "2026-08-19T09:29:36.000Z",
-    "articleCount": 8,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -250,143 +382,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-16T12:18:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-16T12:18:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-16T12:18:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-16T12:18:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-16T12:18:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-16T12:18:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "South Korea shortens war games with US, citing Washington request",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-19T05:53:53.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:53:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:53:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:53:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:53:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:53:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:53:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
