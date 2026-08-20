@@ -9,7 +9,7 @@
     "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-20T07:33:11.000Z",
-    "articleCount": 26,
+    "articleCount": 24,
     "categories": [
       "humanitarian",
       "armed-conflict"
@@ -254,26 +254,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-        "seendate": "2026-08-16T21:16:17.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -284,18 +264,38 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-20T08:39:26.000Z",
-    "articleCount": 10,
+    "headline": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+    "headlineUrl": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+    "seendate": "2026-08-20T12:58:15.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+        "seendate": "2026-08-20T12:58:15.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+        "seendate": "2026-08-20T12:58:15.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T08:39:26.000Z",
+        "seendate": "2026-08-20T11:06:54.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -303,9 +303,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T08:39:26.000Z",
+        "seendate": "2026-08-20T11:06:54.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -313,9 +313,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T08:39:26.000Z",
+        "seendate": "2026-08-20T11:06:54.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -323,9 +323,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T08:39:26.000Z",
+        "seendate": "2026-08-20T11:06:54.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -333,9 +333,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T08:39:26.000Z",
+        "seendate": "2026-08-20T11:06:54.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -343,9 +343,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T08:39:26.000Z",
+        "seendate": "2026-08-20T11:06:54.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -353,7 +353,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
+        "title": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
         "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
         "seendate": "2026-08-20T02:50:17.000Z",
         "source_domain": "aljazeera.com",
@@ -363,7 +363,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
+        "title": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
         "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
         "seendate": "2026-08-20T02:50:17.000Z",
         "source_domain": "aljazeera.com",
@@ -391,63 +391,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-    "headlineUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-    "seendate": "2026-08-20T04:46:27.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-        "seendate": "2026-08-20T04:46:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-        "seendate": "2026-08-20T04:46:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-        "seendate": "2026-08-20T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-        "seendate": "2026-08-20T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -485,6 +428,107 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+    "headlineUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+    "seendate": "2026-08-20T04:46:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+        "seendate": "2026-08-20T04:46:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+        "seendate": "2026-08-20T04:46:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+    "headlineUrl": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+    "seendate": "2026-08-20T09:06:17.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+        "url": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+        "seendate": "2026-08-20T09:06:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+        "url": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+        "seendate": "2026-08-20T09:06:17.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Princess Diana could have survived fatal Paris crash if she made one simple choice, investigator says",
+    "headlineUrl": "https://www.foxnews.com/entertainment/princess-diana-could-survived-fatal-paris-crash-simple-choice-investigator-says",
+    "seendate": "2026-08-20T10:00:10.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Princess Diana could have survived fatal Paris crash if she made one simple choice, investigator says",
+        "url": "https://www.foxnews.com/entertainment/princess-diana-could-survived-fatal-paris-crash-simple-choice-investigator-says",
+        "seendate": "2026-08-20T10:00:10.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
