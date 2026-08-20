@@ -8,7 +8,7 @@
     "timezone": "Asia/Gaza",
     "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-20T00:48:57.000Z",
+    "seendate": "2026-08-20T03:12:07.000Z",
     "articleCount": 30,
     "categories": [
       "armed-conflict",
@@ -18,7 +18,7 @@
       {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T00:48:57.000Z",
+        "seendate": "2026-08-20T03:12:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -28,7 +28,7 @@
       {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T00:48:57.000Z",
+        "seendate": "2026-08-20T03:12:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -38,7 +38,7 @@
       {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T00:48:57.000Z",
+        "seendate": "2026-08-20T03:12:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -48,7 +48,7 @@
       {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T00:48:57.000Z",
+        "seendate": "2026-08-20T03:12:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -58,7 +58,7 @@
       {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T00:48:57.000Z",
+        "seendate": "2026-08-20T03:12:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -68,7 +68,7 @@
       {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T00:48:57.000Z",
+        "seendate": "2026-08-20T03:12:07.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -395,64 +395,6 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-    "seendate": "2026-08-19T19:09:53.000Z",
-    "articleCount": 4,
-    "categories": [
-      "democracy-crisis",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-        "seendate": "2026-08-19T19:09:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-        "seendate": "2026-08-19T19:09:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-        "seendate": "2026-08-19T09:29:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-        "seendate": "2026-08-19T09:29:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Damascus",
     "name": "Damascus",
     "country": "SY",
@@ -518,6 +460,43 @@
         "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
         "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
         "seendate": "2026-08-19T16:00:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
+    "headlineUrl": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
+    "seendate": "2026-08-19T09:29:36.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
+        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
+        "seendate": "2026-08-19T09:29:36.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
+        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
+        "seendate": "2026-08-19T09:29:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
