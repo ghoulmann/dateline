@@ -255,6 +255,103 @@
     ]
   },
   {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Tiananmen activists found guilty of national security charges",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+    "seendate": "2026-08-21T03:50:15.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+        "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+        "seendate": "2026-08-21T03:50:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+        "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+        "seendate": "2026-08-21T03:50:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T02:59:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T02:59:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T02:59:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T02:59:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T02:59:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T02:59:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
