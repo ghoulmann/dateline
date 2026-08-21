@@ -9,10 +9,9 @@
     "headline": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
     "seendate": "2026-08-20T20:05:53.000Z",
-    "articleCount": 26,
+    "articleCount": 12,
     "categories": [
-      "armed-conflict",
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
       {
@@ -36,86 +35,6 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-        "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
-        "seendate": "2026-08-20T17:02:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-        "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
-        "seendate": "2026-08-20T17:02:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T07:33:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T07:33:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T07:33:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T07:33:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T07:33:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-20T07:33:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
         "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
         "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
         "seendate": "2026-08-19T20:18:49.000Z",
@@ -196,9 +115,87 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
+        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+        "seendate": "2026-08-18T21:13:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+        "seendate": "2026-08-18T21:13:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "US charges woman for allegedly plotting attack on New York State Capitol",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+    "seendate": "2026-08-20T23:01:15.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+        "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+        "seendate": "2026-08-20T23:01:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+        "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+        "seendate": "2026-08-20T23:01:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+        "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+        "seendate": "2026-08-20T22:45:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+        "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+        "seendate": "2026-08-20T22:45:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+        "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-20T21:03:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -206,9 +203,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
+        "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+        "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-20T21:03:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -216,9 +213,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
+        "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+        "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-20T21:03:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -226,9 +223,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
+        "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+        "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-20T21:03:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -236,9 +233,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
+        "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+        "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-20T21:03:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -246,34 +243,14 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T05:04:00.000Z",
+        "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+        "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-20T21:03:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
-        "seendate": "2026-08-18T21:13:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
-        "seendate": "2026-08-18T21:13:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -375,37 +352,37 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-    "seendate": "2026-08-20T18:55:52.000Z",
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Antigovernment protesters take to Tunisia’s streets for second month",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+    "seendate": "2026-08-21T01:06:30.000Z",
     "articleCount": 2,
     "categories": [
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
-        "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-        "seendate": "2026-08-20T18:55:52.000Z",
+        "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+        "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+        "seendate": "2026-08-21T01:06:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
-        "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-        "seendate": "2026-08-20T18:55:52.000Z",
+        "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+        "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+        "seendate": "2026-08-21T01:06:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
