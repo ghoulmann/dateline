@@ -1,43 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-    "headlineUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-    "seendate": "2026-08-19T20:18:49.000Z",
-    "articleCount": 10,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Tornadoes touch down in New York and Delaware",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-21T14:35:50.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-        "seendate": "2026-08-19T20:18:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-        "seendate": "2026-08-19T20:18:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,65 +75,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
-        "seendate": "2026-08-18T21:13:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
-        "seendate": "2026-08-18T21:13:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Torrential rain floods New York City’s streets and subway",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-    "seendate": "2026-08-21T09:40:04.000Z",
-    "articleCount": 8,
-    "categories": [
-      "natural-disaster",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Torrential rain floods New York City’s streets and subway",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-        "seendate": "2026-08-21T09:40:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Torrential rain floods New York City’s streets and subway",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-        "seendate": "2026-08-21T09:40:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
         "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:02:39.000Z",
         "source_domain": "bbc.co.uk",
@@ -163,7 +85,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
         "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:02:39.000Z",
         "source_domain": "bbc.co.uk",
@@ -173,7 +95,7 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
         "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:02:39.000Z",
         "source_domain": "bbc.co.uk",
@@ -183,7 +105,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
         "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:02:39.000Z",
         "source_domain": "bbc.co.uk",
@@ -193,7 +115,7 @@
         "source_category": "political-repression"
       },
       {
-        "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
         "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:02:39.000Z",
         "source_domain": "bbc.co.uk",
@@ -203,9 +125,126 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
         "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:02:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Weddings in Gaza offer rare moments of joy amid genocide",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
+    "seendate": "2026-08-21T13:29:19.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Weddings in Gaza offer rare moments of joy amid genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
+        "seendate": "2026-08-21T13:29:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Weddings in Gaza offer rare moments of joy amid genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
+        "seendate": "2026-08-21T13:29:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+        "seendate": "2026-08-19T20:18:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+        "seendate": "2026-08-19T20:18:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T17:46:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T17:46:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T17:46:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T17:46:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T17:46:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-19T17:46:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -221,14 +260,34 @@
     "lat": 22.3,
     "lon": 114.18,
     "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-21T05:47:32.000Z",
-    "articleCount": 6,
+    "headline": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
+    "seendate": "2026-08-21T12:54:44.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
+        "url": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
+        "seendate": "2026-08-21T12:54:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
+        "url": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
+        "seendate": "2026-08-21T12:54:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Hong Kong's Tiananmen activists guilty in national security trial",
         "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
@@ -298,7 +357,7 @@
     "lat": 37.57,
     "lon": 126.98,
     "timezone": "Asia/Seoul",
-    "headline": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+    "headline": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
     "headlineUrl": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
     "seendate": "2026-08-21T09:00:00.000Z",
     "articleCount": 5,
@@ -308,7 +367,7 @@
     ],
     "articles": [
       {
-        "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
         "url": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
         "seendate": "2026-08-21T09:00:00.000Z",
         "source_domain": "npr.org",
@@ -318,7 +377,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
         "url": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
         "seendate": "2026-08-21T09:00:00.000Z",
         "source_domain": "npr.org",
@@ -328,7 +387,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
         "url": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
         "seendate": "2026-08-21T09:00:00.000Z",
         "source_domain": "npr.org",
@@ -366,18 +425,18 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iran Must Plan to Overcome ‘Unjust’ U.S. Sanctions, Top Tehran Official Says",
+    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
     "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-    "seendate": "2026-08-21T11:38:30.000Z",
+    "seendate": "2026-08-21T14:41:39.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran Must Plan to Overcome ‘Unjust’ U.S. Sanctions, Top Tehran Official Says",
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
         "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T11:38:30.000Z",
+        "seendate": "2026-08-21T14:41:39.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -385,9 +444,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Iran Must Plan to Overcome ‘Unjust’ U.S. Sanctions, Top Tehran Official Says",
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
         "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T11:38:30.000Z",
+        "seendate": "2026-08-21T14:41:39.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -417,39 +476,39 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-    "headlineUrl": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-    "seendate": "2026-08-19T09:29:36.000Z",
+    "id": "Djibouti",
+    "name": "Djibouti",
+    "country": "DJ",
+    "lat": 11.59,
+    "lon": 43.15,
+    "timezone": "Africa/Djibouti",
+    "headline": "Djibouti Football Federation accused of misusing funds from FIFA",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
+    "seendate": "2026-08-21T14:18:23.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-        "seendate": "2026-08-19T09:29:36.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+        "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
+        "seendate": "2026-08-21T14:18:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-        "seendate": "2026-08-19T09:29:36.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+        "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
+        "seendate": "2026-08-21T14:18:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -472,33 +531,6 @@
         "title": "Princess Diana could have survived fatal Paris crash if she made one simple choice, investigator says",
         "url": "https://www.foxnews.com/entertainment/princess-diana-could-survived-fatal-paris-crash-simple-choice-investigator-says",
         "seendate": "2026-08-20T10:00:10.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Taylor Sheridan takes swipe at Los Angeles after building TV empire from Texas",
-    "headlineUrl": "https://www.foxnews.com/entertainment/taylor-sheridan-takes-swipe-los-angeles-after-building-tv-empire-from-texas",
-    "seendate": "2026-08-18T22:40:51.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Taylor Sheridan takes swipe at Los Angeles after building TV empire from Texas",
-        "url": "https://www.foxnews.com/entertainment/taylor-sheridan-takes-swipe-los-angeles-after-building-tv-empire-from-texas",
-        "seendate": "2026-08-18T22:40:51.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
