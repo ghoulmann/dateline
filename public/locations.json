@@ -1,160 +1,24 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Tornadoes touch down in New York and Delaware",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-21T14:35:50.000Z",
-    "articleCount": 12,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-        "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T05:02:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-        "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T05:02:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-        "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T05:02:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-        "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T05:02:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-        "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T05:02:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-        "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T05:02:39.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Weddings in Gaza offer rare moments of joy amid genocide",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-    "seendate": "2026-08-21T13:29:19.000Z",
-    "articleCount": 10,
+    "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+    "seendate": "2026-08-21T20:16:59.000Z",
+    "articleCount": 14,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "humanitarian"
     ],
     "articles": [
       {
-        "title": "Weddings in Gaza offer rare moments of joy amid genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-        "seendate": "2026-08-21T13:29:19.000Z",
+        "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+        "seendate": "2026-08-21T20:16:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -162,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Weddings in Gaza offer rare moments of joy amid genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-        "seendate": "2026-08-21T13:29:19.000Z",
+        "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+        "seendate": "2026-08-21T20:16:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -172,24 +36,64 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-        "seendate": "2026-08-19T20:18:49.000Z",
-        "source_domain": "nytimes.com",
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T15:58:57.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T15:58:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T15:58:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T15:58:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-        "seendate": "2026-08-19T20:18:49.000Z",
-        "source_domain": "nytimes.com",
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T15:58:57.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T15:58:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
       },
       {
         "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
@@ -260,34 +164,14 @@
     "lat": 22.3,
     "lon": 114.18,
     "timezone": "Asia/Hong_Kong",
-    "headline": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
-    "seendate": "2026-08-21T12:54:44.000Z",
-    "articleCount": 8,
+    "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-21T05:47:32.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
-        "url": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
-        "seendate": "2026-08-21T12:54:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
-        "url": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
-        "seendate": "2026-08-21T12:54:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Hong Kong's Tiananmen activists guilty in national security trial",
         "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
@@ -342,6 +226,83 @@
         "title": "Hong Kong's Tiananmen activists guilty in national security trial",
         "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T05:47:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Tornadoes touch down in New York and Delaware",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-21T14:35:50.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Tornadoes touch down in New York and Delaware",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-21T14:35:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -419,6 +380,43 @@
     ]
   },
   {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
+    "seendate": "2026-08-21T18:40:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
+        "url": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
+        "seendate": "2026-08-21T18:40:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
+        "url": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
+        "seendate": "2026-08-21T18:40:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
@@ -428,87 +426,30 @@
     "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
     "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
     "seendate": "2026-08-21T14:41:39.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-        "seendate": "2026-08-20T04:46:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-        "seendate": "2026-08-20T04:46:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Djibouti Football Federation accused of misusing funds from FIFA",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-    "seendate": "2026-08-21T14:18:23.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-        "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-        "seendate": "2026-08-21T14:18:23.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:39.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-        "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-        "seendate": "2026-08-21T14:18:23.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:39.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
