@@ -386,14 +386,34 @@
     "lat": 36.82,
     "lon": 10.17,
     "timezone": "Africa/Tunis",
-    "headline": "Tunisian protesters call for President Kais Saied to step down",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
-    "seendate": "2026-08-21T20:35:07.000Z",
-    "articleCount": 2,
+    "headline": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+    "seendate": "2026-08-22T04:24:11.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+        "url": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+        "seendate": "2026-08-22T04:24:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+        "url": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+        "seendate": "2026-08-22T04:24:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Tunisian protesters call for President Kais Saied to step down",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
@@ -425,7 +445,7 @@
     "timezone": "Asia/Tehran",
     "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
     "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-    "seendate": "2026-08-21T14:41:39.000Z",
+    "seendate": "2026-08-21T14:41:40.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -434,7 +454,7 @@
       {
         "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
         "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:39.000Z",
+        "seendate": "2026-08-21T14:41:40.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -444,7 +464,44 @@
       {
         "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
         "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:39.000Z",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
+    "headlineUrl": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+    "seendate": "2026-08-22T04:01:35.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
+        "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+        "seendate": "2026-08-22T04:01:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
+        "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+        "seendate": "2026-08-22T04:01:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
