@@ -6,19 +6,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-    "seendate": "2026-08-22T13:10:45.000Z",
-    "articleCount": 10,
+    "headline": "Israeli strikes kill two and injure others as Gaza attacks continue",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+    "seendate": "2026-08-22T19:24:51.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-        "url": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-        "seendate": "2026-08-22T13:10:45.000Z",
+        "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+        "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+        "seendate": "2026-08-22T19:24:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,29 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-        "url": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-        "seendate": "2026-08-22T13:10:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-        "seendate": "2026-08-22T11:58:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-        "seendate": "2026-08-22T11:58:55.000Z",
+        "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+        "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+        "seendate": "2026-08-22T19:24:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -272,24 +252,24 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "The Berlin Wall separated his family. Its legacy still endures",
-    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-    "seendate": "2026-08-22T12:31:00.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "LIVE: Espanyol vs Real Madrid: La Liga",
+    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+    "seendate": "2026-08-22T16:30:09.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The Berlin Wall separated his family. Its legacy still endures",
-        "url": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-        "seendate": "2026-08-22T12:31:00.000Z",
+        "title": "LIVE: Espanyol vs Real Madrid: La Liga",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+        "seendate": "2026-08-22T16:30:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -297,9 +277,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "The Berlin Wall separated his family. Its legacy still endures",
-        "url": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-        "seendate": "2026-08-22T12:31:00.000Z",
+        "title": "LIVE: Espanyol vs Real Madrid: La Liga",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+        "seendate": "2026-08-22T16:30:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
