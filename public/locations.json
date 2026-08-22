@@ -6,36 +6,15 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-    "seendate": "2026-08-21T20:16:59.000Z",
-    "articleCount": 14,
+    "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-21T15:58:57.000Z",
+    "articleCount": 6,
     "categories": [
-      "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-        "seendate": "2026-08-21T20:16:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-        "seendate": "2026-08-21T20:16:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-21T15:58:57.000Z",
@@ -92,66 +71,6 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-19T17:46:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -380,6 +299,174 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+    "seendate": "2026-08-22T00:00:00.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+        "seendate": "2026-08-22T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+        "seendate": "2026-08-22T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+    "seendate": "2026-08-22T07:41:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+        "url": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+        "seendate": "2026-08-22T07:41:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+        "url": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+        "seendate": "2026-08-22T07:41:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+    "seendate": "2026-08-22T07:41:10.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+        "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+        "seendate": "2026-08-22T07:41:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+        "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+        "seendate": "2026-08-22T07:41:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Assam",
+    "name": "Assam",
+    "country": "IN",
+    "lat": 26.2,
+    "lon": 92.9,
+    "timezone": "Asia/Kolkata",
+    "headline": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
+    "seendate": "2026-08-22T05:35:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
+        "url": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
+        "seendate": "2026-08-22T05:35:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
+        "url": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
+        "seendate": "2026-08-22T05:35:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tunis",
     "name": "Tunis",
     "country": "TN",
@@ -389,7 +476,7 @@
     "headline": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
     "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
     "seendate": "2026-08-22T04:24:11.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -413,100 +500,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Tunisian protesters call for President Kais Saied to step down",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
-        "seendate": "2026-08-21T20:35:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisian protesters call for President Kais Saied to step down",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
-        "seendate": "2026-08-21T20:35:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-    "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-    "seendate": "2026-08-21T14:41:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
-    "headlineUrl": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-    "seendate": "2026-08-22T04:01:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
-        "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-        "seendate": "2026-08-22T04:01:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
-        "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-        "seendate": "2026-08-22T04:01:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
