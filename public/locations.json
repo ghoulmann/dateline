@@ -6,14 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-21T15:58:57.000Z",
-    "articleCount": 6,
+    "headline": "Hundreds of children take part in swimming class on Gaza’s shore",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+    "seendate": "2026-08-22T11:58:55.000Z",
+    "articleCount": 8,
     "categories": [
+      "armed-conflict",
       "humanitarian"
     ],
     "articles": [
+      {
+        "title": "Hundreds of children take part in swimming class on Gaza’s shore",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+        "seendate": "2026-08-22T11:58:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hundreds of children take part in swimming class on Gaza’s shore",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+        "seendate": "2026-08-22T11:58:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
@@ -299,63 +320,6 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-    "seendate": "2026-08-22T00:00:00.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-        "seendate": "2026-08-22T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-        "seendate": "2026-08-22T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Miami",
     "name": "Miami",
     "country": "US",
@@ -399,7 +363,7 @@
     "lat": 32.9,
     "lon": 13.18,
     "timezone": "Africa/Tripoli",
-    "headline": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+    "headline": "Libya’s brain drain, 15 years after Tripoli fell",
     "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
     "seendate": "2026-08-22T07:41:10.000Z",
     "articleCount": 2,
@@ -408,7 +372,7 @@
     ],
     "articles": [
       {
-        "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+        "title": "Libya’s brain drain, 15 years after Tripoli fell",
         "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
         "seendate": "2026-08-22T07:41:10.000Z",
         "source_domain": "aljazeera.com",
@@ -418,7 +382,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+        "title": "Libya’s brain drain, 15 years after Tripoli fell",
         "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
         "seendate": "2026-08-22T07:41:10.000Z",
         "source_domain": "aljazeera.com",
@@ -467,39 +431,76 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
-    "seendate": "2026-08-22T04:24:11.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+    "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+    "seendate": "2026-08-21T14:41:40.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
-        "url": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
-        "seendate": "2026-08-22T04:24:11.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
-        "url": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
-        "seendate": "2026-08-22T04:24:11.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Cape Town",
+    "name": "Cape Town",
+    "country": "ZA",
+    "lat": -33.92,
+    "lon": 18.42,
+    "timezone": "Africa/Johannesburg",
+    "headline": "How Apartheid Continues to Divide Cape Town",
+    "headlineUrl": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
+    "seendate": "2026-08-22T09:00:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "How Apartheid Continues to Divide Cape Town",
+        "url": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
+        "seendate": "2026-08-22T09:00:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How Apartheid Continues to Divide Cape Town",
+        "url": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
+        "seendate": "2026-08-22T09:00:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
