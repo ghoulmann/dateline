@@ -1,20 +1,137 @@
 [
   {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-23T20:19:36.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-23T20:19:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-23T20:19:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-23T20:19:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-23T20:19:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-23T20:19:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-23T20:19:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+        "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+        "seendate": "2026-08-23T19:52:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+        "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+        "seendate": "2026-08-23T19:52:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza families search for children missing after years of war",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-    "seendate": "2026-08-23T15:42:04.000Z",
+    "headline": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+    "seendate": "2026-08-23T19:40:11.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+        "seendate": "2026-08-23T19:40:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+        "seendate": "2026-08-23T19:40:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Gaza families search for children missing after years of war",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
         "seendate": "2026-08-23T15:42:04.000Z",
@@ -48,26 +165,6 @@
         "title": "Heavy Israeli air strike hits warehouse in central Gaza",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
         "seendate": "2026-08-23T13:20:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-        "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-        "seendate": "2026-08-23T11:00:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-        "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-        "seendate": "2026-08-23T11:00:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -278,6 +375,43 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia sees protests after migrant boat sinking kills eight",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+    "seendate": "2026-08-23T17:57:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia sees protests after migrant boat sinking kills eight",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+        "seendate": "2026-08-23T17:57:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia sees protests after migrant boat sinking kills eight",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+        "seendate": "2026-08-23T17:57:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -306,43 +440,6 @@
         "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
         "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
         "seendate": "2026-08-23T16:12:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-    "seendate": "2026-08-23T12:13:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-        "seendate": "2026-08-23T12:13:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-        "seendate": "2026-08-23T12:13:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
