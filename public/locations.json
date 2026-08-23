@@ -6,9 +6,9 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill two and injure others as Gaza attacks continue",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-    "seendate": "2026-08-22T19:24:51.000Z",
+    "headline": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+    "seendate": "2026-08-23T05:10:05.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict",
@@ -16,9 +16,9 @@
     ],
     "articles": [
       {
-        "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-        "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-        "seendate": "2026-08-22T19:24:51.000Z",
+        "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-08-23T05:10:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-        "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-        "seendate": "2026-08-22T19:24:51.000Z",
+        "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-08-23T05:10:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -305,6 +305,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "Flooding across Caracas, Venezuela, after heavy rains",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+    "seendate": "2026-08-23T08:08:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Flooding across Caracas, Venezuela, after heavy rains",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+        "seendate": "2026-08-23T08:08:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Flooding across Caracas, Venezuela, after heavy rains",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+        "seendate": "2026-08-23T08:08:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
