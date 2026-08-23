@@ -6,19 +6,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
-    "seendate": "2026-08-23T05:10:05.000Z",
-    "articleCount": 8,
+    "headline": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+    "seendate": "2026-08-23T11:00:18.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-08-23T05:10:05.000Z",
+        "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+        "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+        "seendate": "2026-08-23T11:00:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,12 +26,32 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-08-23T05:10:05.000Z",
+        "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+        "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+        "seendate": "2026-08-23T11:00:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+        "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+        "seendate": "2026-08-23T09:43:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+        "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+        "seendate": "2026-08-23T09:43:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
         ],
         "source_category": "humanitarian"
       },
@@ -252,24 +272,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran warns neighbours against joining US economic war",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-    "seendate": "2026-08-23T00:00:00.000Z",
-    "articleCount": 4,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
+    "seendate": "2026-08-23T12:13:04.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-        "seendate": "2026-08-23T00:00:00.000Z",
+        "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
+        "seendate": "2026-08-23T12:13:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -277,34 +297,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-        "seendate": "2026-08-23T00:00:00.000Z",
+        "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
+        "seendate": "2026-08-23T12:13:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -342,117 +342,6 @@
           "natural-disaster"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-    "seendate": "2026-08-22T21:55:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-        "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-        "seendate": "2026-08-22T21:55:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-        "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-        "seendate": "2026-08-22T21:55:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Khartoum",
-    "name": "Khartoum",
-    "country": "SD",
-    "lat": 15.55,
-    "lon": 32.53,
-    "timezone": "Africa/Khartoum",
-    "headline": "Open-air cinema brings movie nights back to Khartoum",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-    "seendate": "2026-08-22T21:27:22.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Open-air cinema brings movie nights back to Khartoum",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-        "seendate": "2026-08-22T21:27:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Open-air cinema brings movie nights back to Khartoum",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-        "seendate": "2026-08-22T21:27:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Cape Town",
-    "name": "Cape Town",
-    "country": "ZA",
-    "lat": -33.92,
-    "lon": 18.42,
-    "timezone": "Africa/Johannesburg",
-    "headline": "How Apartheid Continues to Divide Cape Town",
-    "headlineUrl": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
-    "seendate": "2026-08-22T13:42:31.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "How Apartheid Continues to Divide Cape Town",
-        "url": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
-        "seendate": "2026-08-22T13:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "How Apartheid Continues to Divide Cape Town",
-        "url": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
-        "seendate": "2026-08-22T13:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   }
