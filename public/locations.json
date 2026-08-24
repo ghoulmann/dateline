@@ -1,5 +1,122 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strike on Gaza shelter extends casualty list",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+    "seendate": "2026-08-24T16:27:36.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli strike on Gaza shelter extends casualty list",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+        "seendate": "2026-08-24T16:27:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strike on Gaza shelter extends casualty list",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+        "seendate": "2026-08-24T16:27:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T13:56:22.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T13:56:22.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T13:56:22.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T13:56:22.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T13:56:22.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T13:56:22.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+        "seendate": "2026-08-24T11:57:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+        "seendate": "2026-08-24T11:57:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
@@ -107,128 +224,71 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-    "seendate": "2026-08-24T11:57:26.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-        "seendate": "2026-08-24T11:57:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-        "seendate": "2026-08-24T11:57:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "The right to health in Gaza is now a privilege",
-        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-        "seendate": "2026-08-24T07:08:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "The right to health in Gaza is now a privilege",
-        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-        "seendate": "2026-08-24T07:08:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Austin",
-    "name": "Austin",
-    "country": "US",
-    "lat": 30.27,
-    "lon": -97.74,
-    "timezone": "America/Chicago",
-    "headline": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-    "headlineUrl": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-    "seendate": "2026-08-23T16:15:30.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate change is unearthing archaeological discoveries, while also threatening them",
+    "headlineUrl": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
+    "seendate": "2026-08-23T21:23:05.000Z",
     "articleCount": 3,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-        "seendate": "2026-08-23T16:15:30.000Z",
+        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
+        "seendate": "2026-08-23T21:23:05.000Z",
         "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-        "seendate": "2026-08-23T16:15:30.000Z",
+        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
+        "seendate": "2026-08-23T21:23:05.000Z",
         "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-        "seendate": "2026-08-23T16:15:30.000Z",
+        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
+        "seendate": "2026-08-23T21:23:05.000Z",
         "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "culture-wars"
       }
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-    "seendate": "2026-08-24T09:29:26.000Z",
+    "id": "Manipur",
+    "name": "Manipur",
+    "country": "IN",
+    "lat": 24.66,
+    "lon": 93.91,
+    "timezone": "Asia/Kolkata",
+    "headline": "Houses set on fire as fresh violence erupts in India’s Manipur",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+    "seendate": "2026-08-24T14:48:53.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-        "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-        "seendate": "2026-08-24T09:29:26.000Z",
+        "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+        "seendate": "2026-08-24T14:48:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -236,9 +296,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-        "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-        "seendate": "2026-08-24T09:29:26.000Z",
+        "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+        "seendate": "2026-08-24T14:48:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
