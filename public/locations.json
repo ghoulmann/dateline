@@ -1,256 +1,5 @@
 [
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Trump waves green flag to start IndyCar race through Washington streets",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-23T20:19:36.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T20:19:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T20:19:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T20:19:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T20:19:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T20:19:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T20:19:36.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-        "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-        "seendate": "2026-08-23T19:52:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-        "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-        "seendate": "2026-08-23T19:52:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-23T23:07:10.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T23:07:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T23:07:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T23:07:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T23:07:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T23:07:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-23T23:07:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Syria says Israeli strike near Damascus violation of international law",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-22T21:42:42.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-22T21:42:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-22T21:42:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-22T21:42:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-22T21:42:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-22T21:42:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-22T21:42:42.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -432,6 +181,80 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "The right to health in Gaza is now a privilege",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+    "seendate": "2026-08-24T07:08:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The right to health in Gaza is now a privilege",
+        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+        "seendate": "2026-08-24T07:08:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "The right to health in Gaza is now a privilege",
+        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+        "seendate": "2026-08-24T07:08:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+    "seendate": "2026-08-24T06:55:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+        "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+        "seendate": "2026-08-24T06:55:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+        "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+        "seendate": "2026-08-24T06:55:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Ankara",
     "name": "Ankara",
     "country": "TR",
@@ -460,43 +283,6 @@
         "title": "Large forest fire burns close to residential areas in Ankara",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
         "seendate": "2026-08-24T00:30:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
-    "seendate": "2026-08-23T19:40:11.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
-        "seendate": "2026-08-23T19:40:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
-        "seendate": "2026-08-23T19:40:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
