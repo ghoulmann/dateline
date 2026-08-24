@@ -1,23 +1,53 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
+    "id": "Washington",
+    "name": "Washington",
     "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
+    "lat": 38.91,
+    "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Tornadoes touch down in New York and Delaware",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-21T14:35:50.000Z",
-    "articleCount": 6,
+    "headline": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
+    "headlineUrl": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+    "seendate": "2026-08-24T09:36:13.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
+        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+        "seendate": "2026-08-24T09:36:13.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+        "seendate": "2026-08-24T09:36:13.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+        "seendate": "2026-08-24T09:36:13.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +55,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +65,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +75,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +85,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +95,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Tornadoes touch down in New York and Delaware",
-        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-21T14:35:50.000Z",
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -77,24 +107,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-    "seendate": "2026-08-24T00:00:00.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+    "seendate": "2026-08-24T11:57:26.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-        "seendate": "2026-08-24T00:00:00.000Z",
+        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+        "seendate": "2026-08-24T11:57:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -102,9 +132,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-        "seendate": "2026-08-24T00:00:00.000Z",
+        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+        "seendate": "2026-08-24T11:57:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -112,24 +142,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
+        "title": "The right to health in Gaza is now a privilege",
+        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+        "seendate": "2026-08-24T07:08:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
+        "title": "The right to health in Gaza is now a privilege",
+        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+        "seendate": "2026-08-24T07:08:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -181,24 +211,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "The right to health in Gaza is now a privilege",
-    "headlineUrl": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-    "seendate": "2026-08-24T07:08:07.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
+    "seendate": "2026-08-24T09:29:26.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The right to health in Gaza is now a privilege",
-        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-        "seendate": "2026-08-24T07:08:07.000Z",
+        "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+        "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
+        "seendate": "2026-08-24T09:29:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -206,83 +236,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "The right to health in Gaza is now a privilege",
-        "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-        "seendate": "2026-08-24T07:08:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-    "seendate": "2026-08-24T06:55:58.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-        "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-        "seendate": "2026-08-24T06:55:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-        "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-        "seendate": "2026-08-24T06:55:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Ankara",
-    "name": "Ankara",
-    "country": "TR",
-    "lat": 39.93,
-    "lon": 32.87,
-    "timezone": "Europe/Istanbul",
-    "headline": "Large forest fire burns close to residential areas in Ankara",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-    "seendate": "2026-08-24T00:30:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Large forest fire burns close to residential areas in Ankara",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-        "seendate": "2026-08-24T00:30:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Large forest fire burns close to residential areas in Ankara",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-        "seendate": "2026-08-24T00:30:00.000Z",
+        "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+        "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
+        "seendate": "2026-08-24T09:29:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -320,6 +276,43 @@
         "title": "How Apartheid Continues to Divide Cape Town",
         "url": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
         "seendate": "2026-08-22T13:42:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+    "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+    "seendate": "2026-08-21T14:41:40.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
