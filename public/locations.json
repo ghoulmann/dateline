@@ -6,15 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Video: Israel attacks desalination plant and mosque in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-    "seendate": "2026-08-24T19:21:01.000Z",
+    "headline": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+    "seendate": "2026-08-24T21:12:06.000Z",
     "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+        "seendate": "2026-08-24T21:12:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+        "seendate": "2026-08-24T21:12:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Video: Israel attacks desalination plant and mosque in Gaza",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
         "seendate": "2026-08-24T19:21:01.000Z",
@@ -48,26 +68,6 @@
         "title": "Israel threatens attacks in Gaza over children’s kites",
         "url": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
         "seendate": "2026-08-24T19:00:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strike on Gaza shelter extends casualty list",
-        "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
-        "seendate": "2026-08-24T16:27:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strike on Gaza shelter extends casualty list",
-        "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
-        "seendate": "2026-08-24T16:27:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -264,49 +264,133 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+    "seendate": "2026-08-25T00:00:00.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+        "seendate": "2026-08-25T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+        "seendate": "2026-08-25T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+        "seendate": "2026-08-21T14:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Search continues in Tunisia as migrant boat sinking sparks protests",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+    "seendate": "2026-08-25T00:18:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+        "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+        "seendate": "2026-08-25T00:18:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+        "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+        "seendate": "2026-08-25T00:18:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "Climate change is unearthing archaeological discoveries, while also threatening them",
-    "headlineUrl": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
-    "seendate": "2026-08-23T21:23:05.000Z",
-    "articleCount": 3,
+    "headline": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+    "seendate": "2026-08-24T21:32:24.000Z",
+    "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
-        "seendate": "2026-08-23T21:23:05.000Z",
-        "source_domain": "npr.org",
+        "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+        "seendate": "2026-08-24T21:32:24.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
-        "seendate": "2026-08-23T21:23:05.000Z",
-        "source_domain": "npr.org",
+        "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+        "seendate": "2026-08-24T21:32:24.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
-        "seendate": "2026-08-23T21:23:05.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -339,43 +423,6 @@
         "title": "How Apartheid Continues to Divide Cape Town",
         "url": "https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html",
         "seendate": "2026-08-22T13:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-    "headlineUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-    "seendate": "2026-08-21T14:41:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
