@@ -6,34 +6,14 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
-    "seendate": "2026-08-24T20:00:18.000Z",
-    "articleCount": 11,
+    "headline": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
+    "headlineUrl": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+    "seendate": "2026-08-24T09:36:13.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-        "url": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
-        "seendate": "2026-08-24T20:00:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-        "url": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
-        "seendate": "2026-08-24T20:00:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
         "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
@@ -133,34 +113,14 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-    "seendate": "2026-08-24T21:12:06.000Z",
-    "articleCount": 8,
+    "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-24T13:56:22.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-        "seendate": "2026-08-24T21:12:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-        "seendate": "2026-08-24T21:12:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Israel warns of 'forceful' response to kites flown from Gaza",
         "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
@@ -224,24 +184,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-    "seendate": "2026-08-25T00:00:00.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+    "seendate": "2026-08-25T05:09:25.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-        "seendate": "2026-08-25T00:00:00.000Z",
+        "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+        "seendate": "2026-08-25T05:09:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -249,9 +209,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-        "seendate": "2026-08-25T00:00:00.000Z",
+        "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+        "seendate": "2026-08-25T05:09:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -259,24 +219,24 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
+        "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+        "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+        "seendate": "2026-08-25T04:38:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-        "seendate": "2026-08-21T14:41:40.000Z",
-        "source_domain": "nytimes.com",
+        "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+        "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+        "seendate": "2026-08-25T04:38:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -309,43 +269,6 @@
         "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
         "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
         "seendate": "2026-08-25T00:18:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-    "seendate": "2026-08-24T21:32:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-        "seendate": "2026-08-24T21:32:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-        "seendate": "2026-08-24T21:32:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
