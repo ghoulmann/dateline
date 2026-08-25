@@ -6,18 +6,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-    "seendate": "2026-08-25T11:52:40.000Z",
-    "articleCount": 8,
+    "headline": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+    "seendate": "2026-08-25T15:23:17.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-        "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-        "seendate": "2026-08-25T11:52:40.000Z",
+        "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+        "seendate": "2026-08-25T15:23:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,69 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-        "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-        "seendate": "2026-08-25T11:52:40.000Z",
+        "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+        "seendate": "2026-08-25T15:23:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "One year since Gaza journalist killed by Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
+        "seendate": "2026-08-25T15:09:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "One year since Gaza journalist killed by Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
+        "seendate": "2026-08-25T15:09:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+        "url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+        "seendate": "2026-08-25T13:25:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+        "url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+        "seendate": "2026-08-25T13:25:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza child breaks down in tears after an Israeli threat over kites",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
+        "seendate": "2026-08-25T13:23:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza child breaks down in tears after an Israeli threat over kites",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
+        "seendate": "2026-08-25T13:23:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -97,24 +157,24 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "British man charged in Singapore two years after alleged theft at airport",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-25T09:01:35.000Z",
-    "articleCount": 6,
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "CIA chief in Moscow for unannounced talks, US media reports",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-25T16:08:26.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "British man charged in Singapore two years after alleged theft at airport",
-        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-25T09:01:35.000Z",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T16:08:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +182,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "British man charged in Singapore two years after alleged theft at airport",
-        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-25T09:01:35.000Z",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T16:08:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +192,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "British man charged in Singapore two years after alleged theft at airport",
-        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-25T09:01:35.000Z",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T16:08:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +202,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "British man charged in Singapore two years after alleged theft at airport",
-        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-25T09:01:35.000Z",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T16:08:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +212,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "British man charged in Singapore two years after alleged theft at airport",
-        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-25T09:01:35.000Z",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T16:08:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,14 +222,34 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "British man charged in Singapore two years after alleged theft at airport",
-        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-25T09:01:35.000Z",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T16:08:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "US military transport plane arrives in Moscow in rare occurrence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
+        "seendate": "2026-08-25T14:16:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US military transport plane arrives in Moscow in rare occurrence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
+        "seendate": "2026-08-25T14:16:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -257,35 +337,14 @@
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
-    "seendate": "2026-08-25T10:11:46.000Z",
-    "articleCount": 5,
+    "headline": "Did climate change cause this heat wave? Most likely, and here&apos;s why",
+    "headlineUrl": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+    "seendate": "2026-08-25T09:00:00.000Z",
+    "articleCount": 3,
     "categories": [
-      "armed-conflict",
       "climate-watch"
     ],
     "articles": [
-      {
-        "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-        "url": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
-        "seendate": "2026-08-25T10:11:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-        "url": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
-        "seendate": "2026-08-25T10:11:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Did climate change cause this heat wave? Most likely, and here&apos;s why",
         "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
@@ -315,6 +374,117 @@
           "climate-watch"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+    "seendate": "2026-08-25T15:42:43.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+        "url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+        "seendate": "2026-08-25T15:42:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+        "url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+        "seendate": "2026-08-25T15:42:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
+    "seendate": "2026-08-25T13:42:14.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
+        "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
+        "seendate": "2026-08-25T13:42:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
+        "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
+        "seendate": "2026-08-25T13:42:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+    "seendate": "2026-08-25T12:59:32.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+        "seendate": "2026-08-25T12:59:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+        "seendate": "2026-08-25T12:59:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
