@@ -1,126 +1,39 @@
 [
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
-    "headlineUrl": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-    "seendate": "2026-08-24T09:36:13.000Z",
-    "articleCount": 9,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
-        "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-        "seendate": "2026-08-24T09:36:13.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
-        "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-        "seendate": "2026-08-24T09:36:13.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
-        "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-        "seendate": "2026-08-24T09:36:13.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T04:51:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T04:51:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T04:51:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T04:51:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T04:51:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T04:51:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-24T13:56:22.000Z",
-    "articleCount": 6,
+    "headline": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+    "seendate": "2026-08-25T11:52:40.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+        "seendate": "2026-08-25T11:52:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+        "seendate": "2026-08-25T11:52:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Israel warns of 'forceful' response to kites flown from Gaza",
         "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
@@ -184,81 +97,179 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
-    "seendate": "2026-08-25T05:09:25.000Z",
-    "articleCount": 4,
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "British man charged in Singapore two years after alleged theft at airport",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-25T09:01:35.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
-        "seendate": "2026-08-25T05:09:25.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "British man charged in Singapore two years after alleged theft at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T09:01:35.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
-        "seendate": "2026-08-25T05:09:25.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "British man charged in Singapore two years after alleged theft at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T09:01:35.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
-        "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
-        "seendate": "2026-08-25T04:38:20.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "British man charged in Singapore two years after alleged theft at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T09:01:35.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
-        "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
-        "seendate": "2026-08-25T04:38:20.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "British man charged in Singapore two years after alleged theft at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T09:01:35.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "British man charged in Singapore two years after alleged theft at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T09:01:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "British man charged in Singapore two years after alleged theft at airport",
+        "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-25T09:01:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Search continues in Tunisia as migrant boat sinking sparks protests",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
-    "seendate": "2026-08-25T00:18:42.000Z",
-    "articleCount": 2,
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "What do locals think of IndyCar in Washington DC?",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-24T04:51:49.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
-        "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
-        "seendate": "2026-08-25T00:18:42.000Z",
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What do locals think of IndyCar in Washington DC?",
+        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-24T04:51:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
+    "seendate": "2026-08-25T10:11:46.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
+        "url": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
+        "seendate": "2026-08-25T10:11:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -266,14 +277,44 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
-        "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
-        "seendate": "2026-08-25T00:18:42.000Z",
+        "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
+        "url": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
+        "seendate": "2026-08-25T10:11:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Did climate change cause this heat wave? Most likely, and here&apos;s why",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "seendate": "2026-08-25T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Did climate change cause this heat wave? Most likely, and here&apos;s why",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "seendate": "2026-08-25T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Did climate change cause this heat wave? Most likely, and here&apos;s why",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "seendate": "2026-08-25T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
