@@ -1,43 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
-    "seendate": "2026-08-26T07:43:36.000Z",
-    "articleCount": 8,
+    "id": "Quito",
+    "name": "Quito",
+    "country": "EC",
+    "lat": -0.18,
+    "lon": -78.47,
+    "timezone": "America/Guayaquil",
+    "headline": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-26T11:02:22.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-        "url": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
-        "seendate": "2026-08-26T07:43:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-        "url": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
-        "seendate": "2026-08-26T07:43:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T13:56:22.000Z",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-26T11:02:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T13:56:22.000Z",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-26T11:02:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T13:56:22.000Z",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-26T11:02:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T13:56:22.000Z",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-26T11:02:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T13:56:22.000Z",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-26T11:02:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-24T13:56:22.000Z",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-26T11:02:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -251,24 +231,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Mamdani opposes Hindu nationalist event in New York",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-    "seendate": "2026-08-26T02:47:02.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+    "seendate": "2026-08-26T09:36:08.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mamdani opposes Hindu nationalist event in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-        "seendate": "2026-08-26T02:47:02.000Z",
+        "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+        "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+        "seendate": "2026-08-26T09:36:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -276,9 +256,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mamdani opposes Hindu nationalist event in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-        "seendate": "2026-08-26T02:47:02.000Z",
+        "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+        "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+        "seendate": "2026-08-26T09:36:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
