@@ -6,34 +6,14 @@
     "lat": -0.18,
     "lon": -78.47,
     "timezone": "America/Guayaquil",
-    "headline": "German airport workers die from malaria caught from plane-riding mosquito",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
-    "seendate": "2026-08-26T19:21:26.000Z",
-    "articleCount": 8,
+    "headline": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-26T18:22:41.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "German airport workers die from malaria caught from plane-riding mosquito",
-        "url": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
-        "seendate": "2026-08-26T19:21:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "German airport workers die from malaria caught from plane-riding mosquito",
-        "url": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
-        "seendate": "2026-08-26T19:21:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
         "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
@@ -174,172 +154,54 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss",
-    "seendate": "2026-08-26T22:04:48.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad",
-        "url": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss",
-        "seendate": "2026-08-26T22:04:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad",
-        "url": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss",
-        "seendate": "2026-08-26T22:04:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "What’s behind the SDF’s deal with Damascus?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
-    "seendate": "2026-08-26T20:37:11.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What’s behind the SDF’s deal with Damascus?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
-        "seendate": "2026-08-26T20:37:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What’s behind the SDF’s deal with Damascus?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
-        "seendate": "2026-08-26T20:37:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "8 migrants buried in Tunisia’s coastal town of Ben Guerdane",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/26/8-migrants-buried-in-tunisias-coastal-town-of-ben-guerdane?traffic_source=rss",
-    "seendate": "2026-08-26T20:05:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "8 migrants buried in Tunisia’s coastal town of Ben Guerdane",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/8-migrants-buried-in-tunisias-coastal-town-of-ben-guerdane?traffic_source=rss",
-        "seendate": "2026-08-26T20:05:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "8 migrants buried in Tunisia’s coastal town of Ben Guerdane",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/8-migrants-buried-in-tunisias-coastal-town-of-ben-guerdane?traffic_source=rss",
-        "seendate": "2026-08-26T20:05:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-    "seendate": "2026-08-26T19:25:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-        "url": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-        "seendate": "2026-08-26T19:25:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-        "url": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-        "seendate": "2026-08-26T19:25:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
-    "headlineUrl": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html",
-    "seendate": "2026-08-26T16:16:08.000Z",
-    "articleCount": 2,
+    "headline": "Official leading Trump&apos;s Gaza ceasefire effort criticizes Israel for its attacks",
+    "headlineUrl": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+    "seendate": "2026-08-27T06:04:56.000Z",
+    "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Official leading Trump&apos;s Gaza ceasefire effort criticizes Israel for its attacks",
+        "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+        "seendate": "2026-08-27T06:04:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Official leading Trump&apos;s Gaza ceasefire effort criticizes Israel for its attacks",
+        "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+        "seendate": "2026-08-27T06:04:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Official leading Trump&apos;s Gaza ceasefire effort criticizes Israel for its attacks",
+        "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+        "seendate": "2026-08-27T06:04:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
         "title": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html",
-        "seendate": "2026-08-26T16:16:08.000Z",
+        "seendate": "2026-08-26T16:16:09.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -349,7 +211,155 @@
       {
         "title": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
         "url": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html",
-        "seendate": "2026-08-26T16:16:08.000Z",
+        "seendate": "2026-08-26T16:16:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "NFL champions Seattle Seahawks sold to Khosla Group for record $9.6 billion",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
+    "seendate": "2026-08-27T07:14:49.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "NFL champions Seattle Seahawks sold to Khosla Group for record $9.6 billion",
+        "url": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
+        "seendate": "2026-08-27T07:14:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "NFL champions Seattle Seahawks sold to Khosla Group for record $9.6 billion",
+        "url": "https://www.aljazeera.com/sports/2026/8/27/nfl-champions-seattle-seahawks-sold-to-khosla-group-for-record-9-6-billion?traffic_source=rss",
+        "seendate": "2026-08-27T07:14:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
+    "seendate": "2026-08-27T02:54:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+        "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
+        "seendate": "2026-08-27T02:54:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+        "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
+        "seendate": "2026-08-27T02:54:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
+    "seendate": "2026-08-27T02:42:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
+        "seendate": "2026-08-27T02:42:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
+        "seendate": "2026-08-27T02:42:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
+    "headlineUrl": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantaras.html",
+    "seendate": "2026-08-27T04:00:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
+        "url": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantaras.html",
+        "seendate": "2026-08-27T04:00:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
+        "url": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantaras.html",
+        "seendate": "2026-08-27T04:00:09.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -367,7 +377,7 @@
     "timezone": "America/New_York",
     "headline": "How The New York Times Covers Harry, Meghan and the Royal Family",
     "headlineUrl": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
-    "seendate": "2026-08-26T19:18:41.000Z",
+    "seendate": "2026-08-27T08:24:53.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -376,7 +386,7 @@
       {
         "title": "How The New York Times Covers Harry, Meghan and the Royal Family",
         "url": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
-        "seendate": "2026-08-26T19:18:41.000Z",
+        "seendate": "2026-08-27T08:24:53.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -386,7 +396,7 @@
       {
         "title": "How The New York Times Covers Harry, Meghan and the Royal Family",
         "url": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
-        "seendate": "2026-08-26T19:18:41.000Z",
+        "seendate": "2026-08-27T08:24:53.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
