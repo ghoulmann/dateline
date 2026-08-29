@@ -1,5 +1,122 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-29T12:55:39.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T12:55:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T12:55:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T12:55:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T12:55:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T12:55:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T12:55:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
+        "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+        "seendate": "2026-08-29T12:15:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
+        "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+        "seendate": "2026-08-29T12:15:06.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+        "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+        "seendate": "2026-08-29T10:36:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+        "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+        "seendate": "2026-08-29T10:36:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Oslo",
     "name": "Oslo",
     "country": "NO",
@@ -308,6 +425,140 @@
     ]
   },
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Can “super coral” and cooling the sea, save reefs from climate change?",
+    "headlineUrl": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+    "seendate": "2026-08-29T11:30:00.000Z",
+    "articleCount": 4,
+    "categories": [
+      "climate-watch",
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
+        "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+        "seendate": "2026-08-29T11:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
+        "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+        "seendate": "2026-08-29T11:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
+        "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+        "seendate": "2026-08-28T03:22:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "natural-disaster",
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
+        "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+        "seendate": "2026-08-28T03:22:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "natural-disaster",
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+    "seendate": "2026-08-29T12:58:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+        "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+        "seendate": "2026-08-29T12:58:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+        "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+        "seendate": "2026-08-29T12:58:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+    "seendate": "2026-08-29T12:56:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+        "url": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+        "seendate": "2026-08-29T12:56:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+        "url": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+        "seendate": "2026-08-29T12:56:27.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Bern",
     "name": "Bern",
     "country": "CH",
@@ -336,117 +587,6 @@
         "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
         "seendate": "2026-08-29T05:27:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Niamey",
-    "name": "Niamey",
-    "country": "NE",
-    "lat": 13.51,
-    "lon": 2.13,
-    "timezone": "Africa/Niamey",
-    "headline": "Gunfire, blasts heard in several areas of Niger capital Niamey",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
-    "seendate": "2026-08-29T01:30:08.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
-        "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
-        "seendate": "2026-08-29T01:30:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
-        "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
-        "seendate": "2026-08-29T01:30:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-    "seendate": "2026-08-29T00:53:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-        "seendate": "2026-08-29T00:53:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-        "seendate": "2026-08-29T00:53:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Thousands take part in March on Washington to promote voting rights",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
-    "seendate": "2026-08-28T22:59:19.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Thousands take part in March on Washington to promote voting rights",
-        "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
-        "seendate": "2026-08-28T22:59:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands take part in March on Washington to promote voting rights",
-        "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
-        "seendate": "2026-08-28T22:59:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -487,46 +627,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate Change Raises Risk of Disasters Like Nepal Floods",
-    "headlineUrl": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
-    "seendate": "2026-08-28T03:22:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
-        "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
-        "seendate": "2026-08-28T03:22:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster",
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
-        "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
-        "seendate": "2026-08-28T03:22:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster",
-          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
