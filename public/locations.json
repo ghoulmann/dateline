@@ -234,83 +234,6 @@
     ]
   },
   {
-    "id": "Oslo",
-    "name": "Oslo",
-    "country": "NO",
-    "lat": 59.91,
-    "lon": 10.75,
-    "timezone": "Europe/Oslo",
-    "headline": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-28T13:50:34.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T13:50:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T13:50:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T13:50:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T13:50:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T13:50:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T13:50:34.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Berlin",
     "name": "Berlin",
     "country": "DE",
@@ -388,24 +311,24 @@
     ]
   },
   {
-    "id": "Homs",
-    "name": "Homs",
-    "country": "SY",
-    "lat": 34.73,
-    "lon": 36.73,
-    "timezone": "Asia/Damascus",
-    "headline": "Syria sandstorm blankets Homs in eerie orange haze",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/30/syria-sandstorm-blankets-homs-in-eerie-orange-haze?traffic_source=rss",
-    "seendate": "2026-08-30T09:02:36.000Z",
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+    "seendate": "2026-08-30T18:51:33.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Syria sandstorm blankets Homs in eerie orange haze",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/syria-sandstorm-blankets-homs-in-eerie-orange-haze?traffic_source=rss",
-        "seendate": "2026-08-30T09:02:36.000Z",
+        "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+        "seendate": "2026-08-30T18:51:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -413,9 +336,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Syria sandstorm blankets Homs in eerie orange haze",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/syria-sandstorm-blankets-homs-in-eerie-orange-haze?traffic_source=rss",
-        "seendate": "2026-08-30T09:02:36.000Z",
+        "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+        "seendate": "2026-08-30T18:51:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
+    "seendate": "2026-08-30T18:19:03.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+        "url": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
+        "seendate": "2026-08-30T18:19:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+        "url": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
+        "seendate": "2026-08-30T18:19:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
