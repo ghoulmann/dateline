@@ -9,7 +9,7 @@
     "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-08-29T20:13:16.000Z",
-    "articleCount": 17,
+    "articleCount": 15,
     "categories": [
       "armed-conflict"
     ],
@@ -73,26 +73,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
-        "seendate": "2026-08-29T16:53:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
-        "seendate": "2026-08-29T16:53:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Russian strike near Kyiv kills 37, in one of the year&apos;s deadliest attacks",
@@ -178,6 +158,103 @@
         "title": "Deadly strike on Kyiv warehouse prompts evacuations",
         "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-08-29T13:55:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
+    "seendate": "2026-08-30T01:43:52.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
+        "seendate": "2026-08-30T01:43:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
+        "seendate": "2026-08-30T01:43:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-28T21:29:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-28T21:29:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-28T21:29:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-28T21:29:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-28T21:29:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-28T21:29:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -361,79 +438,113 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Berlin is being blackmailed by hackers, mayor says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-28T21:29:01.000Z",
-    "articleCount": 6,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Protests as India’s Hindu nationalists take centre stage in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+    "seendate": "2026-08-30T04:31:06.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Protests as India’s Hindu nationalists take centre stage in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+        "seendate": "2026-08-30T04:31:06.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Protests as India’s Hindu nationalists take centre stage in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+        "seendate": "2026-08-30T04:31:06.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+    "seendate": "2026-08-30T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+        "seendate": "2026-08-30T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+        "seendate": "2026-08-30T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+    "seendate": "2026-08-29T23:34:11.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+        "seendate": "2026-08-29T23:34:11.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-28T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+        "seendate": "2026-08-29T23:34:11.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -447,7 +558,7 @@
     "headline": "Gaza runs out of cancer medicines, as Israeli strikes continue",
     "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
     "seendate": "2026-08-29T20:07:47.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -466,26 +577,6 @@
         "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
         "seendate": "2026-08-29T20:07:47.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
-        "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-        "seendate": "2026-08-29T15:25:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
-        "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-        "seendate": "2026-08-29T15:25:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
