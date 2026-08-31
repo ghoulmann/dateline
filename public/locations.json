@@ -194,6 +194,164 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+    "seendate": "2026-08-31T03:11:56.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+        "seendate": "2026-08-31T03:11:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+        "seendate": "2026-08-31T03:11:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
+        "url": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
+        "seendate": "2026-08-30T21:32:27.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Shanghai",
+    "name": "Shanghai",
+    "country": "CN",
+    "lat": 31.23,
+    "lon": 121.47,
+    "timezone": "Asia/Shanghai",
+    "headline": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+    "seendate": "2026-08-31T04:18:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+        "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+        "seendate": "2026-08-31T04:18:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+        "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+        "seendate": "2026-08-31T04:18:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia swelters as power cuts disrupt water supplies",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss",
+    "seendate": "2026-08-31T02:11:35.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia swelters as power cuts disrupt water supplies",
+        "url": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss",
+        "seendate": "2026-08-31T02:11:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia swelters as power cuts disrupt water supplies",
+        "url": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss",
+        "seendate": "2026-08-31T02:11:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+    "seendate": "2026-08-31T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+        "seendate": "2026-08-31T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+        "seendate": "2026-08-31T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
@@ -222,80 +380,6 @@
         "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
         "url": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
         "seendate": "2026-08-30T19:50:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Mogadishu",
-    "name": "Mogadishu",
-    "country": "SO",
-    "lat": 2.05,
-    "lon": 45.34,
-    "timezone": "Africa/Mogadishu",
-    "headline": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
-    "seendate": "2026-08-30T18:51:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
-        "seendate": "2026-08-30T18:51:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
-        "seendate": "2026-08-30T18:51:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
-    "seendate": "2026-08-30T18:19:03.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
-        "url": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
-        "seendate": "2026-08-30T18:19:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
-        "url": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
-        "seendate": "2026-08-30T18:19:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -338,33 +422,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
-    "headlineUrl": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
-    "seendate": "2026-08-30T21:32:27.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
-        "url": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
-        "seendate": "2026-08-30T21:32:27.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
