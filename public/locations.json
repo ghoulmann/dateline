@@ -6,18 +6,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-    "seendate": "2026-08-31T15:42:20.000Z",
+    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+    "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+    "seendate": "2026-08-31T18:16:50.000Z",
     "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-        "seendate": "2026-08-31T15:42:20.000Z",
+        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+        "seendate": "2026-08-31T18:16:50.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-        "seendate": "2026-08-31T15:42:20.000Z",
+        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+        "seendate": "2026-08-31T18:16:50.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -35,9 +35,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T15:25:03.000Z",
+        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+        "seendate": "2026-08-31T15:42:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +45,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T15:25:03.000Z",
+        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+        "seendate": "2026-08-31T15:42:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -234,49 +234,136 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-    "headlineUrl": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-    "seendate": "2026-08-31T09:00:00.000Z",
-    "articleCount": 3,
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Festival honouring Dolly Parton set for Nashville and London",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-08-31T18:58:35.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-        "seendate": "2026-08-31T09:00:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Festival honouring Dolly Parton set for Nashville and London",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-31T18:58:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Festival honouring Dolly Parton set for Nashville and London",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-31T18:58:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Festival honouring Dolly Parton set for Nashville and London",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-31T18:58:35.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-        "seendate": "2026-08-31T09:00:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Festival honouring Dolly Parton set for Nashville and London",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-31T18:58:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Festival honouring Dolly Parton set for Nashville and London",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-31T18:58:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Festival honouring Dolly Parton set for Nashville and London",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-31T18:58:35.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+    "seendate": "2026-08-31T22:16:18.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-        "seendate": "2026-08-31T09:00:00.000Z",
-        "source_domain": "npr.org",
+        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+        "seendate": "2026-08-31T22:16:18.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+        "seendate": "2026-08-31T22:16:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
+        "seendate": "2026-08-31T19:25:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
+        "seendate": "2026-08-31T19:25:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -287,18 +374,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes kill at least five Palestinians in Gaza City",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
-    "seendate": "2026-08-31T15:20:18.000Z",
+    "headline": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
+    "seendate": "2026-08-31T18:36:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli strikes kill at least five Palestinians in Gaza City",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
-        "seendate": "2026-08-31T15:20:18.000Z",
+        "title": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
+        "seendate": "2026-08-31T18:36:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -306,157 +393,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strikes kill at least five Palestinians in Gaza City",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
-        "seendate": "2026-08-31T15:20:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Jason Arday mural displayed at London’s Notting Hill Carnival",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss",
-    "seendate": "2026-08-31T14:52:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jason Arday mural displayed at London’s Notting Hill Carnival",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss",
-        "seendate": "2026-08-31T14:52:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jason Arday mural displayed at London’s Notting Hill Carnival",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss",
-        "seendate": "2026-08-31T14:52:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Liverpool sign Bradley Barcola from Paris Saint-Germain",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss",
-    "seendate": "2026-08-31T13:40:28.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Liverpool sign Bradley Barcola from Paris Saint-Germain",
-        "url": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss",
-        "seendate": "2026-08-31T13:40:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Liverpool sign Bradley Barcola from Paris Saint-Germain",
-        "url": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss",
-        "seendate": "2026-08-31T13:40:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Cairo",
-    "name": "Cairo",
-    "country": "EG",
-    "lat": 30.05,
-    "lon": 31.24,
-    "timezone": "Africa/Cairo",
-    "headline": "More value in Cairo’s trash, but less for those who collect it",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/more-value-in-cairos-trash-but-less-for-those-who-collect-it?traffic_source=rss",
-    "seendate": "2026-08-31T12:39:53.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "More value in Cairo’s trash, but less for those who collect it",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/more-value-in-cairos-trash-but-less-for-those-who-collect-it?traffic_source=rss",
-        "seendate": "2026-08-31T12:39:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "More value in Cairo’s trash, but less for those who collect it",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/more-value-in-cairos-trash-but-less-for-those-who-collect-it?traffic_source=rss",
-        "seendate": "2026-08-31T12:39:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Baghdad",
-    "name": "Baghdad",
-    "country": "IQ",
-    "lat": 33.31,
-    "lon": 44.36,
-    "timezone": "Asia/Baghdad",
-    "headline": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad-2?traffic_source=rss",
-    "seendate": "2026-08-31T11:58:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad-2?traffic_source=rss",
-        "seendate": "2026-08-31T11:58:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad-2?traffic_source=rss",
-        "seendate": "2026-08-31T11:58:57.000Z",
+        "title": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
+        "seendate": "2026-08-31T18:36:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
