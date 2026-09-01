@@ -153,14 +153,34 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "John Galliano exhibition at New York Met cancelled after backlash",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-31T15:30:05.000Z",
-    "articleCount": 7,
+    "headline": "New York police kill knife-wielding woman in Times Square",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+    "seendate": "2026-09-01T01:19:34.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "New York police kill knife-wielding woman in Times Square",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+        "seendate": "2026-09-01T01:19:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York police kill knife-wielding woman in Times Square",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+        "seendate": "2026-09-01T01:19:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "John Galliano exhibition at New York Met cancelled after backlash",
         "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
@@ -311,24 +331,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
-    "seendate": "2026-08-31T22:16:18.000Z",
-    "articleCount": 4,
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+    "seendate": "2026-09-01T00:15:22.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
-        "seendate": "2026-08-31T22:16:18.000Z",
+        "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+        "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+        "seendate": "2026-09-01T00:15:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -336,29 +356,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
-        "seendate": "2026-08-31T22:16:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-        "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
-        "seendate": "2026-08-31T19:25:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-        "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
-        "seendate": "2026-08-31T19:25:45.000Z",
+        "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+        "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+        "seendate": "2026-09-01T00:15:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -368,24 +368,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
-    "seendate": "2026-08-31T18:36:29.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+    "seendate": "2026-08-31T22:16:18.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
-        "seendate": "2026-08-31T18:36:29.000Z",
+        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+        "seendate": "2026-08-31T22:16:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -393,9 +393,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
-        "seendate": "2026-08-31T18:36:29.000Z",
+        "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+        "seendate": "2026-08-31T22:16:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
