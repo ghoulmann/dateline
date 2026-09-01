@@ -6,34 +6,14 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Six days of Russian strikes push Kyiv residents to consider leaving",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
-    "seendate": "2026-09-01T15:45:18.000Z",
-    "articleCount": 18,
+    "headline": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-01T10:30:55.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
-        "seendate": "2026-09-01T15:45:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
-        "seendate": "2026-09-01T15:45:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
@@ -203,39 +183,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-    "seendate": "2026-09-01T18:34:47.000Z",
-    "articleCount": 12,
+    "headline": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+    "seendate": "2026-09-01T20:59:43.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-01T18:34:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-01T18:34:47.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-        "seendate": "2026-09-01T18:22:17.000Z",
+        "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+        "seendate": "2026-09-01T20:59:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -243,9 +203,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-        "seendate": "2026-09-01T18:22:17.000Z",
+        "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+        "seendate": "2026-09-01T20:59:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -253,29 +213,29 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-        "url": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
-        "seendate": "2026-09-01T16:45:35.000Z",
+        "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+        "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+        "seendate": "2026-09-01T20:40:55.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-        "url": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
-        "seendate": "2026-09-01T16:45:35.000Z",
+        "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+        "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+        "seendate": "2026-09-01T20:40:55.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T12:58:44.000Z",
+        "seendate": "2026-09-01T20:24:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -283,9 +243,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T12:58:44.000Z",
+        "seendate": "2026-09-01T20:24:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -293,9 +253,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T12:58:44.000Z",
+        "seendate": "2026-09-01T20:24:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -303,9 +263,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T12:58:44.000Z",
+        "seendate": "2026-09-01T20:24:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -313,9 +273,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T12:58:44.000Z",
+        "seendate": "2026-09-01T20:24:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
@@ -323,14 +283,54 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T12:58:44.000Z",
+        "seendate": "2026-09-01T20:24:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-01T19:26:59.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-01T19:26:59.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+        "seendate": "2026-09-01T18:22:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+        "seendate": "2026-09-01T18:22:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -489,24 +489,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-    "seendate": "2026-09-01T15:19:46.000Z",
+    "id": "Idlib",
+    "name": "Idlib",
+    "country": "SY",
+    "lat": 35.93,
+    "lon": 36.66,
+    "timezone": "Asia/Damascus",
+    "headline": "Munitions vehicle explodes killing five in Idlib",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
+    "seendate": "2026-09-01T19:46:53.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-        "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-        "seendate": "2026-09-01T15:19:46.000Z",
+        "title": "Munitions vehicle explodes killing five in Idlib",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
+        "seendate": "2026-09-01T19:46:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -514,9 +514,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-        "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-        "seendate": "2026-09-01T15:19:46.000Z",
+        "title": "Munitions vehicle explodes killing five in Idlib",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
+        "seendate": "2026-09-01T19:46:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
