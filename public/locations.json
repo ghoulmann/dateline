@@ -6,14 +6,34 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-01T10:30:55.000Z",
+    "headline": "Six days of Russian strikes push Kyiv residents to consider leaving",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
+    "seendate": "2026-09-01T15:45:18.000Z",
     "articleCount": 18,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
+        "seendate": "2026-09-01T15:45:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
+        "seendate": "2026-09-01T15:45:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
@@ -73,26 +93,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
-        "seendate": "2026-09-01T08:57:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
-        "seendate": "2026-09-01T08:57:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
@@ -203,16 +203,76 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-01T12:58:44.000Z",
-    "articleCount": 8,
+    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+    "seendate": "2026-09-01T18:34:47.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-01T18:34:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-01T18:34:47.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+        "seendate": "2026-09-01T18:22:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+        "seendate": "2026-09-01T18:22:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
+        "url": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
+        "seendate": "2026-09-01T16:45:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
+        "url": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
+        "seendate": "2026-09-01T16:45:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
         "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-01T12:58:44.000Z",
@@ -271,113 +331,6 @@
           "humanitarian"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill at least four, including children",
-        "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
-        "seendate": "2026-09-01T09:48:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill at least four, including children",
-        "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
-        "seendate": "2026-09-01T09:48:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "John Galliano exhibition at New York Met cancelled after backlash",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-31T15:30:05.000Z",
-    "articleCount": 7,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "John Galliano exhibition at New York Met cancelled after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T15:30:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "John Galliano exhibition at New York Met cancelled after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T15:30:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "John Galliano exhibition at New York Met cancelled after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T15:30:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "John Galliano exhibition at New York Met cancelled after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T15:30:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "John Galliano exhibition at New York Met cancelled after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T15:30:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "John Galliano exhibition at New York Met cancelled after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T15:30:05.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
-        "url": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
-        "seendate": "2026-08-30T21:32:27.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -536,71 +489,24 @@
     ]
   },
   {
-    "id": "San Francisco",
-    "name": "San Francisco",
-    "country": "US",
-    "lat": 37.77,
-    "lon": -122.41,
-    "timezone": "America/Los_Angeles",
-    "headline": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
-    "headlineUrl": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-    "seendate": "2026-09-01T09:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
-        "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-        "seendate": "2026-09-01T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
-        "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-        "seendate": "2026-09-01T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
-        "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-        "seendate": "2026-09-01T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Damascus goes car-free for 24 hours",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
-    "seendate": "2026-09-01T11:53:53.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
+    "seendate": "2026-09-01T15:19:46.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Damascus goes car-free for 24 hours",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
-        "seendate": "2026-09-01T11:53:53.000Z",
+        "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
+        "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
+        "seendate": "2026-09-01T15:19:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -608,9 +514,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Damascus goes car-free for 24 hours",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
-        "seendate": "2026-09-01T11:53:53.000Z",
+        "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
+        "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
+        "seendate": "2026-09-01T15:19:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -620,135 +526,24 @@
     ]
   },
   {
-    "id": "Idlib",
-    "name": "Idlib",
-    "country": "SY",
-    "lat": 35.93,
-    "lon": 36.66,
-    "timezone": "Asia/Damascus",
-    "headline": "Two killed after ammunition-laden vehicle explodes in Syria’s Idlib",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-    "seendate": "2026-09-01T11:43:28.000Z",
+    "id": "Copenhagen",
+    "name": "Copenhagen",
+    "country": "DK",
+    "lat": 55.68,
+    "lon": 12.57,
+    "timezone": "Europe/Copenhagen",
+    "headline": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+    "seendate": "2026-09-01T19:18:46.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Two killed after ammunition-laden vehicle explodes in Syria’s Idlib",
-        "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-        "seendate": "2026-09-01T11:43:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Two killed after ammunition-laden vehicle explodes in Syria’s Idlib",
-        "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-        "seendate": "2026-09-01T11:43:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Islamabad",
-    "name": "Islamabad",
-    "country": "PK",
-    "lat": 33.68,
-    "lon": 73.04,
-    "timezone": "Asia/Karachi",
-    "headline": "Heavy monsoon rains submerge Islamabad roads and underground",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss",
-    "seendate": "2026-09-01T08:56:34.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Heavy monsoon rains submerge Islamabad roads and underground",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss",
-        "seendate": "2026-09-01T08:56:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Heavy monsoon rains submerge Islamabad roads and underground",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss",
-        "seendate": "2026-09-01T08:56:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Stockholm",
-    "name": "Stockholm",
-    "country": "SE",
-    "lat": 59.33,
-    "lon": 18.07,
-    "timezone": "Europe/Stockholm",
-    "headline": "‘Not welcome’: How Sweden’s far right took over Stockholm Central Station",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/1/not-welcome-how-swedens-far-right-took-over-stockholm-central-station?traffic_source=rss",
-    "seendate": "2026-09-01T08:43:59.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "‘Not welcome’: How Sweden’s far right took over Stockholm Central Station",
-        "url": "https://www.aljazeera.com/news/2026/9/1/not-welcome-how-swedens-far-right-took-over-stockholm-central-station?traffic_source=rss",
-        "seendate": "2026-09-01T08:43:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Not welcome’: How Sweden’s far right took over Stockholm Central Station",
-        "url": "https://www.aljazeera.com/news/2026/9/1/not-welcome-how-swedens-far-right-took-over-stockholm-central-station?traffic_source=rss",
-        "seendate": "2026-09-01T08:43:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Vienna",
-    "name": "Vienna",
-    "country": "AT",
-    "lat": 48.21,
-    "lon": 16.37,
-    "timezone": "Europe/Vienna",
-    "headline": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
-    "headlineUrl": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-    "seendate": "2026-08-30T13:02:17.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
-        "url": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-        "seendate": "2026-08-30T13:02:17.000Z",
+        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+        "seendate": "2026-09-01T19:18:46.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -756,14 +551,41 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
-        "url": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-        "seendate": "2026-08-30T13:02:17.000Z",
+        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+        "seendate": "2026-09-01T19:18:46.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
+    "headlineUrl": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
+    "seendate": "2026-08-30T21:32:27.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
+        "url": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
+        "seendate": "2026-08-30T21:32:27.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
