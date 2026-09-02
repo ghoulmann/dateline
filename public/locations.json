@@ -183,15 +183,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-    "seendate": "2026-09-01T20:59:43.000Z",
-    "articleCount": 14,
+    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+    "seendate": "2026-09-02T03:27:13.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-02T03:27:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-02T03:27:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
@@ -291,46 +311,6 @@
           "humanitarian"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-01T19:26:59.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-01T19:26:59.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-        "seendate": "2026-09-01T18:22:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-        "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-        "seendate": "2026-09-01T18:22:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -489,24 +469,24 @@
     ]
   },
   {
-    "id": "Idlib",
-    "name": "Idlib",
-    "country": "SY",
-    "lat": 35.93,
-    "lon": 36.66,
-    "timezone": "Asia/Damascus",
-    "headline": "Munitions vehicle explodes killing five in Idlib",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-    "seendate": "2026-09-01T19:46:53.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+    "seendate": "2026-09-02T00:00:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Munitions vehicle explodes killing five in Idlib",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-        "seendate": "2026-09-01T19:46:53.000Z",
+        "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+        "seendate": "2026-09-02T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -514,9 +494,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Munitions vehicle explodes killing five in Idlib",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-        "seendate": "2026-09-01T19:46:53.000Z",
+        "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+        "seendate": "2026-09-02T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -557,6 +537,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
+    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+    "seendate": "2026-09-02T04:01:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-02T04:01:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-02T04:01:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
