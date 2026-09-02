@@ -6,15 +6,55 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-02T11:51:46.000Z",
-    "articleCount": 10,
+    "headline": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
+    "seendate": "2026-09-02T15:45:54.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
+      {
+        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
+        "seendate": "2026-09-02T15:45:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
+        "seendate": "2026-09-02T15:45:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+        "seendate": "2026-09-02T14:45:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+        "seendate": "2026-09-02T14:45:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,26 +114,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
-        "url": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
-        "seendate": "2026-09-02T06:35:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
-        "url": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
-        "seendate": "2026-09-02T06:35:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
@@ -127,7 +147,7 @@
     "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
     "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
     "seendate": "2026-08-31T18:16:50.000Z",
-    "articleCount": 10,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -146,26 +166,6 @@
         "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
         "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
         "seendate": "2026-08-31T18:16:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-        "seendate": "2026-08-31T15:42:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-        "seendate": "2026-08-31T15:42:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -235,24 +235,135 @@
     ]
   },
   {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
-    "seendate": "2026-09-02T06:58:13.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+    "seendate": "2026-09-02T17:44:25.000Z",
+    "articleCount": 4,
+    "categories": [
+      "natural-disaster",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-02T17:44:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-02T17:44:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Nepal PM links deadly floods to climate change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+        "seendate": "2026-09-02T15:11:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster",
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Nepal PM links deadly floods to climate change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+        "seendate": "2026-09-02T15:11:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster",
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "New immigration court tactic leads to huge lines and chaos in Miami",
+    "headlineUrl": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+    "seendate": "2026-09-02T16:42:48.000Z",
+    "articleCount": 3,
+    "categories": [
+      "democracy-crisis",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+        "seendate": "2026-09-02T16:42:48.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+        "seendate": "2026-09-02T16:42:48.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+        "seendate": "2026-09-02T16:42:48.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+    "seendate": "2026-09-02T17:10:17.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
-        "url": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
-        "seendate": "2026-09-02T06:58:13.000Z",
+        "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+        "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+        "seendate": "2026-09-02T17:10:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -260,51 +371,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
-        "url": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
-        "seendate": "2026-09-02T06:58:13.000Z",
+        "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+        "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+        "seendate": "2026-09-02T17:10:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Copenhagen",
-    "name": "Copenhagen",
-    "country": "DK",
-    "lat": 55.68,
-    "lon": 12.57,
-    "timezone": "Europe/Copenhagen",
-    "headline": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
-    "seendate": "2026-09-01T19:18:46.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
-        "seendate": "2026-09-01T19:18:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
-        "seendate": "2026-09-01T19:18:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -346,66 +420,39 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-    "seendate": "2026-09-02T12:32:42.000Z",
+    "id": "Copenhagen",
+    "name": "Copenhagen",
+    "country": "DK",
+    "lat": 55.68,
+    "lon": 12.57,
+    "timezone": "Europe/Copenhagen",
+    "headline": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+    "seendate": "2026-09-01T19:18:46.000Z",
     "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-02T12:32:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-02T12:32:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
-    "headlineUrl": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
-    "seendate": "2026-08-30T21:32:27.000Z",
-    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Christie Brinkley and Sailor Brinkley Cook twin in denim at John Mayer&apos;s show in New York",
-        "url": "https://www.foxnews.com/entertainment/christie-brinkley-sailor-brinkley-cook-twin-denim-john-mayer-show-new-york",
-        "seendate": "2026-08-30T21:32:27.000Z",
-        "source_domain": "foxnews.com",
+        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+        "seendate": "2026-09-01T19:18:46.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+        "seendate": "2026-09-01T19:18:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   }
