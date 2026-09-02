@@ -6,9 +6,9 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
-    "seendate": "2026-09-02T15:45:54.000Z",
+    "headline": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+    "seendate": "2026-09-02T21:19:32.000Z",
     "articleCount": 12,
     "categories": [
       "armed-conflict",
@@ -16,9 +16,9 @@
     ],
     "articles": [
       {
-        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
-        "seendate": "2026-09-02T15:45:54.000Z",
+        "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+        "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+        "seendate": "2026-09-02T21:19:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
-        "seendate": "2026-09-02T15:45:54.000Z",
+        "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+        "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+        "seendate": "2026-09-02T21:19:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -36,9 +36,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
-        "seendate": "2026-09-02T14:45:26.000Z",
+        "title": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
+        "url": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss",
+        "seendate": "2026-09-02T19:35:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -46,9 +46,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
-        "seendate": "2026-09-02T14:45:26.000Z",
+        "title": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
+        "url": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss",
+        "seendate": "2026-09-02T19:35:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -138,44 +138,24 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-    "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-    "seendate": "2026-08-31T18:16:50.000Z",
-    "articleCount": 8,
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-02T17:21:00.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T18:16:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T18:16:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T17:21:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -183,9 +163,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T17:21:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -193,9 +173,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T17:21:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -203,9 +183,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T17:21:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -213,9 +193,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T17:21:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -223,74 +203,14 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T17:21:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-    "seendate": "2026-09-02T17:44:25.000Z",
-    "articleCount": 4,
-    "categories": [
-      "natural-disaster",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-02T17:44:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-02T17:44:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nepal PM links deadly floods to climate change",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
-        "seendate": "2026-09-02T15:11:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster",
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nepal PM links deadly floods to climate change",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
-        "seendate": "2026-09-02T15:11:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster",
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -346,43 +266,6 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
-    "seendate": "2026-09-02T17:10:17.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-        "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
-        "seendate": "2026-09-02T17:10:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-        "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
-        "seendate": "2026-09-02T17:10:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
@@ -420,6 +303,43 @@
     ]
   },
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+    "seendate": "2026-09-02T17:44:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-02T17:44:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-02T17:44:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Copenhagen",
     "name": "Copenhagen",
     "country": "DK",
@@ -448,6 +368,43 @@
         "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
         "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
         "seendate": "2026-09-01T19:18:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+    "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+    "seendate": "2026-08-31T18:16:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+        "seendate": "2026-08-31T18:16:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+        "seendate": "2026-08-31T18:16:50.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
