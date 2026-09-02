@@ -1,198 +1,101 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-01T10:30:55.000Z",
-    "articleCount": 16,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:30:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:30:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:30:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:30:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:30:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:30:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T18:16:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T18:16:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-        "seendate": "2026-08-31T15:42:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-        "seendate": "2026-08-31T15:42:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-29T13:55:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-    "seendate": "2026-09-02T03:27:13.000Z",
-    "articleCount": 12,
+    "headline": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-02T11:51:46.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T11:51:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T11:51:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T11:51:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T11:51:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T11:51:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-02T11:51:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
+        "url": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
+        "seendate": "2026-09-02T06:35:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
+        "url": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
+        "seendate": "2026-09-02T06:35:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
         "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
         "seendate": "2026-09-02T03:27:13.000Z",
@@ -211,128 +114,68 @@
           "humanitarian"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-        "seendate": "2026-09-01T20:59:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-        "seendate": "2026-09-01T20:59:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
-        "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
-        "seendate": "2026-09-01T20:40:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
-        "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
-        "seendate": "2026-09-01T20:40:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T20:24:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T20:24:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T20:24:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T20:24:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T20:24:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T20:24:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "San Diego",
-    "name": "San Diego",
-    "country": "US",
-    "lat": 32.72,
-    "lon": -117.16,
-    "timezone": "America/Los_Angeles",
-    "headline": "Teen girl charged with murder over recording of San Diego mosque attack",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-01T10:26:50.000Z",
-    "articleCount": 6,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+    "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+    "seendate": "2026-08-31T18:16:50.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-        "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:26:50.000Z",
+        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+        "seendate": "2026-08-31T18:16:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+        "seendate": "2026-08-31T18:16:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+        "seendate": "2026-08-31T15:42:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+        "seendate": "2026-08-31T15:42:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T13:55:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -340,9 +183,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-        "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:26:50.000Z",
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T13:55:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -350,9 +193,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-        "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:26:50.000Z",
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T13:55:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -360,9 +203,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-        "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:26:50.000Z",
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T13:55:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -370,9 +213,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-        "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:26:50.000Z",
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T13:55:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -380,9 +223,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-        "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-01T10:26:50.000Z",
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-08-29T13:55:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -392,101 +235,24 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Festival honouring Dolly Parton set for Nashville and London",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-08-31T18:58:35.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Festival honouring Dolly Parton set for Nashville and London",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T18:58:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Festival honouring Dolly Parton set for Nashville and London",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T18:58:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Festival honouring Dolly Parton set for Nashville and London",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T18:58:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Festival honouring Dolly Parton set for Nashville and London",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T18:58:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Festival honouring Dolly Parton set for Nashville and London",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T18:58:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Festival honouring Dolly Parton set for Nashville and London",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-08-31T18:58:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-    "seendate": "2026-09-02T00:00:00.000Z",
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
+    "seendate": "2026-09-02T06:58:13.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-        "seendate": "2026-09-02T00:00:00.000Z",
+        "title": "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
+        "url": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
+        "seendate": "2026-09-02T06:58:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -494,9 +260,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-        "seendate": "2026-09-02T00:00:00.000Z",
+        "title": "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
+        "url": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
+        "seendate": "2026-09-02T06:58:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -543,24 +309,61 @@
     ]
   },
   {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
+    "headlineUrl": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
+    "seendate": "2026-09-02T08:55:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
+        "seendate": "2026-09-02T08:55:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
+        "seendate": "2026-09-02T08:55:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
+    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
     "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-    "seendate": "2026-09-02T04:01:04.000Z",
+    "seendate": "2026-09-02T12:32:42.000Z",
     "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
         "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-02T04:01:04.000Z",
+        "seendate": "2026-09-02T12:32:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -568,9 +371,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
         "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-02T04:01:04.000Z",
+        "seendate": "2026-09-02T12:32:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
