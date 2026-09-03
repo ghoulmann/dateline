@@ -1,14 +1,91 @@
 [
   {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "El Nino: A phenomenon supercharged by climate change",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+    "seendate": "2026-09-03T21:09:39.000Z",
+    "articleCount": 6,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "El Nino: A phenomenon supercharged by climate change",
+        "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+        "seendate": "2026-09-03T21:09:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "El Nino: A phenomenon supercharged by climate change",
+        "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+        "seendate": "2026-09-03T21:09:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Is Nepal leading the battle for climate justice?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+        "seendate": "2026-09-03T18:58:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Is Nepal leading the battle for climate justice?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+        "seendate": "2026-09-03T18:58:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-03T12:47:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-03T12:47:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza farmers restore seed bank to preserve local crops",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-    "seendate": "2026-09-03T17:50:48.000Z",
+    "headline": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+    "seendate": "2026-09-03T20:31:08.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict",
@@ -16,9 +93,9 @@
     ],
     "articles": [
       {
-        "title": "Gaza farmers restore seed bank to preserve local crops",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-        "seendate": "2026-09-03T17:50:48.000Z",
+        "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+        "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+        "seendate": "2026-09-03T20:31:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +103,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza farmers restore seed bank to preserve local crops",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-        "seendate": "2026-09-03T17:50:48.000Z",
+        "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+        "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+        "seendate": "2026-09-03T20:31:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -36,9 +113,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
-        "url": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
-        "seendate": "2026-09-03T16:45:21.000Z",
+        "title": "Gaza farmers restore seed bank to preserve local crops",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
+        "seendate": "2026-09-03T17:50:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -46,9 +123,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
-        "url": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
-        "seendate": "2026-09-03T16:45:21.000Z",
+        "title": "Gaza farmers restore seed bank to preserve local crops",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
+        "seendate": "2026-09-03T17:50:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -74,137 +151,6 @@
           "humanitarian"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Is Nepal leading the battle for climate justice?",
-    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
-    "seendate": "2026-09-03T18:58:05.000Z",
-    "articleCount": 4,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Is Nepal leading the battle for climate justice?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
-        "seendate": "2026-09-03T18:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Is Nepal leading the battle for climate justice?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
-        "seendate": "2026-09-03T18:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-03T12:47:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-03T12:47:02.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid’s Raul Asencio acquitted in sex-tape sharing case",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/3/real-madrids-raul-asencio-acquitted-in-sex-tape-sharing-case?traffic_source=rss",
-    "seendate": "2026-09-03T16:34:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid’s Raul Asencio acquitted in sex-tape sharing case",
-        "url": "https://www.aljazeera.com/sports/2026/9/3/real-madrids-raul-asencio-acquitted-in-sex-tape-sharing-case?traffic_source=rss",
-        "seendate": "2026-09-03T16:34:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid’s Raul Asencio acquitted in sex-tape sharing case",
-        "url": "https://www.aljazeera.com/sports/2026/9/3/real-madrids-raul-asencio-acquitted-in-sex-tape-sharing-case?traffic_source=rss",
-        "seendate": "2026-09-03T16:34:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Students sing ‘Erase Palestine’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/3/jerusalem-daily-students-sing-erase?traffic_source=rss",
-    "seendate": "2026-09-03T15:32:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Students sing ‘Erase Palestine’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/jerusalem-daily-students-sing-erase?traffic_source=rss",
-        "seendate": "2026-09-03T15:32:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Students sing ‘Erase Palestine’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/jerusalem-daily-students-sing-erase?traffic_source=rss",
-        "seendate": "2026-09-03T15:32:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -215,14 +161,34 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-    "seendate": "2026-09-03T14:41:56.000Z",
-    "articleCount": 2,
+    "headline": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
+    "seendate": "2026-09-03T20:44:49.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
+        "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
+        "seendate": "2026-09-03T20:44:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
+        "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
+        "seendate": "2026-09-03T20:44:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
         "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
@@ -237,6 +203,80 @@
         "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
         "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
         "seendate": "2026-09-03T14:41:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
+    "seendate": "2026-09-03T20:00:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
+        "seendate": "2026-09-03T20:00:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
+        "seendate": "2026-09-03T20:00:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+    "headlineUrl": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+    "seendate": "2026-09-03T21:12:44.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+        "seendate": "2026-09-03T21:12:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+        "seendate": "2026-09-03T21:12:44.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
