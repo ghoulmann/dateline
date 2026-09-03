@@ -6,94 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-    "seendate": "2026-09-02T21:19:32.000Z",
-    "articleCount": 10,
+    "headline": "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss",
+    "seendate": "2026-09-03T11:21:59.000Z",
+    "articleCount": 4,
     "categories": [
-      "armed-conflict",
+      "political-repression",
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-        "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-        "seendate": "2026-09-02T21:19:32.000Z",
+        "title": "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
+        "url": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss",
+        "seendate": "2026-09-03T11:21:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-        "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-        "seendate": "2026-09-02T21:19:32.000Z",
+        "title": "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
+        "url": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss",
+        "seendate": "2026-09-03T11:21:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T11:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T11:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T11:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T11:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T11:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T11:51:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       },
       {
         "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
@@ -114,134 +54,6 @@
           "humanitarian"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-02T17:21:00.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T17:21:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T17:21:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T17:21:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T17:21:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T17:21:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-02T17:21:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "New immigration court tactic leads to huge lines and chaos in Miami",
-    "headlineUrl": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-    "seendate": "2026-09-02T16:42:48.000Z",
-    "articleCount": 3,
-    "categories": [
-      "democracy-crisis",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-        "seendate": "2026-09-02T16:42:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "democracy-crisis",
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-        "seendate": "2026-09-02T16:42:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "democracy-crisis",
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-        "seendate": "2026-09-02T16:42:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "democracy-crisis",
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -254,7 +66,7 @@
     "timezone": "Asia/Hong_Kong",
     "headline": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
     "headlineUrl": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-    "seendate": "2026-09-02T08:55:25.000Z",
+    "seendate": "2026-09-03T04:35:07.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -263,7 +75,7 @@
       {
         "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
         "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-        "seendate": "2026-09-02T08:55:25.000Z",
+        "seendate": "2026-09-03T04:35:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -273,7 +85,7 @@
       {
         "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
         "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-        "seendate": "2026-09-02T08:55:25.000Z",
+        "seendate": "2026-09-03T04:35:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -348,43 +160,6 @@
         "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
         "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
         "seendate": "2026-09-01T19:18:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-    "headlineUrl": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-    "seendate": "2026-08-31T18:16:50.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T18:16:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-        "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-        "seendate": "2026-08-31T18:16:50.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
