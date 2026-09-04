@@ -1,5 +1,139 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-04T16:30:50.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-04T16:30:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-04T16:30:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-04T16:30:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-04T16:30:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-04T16:30:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-04T16:30:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+        "seendate": "2026-09-03T14:41:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+        "seendate": "2026-09-03T14:41:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
+    "seendate": "2026-09-04T15:24:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+        "url": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
+        "seendate": "2026-09-04T15:24:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+        "url": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
+        "seendate": "2026-09-04T15:24:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -31,117 +165,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-    "seendate": "2026-09-03T14:41:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-        "seendate": "2026-09-03T14:41:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-        "seendate": "2026-09-03T14:41:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
-    "headlineUrl": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-    "seendate": "2026-09-03T04:35:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
-        "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-        "seendate": "2026-09-03T04:35:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
-        "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-        "seendate": "2026-09-03T04:35:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-    "seendate": "2026-09-03T12:47:03.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-03T12:47:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-03T12:47:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
