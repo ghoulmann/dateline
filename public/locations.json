@@ -1,136 +1,5 @@
 [
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "El Nino: A phenomenon supercharged by climate change",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
-    "seendate": "2026-09-03T21:09:39.000Z",
-    "articleCount": 4,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "El Nino: A phenomenon supercharged by climate change",
-        "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
-        "seendate": "2026-09-03T21:09:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "El Nino: A phenomenon supercharged by climate change",
-        "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
-        "seendate": "2026-09-03T21:09:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-03T12:47:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-        "seendate": "2026-09-03T12:47:03.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia’s top court upholds conviction of opposition figures, activists",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-    "seendate": "2026-09-03T23:23:26.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-        "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-        "seendate": "2026-09-03T23:23:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-        "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-        "seendate": "2026-09-03T23:23:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "DR Congo joins countries pledging embassy move to Jerusalem",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-    "seendate": "2026-09-03T23:05:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "DR Congo joins countries pledging embassy move to Jerusalem",
-        "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-        "seendate": "2026-09-03T23:05:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "DR Congo joins countries pledging embassy move to Jerusalem",
-        "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-        "seendate": "2026-09-03T23:05:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -242,74 +111,37 @@
     ]
   },
   {
-    "id": "Copenhagen",
-    "name": "Copenhagen",
-    "country": "DK",
-    "lat": 55.68,
-    "lon": 12.57,
-    "timezone": "Europe/Copenhagen",
-    "headline": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
-    "seendate": "2026-09-01T19:18:46.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+    "headlineUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+    "seendate": "2026-09-03T12:47:03.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
-        "seendate": "2026-09-01T19:18:46.000Z",
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-03T12:47:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-        "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
-        "seendate": "2026-09-01T19:18:46.000Z",
+        "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+        "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+        "seendate": "2026-09-03T12:47:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-    "seendate": "2026-09-02T03:27:13.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-02T03:27:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-02T03:27:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
