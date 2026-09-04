@@ -8,7 +8,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-04T16:30:50.000Z",
+    "seendate": "2026-09-04T20:03:52.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
@@ -17,7 +17,7 @@
       {
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-04T16:30:50.000Z",
+        "seendate": "2026-09-04T20:03:52.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -27,7 +27,7 @@
       {
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-04T16:30:50.000Z",
+        "seendate": "2026-09-04T20:03:52.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -37,7 +37,7 @@
       {
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-04T16:30:50.000Z",
+        "seendate": "2026-09-04T20:03:52.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -47,7 +47,7 @@
       {
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-04T16:30:50.000Z",
+        "seendate": "2026-09-04T20:03:52.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -57,7 +57,7 @@
       {
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-04T16:30:50.000Z",
+        "seendate": "2026-09-04T20:03:52.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -67,7 +67,7 @@
       {
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-04T16:30:50.000Z",
+        "seendate": "2026-09-04T20:03:52.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -97,24 +97,61 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "US rejects Israeli suggestions of removing Palestinians from Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
-    "seendate": "2026-09-04T15:24:13.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+    "seendate": "2026-09-04T21:58:47.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+        "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+        "seendate": "2026-09-04T21:58:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+        "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+        "seendate": "2026-09-04T21:58:47.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+    "seendate": "2026-09-04T21:37:56.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
-        "seendate": "2026-09-04T15:24:13.000Z",
+        "title": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+        "url": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+        "seendate": "2026-09-04T21:37:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -122,9 +159,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
-        "seendate": "2026-09-04T15:24:13.000Z",
+        "title": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+        "url": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+        "seendate": "2026-09-04T21:37:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -142,7 +179,7 @@
     "timezone": "Europe/Moscow",
     "headline": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
     "headlineUrl": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-    "seendate": "2026-09-03T21:12:44.000Z",
+    "seendate": "2026-09-04T21:22:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -151,7 +188,7 @@
       {
         "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
         "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-        "seendate": "2026-09-03T21:12:44.000Z",
+        "seendate": "2026-09-04T21:22:29.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -161,12 +198,39 @@
       {
         "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
         "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-        "seendate": "2026-09-03T21:12:44.000Z",
+        "seendate": "2026-09-04T21:22:29.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
+    "headlineUrl": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
+    "seendate": "2026-09-04T20:57:32.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
+        "url": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
+        "seendate": "2026-09-04T20:57:32.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
