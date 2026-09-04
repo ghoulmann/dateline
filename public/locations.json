@@ -9,7 +9,7 @@
     "headline": "El Nino: A phenomenon supercharged by climate change",
     "headlineUrl": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
     "seendate": "2026-09-03T21:09:39.000Z",
-    "articleCount": 6,
+    "articleCount": 4,
     "categories": [
       "climate-watch"
     ],
@@ -35,26 +35,6 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Is Nepal leading the battle for climate justice?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
-        "seendate": "2026-09-03T18:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Is Nepal leading the battle for climate justice?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
-        "seendate": "2026-09-03T18:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
         "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
         "seendate": "2026-09-03T12:47:03.000Z",
@@ -77,159 +57,61 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
-    "seendate": "2026-09-03T20:31:08.000Z",
-    "articleCount": 6,
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia’s top court upholds conviction of opposition figures, activists",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
+    "seendate": "2026-09-03T23:23:26.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict",
-      "humanitarian"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-        "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
-        "seendate": "2026-09-03T20:31:08.000Z",
+        "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
+        "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
+        "seendate": "2026-09-03T23:23:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-        "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
-        "seendate": "2026-09-03T20:31:08.000Z",
+        "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
+        "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
+        "seendate": "2026-09-03T23:23:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza farmers restore seed bank to preserve local crops",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-        "seendate": "2026-09-03T17:50:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza farmers restore seed bank to preserve local crops",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-        "seendate": "2026-09-03T17:50:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-02T03:27:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "seendate": "2026-09-02T03:27:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
-    "seendate": "2026-09-03T20:44:49.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
-        "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
-        "seendate": "2026-09-03T20:44:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
-        "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
-        "seendate": "2026-09-03T20:44:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-        "seendate": "2026-09-03T14:41:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-        "seendate": "2026-09-03T14:41:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
-    "seendate": "2026-09-03T20:00:02.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "DR Congo joins countries pledging embassy move to Jerusalem",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+    "seendate": "2026-09-03T23:05:12.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
-        "seendate": "2026-09-03T20:00:02.000Z",
+        "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+        "seendate": "2026-09-03T23:05:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -237,9 +119,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
-        "seendate": "2026-09-03T20:00:02.000Z",
+        "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+        "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+        "seendate": "2026-09-03T23:05:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -277,6 +159,43 @@
         "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
         "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
         "seendate": "2026-09-03T21:12:44.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+    "headlineUrl": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+    "seendate": "2026-09-03T14:41:56.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+        "seendate": "2026-09-03T14:41:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+        "seendate": "2026-09-03T14:41:56.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -354,6 +273,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+    "seendate": "2026-09-02T03:27:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-02T03:27:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "seendate": "2026-09-02T03:27:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
         ],
         "source_category": "democracy-crisis"
       }
