@@ -1,103 +1,110 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-06T15:32:27.000Z",
-    "articleCount": 13,
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Amazon cargo plane crashes in US while landing at Miami airport",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+    "seendate": "2026-09-06T21:11:01.000Z",
+    "articleCount": 7,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T15:32:27.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+        "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+        "seendate": "2026-09-06T21:11:01.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T15:32:27.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+        "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+        "seendate": "2026-09-06T21:11:01.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T15:32:27.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Amazon Prime plane overruns runway at Miami Airport",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+        "seendate": "2026-09-06T21:08:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Amazon Prime plane overruns runway at Miami Airport",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+        "seendate": "2026-09-06T21:08:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+        "seendate": "2026-09-06T19:54:28.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T15:32:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T15:32:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T15:32:27.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+        "seendate": "2026-09-06T19:54:28.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
-        "seendate": "2026-09-06T15:32:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+        "seendate": "2026-09-06T19:54:28.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
-        "seendate": "2026-09-06T15:32:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+    "headlineUrl": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+    "seendate": "2026-09-06T19:30:37.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
         "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
         "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T14:59:53.000Z",
+        "seendate": "2026-09-06T19:30:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -107,7 +114,7 @@
       {
         "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
         "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T14:59:53.000Z",
+        "seendate": "2026-09-06T19:30:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -143,63 +150,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-    "seendate": "2026-09-06T13:15:46.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-        "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-        "seendate": "2026-09-06T13:15:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-        "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-        "seendate": "2026-09-06T13:15:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-        "seendate": "2026-09-06T13:13:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-        "seendate": "2026-09-06T13:13:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
