@@ -1,5 +1,150 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+    "seendate": "2026-09-06T11:13:50.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+        "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+        "seendate": "2026-09-06T11:13:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+        "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+        "seendate": "2026-09-06T11:13:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+        "url": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+        "seendate": "2026-09-06T10:42:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+        "url": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+        "seendate": "2026-09-06T10:42:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+        "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+        "seendate": "2026-09-06T01:02:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+        "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+        "seendate": "2026-09-06T01:02:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Trump Envoys Make First Visit to Kyiv",
+    "headlineUrl": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+    "seendate": "2026-09-06T11:06:08.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump Envoys Make First Visit to Kyiv",
+        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+        "seendate": "2026-09-06T11:06:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump Envoys Make First Visit to Kyiv",
+        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+        "seendate": "2026-09-06T11:06:08.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "seendate": "2026-09-06T09:51:04.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "seendate": "2026-09-06T09:51:04.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "seendate": "2026-09-06T09:51:04.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -9,7 +154,7 @@
     "headline": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
     "headlineUrl": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
     "seendate": "2026-09-06T02:49:50.000Z",
-    "articleCount": 13,
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
@@ -35,114 +180,71 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T02:24:16.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+        "seendate": "2026-09-04T21:22:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+        "seendate": "2026-09-04T21:22:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "South Africa’s chrome riches fuel a deadly underground economy",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+    "seendate": "2026-09-06T04:31:45.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "South Africa’s chrome riches fuel a deadly underground economy",
+        "url": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+        "seendate": "2026-09-06T04:31:45.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T02:24:16.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "South Africa’s chrome riches fuel a deadly underground economy",
+        "url": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+        "seendate": "2026-09-06T04:31:45.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T02:24:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T02:24:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T02:24:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-06T02:24:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-        "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-        "seendate": "2026-09-05T11:08:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-        "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-        "seendate": "2026-09-05T11:08:57.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-        "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-        "seendate": "2026-09-05T11:08:57.000Z",
-        "source_domain": "npr.org",
+        "title": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
+        "url": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
+        "seendate": "2026-09-04T20:57:32.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-        "seendate": "2026-09-04T21:22:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-        "seendate": "2026-09-04T21:22:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -186,184 +288,6 @@
         "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
         "seendate": "2026-09-05T21:01:10.000Z",
         "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-    "seendate": "2026-09-06T01:02:08.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-        "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-        "seendate": "2026-09-06T01:02:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-        "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-        "seendate": "2026-09-06T01:02:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: raids, settlers &amp; sieges",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-    "seendate": "2026-09-05T19:37:10.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict",
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: raids, settlers &amp; sieges",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-        "seendate": "2026-09-05T19:37:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict",
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: raids, settlers &amp; sieges",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-        "seendate": "2026-09-05T19:37:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict",
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Shoppers interact with Hong Kong’s first robot shopkeeper",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
-    "seendate": "2026-09-05T18:57:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
-        "seendate": "2026-09-05T18:57:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
-        "seendate": "2026-09-05T18:57:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-    "seendate": "2026-09-03T14:41:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-        "seendate": "2026-09-03T14:41:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
-        "seendate": "2026-09-03T14:41:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
-    "headlineUrl": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
-    "seendate": "2026-09-04T20:57:32.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
-        "url": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
-        "seendate": "2026-09-04T20:57:32.000Z",
-        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
