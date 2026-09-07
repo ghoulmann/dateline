@@ -6,16 +6,76 @@
     "lat": 25.76,
     "lon": -80.19,
     "timezone": "America/New_York",
-    "headline": "Amazon cargo plane crashes in US while landing at Miami airport",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-    "seendate": "2026-09-06T21:11:01.000Z",
-    "articleCount": 7,
+    "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-07T00:57:38.000Z",
+    "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T00:57:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T00:57:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T00:57:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T00:57:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T00:57:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T00:57:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "At least five killed after Amazon cargo plane crash in Miami airport",
         "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
         "seendate": "2026-09-06T21:11:01.000Z",
         "source_domain": "aljazeera.com",
@@ -25,7 +85,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+        "title": "At least five killed after Amazon cargo plane crash in Miami airport",
         "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
         "seendate": "2026-09-06T21:11:01.000Z",
         "source_domain": "aljazeera.com",
@@ -95,7 +155,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
     "headlineUrl": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-    "seendate": "2026-09-06T19:30:37.000Z",
+    "seendate": "2026-09-06T22:18:56.000Z",
     "articleCount": 5,
     "categories": [
       "armed-conflict"
@@ -104,7 +164,7 @@
       {
         "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
         "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T19:30:37.000Z",
+        "seendate": "2026-09-06T22:18:56.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -114,7 +174,7 @@
       {
         "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
         "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T19:30:37.000Z",
+        "seendate": "2026-09-06T22:18:56.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -197,6 +257,80 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Eight-year-old Gaza girl killed by Israel on first day of school",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+    "seendate": "2026-09-07T02:17:17.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+        "seendate": "2026-09-07T02:17:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+        "seendate": "2026-09-07T02:17:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+    "seendate": "2026-09-07T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+        "seendate": "2026-09-07T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+        "seendate": "2026-09-07T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
