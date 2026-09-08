@@ -1,5 +1,153 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+    "seendate": "2026-09-08T03:08:28.000Z",
+    "articleCount": 13,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+        "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+        "seendate": "2026-09-08T03:08:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+        "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+        "seendate": "2026-09-08T03:08:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T07:03:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T07:03:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T07:03:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T07:03:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T07:03:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T07:03:44.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+        "seendate": "2026-09-06T22:18:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+        "seendate": "2026-09-06T22:18:56.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "seendate": "2026-09-06T09:51:04.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "seendate": "2026-09-06T09:51:04.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "seendate": "2026-09-06T09:51:04.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Miami",
     "name": "Miami",
     "country": "US",
@@ -106,7 +254,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
+        "title": "Scene at Miami airport where five died described as &apos;utter devastation&apos;",
         "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "seendate": "2026-09-06T19:54:28.000Z",
         "source_domain": "npr.org",
@@ -116,7 +264,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
+        "title": "Scene at Miami airport where five died described as &apos;utter devastation&apos;",
         "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "seendate": "2026-09-06T19:54:28.000Z",
         "source_domain": "npr.org",
@@ -126,7 +274,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
+        "title": "Scene at Miami airport where five died described as &apos;utter devastation&apos;",
         "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "seendate": "2026-09-06T19:54:28.000Z",
         "source_domain": "npr.org",
@@ -138,130 +286,39 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-07T07:03:44.000Z",
-    "articleCount": 11,
+    "id": "Sanaa",
+    "name": "Sanaa",
+    "country": "YE",
+    "lat": 15.36,
+    "lon": 48.22,
+    "timezone": "Asia/Aden",
+    "headline": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+    "seendate": "2026-09-08T03:01:38.000Z",
+    "articleCount": 2,
     "categories": [
-      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T07:03:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+        "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+        "seendate": "2026-09-08T03:01:38.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T07:03:44.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+        "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+        "seendate": "2026-09-08T03:01:38.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T07:03:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T07:03:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T07:03:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T07:03:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T22:18:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T22:18:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
-        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-        "seendate": "2026-09-06T09:51:04.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
-        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-        "seendate": "2026-09-06T09:51:04.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
-        "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-        "seendate": "2026-09-06T09:51:04.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -275,92 +332,15 @@
     "headline": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
     "headlineUrl": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
     "seendate": "2026-09-07T21:00:58.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-        "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-        "seendate": "2026-09-07T21:00:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-        "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-        "seendate": "2026-09-07T21:00:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza: Genocide in Real Time?",
-        "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-        "seendate": "2026-09-07T17:23:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza: Genocide in Real Time?",
-        "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-        "seendate": "2026-09-07T17:23:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Kosovo signs up to US-led Gaza stabilisation force",
-        "url": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss",
-        "seendate": "2026-09-07T16:52:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kosovo signs up to US-led Gaza stabilisation force",
-        "url": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss",
-        "seendate": "2026-09-07T16:52:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Nauru opens embassy in Jerusalem",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
-    "seendate": "2026-09-07T17:36:05.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Nauru opens embassy in Jerusalem",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
-        "seendate": "2026-09-07T17:36:05.000Z",
+        "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+        "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+        "seendate": "2026-09-07T21:00:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -368,9 +348,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Nauru opens embassy in Jerusalem",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
-        "seendate": "2026-09-07T17:36:05.000Z",
+        "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+        "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+        "seendate": "2026-09-07T21:00:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -435,33 +415,6 @@
         "title": "&apos;Happy Days&apos; star Linda Purl steps out in Los Angeles during 71st birthday week",
         "url": "https://www.foxnews.com/entertainment/happy-days-star-linda-purl-steps-out-los-angeles-during-71st-birthday-week",
         "seendate": "2026-09-07T17:00:16.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
-    "headlineUrl": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
-    "seendate": "2026-09-04T20:57:32.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Emily Ratajkowski and boyfriend Romain Gavras share passionate kiss on vacation in Rome",
-        "url": "https://www.foxnews.com/entertainment/emily-ratajkowski-boyfriend-romain-gavras-share-passionate-kiss-vacation-rome",
-        "seendate": "2026-09-04T20:57:32.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
