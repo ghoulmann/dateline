@@ -97,44 +97,113 @@
     ]
   },
   {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "US court denies Tate brothers’ bid to be released from Miami jail",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+    "seendate": "2026-09-09T21:28:16.000Z",
+    "articleCount": 5,
+    "categories": [
+      "democracy-crisis",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US court denies Tate brothers’ bid to be released from Miami jail",
+        "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+        "seendate": "2026-09-09T21:28:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US court denies Tate brothers’ bid to be released from Miami jail",
+        "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+        "seendate": "2026-09-09T21:28:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+        "seendate": "2026-09-09T09:09:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+        "seendate": "2026-09-09T09:09:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+        "seendate": "2026-09-09T09:09:32.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
-    "seendate": "2026-09-09T18:40:38.000Z",
+    "headline": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
+    "seendate": "2026-09-09T19:37:47.000Z",
     "articleCount": 4,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-        "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
-        "seendate": "2026-09-09T18:40:38.000Z",
+        "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
+        "seendate": "2026-09-09T19:37:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-        "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
-        "seendate": "2026-09-09T18:40:38.000Z",
+        "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
+        "seendate": "2026-09-09T19:37:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Gaza students with overseas university offers, scholarships remain trapped",
-        "url": "https://www.aljazeera.com/news/2026/9/9/gaza-students-with-overseas-university-offers-scholarships-remain-trapped?traffic_source=rss",
-        "seendate": "2026-09-09T15:18:14.000Z",
+        "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
+        "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
+        "seendate": "2026-09-09T18:40:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -142,9 +211,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza students with overseas university offers, scholarships remain trapped",
-        "url": "https://www.aljazeera.com/news/2026/9/9/gaza-students-with-overseas-university-offers-scholarships-remain-trapped?traffic_source=rss",
-        "seendate": "2026-09-09T15:18:14.000Z",
+        "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
+        "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
+        "seendate": "2026-09-09T18:40:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -201,49 +270,39 @@
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-    "headlineUrl": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-    "seendate": "2026-09-09T09:09:32.000Z",
-    "articleCount": 3,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+    "seendate": "2026-09-09T21:14:20.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-        "seendate": "2026-09-09T09:09:32.000Z",
-        "source_domain": "npr.org",
+        "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+        "url": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+        "seendate": "2026-09-09T21:14:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-        "seendate": "2026-09-09T09:09:32.000Z",
-        "source_domain": "npr.org",
+        "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+        "url": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+        "seendate": "2026-09-09T21:14:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-        "seendate": "2026-09-09T09:09:32.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -276,80 +335,6 @@
         "title": "Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says",
         "url": "https://www.aljazeera.com/news/2026/9/9/zelenskyys-plane-almost-hit-by-drone-on-way-to-oslo-norwegian-pm-says?traffic_source=rss",
         "seendate": "2026-09-09T18:36:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "LIVE: Liverpool vs Atletico Madrid – Champions League",
-    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss",
-    "seendate": "2026-09-09T16:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "LIVE: Liverpool vs Atletico Madrid – Champions League",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss",
-        "seendate": "2026-09-09T16:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "LIVE: Liverpool vs Atletico Madrid – Champions League",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss",
-        "seendate": "2026-09-09T16:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss",
-    "seendate": "2026-09-09T15:41:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss",
-        "seendate": "2026-09-09T15:41:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss",
-        "seendate": "2026-09-09T15:41:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
