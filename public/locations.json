@@ -1,160 +1,53 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-    "headlineUrl": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
-    "seendate": "2026-09-08T17:24:39.000Z",
-    "articleCount": 10,
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+    "headlineUrl": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+    "seendate": "2026-09-09T09:09:32.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-        "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
-        "seendate": "2026-09-08T17:24:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-        "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
-        "seendate": "2026-09-08T17:24:39.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T17:10:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T17:10:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T17:10:54.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+        "seendate": "2026-09-09T09:09:32.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T17:10:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T17:10:54.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T17:10:54.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+        "seendate": "2026-09-09T09:09:32.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T22:18:56.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+        "seendate": "2026-09-09T09:09:32.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "culture-wars"
       },
       {
-        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-        "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "seendate": "2026-09-06T22:18:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
-    "seendate": "2026-09-08T23:14:31.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-        "url": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
-        "seendate": "2026-09-08T23:14:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-        "url": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
-        "seendate": "2026-09-08T23:14:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T18:21:40.000Z",
+        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T05:37:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,9 +55,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T18:21:40.000Z",
+        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T05:37:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -172,9 +65,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T18:21:40.000Z",
+        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T05:37:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -182,9 +75,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T18:21:40.000Z",
+        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T05:37:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -192,9 +85,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T18:21:40.000Z",
+        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T05:37:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -202,9 +95,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-08T18:21:40.000Z",
+        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-07T05:37:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -220,18 +113,18 @@
     "lat": 22.3,
     "lon": 114.18,
     "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong's first post-colonial leader dies aged 89",
+    "headline": "Hong Kong's first leader after British handover dies",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-09T03:09:59.000Z",
+    "seendate": "2026-09-09T04:24:30.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong's first post-colonial leader dies aged 89",
+        "title": "Hong Kong's first leader after British handover dies",
         "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-09T03:09:59.000Z",
+        "seendate": "2026-09-09T04:24:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -239,9 +132,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hong Kong's first post-colonial leader dies aged 89",
+        "title": "Hong Kong's first leader after British handover dies",
         "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-09T03:09:59.000Z",
+        "seendate": "2026-09-09T04:24:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -249,9 +142,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Hong Kong's first post-colonial leader dies aged 89",
+        "title": "Hong Kong's first leader after British handover dies",
         "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-09T03:09:59.000Z",
+        "seendate": "2026-09-09T04:24:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -259,9 +152,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Hong Kong's first post-colonial leader dies aged 89",
+        "title": "Hong Kong's first leader after British handover dies",
         "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-09T03:09:59.000Z",
+        "seendate": "2026-09-09T04:24:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -269,9 +162,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Hong Kong's first post-colonial leader dies aged 89",
+        "title": "Hong Kong's first leader after British handover dies",
         "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-09T03:09:59.000Z",
+        "seendate": "2026-09-09T04:24:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -279,9 +172,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Hong Kong's first post-colonial leader dies aged 89",
+        "title": "Hong Kong's first leader after British handover dies",
         "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-09T03:09:59.000Z",
+        "seendate": "2026-09-09T04:24:30.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -311,153 +204,321 @@
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+    "headlineUrl": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+    "seendate": "2026-09-08T17:24:39.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+        "seendate": "2026-09-08T17:24:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+        "seendate": "2026-09-08T17:24:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-08T17:10:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-08T17:10:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-08T17:10:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-08T17:10:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-08T17:10:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-08T17:10:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Oslo",
+    "name": "Oslo",
+    "country": "NO",
+    "lat": 59.91,
+    "lon": 10.75,
+    "timezone": "Europe/Oslo",
+    "headline": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
+    "seendate": "2026-09-09T11:59:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
+        "url": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
+        "seendate": "2026-09-09T11:59:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
+        "url": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
+        "seendate": "2026-09-09T11:59:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Dallas",
+    "name": "Dallas",
     "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Five killed as Amazon cargo plane crashes at Miami airport",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-07T05:37:28.000Z",
-    "articleCount": 6,
+    "lat": 32.78,
+    "lon": -96.8,
+    "timezone": "America/Chicago",
+    "headline": "Republican midterm convention 2026: What to know about Trump’s Dallas event",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event?traffic_source=rss",
+    "seendate": "2026-09-09T11:48:03.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T05:37:28.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Republican midterm convention 2026: What to know about Trump’s Dallas event",
+        "url": "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event?traffic_source=rss",
+        "seendate": "2026-09-09T11:48:03.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T05:37:28.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Republican midterm convention 2026: What to know about Trump’s Dallas event",
+        "url": "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event?traffic_source=rss",
+        "seendate": "2026-09-09T11:48:03.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israel tells UK to close East Jerusalem consulate within 30 days",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+    "seendate": "2026-09-09T10:09:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T05:37:28.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+        "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+        "seendate": "2026-09-09T10:09:06.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T05:37:28.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+        "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+        "seendate": "2026-09-09T10:09:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
+    "seendate": "2026-09-09T08:39:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
+        "seendate": "2026-09-09T08:39:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
+        "seendate": "2026-09-09T08:39:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+    "headlineUrl": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+    "seendate": "2026-09-09T09:07:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+        "seendate": "2026-09-09T09:07:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+        "seendate": "2026-09-09T09:07:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Singapore’s Prime Minister Gets a Big Raise",
+    "headlineUrl": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html",
+    "seendate": "2026-09-09T10:42:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Singapore’s Prime Minister Gets a Big Raise",
+        "url": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html",
+        "seendate": "2026-09-09T10:42:20.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T05:37:28.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Singapore’s Prime Minister Gets a Big Raise",
+        "url": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html",
+        "seendate": "2026-09-09T10:42:20.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-07T05:37:28.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-    "seendate": "2026-09-09T00:08:37.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-        "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-        "seendate": "2026-09-09T00:08:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-        "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-        "seendate": "2026-09-09T00:08:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-    "seendate": "2026-09-08T22:34:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
-        "url": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-        "seendate": "2026-09-08T22:34:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
-        "url": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-        "seendate": "2026-09-08T22:34:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
