@@ -1,90 +1,23 @@
 [
   {
-    "id": "Dallas",
-    "name": "Dallas",
-    "country": "US",
-    "lat": 32.78,
-    "lon": -96.8,
-    "timezone": "America/Chicago",
-    "headline": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
-    "seendate": "2026-09-10T21:31:03.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
-        "seendate": "2026-09-10T21:31:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
-        "seendate": "2026-09-10T21:31:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-        "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-        "seendate": "2026-09-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-        "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-        "seendate": "2026-09-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-        "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-        "seendate": "2026-09-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza hospitals ration power as fuel shortages deepen",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-    "seendate": "2026-09-10T21:17:09.000Z",
+    "headline": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+    "seendate": "2026-09-11T00:14:59.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza hospitals ration power as fuel shortages deepen",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-        "seendate": "2026-09-10T21:17:09.000Z",
+        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+        "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+        "seendate": "2026-09-11T00:14:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -92,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza hospitals ration power as fuel shortages deepen",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-        "seendate": "2026-09-10T21:17:09.000Z",
+        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+        "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+        "seendate": "2026-09-11T00:14:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -102,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Family of four killed as they slept in Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
-        "seendate": "2026-09-10T17:32:28.000Z",
+        "title": "Gaza hospitals ration power as fuel shortages deepen",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
+        "seendate": "2026-09-10T21:17:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -112,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Family of four killed as they slept in Israeli strike on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
-        "seendate": "2026-09-10T17:32:28.000Z",
+        "title": "Gaza hospitals ration power as fuel shortages deepen",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
+        "seendate": "2026-09-10T21:17:09.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -124,59 +57,39 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
-    "seendate": "2026-09-10T17:41:52.000Z",
-    "articleCount": 4,
+    "id": "Dallas",
+    "name": "Dallas",
+    "country": "US",
+    "lat": 32.78,
+    "lon": -96.8,
+    "timezone": "America/Chicago",
+    "headline": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+    "seendate": "2026-09-11T03:33:08.000Z",
+    "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
-        "url": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
-        "seendate": "2026-09-10T17:41:52.000Z",
+        "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+        "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+        "seendate": "2026-09-11T03:33:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
-        "url": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
-        "seendate": "2026-09-10T17:41:52.000Z",
+        "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+        "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+        "seendate": "2026-09-11T03:33:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
-        "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
-        "seendate": "2026-09-09T22:35:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
-        "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
-        "seendate": "2026-09-09T22:35:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -286,6 +199,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+    "headlineUrl": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+    "seendate": "2026-09-09T22:35:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+        "seendate": "2026-09-09T22:35:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+        "seendate": "2026-09-09T22:35:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
