@@ -1,43 +1,295 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
-    "seendate": "2026-09-11T00:14:59.000Z",
-    "articleCount": 4,
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+    "headlineUrl": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+    "seendate": "2026-09-11T09:17:46.000Z",
+    "articleCount": 10,
     "categories": [
+      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-        "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
-        "seendate": "2026-09-11T00:14:59.000Z",
+        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+        "seendate": "2026-09-11T09:17:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+        "seendate": "2026-09-11T09:17:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
+        "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
+        "seendate": "2026-09-11T08:00:28.000Z",
         "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
+        "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
+        "seendate": "2026-09-11T08:00:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T05:41:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-        "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
-        "seendate": "2026-09-11T00:14:59.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T05:41:54.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Gaza hospitals ration power as fuel shortages deepen",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-        "seendate": "2026-09-10T21:17:09.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T05:41:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T05:41:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T05:41:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T05:41:54.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Drone display recreates the Twin Towers over New York City",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-10T14:19:26.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Bern",
+    "name": "Bern",
+    "country": "CH",
+    "lat": 46.95,
+    "lon": 7.45,
+    "timezone": "Europe/Zurich",
+    "headline": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-10T22:48:37.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T22:48:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T22:48:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T22:48:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T22:48:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T22:48:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T22:48:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Pro-Palestine student suspended by King’s College London returns to campus",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
+    "seendate": "2026-09-11T08:22:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Pro-Palestine student suspended by King’s College London returns to campus",
+        "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
+        "seendate": "2026-09-11T08:22:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +297,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza hospitals ration power as fuel shortages deepen",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-        "seendate": "2026-09-10T21:17:09.000Z",
+        "title": "Pro-Palestine student suspended by King’s College London returns to campus",
+        "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
+        "seendate": "2026-09-11T08:22:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -57,24 +309,24 @@
     ]
   },
   {
-    "id": "Dallas",
-    "name": "Dallas",
-    "country": "US",
-    "lat": 32.78,
-    "lon": -96.8,
-    "timezone": "America/Chicago",
-    "headline": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
-    "seendate": "2026-09-11T03:33:08.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
+    "seendate": "2026-09-11T05:25:34.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
-        "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
-        "seendate": "2026-09-11T03:33:08.000Z",
+        "title": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-09-11T05:25:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -82,9 +334,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
-        "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
-        "seendate": "2026-09-11T03:33:08.000Z",
+        "title": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-09-11T05:25:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -236,43 +488,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
-    "headlineUrl": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
-    "seendate": "2026-09-09T02:44:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
-        "url": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
-        "seendate": "2026-09-09T02:44:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
-        "url": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
-        "seendate": "2026-09-09T02:44:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
