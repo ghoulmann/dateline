@@ -1,64 +1,43 @@
 [
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-    "headlineUrl": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-    "seendate": "2026-09-11T09:17:46.000Z",
-    "articleCount": 10,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Four former US presidents mark 25th anniversary of 9/11 in New York City",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/11/four-former-us-presidents-mark-25th-anniversary-of-9-11-in-new-york?traffic_source=rss",
+    "seendate": "2026-09-11T15:33:07.000Z",
+    "articleCount": 8,
     "categories": [
-      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "seendate": "2026-09-11T09:17:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "seendate": "2026-09-11T09:17:46.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
-        "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
-        "seendate": "2026-09-11T08:00:28.000Z",
+        "title": "Four former US presidents mark 25th anniversary of 9/11 in New York City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/four-former-us-presidents-mark-25th-anniversary-of-9-11-in-new-york?traffic_source=rss",
+        "seendate": "2026-09-11T15:33:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
-        "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
-        "seendate": "2026-09-11T08:00:28.000Z",
+        "title": "Four former US presidents mark 25th anniversary of 9/11 in New York City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/four-former-us-presidents-mark-25th-anniversary-of-9-11-in-new-york?traffic_source=rss",
+        "seendate": "2026-09-11T15:33:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T05:41:54.000Z",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -66,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T05:41:54.000Z",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -76,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T05:41:54.000Z",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -86,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T05:41:54.000Z",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -96,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T05:41:54.000Z",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -106,9 +85,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T05:41:54.000Z",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-10T14:19:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -118,24 +97,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Drone display recreates the Twin Towers over New York City",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-10T14:19:26.000Z",
-    "articleCount": 6,
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-11T17:32:44.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T14:19:26.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T17:32:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -143,9 +122,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T14:19:26.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T17:32:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -153,9 +132,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T14:19:26.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T17:32:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -163,9 +142,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T14:19:26.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T17:32:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -173,9 +152,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T14:19:26.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T17:32:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -183,14 +162,34 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T14:19:26.000Z",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-11T17:32:44.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+        "seendate": "2026-09-11T13:53:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+        "seendate": "2026-09-11T13:53:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -272,24 +271,24 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Pro-Palestine student suspended by King’s College London returns to campus",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-    "seendate": "2026-09-11T08:22:02.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+    "seendate": "2026-09-11T18:44:57.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Pro-Palestine student suspended by King’s College London returns to campus",
-        "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-        "seendate": "2026-09-11T08:22:02.000Z",
+        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+        "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+        "seendate": "2026-09-11T18:44:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -297,9 +296,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Pro-Palestine student suspended by King’s College London returns to campus",
-        "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-        "seendate": "2026-09-11T08:22:02.000Z",
+        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+        "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+        "seendate": "2026-09-11T18:44:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Dublin",
+    "name": "Dublin",
+    "country": "IE",
+    "lat": 53.35,
+    "lon": -6.26,
+    "timezone": "Europe/Dublin",
+    "headline": "Passenger plane aborts landing after wing clips Dublin runway",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
+    "seendate": "2026-09-11T16:27:24.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Passenger plane aborts landing after wing clips Dublin runway",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
+        "seendate": "2026-09-11T16:27:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Passenger plane aborts landing after wing clips Dublin runway",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
+        "seendate": "2026-09-11T16:27:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -315,18 +351,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
-    "seendate": "2026-09-11T05:25:34.000Z",
+    "headline": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+    "seendate": "2026-09-11T14:09:52.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-09-11T05:25:34.000Z",
+        "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+        "url": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+        "seendate": "2026-09-11T14:09:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -334,9 +370,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-09-11T05:25:34.000Z",
+        "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+        "url": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+        "seendate": "2026-09-11T14:09:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
