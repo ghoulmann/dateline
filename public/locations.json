@@ -251,24 +251,24 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
-    "seendate": "2026-09-11T18:44:57.000Z",
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+    "seendate": "2026-09-12T02:25:59.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-        "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
-        "seendate": "2026-09-11T18:44:57.000Z",
+        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+        "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+        "seendate": "2026-09-12T02:25:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -276,9 +276,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-        "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
-        "seendate": "2026-09-11T18:44:57.000Z",
+        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+        "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+        "seendate": "2026-09-12T02:25:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
