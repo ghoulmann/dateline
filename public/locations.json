@@ -1,43 +1,23 @@
 [
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong jails Tiananmen vigil activists for seven years",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss",
-    "seendate": "2026-09-12T10:58:05.000Z",
-    "articleCount": 10,
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Céline Dion fans prepare for comeback concert in Paris",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-12T17:36:20.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong jails Tiananmen vigil activists for seven years",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss",
-        "seendate": "2026-09-12T10:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hong Kong jails Tiananmen vigil activists for seven years",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss",
-        "seendate": "2026-09-12T10:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T17:32:44.000Z",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-12T17:36:20.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T17:32:44.000Z",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-12T17:36:20.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T17:32:44.000Z",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-12T17:36:20.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T17:32:44.000Z",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-12T17:36:20.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T17:32:44.000Z",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-12T17:36:20.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,34 +65,14 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-11T17:32:44.000Z",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-12T17:36:20.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "seendate": "2026-09-11T13:53:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "seendate": "2026-09-11T13:53:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -194,83 +154,6 @@
     ]
   },
   {
-    "id": "Bern",
-    "name": "Bern",
-    "country": "CH",
-    "lat": 46.95,
-    "lon": 7.45,
-    "timezone": "Europe/Zurich",
-    "headline": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-10T22:48:37.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T22:48:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T22:48:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T22:48:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T22:48:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T22:48:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-        "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-10T22:48:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Miami",
     "name": "Miami",
     "country": "US",
@@ -318,24 +201,24 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
-    "seendate": "2026-09-12T09:53:59.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+    "seendate": "2026-09-12T11:43:28.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
-        "url": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
-        "seendate": "2026-09-12T09:53:59.000Z",
+        "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+        "url": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+        "seendate": "2026-09-12T11:43:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -343,14 +226,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
-        "url": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
-        "seendate": "2026-09-12T09:53:59.000Z",
+        "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+        "url": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+        "seendate": "2026-09-12T11:43:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+    "headlineUrl": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+    "seendate": "2026-09-11T13:53:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+        "seendate": "2026-09-11T13:53:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+        "seendate": "2026-09-11T13:53:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
