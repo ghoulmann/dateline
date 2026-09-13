@@ -154,71 +154,24 @@
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-    "headlineUrl": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-    "seendate": "2026-09-12T09:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-        "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-        "seendate": "2026-09-12T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-        "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-        "seendate": "2026-09-12T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-        "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-        "seendate": "2026-09-12T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-    "seendate": "2026-09-12T19:50:08.000Z",
+    "headline": "Israeli attack on Gaza kills two Palestinians",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+    "seendate": "2026-09-13T10:22:01.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-        "seendate": "2026-09-12T19:50:08.000Z",
+        "title": "Israeli attack on Gaza kills two Palestinians",
+        "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+        "seendate": "2026-09-13T10:22:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -226,9 +179,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-        "seendate": "2026-09-12T19:50:08.000Z",
+        "title": "Israeli attack on Gaza kills two Palestinians",
+        "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+        "seendate": "2026-09-13T10:22:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Djibouti",
+    "name": "Djibouti",
+    "country": "DJ",
+    "lat": 11.59,
+    "lon": 43.15,
+    "timezone": "Africa/Djibouti",
+    "headline": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+    "seendate": "2026-09-13T04:40:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+        "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+        "seendate": "2026-09-13T04:40:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+        "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+        "seendate": "2026-09-13T04:40:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
