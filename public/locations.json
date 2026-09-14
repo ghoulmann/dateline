@@ -137,6 +137,83 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+    "seendate": "2026-09-14T03:50:25.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+        "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+        "seendate": "2026-09-14T03:50:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+        "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+        "seendate": "2026-09-14T03:50:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli quadcopter terrorises homes in Gaza City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+        "seendate": "2026-09-13T23:33:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli quadcopter terrorises homes in Gaza City",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+        "seendate": "2026-09-13T23:33:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-13T20:46:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-13T20:46:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -214,81 +291,61 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Jerusalem Daily: Pregnant woman killed in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-    "seendate": "2026-09-13T20:46:34.000Z",
-    "articleCount": 4,
+    "id": "Bern",
+    "name": "Bern",
+    "country": "CH",
+    "lat": 46.95,
+    "lon": 7.45,
+    "timezone": "Europe/Zurich",
+    "headline": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
+    "seendate": "2026-09-14T03:38:56.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-13T20:46:34.000Z",
+        "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+        "url": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
+        "seendate": "2026-09-14T03:38:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-13T20:46:34.000Z",
+        "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+        "url": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
+        "seendate": "2026-09-14T03:38:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "French TV programme pulled after actress speaks out on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
-        "seendate": "2026-09-13T17:15:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "French TV programme pulled after actress speaks out on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
-        "seendate": "2026-09-13T17:15:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-    "seendate": "2026-09-13T20:33:28.000Z",
+    "id": "Muscat",
+    "name": "Muscat",
+    "country": "OM",
+    "lat": 23.59,
+    "lon": 58.38,
+    "timezone": "Asia/Muscat",
+    "headline": "Tehran and Muscat delay talks, citing regional consensus need",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+    "seendate": "2026-09-13T21:50:50.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-        "seendate": "2026-09-13T20:33:28.000Z",
+        "title": "Tehran and Muscat delay talks, citing regional consensus need",
+        "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+        "seendate": "2026-09-13T21:50:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -296,46 +353,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-        "seendate": "2026-09-13T20:33:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Syrian child killed after roadside object explodes near Damascus",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
-    "seendate": "2026-09-13T18:30:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Syrian child killed after roadside object explodes near Damascus",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
-        "seendate": "2026-09-13T18:30:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Syrian child killed after roadside object explodes near Damascus",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
-        "seendate": "2026-09-13T18:30:29.000Z",
+        "title": "Tehran and Muscat delay talks, citing regional consensus need",
+        "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+        "seendate": "2026-09-13T21:50:50.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
