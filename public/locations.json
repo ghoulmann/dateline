@@ -137,6 +137,83 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+    "headlineUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+    "seendate": "2026-09-14T18:07:07.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-14T18:07:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-14T18:07:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Private schools become a costly choice for struggling parents in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-14T17:22:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Private schools become a costly choice for struggling parents in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-14T17:22:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
+        "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-09-14T14:58:38.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
+        "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-09-14T14:58:38.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
@@ -145,7 +222,7 @@
     "timezone": "Europe/Moscow",
     "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
     "headlineUrl": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-    "seendate": "2026-09-14T14:33:09.000Z",
+    "seendate": "2026-09-14T15:19:44.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -154,7 +231,7 @@
       {
         "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
         "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-        "seendate": "2026-09-14T14:33:09.000Z",
+        "seendate": "2026-09-14T15:19:44.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -164,7 +241,7 @@
       {
         "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
         "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-        "seendate": "2026-09-14T14:33:09.000Z",
+        "seendate": "2026-09-14T15:19:44.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -241,24 +318,24 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "US Kennedy Center faces bankruptcy, Washington Post reports",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss",
-    "seendate": "2026-09-14T06:50:35.000Z",
+    "id": "Djibouti",
+    "name": "Djibouti",
+    "country": "DJ",
+    "lat": 11.59,
+    "lon": 43.15,
+    "timezone": "Africa/Djibouti",
+    "headline": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+    "seendate": "2026-09-14T18:46:25.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "US Kennedy Center faces bankruptcy, Washington Post reports",
-        "url": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss",
-        "seendate": "2026-09-14T06:50:35.000Z",
+        "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+        "seendate": "2026-09-14T18:46:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -266,9 +343,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "US Kennedy Center faces bankruptcy, Washington Post reports",
-        "url": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss",
-        "seendate": "2026-09-14T06:50:35.000Z",
+        "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+        "seendate": "2026-09-14T18:46:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+    "seendate": "2026-09-14T18:02:44.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+        "seendate": "2026-09-14T18:02:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+        "seendate": "2026-09-14T18:02:44.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -286,7 +400,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
     "headlineUrl": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
-    "seendate": "2026-09-14T14:02:50.000Z",
+    "seendate": "2026-09-14T16:34:19.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -295,7 +409,7 @@
       {
         "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
         "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
-        "seendate": "2026-09-14T14:02:50.000Z",
+        "seendate": "2026-09-14T16:34:19.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -305,44 +419,7 @@
       {
         "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
         "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
-        "seendate": "2026-09-14T14:02:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-    "headlineUrl": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-    "seendate": "2026-09-11T13:53:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "seendate": "2026-09-11T13:53:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "seendate": "2026-09-11T13:53:25.000Z",
+        "seendate": "2026-09-14T16:34:19.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
