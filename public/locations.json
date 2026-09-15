@@ -1,120 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-14T18:26:20.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-14T18:26:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-14T18:26:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-14T18:26:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-14T18:26:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-14T18:26:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-14T18:26:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-        "seendate": "2026-09-14T18:07:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-        "seendate": "2026-09-14T18:07:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-13T02:41:51.000Z",
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "South African president vows justice as more women's bodies found near Johannesburg",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-15T18:01:51.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-13T02:41:51.000Z",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-15T18:01:51.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-13T02:41:51.000Z",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-15T18:01:51.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-13T02:41:51.000Z",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-15T18:01:51.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-13T02:41:51.000Z",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-15T18:01:51.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-13T02:41:51.000Z",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-15T18:01:51.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,14 +65,71 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-13T02:41:51.000Z",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-15T18:01:51.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+    "seendate": "2026-09-15T15:25:39.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+        "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-15T15:25:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+        "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-15T15:25:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-14T18:07:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-14T18:07:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -231,71 +191,24 @@
     ]
   },
   {
-    "id": "Bern",
-    "name": "Bern",
-    "country": "CH",
-    "lat": 46.95,
-    "lon": 7.45,
-    "timezone": "Europe/Zurich",
-    "headline": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-    "headlineUrl": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-    "seendate": "2026-09-15T09:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-        "seendate": "2026-09-15T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-        "seendate": "2026-09-15T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-        "seendate": "2026-09-15T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Thousands flee to Djibouti amid renewed Yemen fighting",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
-    "seendate": "2026-09-15T12:43:14.000Z",
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+    "seendate": "2026-09-15T16:15:13.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
-        "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
-        "seendate": "2026-09-15T12:43:14.000Z",
+        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+        "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+        "seendate": "2026-09-15T16:15:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -303,46 +216,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
-        "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
-        "seendate": "2026-09-15T12:43:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Nairobi",
-    "name": "Nairobi",
-    "country": "KE",
-    "lat": -1.29,
-    "lon": 36.82,
-    "timezone": "Africa/Nairobi",
-    "headline": "Nairobi to host World Athletics Championships in 2029",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
-    "seendate": "2026-09-15T10:37:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Nairobi to host World Athletics Championships in 2029",
-        "url": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
-        "seendate": "2026-09-15T10:37:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nairobi to host World Athletics Championships in 2029",
-        "url": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
-        "seendate": "2026-09-15T10:37:56.000Z",
+        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+        "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+        "seendate": "2026-09-15T16:15:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
