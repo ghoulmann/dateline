@@ -6,19 +6,38 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-    "headlineUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-    "seendate": "2026-09-16T18:07:59.000Z",
-    "articleCount": 18,
+    "headline": "Rescue workers search for survivors after Gaza building collapse",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+    "seendate": "2026-09-16T21:15:42.000Z",
+    "articleCount": 16,
     "categories": [
-      "armed-conflict",
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-        "seendate": "2026-09-16T18:07:59.000Z",
+        "title": "Rescue workers search for survivors after Gaza building collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+        "seendate": "2026-09-16T21:15:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Rescue workers search for survivors after Gaza building collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+        "seendate": "2026-09-16T21:15:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+        "seendate": "2026-09-16T20:13:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +45,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-        "seendate": "2026-09-16T18:07:59.000Z",
+        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+        "seendate": "2026-09-16T20:13:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -36,9 +55,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-        "seendate": "2026-09-16T17:18:08.000Z",
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-16T18:07:59.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -46,9 +65,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-        "seendate": "2026-09-16T17:18:08.000Z",
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-16T18:07:59.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -136,46 +155,6 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-16T15:00:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-16T15:00:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
-        "seendate": "2026-09-16T14:31:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
-        "seendate": "2026-09-16T14:31:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
         "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
         "seendate": "2026-09-16T05:00:44.000Z",
@@ -198,81 +177,178 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-    "headlineUrl": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-    "seendate": "2026-09-14T15:19:45.000Z",
-    "articleCount": 4,
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-16T15:48:50.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-        "seendate": "2026-09-14T15:19:45.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T15:48:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T15:48:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T15:48:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T15:48:50.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-        "seendate": "2026-09-14T15:19:45.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T15:48:50.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Inside Moscow’s High-Tech Surveillance Turn",
-        "url": "https://www.nytimes.com/video/world/100000010736402/inside-moscows-high-tech-surveillance-turn.html",
-        "seendate": "2026-09-14T14:11:23.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T15:48:50.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Inside Moscow’s High-Tech Surveillance Turn",
-        "url": "https://www.nytimes.com/video/world/100000010736402/inside-moscows-high-tech-surveillance-turn.html",
-        "seendate": "2026-09-14T14:11:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-    "seendate": "2026-09-16T15:16:07.000Z",
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-16T22:13:36.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T22:13:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T22:13:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T22:13:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T22:13:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T22:13:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-16T22:13:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+    "seendate": "2026-09-16T19:14:28.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-        "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-        "seendate": "2026-09-16T15:16:07.000Z",
+        "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+        "seendate": "2026-09-16T19:14:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -280,9 +356,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-        "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-        "seendate": "2026-09-16T15:16:07.000Z",
+        "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+        "seendate": "2026-09-16T19:14:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -357,6 +433,43 @@
         "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
         "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
         "seendate": "2026-09-14T16:34:20.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+    "headlineUrl": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+    "seendate": "2026-09-14T15:19:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+        "seendate": "2026-09-14T15:19:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+        "seendate": "2026-09-14T15:19:45.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
