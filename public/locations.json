@@ -1,82 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-    "headlineUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-    "seendate": "2026-09-15T21:31:53.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-        "seendate": "2026-09-15T21:31:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-        "seendate": "2026-09-15T21:31:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-        "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-        "seendate": "2026-09-15T19:26:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-        "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-        "seendate": "2026-09-15T19:26:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-        "seendate": "2026-09-14T18:07:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-        "seendate": "2026-09-14T18:07:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Johannesburg",
     "name": "Johannesburg",
     "country": "ZA",
@@ -211,76 +134,59 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "The board of Kennedy Center in Washington, DC has voted to shutter the hist",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
-    "seendate": "2026-09-15T20:14:22.000Z",
-    "articleCount": 2,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "headlineUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+    "seendate": "2026-09-15T21:31:53.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The board of Kennedy Center in Washington, DC has voted to shutter the hist",
-        "url": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
-        "seendate": "2026-09-15T20:14:22.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+        "seendate": "2026-09-15T21:31:53.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "The board of Kennedy Center in Washington, DC has voted to shutter the hist",
-        "url": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
-        "seendate": "2026-09-15T20:14:22.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+        "seendate": "2026-09-15T21:31:53.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-    "seendate": "2026-09-15T16:15:13.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-        "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-        "seendate": "2026-09-15T16:15:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-        "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-        "seendate": "2026-09-15T16:15:13.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-14T18:07:07.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+        "seendate": "2026-09-14T18:07:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
