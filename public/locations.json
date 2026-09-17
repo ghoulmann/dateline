@@ -6,34 +6,14 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza repairman helps journalists to keep documenting genocide",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
-    "seendate": "2026-09-17T11:01:03.000Z",
-    "articleCount": 12,
+    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "headlineUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+    "seendate": "2026-09-17T02:43:58.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Gaza repairman helps journalists to keep documenting genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
-        "seendate": "2026-09-17T11:01:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza repairman helps journalists to keep documenting genocide",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
-        "seendate": "2026-09-17T11:01:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
         "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
@@ -291,13 +271,117 @@
     ]
   },
   {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Greetings from Beijing, where baozi are worth the wait in line",
+    "headlineUrl": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+    "seendate": "2026-09-17T13:59:17.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greetings from Beijing, where baozi are worth the wait in line",
+        "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+        "seendate": "2026-09-17T13:59:17.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Greetings from Beijing, where baozi are worth the wait in line",
+        "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+        "seendate": "2026-09-17T13:59:17.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from Beijing, where baozi are worth the wait in line",
+        "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+        "seendate": "2026-09-17T13:59:17.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+        "seendate": "2026-09-16T14:15:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+        "seendate": "2026-09-16T14:15:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+    "seendate": "2026-09-17T18:36:40.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+        "seendate": "2026-09-17T18:36:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+        "seendate": "2026-09-17T18:36:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Real Madrid fan group demands Mbappe apologies over Ceuta shirt snub",
+    "headline": "Real Madrid fan group demands Mbappe apology for Ceuta shirt snub",
     "headlineUrl": "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss",
     "seendate": "2026-09-17T13:12:45.000Z",
     "articleCount": 2,
@@ -306,7 +390,7 @@
     ],
     "articles": [
       {
-        "title": "Real Madrid fan group demands Mbappe apologies over Ceuta shirt snub",
+        "title": "Real Madrid fan group demands Mbappe apology for Ceuta shirt snub",
         "url": "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss",
         "seendate": "2026-09-17T13:12:45.000Z",
         "source_domain": "aljazeera.com",
@@ -316,7 +400,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid fan group demands Mbappe apologies over Ceuta shirt snub",
+        "title": "Real Madrid fan group demands Mbappe apology for Ceuta shirt snub",
         "url": "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss",
         "seendate": "2026-09-17T13:12:45.000Z",
         "source_domain": "aljazeera.com",
@@ -324,157 +408,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate change had major role in triggering Nepal floods, scientists say",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
-    "seendate": "2026-09-17T11:19:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Climate change had major role in triggering Nepal floods, scientists say",
-        "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
-        "seendate": "2026-09-17T11:19:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster",
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Climate change had major role in triggering Nepal floods, scientists say",
-        "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
-        "seendate": "2026-09-17T11:19:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster",
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-    "seendate": "2026-09-17T10:20:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-        "url": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-        "seendate": "2026-09-17T10:20:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-        "url": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-        "seendate": "2026-09-17T10:20:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Beckham backs Messi for Ballon d’Or after netting 100th Inter Miami goal",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/17/beckham-backs-messi-for-ballon-dor-after-netting-100th-inter-miami-goal?traffic_source=rss",
-    "seendate": "2026-09-17T10:03:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Beckham backs Messi for Ballon d’Or after netting 100th Inter Miami goal",
-        "url": "https://www.aljazeera.com/sports/2026/9/17/beckham-backs-messi-for-ballon-dor-after-netting-100th-inter-miami-goal?traffic_source=rss",
-        "seendate": "2026-09-17T10:03:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Beckham backs Messi for Ballon d’Or after netting 100th Inter Miami goal",
-        "url": "https://www.aljazeera.com/sports/2026/9/17/beckham-backs-messi-for-ballon-dor-after-netting-100th-inter-miami-goal?traffic_source=rss",
-        "seendate": "2026-09-17T10:03:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Mexico City Has a Toxic ‘Sacrifice Zone’ Where Cancer Is Surging",
-    "headlineUrl": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
-    "seendate": "2026-09-17T09:00:26.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Mexico City Has a Toxic ‘Sacrifice Zone’ Where Cancer Is Surging",
-        "url": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
-        "seendate": "2026-09-17T09:00:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Mexico City Has a Toxic ‘Sacrifice Zone’ Where Cancer Is Surging",
-        "url": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
-        "seendate": "2026-09-17T09:00:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -487,7 +420,7 @@
     "timezone": "Europe/Budapest",
     "headline": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
     "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-    "seendate": "2026-09-17T11:21:23.000Z",
+    "seendate": "2026-09-17T11:21:24.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -496,7 +429,7 @@
       {
         "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-        "seendate": "2026-09-17T11:21:23.000Z",
+        "seendate": "2026-09-17T11:21:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -506,7 +439,7 @@
       {
         "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-        "seendate": "2026-09-17T11:21:23.000Z",
+        "seendate": "2026-09-17T11:21:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -516,24 +449,24 @@
     ]
   },
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-    "headlineUrl": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-    "seendate": "2026-09-16T14:15:35.000Z",
+    "id": "Kabul",
+    "name": "Kabul",
+    "country": "AF",
+    "lat": 34.52,
+    "lon": 69.18,
+    "timezone": "Asia/Kabul",
+    "headline": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
+    "headlineUrl": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+    "seendate": "2026-09-17T14:54:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-        "seendate": "2026-09-16T14:15:35.000Z",
+        "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
+        "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+        "seendate": "2026-09-17T14:54:29.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -541,9 +474,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-        "seendate": "2026-09-16T14:15:35.000Z",
+        "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
+        "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+        "seendate": "2026-09-17T14:54:29.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -561,7 +494,7 @@
     "timezone": "Europe/London",
     "headline": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead, British News Media Say",
     "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-    "seendate": "2026-09-17T12:44:31.000Z",
+    "seendate": "2026-09-17T16:57:50.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -570,7 +503,7 @@
       {
         "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead, British News Media Say",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-17T12:44:31.000Z",
+        "seendate": "2026-09-17T16:57:50.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -580,7 +513,7 @@
       {
         "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead, British News Media Say",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-17T12:44:31.000Z",
+        "seendate": "2026-09-17T16:57:50.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
