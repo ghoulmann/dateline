@@ -6,14 +6,34 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Rescue workers search for survivors after Gaza building collapse",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
-    "seendate": "2026-09-16T21:15:42.000Z",
-    "articleCount": 16,
+    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "headlineUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+    "seendate": "2026-09-17T02:43:58.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+        "seendate": "2026-09-17T02:43:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+        "seendate": "2026-09-17T02:43:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "Rescue workers search for survivors after Gaza building collapse",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
@@ -133,46 +153,6 @@
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-        "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
-        "seendate": "2026-09-16T17:07:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-        "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
-        "seendate": "2026-09-16T17:07:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-        "seendate": "2026-09-16T05:00:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-        "seendate": "2026-09-16T05:00:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -260,7 +240,7 @@
     "lat": 1.35,
     "lon": 103.82,
     "timezone": "Asia/Singapore",
-    "headline": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+    "headline": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-09-16T22:13:36.000Z",
     "articleCount": 6,
@@ -269,7 +249,7 @@
     ],
     "articles": [
       {
-        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-16T22:13:36.000Z",
         "source_domain": "bbc.co.uk",
@@ -279,7 +259,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-16T22:13:36.000Z",
         "source_domain": "bbc.co.uk",
@@ -289,7 +269,7 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-16T22:13:36.000Z",
         "source_domain": "bbc.co.uk",
@@ -299,7 +279,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-16T22:13:36.000Z",
         "source_domain": "bbc.co.uk",
@@ -309,7 +289,7 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-16T22:13:36.000Z",
         "source_domain": "bbc.co.uk",
@@ -319,7 +299,7 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-16T22:13:36.000Z",
         "source_domain": "bbc.co.uk",
@@ -331,24 +311,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
-    "seendate": "2026-09-16T19:14:28.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
+    "seendate": "2026-09-17T00:00:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
-        "seendate": "2026-09-16T19:14:28.000Z",
+        "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
+        "seendate": "2026-09-17T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -356,9 +336,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
-        "seendate": "2026-09-16T19:14:28.000Z",
+        "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
+        "seendate": "2026-09-17T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -433,43 +413,6 @@
         "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
         "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
         "seendate": "2026-09-14T16:34:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-    "headlineUrl": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-    "seendate": "2026-09-14T15:19:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-        "seendate": "2026-09-14T15:19:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-        "seendate": "2026-09-14T15:19:45.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
