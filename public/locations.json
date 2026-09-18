@@ -1,122 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-    "headlineUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-    "seendate": "2026-09-17T02:43:58.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-        "seendate": "2026-09-17T02:43:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-        "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-        "seendate": "2026-09-17T02:43:58.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-        "seendate": "2026-09-16T20:13:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-        "seendate": "2026-09-16T20:13:21.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T17:16:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T17:16:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T17:16:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T17:16:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T17:16:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T17:16:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -185,83 +68,6 @@
         "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
         "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-17T21:41:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Seoul",
-    "name": "Seoul",
-    "country": "KR",
-    "lat": 37.57,
-    "lon": 126.98,
-    "timezone": "Asia/Seoul",
-    "headline": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-16T15:48:50.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T15:48:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T15:48:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T15:48:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T15:48:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T15:48:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-        "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-16T15:48:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -348,184 +154,6 @@
     ]
   },
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Greetings from Beijing, where baozi are worth the wait in line",
-    "headlineUrl": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-    "seendate": "2026-09-17T13:59:17.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Greetings from Beijing, where baozi are worth the wait in line",
-        "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-        "seendate": "2026-09-17T13:59:17.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Greetings from Beijing, where baozi are worth the wait in line",
-        "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-        "seendate": "2026-09-17T13:59:17.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Greetings from Beijing, where baozi are worth the wait in line",
-        "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-        "seendate": "2026-09-17T13:59:17.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-        "seendate": "2026-09-16T14:15:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-        "seendate": "2026-09-16T14:15:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
-    "seendate": "2026-09-18T00:49:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-        "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
-        "seendate": "2026-09-18T00:49:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-        "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
-        "seendate": "2026-09-18T00:49:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
-    "seendate": "2026-09-17T21:27:11.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
-        "seendate": "2026-09-17T21:27:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
-        "seendate": "2026-09-17T21:27:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Budapest",
-    "name": "Budapest",
-    "country": "HU",
-    "lat": 47.5,
-    "lon": 19.04,
-    "timezone": "Europe/Budapest",
-    "headline": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-    "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-    "seendate": "2026-09-17T11:21:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-        "seendate": "2026-09-17T11:21:24.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-        "seendate": "2026-09-17T11:21:24.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Kabul",
     "name": "Kabul",
     "country": "AF",
@@ -569,18 +197,18 @@
     "lat": 51.51,
     "lon": -0.13,
     "timezone": "Europe/London",
-    "headline": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead, British News Media Say",
+    "headline": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
     "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-    "seendate": "2026-09-17T16:57:50.000Z",
+    "seendate": "2026-09-18T11:15:42.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead, British News Media Say",
+        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-17T16:57:50.000Z",
+        "seendate": "2026-09-18T11:15:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -588,9 +216,120 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead, British News Media Say",
+        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-17T16:57:50.000Z",
+        "seendate": "2026-09-18T11:15:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Budapest",
+    "name": "Budapest",
+    "country": "HU",
+    "lat": 47.5,
+    "lon": 19.04,
+    "timezone": "Europe/Budapest",
+    "headline": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
+    "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
+    "seendate": "2026-09-17T11:21:24.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
+        "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
+        "seendate": "2026-09-17T11:21:24.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
+        "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
+        "seendate": "2026-09-17T11:21:24.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+    "headlineUrl": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+    "seendate": "2026-09-16T14:15:35.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+        "seendate": "2026-09-16T14:15:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+        "seendate": "2026-09-16T14:15:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+    "seendate": "2026-09-16T20:13:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+        "seendate": "2026-09-16T20:13:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+        "seendate": "2026-09-16T20:13:21.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
