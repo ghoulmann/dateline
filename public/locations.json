@@ -415,6 +415,43 @@
     ]
   },
   {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+    "seendate": "2026-09-18T00:49:24.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+        "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+        "seendate": "2026-09-18T00:49:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+        "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+        "seendate": "2026-09-18T00:49:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Djibouti",
     "name": "Djibouti",
     "country": "DJ",
@@ -446,43 +483,6 @@
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
-    "seendate": "2026-09-17T18:36:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
-        "seendate": "2026-09-17T18:36:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
-        "seendate": "2026-09-17T18:36:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
