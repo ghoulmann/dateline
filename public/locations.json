@@ -77,24 +77,24 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-    "seendate": "2026-09-18T14:37:30.000Z",
-    "articleCount": 4,
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+    "seendate": "2026-09-18T20:38:00.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-        "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-        "seendate": "2026-09-18T14:37:30.000Z",
+        "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+        "seendate": "2026-09-18T20:38:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -102,29 +102,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-        "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-        "seendate": "2026-09-18T14:37:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
-        "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-        "seendate": "2026-09-18T14:30:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
-        "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-        "seendate": "2026-09-18T14:30:18.000Z",
+        "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+        "seendate": "2026-09-18T20:38:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
