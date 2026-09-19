@@ -1,158 +1,40 @@
 [
   {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-19T17:50:14.000Z",
-    "articleCount": 12,
-    "categories": [
-      "armed-conflict",
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T17:50:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T17:50:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T17:50:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T17:50:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T17:50:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T17:50:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T04:20:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T04:20:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T04:20:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T04:20:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T04:20:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T04:20:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
-    "seendate": "2026-09-19T17:14:45.000Z",
-    "articleCount": 8,
+    "headline": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+    "seendate": "2026-09-19T20:30:01.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+        "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+        "seendate": "2026-09-19T20:30:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+        "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+        "seendate": "2026-09-19T20:30:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
         "url": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
         "seendate": "2026-09-19T17:14:45.000Z",
@@ -186,46 +68,6 @@
         "title": "Jerusalem Daily: Gaza’s children return to schools",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
         "seendate": "2026-09-19T15:38:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Child among four Palestinians killed in Israeli attacks across Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-        "seendate": "2026-09-19T12:59:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Child among four Palestinians killed in Israeli attacks across Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-        "seendate": "2026-09-19T12:59:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "In Gaza, actors perform a war they are still living",
-        "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-        "seendate": "2026-09-19T12:18:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "In Gaza, actors perform a war they are still living",
-        "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-        "seendate": "2026-09-19T12:18:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -456,6 +298,43 @@
     ]
   },
   {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+    "seendate": "2026-09-19T22:03:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+        "seendate": "2026-09-19T22:03:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+        "seendate": "2026-09-19T22:03:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Djibouti",
     "name": "Djibouti",
     "country": "DJ",
@@ -538,7 +417,7 @@
     "timezone": "America/Lima",
     "headline": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
     "headlineUrl": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-    "seendate": "2026-09-19T04:01:11.000Z",
+    "seendate": "2026-09-19T04:01:12.000Z",
     "articleCount": 2,
     "categories": [
       "climate-watch"
@@ -547,7 +426,7 @@
       {
         "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
         "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-        "seendate": "2026-09-19T04:01:11.000Z",
+        "seendate": "2026-09-19T04:01:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -557,7 +436,7 @@
       {
         "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
         "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-        "seendate": "2026-09-19T04:01:11.000Z",
+        "seendate": "2026-09-19T04:01:12.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
@@ -637,6 +516,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia",
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 39.95,
+    "lon": -75.17,
+    "timezone": "America/New_York",
+    "headline": "Pro-Palestinian protesters target Ed Sheeran’s Philadelphia concert after Macklemore removed from tour",
+    "headlineUrl": "https://www.foxnews.com/entertainment/pro-palestinian-protesters-target-ed-sheeran-philadelphia-concert-macklemore-removed-tour",
+    "seendate": "2026-09-19T21:55:49.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Pro-Palestinian protesters target Ed Sheeran’s Philadelphia concert after Macklemore removed from tour",
+        "url": "https://www.foxnews.com/entertainment/pro-palestinian-protesters-target-ed-sheeran-philadelphia-concert-macklemore-removed-tour",
+        "seendate": "2026-09-19T21:55:49.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
