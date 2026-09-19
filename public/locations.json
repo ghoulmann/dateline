@@ -1,5 +1,82 @@
 [
   {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-19T04:20:47.000Z",
+    "articleCount": 6,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-19T04:20:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-19T04:20:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-19T04:20:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-19T04:20:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-19T04:20:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-19T04:20:47.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -154,24 +231,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
-    "seendate": "2026-09-19T00:02:03.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
+    "seendate": "2026-09-19T06:05:48.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-        "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
-        "seendate": "2026-09-19T00:02:03.000Z",
+        "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
+        "url": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
+        "seendate": "2026-09-19T06:05:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,9 +256,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-        "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
-        "seendate": "2026-09-19T00:02:03.000Z",
+        "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
+        "url": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
+        "seendate": "2026-09-19T06:05:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -189,9 +266,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-        "seendate": "2026-09-16T20:13:21.000Z",
+        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
+        "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
+        "seendate": "2026-09-18T11:15:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -199,9 +276,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-        "seendate": "2026-09-16T20:13:21.000Z",
+        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
+        "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
+        "seendate": "2026-09-18T11:15:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -217,18 +294,18 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Iranian women defy law and run Tehran race without hijab",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
-    "seendate": "2026-09-19T01:45:36.000Z",
+    "headline": "Iran stages show of force during mobilisation campaign in Tehran",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+    "seendate": "2026-09-19T10:56:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iranian women defy law and run Tehran race without hijab",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
-        "seendate": "2026-09-19T01:45:36.000Z",
+        "title": "Iran stages show of force during mobilisation campaign in Tehran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+        "seendate": "2026-09-19T10:56:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -236,9 +313,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iranian women defy law and run Tehran race without hijab",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
-        "seendate": "2026-09-19T01:45:36.000Z",
+        "title": "Iran stages show of force during mobilisation campaign in Tehran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+        "seendate": "2026-09-19T10:56:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -248,24 +325,24 @@
     ]
   },
   {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
-    "seendate": "2026-09-19T00:00:26.000Z",
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+    "seendate": "2026-09-19T08:18:08.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
-        "seendate": "2026-09-19T00:00:26.000Z",
+        "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+        "url": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+        "seendate": "2026-09-19T08:18:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -273,9 +350,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
-        "seendate": "2026-09-19T00:00:26.000Z",
+        "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+        "url": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+        "seendate": "2026-09-19T08:18:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -285,24 +362,24 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
-    "seendate": "2026-09-18T20:38:00.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+    "seendate": "2026-09-19T07:50:44.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
-        "seendate": "2026-09-18T20:38:00.000Z",
+        "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+        "url": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+        "seendate": "2026-09-19T07:50:44.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -310,9 +387,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
-        "seendate": "2026-09-18T20:38:00.000Z",
+        "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+        "url": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+        "seendate": "2026-09-19T07:50:44.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -396,43 +473,6 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
-    "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-    "seendate": "2026-09-18T11:15:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-18T11:15:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-18T11:15:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Budapest",
     "name": "Budapest",
     "country": "HU",
@@ -461,43 +501,6 @@
         "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
         "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
         "seendate": "2026-09-19T01:21:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-    "headlineUrl": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-    "seendate": "2026-09-16T14:15:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-        "seendate": "2026-09-16T14:15:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-        "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-        "seendate": "2026-09-16T14:15:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
