@@ -6,15 +6,35 @@
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-    "seendate": "2026-09-20T12:25:09.000Z",
+    "headline": "Moscow attacked by more than 1,000 Ukrainian drones",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
+    "seendate": "2026-09-20T13:10:35.000Z",
     "articleCount": 13,
     "categories": [
       "armed-conflict",
       "democracy-crisis"
     ],
     "articles": [
+      {
+        "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
+        "seendate": "2026-09-20T13:10:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
+        "seendate": "2026-09-20T13:10:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
         "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
@@ -124,26 +144,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Two killed in Ukrainian drone attack on Moscow, says Russia",
-        "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
-        "seendate": "2026-09-20T06:57:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Two killed in Ukrainian drone attack on Moscow, says Russia",
-        "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
-        "seendate": "2026-09-20T06:57:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -154,15 +154,55 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza’s children return to classrooms after years of Israeli attacks",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-    "seendate": "2026-09-20T12:38:21.000Z",
-    "articleCount": 10,
+    "headline": "Gaza artists honour Macklemore for supporting Palestine",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+    "seendate": "2026-09-20T17:59:10.000Z",
+    "articleCount": 7,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Gaza artists honour Macklemore for supporting Palestine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+        "seendate": "2026-09-20T17:59:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza artists honour Macklemore for supporting Palestine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+        "seendate": "2026-09-20T17:59:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+        "seendate": "2026-09-20T14:38:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+        "seendate": "2026-09-20T14:38:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Gaza’s children return to classrooms after years of Israeli attacks",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
         "seendate": "2026-09-20T12:38:21.000Z",
@@ -181,76 +221,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Back to school in Gaza: Learning in tents after years of disruption",
-        "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-        "seendate": "2026-09-20T11:26:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Back to school in Gaza: Learning in tents after years of disruption",
-        "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-        "seendate": "2026-09-20T11:26:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Echoicide: Who decides which truths survive in Gaza?",
-        "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-20T08:32:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Echoicide: Who decides which truths survive in Gaza?",
-        "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-20T08:32:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-        "seendate": "2026-09-20T03:34:12.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-        "seendate": "2026-09-20T03:34:12.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-        "seendate": "2026-09-20T03:34:12.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       },
       {
         "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
@@ -350,7 +320,7 @@
     "timezone": "America/New_York",
     "headline": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
     "headlineUrl": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-    "seendate": "2026-09-20T07:00:13.000Z",
+    "seendate": "2026-09-20T14:19:32.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -359,7 +329,7 @@
       {
         "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
         "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-20T07:00:13.000Z",
+        "seendate": "2026-09-20T14:19:32.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -369,7 +339,7 @@
       {
         "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
         "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-20T07:00:13.000Z",
+        "seendate": "2026-09-20T14:19:32.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -405,18 +375,18 @@
     "lat": 31.77,
     "lon": 35.23,
     "timezone": "Asia/Jerusalem",
-    "headline": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-    "seendate": "2026-09-20T11:54:24.000Z",
+    "headline": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+    "seendate": "2026-09-20T17:55:46.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-        "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-        "seendate": "2026-09-20T11:54:24.000Z",
+        "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+        "seendate": "2026-09-20T17:55:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -424,9 +394,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-        "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-        "seendate": "2026-09-20T11:54:24.000Z",
+        "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+        "seendate": "2026-09-20T17:55:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -442,18 +412,18 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-    "seendate": "2026-09-20T11:10:00.000Z",
+    "headline": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+    "seendate": "2026-09-20T16:37:19.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-        "seendate": "2026-09-20T11:10:00.000Z",
+        "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+        "url": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+        "seendate": "2026-09-20T16:37:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -461,9 +431,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-        "seendate": "2026-09-20T11:10:00.000Z",
+        "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+        "url": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+        "seendate": "2026-09-20T16:37:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -473,24 +443,24 @@
     ]
   },
   {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
-    "seendate": "2026-09-20T05:42:50.000Z",
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Trump says monumental arch in Washington, DC will also be military complex",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+    "seendate": "2026-09-20T15:16:38.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
-        "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
-        "seendate": "2026-09-20T05:42:50.000Z",
+        "title": "Trump says monumental arch in Washington, DC will also be military complex",
+        "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+        "seendate": "2026-09-20T15:16:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -498,9 +468,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
-        "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
-        "seendate": "2026-09-20T05:42:50.000Z",
+        "title": "Trump says monumental arch in Washington, DC will also be military complex",
+        "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+        "seendate": "2026-09-20T15:16:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -510,24 +480,24 @@
     ]
   },
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
-    "seendate": "2026-09-20T04:59:15.000Z",
+    "id": "Shanghai",
+    "name": "Shanghai",
+    "country": "CN",
+    "lat": 31.23,
+    "lon": 121.47,
+    "timezone": "Asia/Shanghai",
+    "headline": "Humanoid robots fight in cage match in Shanghai",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+    "seendate": "2026-09-20T14:12:28.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
-        "url": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
-        "seendate": "2026-09-20T04:59:15.000Z",
+        "title": "Humanoid robots fight in cage match in Shanghai",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+        "seendate": "2026-09-20T14:12:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -535,46 +505,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
-        "url": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
-        "seendate": "2026-09-20T04:59:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisian protesters demand release of four Sumud activists",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
-    "seendate": "2026-09-20T04:55:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tunisian protesters demand release of four Sumud activists",
-        "url": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
-        "seendate": "2026-09-20T04:55:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisian protesters demand release of four Sumud activists",
-        "url": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
-        "seendate": "2026-09-20T04:55:33.000Z",
+        "title": "Humanoid robots fight in cage match in Shanghai",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+        "seendate": "2026-09-20T14:12:28.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
