@@ -1,19 +1,227 @@
 [
   {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+    "seendate": "2026-09-20T12:25:09.000Z",
+    "articleCount": 13,
+    "categories": [
+      "armed-conflict",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+        "seendate": "2026-09-20T12:25:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+        "seendate": "2026-09-20T12:25:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+        "seendate": "2026-09-20T09:16:42.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+        "seendate": "2026-09-20T09:16:42.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+        "seendate": "2026-09-20T09:16:42.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Two killed in Ukrainian drone attack on Moscow, says Russia",
+        "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+        "seendate": "2026-09-20T06:57:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two killed in Ukrainian drone attack on Moscow, says Russia",
+        "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+        "seendate": "2026-09-20T06:57:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
-    "headlineUrl": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-    "seendate": "2026-09-20T03:34:12.000Z",
-    "articleCount": 12,
+    "headline": "Gaza’s children return to classrooms after years of Israeli attacks",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
+    "seendate": "2026-09-20T12:38:21.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
+        "seendate": "2026-09-20T12:38:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
+        "seendate": "2026-09-20T12:38:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Back to school in Gaza: Learning in tents after years of disruption",
+        "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+        "seendate": "2026-09-20T11:26:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Back to school in Gaza: Learning in tents after years of disruption",
+        "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+        "seendate": "2026-09-20T11:26:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Echoicide: Who decides which truths survive in Gaza?",
+        "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-20T08:32:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Echoicide: Who decides which truths survive in Gaza?",
+        "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-20T08:32:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
         "url": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
@@ -43,46 +251,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Ed Sheeran opens solo concert with comments about Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
-        "seendate": "2026-09-20T03:31:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ed Sheeran opens solo concert with comments about Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
-        "seendate": "2026-09-20T03:31:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy",
-        "url": "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss",
-        "seendate": "2026-09-20T03:14:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy",
-        "url": "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss",
-        "seendate": "2026-09-20T03:14:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
@@ -93,200 +261,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-        "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-        "seendate": "2026-09-19T20:30:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-        "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-        "seendate": "2026-09-19T20:30:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
-        "seendate": "2026-09-19T17:14:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
-        "seendate": "2026-09-19T17:14:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Philadelphia",
-    "name": "Philadelphia",
-    "country": "US",
-    "lat": 39.95,
-    "lon": -75.17,
-    "timezone": "America/New_York",
-    "headline": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-20T01:38:30.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T01:38:30.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T01:38:30.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T01:38:30.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T01:38:30.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T01:38:30.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T01:38:30.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-18T23:03:38.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-18T23:03:38.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-18T23:03:38.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-18T23:03:38.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-18T23:03:38.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-18T23:03:38.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-18T23:03:38.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -368,161 +342,40 @@
     ]
   },
   {
-    "id": "Kabul",
-    "name": "Kabul",
-    "country": "AF",
-    "lat": 34.52,
-    "lon": 69.18,
-    "timezone": "Asia/Kabul",
-    "headline": "Life in Kabul 5 years after the Taliban&apos;s return",
-    "headlineUrl": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-    "seendate": "2026-09-19T11:40:40.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-        "seendate": "2026-09-19T11:40:40.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-        "seendate": "2026-09-19T11:40:40.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-        "seendate": "2026-09-19T11:40:40.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
-        "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
-        "seendate": "2026-09-17T14:54:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
-        "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
-        "seendate": "2026-09-17T14:54:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-    "seendate": "2026-09-20T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-        "seendate": "2026-09-20T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-        "seendate": "2026-09-20T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-    "seendate": "2026-09-19T22:03:05.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-        "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-        "seendate": "2026-09-19T22:03:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-        "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-        "seendate": "2026-09-19T22:03:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-    "seendate": "2026-09-20T04:01:07.000Z",
-    "articleCount": 2,
+    "headline": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+    "headlineUrl": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+    "seendate": "2026-09-20T07:00:13.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+        "seendate": "2026-09-20T07:00:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+        "seendate": "2026-09-20T07:00:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
         "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
@@ -542,6 +395,191 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
+    "seendate": "2026-09-20T11:54:24.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+        "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
+        "seendate": "2026-09-20T11:54:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+        "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
+        "seendate": "2026-09-20T11:54:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
+    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
+    "seendate": "2026-09-20T11:10:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
+        "seendate": "2026-09-20T11:10:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
+        "seendate": "2026-09-20T11:10:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+    "seendate": "2026-09-20T05:42:50.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+        "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+        "seendate": "2026-09-20T05:42:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+        "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+        "seendate": "2026-09-20T05:42:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
+    "seendate": "2026-09-20T04:59:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+        "url": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
+        "seendate": "2026-09-20T04:59:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+        "url": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
+        "seendate": "2026-09-20T04:59:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisian protesters demand release of four Sumud activists",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
+    "seendate": "2026-09-20T04:55:33.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisian protesters demand release of four Sumud activists",
+        "url": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
+        "seendate": "2026-09-20T04:55:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisian protesters demand release of four Sumud activists",
+        "url": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
+        "seendate": "2026-09-20T04:55:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -577,6 +615,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kabul",
+    "name": "Kabul",
+    "country": "AF",
+    "lat": 34.52,
+    "lon": 69.18,
+    "timezone": "Asia/Kabul",
+    "headline": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
+    "headlineUrl": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+    "seendate": "2026-09-17T14:54:29.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
+        "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+        "seendate": "2026-09-17T14:54:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
+        "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+        "seendate": "2026-09-17T14:54:29.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
