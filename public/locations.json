@@ -8,7 +8,7 @@
     "timezone": "Europe/Moscow",
     "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
     "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-    "seendate": "2026-09-21T08:18:36.000Z",
+    "seendate": "2026-09-21T18:00:07.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict",
@@ -18,7 +18,7 @@
       {
         "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
         "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-21T08:18:36.000Z",
+        "seendate": "2026-09-21T18:00:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -28,7 +28,7 @@
       {
         "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
         "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-21T08:18:36.000Z",
+        "seendate": "2026-09-21T18:00:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -89,6 +89,83 @@
         "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
         "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-20T10:45:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London Fashion Week 2026: The five trends we'll see in spring",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-21T16:23:25.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T16:23:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T16:23:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T16:23:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T16:23:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T16:23:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T16:23:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -175,140 +252,6 @@
     ]
   },
   {
-    "id": "Johannesburg",
-    "name": "Johannesburg",
-    "country": "ZA",
-    "lat": -26.2,
-    "lon": 28.04,
-    "timezone": "Africa/Johannesburg",
-    "headline": "'Enough is enough': Women protest after string of murders near Johannesburg",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-19T11:50:50.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T11:50:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T11:50:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T11:50:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T11:50:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T11:50:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-19T11:50:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-    "seendate": "2026-09-20T21:29:30.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-        "seendate": "2026-09-20T21:29:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-        "seendate": "2026-09-20T21:29:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
-        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-20T14:19:32.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
-        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-20T14:19:32.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -366,24 +309,81 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+    "headlineUrl": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+    "seendate": "2026-09-21T19:47:22.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+        "seendate": "2026-09-21T19:47:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+        "seendate": "2026-09-21T19:47:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+        "seendate": "2026-09-20T21:29:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+        "seendate": "2026-09-20T21:29:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Child among four Palestinians killed in Israeli attacks on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-    "seendate": "2026-09-21T12:32:43.000Z",
+    "headline": "Photos: Gaza’s children return to class in tents and ruins",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+    "seendate": "2026-09-21T18:40:26.000Z",
     "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-        "seendate": "2026-09-21T12:32:43.000Z",
+        "title": "Photos: Gaza’s children return to class in tents and ruins",
+        "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+        "seendate": "2026-09-21T18:40:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -391,9 +391,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
-        "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-        "seendate": "2026-09-21T12:32:43.000Z",
+        "title": "Photos: Gaza’s children return to class in tents and ruins",
+        "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+        "seendate": "2026-09-21T18:40:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -413,71 +413,24 @@
     ]
   },
   {
-    "id": "Austin",
-    "name": "Austin",
-    "country": "US",
-    "lat": 30.27,
-    "lon": -97.74,
-    "timezone": "America/Chicago",
-    "headline": "Federal immigration agent shoots and injures man in Austin, Texas",
-    "headlineUrl": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-    "seendate": "2026-09-20T21:53:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "seendate": "2026-09-20T21:53:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "seendate": "2026-09-20T21:53:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "seendate": "2026-09-20T21:53:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Cargo ship crashes into Chinese fishing boat near Singapore",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
-    "seendate": "2026-09-21T13:18:20.000Z",
+    "id": "Islamabad",
+    "name": "Islamabad",
+    "country": "PK",
+    "lat": 33.68,
+    "lon": 73.04,
+    "timezone": "Asia/Karachi",
+    "headline": "Protesters march on Islamabad over soaring fuel prices",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+    "seendate": "2026-09-21T17:48:51.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
-        "seendate": "2026-09-21T13:18:20.000Z",
+        "title": "Protesters march on Islamabad over soaring fuel prices",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+        "seendate": "2026-09-21T17:48:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -485,9 +438,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
-        "seendate": "2026-09-21T13:18:20.000Z",
+        "title": "Protesters march on Islamabad over soaring fuel prices",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+        "seendate": "2026-09-21T17:48:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -497,24 +450,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Mystery object spotted hovering over Tehran",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-    "seendate": "2026-09-21T10:10:14.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+    "seendate": "2026-09-21T17:19:59.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mystery object spotted hovering over Tehran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-        "seendate": "2026-09-21T10:10:14.000Z",
+        "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+        "seendate": "2026-09-21T17:19:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -522,9 +475,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mystery object spotted hovering over Tehran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-        "seendate": "2026-09-21T10:10:14.000Z",
+        "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+        "seendate": "2026-09-21T17:19:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
