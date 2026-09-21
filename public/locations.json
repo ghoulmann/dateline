@@ -8,7 +8,7 @@
     "timezone": "Europe/Moscow",
     "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
     "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-    "seendate": "2026-09-20T20:39:22.000Z",
+    "seendate": "2026-09-20T20:39:23.000Z",
     "articleCount": 11,
     "categories": [
       "armed-conflict",
@@ -18,7 +18,7 @@
       {
         "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
         "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-20T20:39:22.000Z",
+        "seendate": "2026-09-20T20:39:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -28,7 +28,7 @@
       {
         "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
         "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-20T20:39:22.000Z",
+        "seendate": "2026-09-20T20:39:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -205,24 +205,92 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza artists honour Macklemore for supporting Palestine",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-    "seendate": "2026-09-20T17:59:10.000Z",
+    "id": "Austin",
+    "name": "Austin",
+    "country": "US",
+    "lat": 30.27,
+    "lon": -97.74,
+    "timezone": "America/Chicago",
+    "headline": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+    "seendate": "2026-09-20T23:59:28.000Z",
     "articleCount": 5,
+    "categories": [
+      "armed-conflict",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+        "url": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+        "seendate": "2026-09-20T23:59:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+        "url": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+        "seendate": "2026-09-20T23:59:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+        "seendate": "2026-09-20T21:53:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+        "seendate": "2026-09-20T21:53:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+        "seendate": "2026-09-20T21:53:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+    "seendate": "2026-09-21T00:00:47.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza artists honour Macklemore for supporting Palestine",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-        "seendate": "2026-09-20T17:59:10.000Z",
+        "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+        "seendate": "2026-09-21T00:00:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -230,9 +298,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza artists honour Macklemore for supporting Palestine",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-        "seendate": "2026-09-20T17:59:10.000Z",
+        "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+        "seendate": "2026-09-21T00:00:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -240,9 +308,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
-        "seendate": "2026-09-20T14:38:01.000Z",
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+        "seendate": "2026-09-20T22:06:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -250,24 +318,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
-        "seendate": "2026-09-20T14:38:01.000Z",
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+        "seendate": "2026-09-20T22:06:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
-        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
-        "seendate": "2026-09-20T01:45:55.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -280,7 +338,7 @@
     "timezone": "America/New_York",
     "headline": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
     "headlineUrl": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-    "seendate": "2026-09-20T21:29:29.000Z",
+    "seendate": "2026-09-20T21:29:30.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -289,7 +347,7 @@
       {
         "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
         "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-        "seendate": "2026-09-20T21:29:29.000Z",
+        "seendate": "2026-09-20T21:29:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -299,7 +357,7 @@
       {
         "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
         "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-        "seendate": "2026-09-20T21:29:29.000Z",
+        "seendate": "2026-09-20T21:29:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -386,49 +444,123 @@
     ]
   },
   {
-    "id": "Austin",
-    "name": "Austin",
-    "country": "US",
-    "lat": 30.27,
-    "lon": -97.74,
-    "timezone": "America/Chicago",
-    "headline": "Federal immigration agent shoots and injures man in Austin, Texas",
-    "headlineUrl": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-    "seendate": "2026-09-20T21:53:00.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza artists honour Macklemore for supporting Palestine",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+    "seendate": "2026-09-20T17:59:10.000Z",
     "articleCount": 3,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "seendate": "2026-09-20T21:53:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Gaza artists honour Macklemore for supporting Palestine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+        "seendate": "2026-09-20T17:59:10.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "seendate": "2026-09-20T21:53:00.000Z",
-        "source_domain": "npr.org",
+        "title": "Gaza artists honour Macklemore for supporting Palestine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+        "seendate": "2026-09-20T17:59:10.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       },
       {
-        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "seendate": "2026-09-20T21:53:00.000Z",
-        "source_domain": "npr.org",
+        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
+        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
+        "seendate": "2026-09-20T01:45:55.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Islamabad",
+    "name": "Islamabad",
+    "country": "PK",
+    "lat": 33.68,
+    "lon": 73.04,
+    "timezone": "Asia/Karachi",
+    "headline": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+    "seendate": "2026-09-21T02:31:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+        "seendate": "2026-09-21T02:31:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+        "seendate": "2026-09-21T02:31:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Aleppo",
+    "name": "Aleppo",
+    "country": "SY",
+    "lat": 36.2,
+    "lon": 37.16,
+    "timezone": "Asia/Damascus",
+    "headline": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+    "seendate": "2026-09-21T01:30:46.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+        "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+        "seendate": "2026-09-21T01:30:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+        "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+        "seendate": "2026-09-21T01:30:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -507,80 +639,6 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Trump says monumental arch in Washington, DC will also be military complex",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-    "seendate": "2026-09-20T15:16:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump says monumental arch in Washington, DC will also be military complex",
-        "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-        "seendate": "2026-09-20T15:16:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump says monumental arch in Washington, DC will also be military complex",
-        "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-        "seendate": "2026-09-20T15:16:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Shanghai",
-    "name": "Shanghai",
-    "country": "CN",
-    "lat": 31.23,
-    "lon": 121.47,
-    "timezone": "Asia/Shanghai",
-    "headline": "Humanoid robots fight in cage match in Shanghai",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-    "seendate": "2026-09-20T14:12:28.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Humanoid robots fight in cage match in Shanghai",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-        "seendate": "2026-09-20T14:12:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Humanoid robots fight in cage match in Shanghai",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-        "seendate": "2026-09-20T14:12:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Kabul",
     "name": "Kabul",
     "country": "AF",
@@ -609,80 +667,6 @@
         "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
         "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
         "seendate": "2026-09-17T14:54:29.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
-    "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-    "seendate": "2026-09-18T11:15:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-18T11:15:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Man Suspected of Pushing Woman in Front of London Bus Is Found Dead",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/putney-pusher-dead-london-jogger-shoved-bus.html",
-        "seendate": "2026-09-18T11:15:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Budapest",
-    "name": "Budapest",
-    "country": "HU",
-    "lat": 47.5,
-    "lon": 19.04,
-    "timezone": "Europe/Budapest",
-    "headline": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-    "headlineUrl": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-    "seendate": "2026-09-19T01:21:31.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-        "seendate": "2026-09-19T01:21:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-        "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-        "seendate": "2026-09-19T01:21:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
