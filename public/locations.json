@@ -77,79 +77,123 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+    "seendate": "2026-09-22T19:59:36.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+        "seendate": "2026-09-22T19:59:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+        "seendate": "2026-09-22T19:59:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
+        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
+        "seendate": "2026-09-20T01:45:55.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Djibouti",
     "name": "Djibouti",
     "country": "DJ",
     "lat": 11.59,
     "lon": 43.15,
     "timezone": "Africa/Djibouti",
-    "headline": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-21T10:00:31.000Z",
-    "articleCount": 6,
+    "headline": "Djibouti minister appeals for aid for Yemeni refugees",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+    "seendate": "2026-09-22T19:56:02.000Z",
+    "articleCount": 2,
     "categories": [
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Djibouti minister appeals for aid for Yemeni refugees",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+        "seendate": "2026-09-22T19:56:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Djibouti minister appeals for aid for Yemeni refugees",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+        "seendate": "2026-09-22T19:56:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris Really, Really Loves Céline Dion",
+    "headlineUrl": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
+    "seendate": "2026-09-22T09:02:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Really, Really Loves Céline Dion",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
+        "seendate": "2026-09-22T09:02:09.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Really, Really Loves Céline Dion",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
+        "seendate": "2026-09-22T09:02:09.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -163,7 +207,7 @@
     "headline": "A Departing U.N. Chief’s Dire Warning on Climate Change",
     "headlineUrl": "https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html",
     "seendate": "2026-09-22T17:45:34.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
@@ -185,157 +229,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Let’s Talk Climate",
-        "url": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html",
-        "seendate": "2026-09-21T09:23:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Let’s Talk Climate",
-        "url": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html",
-        "seendate": "2026-09-21T09:23:43.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-    "seendate": "2026-09-22T16:18:48.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-22T16:18:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-        "seendate": "2026-09-22T16:18:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
-        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
-        "seendate": "2026-09-20T01:45:55.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Paris Really, Really Loves Céline Dion",
-    "headlineUrl": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
-    "seendate": "2026-09-22T09:02:09.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Paris Really, Really Loves Céline Dion",
-        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
-        "seendate": "2026-09-22T09:02:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paris Really, Really Loves Céline Dion",
-        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
-        "seendate": "2026-09-22T09:02:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’",
-        "url": "https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart",
-        "seendate": "2026-09-21T23:45:36.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-    "seendate": "2026-09-21T18:00:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-21T18:00:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-21T18:00:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
       }
