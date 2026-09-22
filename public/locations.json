@@ -1,44 +1,43 @@
 [
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-    "seendate": "2026-09-21T18:00:07.000Z",
-    "articleCount": 8,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Trump-GCC Summit in New York: What does each side want?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
+    "seendate": "2026-09-22T11:33:56.000Z",
+    "articleCount": 12,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-21T18:00:07.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump-GCC Summit in New York: What does each side want?",
+        "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
+        "seendate": "2026-09-22T11:33:56.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-        "seendate": "2026-09-21T18:00:07.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump-GCC Summit in New York: What does each side want?",
+        "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
+        "seendate": "2026-09-22T11:33:56.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T10:45:39.000Z",
+        "title": "What to expect as world leaders descend on New York - and who won't be there",
+        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T04:05:58.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -46,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T10:45:39.000Z",
+        "title": "What to expect as world leaders descend on New York - and who won't be there",
+        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T04:05:58.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -56,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T10:45:39.000Z",
+        "title": "What to expect as world leaders descend on New York - and who won't be there",
+        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T04:05:58.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -66,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T10:45:39.000Z",
+        "title": "What to expect as world leaders descend on New York - and who won't be there",
+        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T04:05:58.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -76,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T10:45:39.000Z",
+        "title": "What to expect as world leaders descend on New York - and who won't be there",
+        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T04:05:58.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -86,12 +85,149 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-20T10:45:39.000Z",
+        "title": "What to expect as world leaders descend on New York - and who won't be there",
+        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T04:05:58.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+        "seendate": "2026-09-21T19:47:23.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+        "seendate": "2026-09-21T19:47:23.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+        "seendate": "2026-09-20T21:29:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+        "seendate": "2026-09-20T21:29:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Djibouti",
+    "name": "Djibouti",
+    "country": "DJ",
+    "lat": 11.59,
+    "lon": 43.15,
+    "timezone": "Africa/Djibouti",
+    "headline": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+    "seendate": "2026-09-22T12:58:29.000Z",
+    "articleCount": 8,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+        "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+        "seendate": "2026-09-22T12:58:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+        "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+        "seendate": "2026-09-22T12:58:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T10:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T10:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T10:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T10:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T10:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-21T10:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
         ],
         "source_category": "climate-watch"
       }
@@ -104,18 +240,18 @@
     "lat": 51.51,
     "lon": -0.13,
     "timezone": "Europe/London",
-    "headline": "London Fashion Week 2026: The five trends we'll see in spring",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-21T16:23:25.000Z",
+    "headline": "Can you take the 'London' out of London Fashion Week?",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-22T09:27:28.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T16:23:25.000Z",
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T09:27:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -123,9 +259,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T16:23:25.000Z",
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T09:27:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -133,9 +269,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T16:23:25.000Z",
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T09:27:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -143,9 +279,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T16:23:25.000Z",
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T09:27:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -153,9 +289,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T16:23:25.000Z",
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T09:27:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -163,9 +299,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T16:23:25.000Z",
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-22T09:27:28.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -175,79 +311,207 @@
     ]
   },
   {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-21T10:00:31.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Palestinians turn to communal ovens to bake bread in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+    "seendate": "2026-09-22T07:26:16.000Z",
+    "articleCount": 3,
     "categories": [
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Palestinians turn to communal ovens to bake bread in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-22T07:26:16.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Palestinians turn to communal ovens to bake bread in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+        "seendate": "2026-09-22T07:26:16.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
+        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
+        "seendate": "2026-09-20T01:45:55.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
-        "source_category": "natural-disaster"
-      },
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris Really, Really Loves Céline Dion",
+    "headlineUrl": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
+    "seendate": "2026-09-22T09:02:09.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Really, Really Loves Céline Dion",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
+        "seendate": "2026-09-22T09:02:09.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Really, Really Loves Céline Dion",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
+        "seendate": "2026-09-22T09:02:09.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-21T10:00:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’",
+        "url": "https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart",
+        "seendate": "2026-09-21T23:45:36.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "La Liga President Tebas slams Real Madrid refereeing ‘conspiracy’ claims",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss",
+    "seendate": "2026-09-22T12:11:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "La Liga President Tebas slams Real Madrid refereeing ‘conspiracy’ claims",
+        "url": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss",
+        "seendate": "2026-09-22T12:11:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "La Liga President Tebas slams Real Madrid refereeing ‘conspiracy’ claims",
+        "url": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss",
+        "seendate": "2026-09-22T12:11:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
+    "seendate": "2026-09-22T07:33:24.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
+        "url": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
+        "seendate": "2026-09-22T07:33:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
+        "url": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
+        "seendate": "2026-09-22T07:33:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
+    "seendate": "2026-09-22T07:27:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
+        "url": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
+        "seendate": "2026-09-22T07:27:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
+        "url": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
+        "seendate": "2026-09-22T07:27:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -261,7 +525,7 @@
     "headline": "Let’s Talk Climate",
     "headlineUrl": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html",
     "seendate": "2026-09-21T09:23:43.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
@@ -285,174 +549,43 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
-        "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-        "seendate": "2026-09-19T04:01:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
-        "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-        "seendate": "2026-09-19T04:01:12.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
-    "headlineUrl": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-    "seendate": "2026-09-21T19:47:23.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
-        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-21T19:47:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
-        "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-21T19:47:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-        "seendate": "2026-09-20T21:29:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-        "seendate": "2026-09-20T21:29:30.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
-    "seendate": "2026-09-22T00:09:59.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+    "headlineUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+    "seendate": "2026-09-21T18:00:07.000Z",
     "articleCount": 2,
     "categories": [
-      "natural-disaster"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
-        "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
-        "seendate": "2026-09-22T00:09:59.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+        "seendate": "2026-09-21T18:00:07.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "natural-disaster"
+          "democracy-crisis"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
-        "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
-        "seendate": "2026-09-22T00:09:59.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+        "seendate": "2026-09-21T18:00:07.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "natural-disaster"
+          "democracy-crisis"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’",
-    "headlineUrl": "https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart",
-    "seendate": "2026-09-21T23:45:36.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’",
-        "url": "https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart",
-        "seendate": "2026-09-21T23:45:36.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
-    "headlineUrl": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
-    "seendate": "2026-09-20T01:45:55.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
-        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
-        "seendate": "2026-09-20T01:45:55.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
+        "source_category": "democracy-crisis"
       }
     ]
   }
