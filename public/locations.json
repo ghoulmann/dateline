@@ -317,7 +317,7 @@
     "timezone": "America/New_York",
     "headline": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
     "headlineUrl": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-    "seendate": "2026-09-21T19:47:22.000Z",
+    "seendate": "2026-09-21T19:47:23.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -326,7 +326,7 @@
       {
         "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
         "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-21T19:47:22.000Z",
+        "seendate": "2026-09-21T19:47:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -336,7 +336,7 @@
       {
         "title": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
         "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
-        "seendate": "2026-09-21T19:47:22.000Z",
+        "seendate": "2026-09-21T19:47:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -362,6 +362,70 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lon": 139.69,
+    "timezone": "Asia/Tokyo",
+    "headline": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
+    "seendate": "2026-09-22T00:09:59.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
+        "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
+        "seendate": "2026-09-22T00:09:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
+        "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
+        "seendate": "2026-09-22T00:09:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’",
+    "headlineUrl": "https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart",
+    "seendate": "2026-09-21T23:45:36.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’",
+        "url": "https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart",
+        "seendate": "2026-09-21T23:45:36.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -372,34 +436,14 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Photos: Gaza’s children return to class in tents and ruins",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
-    "seendate": "2026-09-21T18:40:26.000Z",
-    "articleCount": 3,
+    "headline": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
+    "headlineUrl": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
+    "seendate": "2026-09-20T01:45:55.000Z",
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
-      {
-        "title": "Photos: Gaza’s children return to class in tents and ruins",
-        "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
-        "seendate": "2026-09-21T18:40:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Gaza’s children return to class in tents and ruins",
-        "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
-        "seendate": "2026-09-21T18:40:26.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
         "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
@@ -409,80 +453,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Islamabad",
-    "name": "Islamabad",
-    "country": "PK",
-    "lat": 33.68,
-    "lon": 73.04,
-    "timezone": "Asia/Karachi",
-    "headline": "Protesters march on Islamabad over soaring fuel prices",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-    "seendate": "2026-09-21T17:48:51.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Protesters march on Islamabad over soaring fuel prices",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-        "seendate": "2026-09-21T17:48:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Protesters march on Islamabad over soaring fuel prices",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-        "seendate": "2026-09-21T17:48:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
-    "seendate": "2026-09-21T17:19:59.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
-        "seendate": "2026-09-21T17:19:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
-        "seendate": "2026-09-21T17:19:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   }
