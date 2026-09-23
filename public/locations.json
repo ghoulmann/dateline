@@ -1,43 +1,23 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
-    "seendate": "2026-09-23T01:11:06.000Z",
-    "articleCount": 8,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Reports of violence against women in Gaza surge, UN agency finds",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-23T05:02:26.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
-        "seendate": "2026-09-23T01:11:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
-        "seendate": "2026-09-23T01:11:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-22T04:05:58.000Z",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T05:02:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-22T04:05:58.000Z",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T05:02:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-22T04:05:58.000Z",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T05:02:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-22T04:05:58.000Z",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T05:02:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-22T04:05:58.000Z",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T05:02:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-22T04:05:58.000Z",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T05:02:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -97,143 +77,79 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-    "seendate": "2026-09-23T02:36:32.000Z",
-    "articleCount": 5,
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-23T00:05:34.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-        "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-        "seendate": "2026-09-23T02:36:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T00:05:34.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-        "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-        "seendate": "2026-09-23T02:36:32.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T00:05:34.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
-        "seendate": "2026-09-22T19:59:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T00:05:34.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
-        "seendate": "2026-09-22T19:59:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T00:05:34.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
       },
       {
-        "title": "READ IT: Ed Sheeran&apos;s pre-concert speech to Philly crowd about the Gaza controversy",
-        "url": "https://www.foxnews.com/entertainment/read-it-ed-sheerans-pre-concert-speech-philly-crowd-about-gaza-controversy",
-        "seendate": "2026-09-20T01:45:55.000Z",
-        "source_domain": "foxnews.com",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T00:05:34.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Baghdad",
-    "name": "Baghdad",
-    "country": "IQ",
-    "lat": 33.31,
-    "lon": 44.36,
-    "timezone": "Asia/Baghdad",
-    "headline": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-    "seendate": "2026-09-22T23:46:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-        "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-        "seendate": "2026-09-22T23:46:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-        "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-        "seendate": "2026-09-22T23:46:06.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T00:05:34.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Djibouti minister appeals for aid for Yemeni refugees",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-    "seendate": "2026-09-22T19:56:02.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Djibouti minister appeals for aid for Yemeni refugees",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-        "seendate": "2026-09-22T19:56:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Djibouti minister appeals for aid for Yemeni refugees",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-        "seendate": "2026-09-22T19:56:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       }
     ]
   },
