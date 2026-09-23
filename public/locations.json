@@ -6,14 +6,114 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss",
-    "seendate": "2026-09-23T17:45:03.000Z",
-    "articleCount": 8,
+    "headline": "Trump’s Board of Peace Lays Out 6-Month Plan for Gaza That Faces Roadblocks",
+    "headlineUrl": "https://www.nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html",
+    "seendate": "2026-09-23T21:52:30.000Z",
+    "articleCount": 18,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Trump’s Board of Peace Lays Out 6-Month Plan for Gaza That Faces Roadblocks",
+        "url": "https://www.nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html",
+        "seendate": "2026-09-23T21:52:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump’s Board of Peace Lays Out 6-Month Plan for Gaza That Faces Roadblocks",
+        "url": "https://www.nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html",
+        "seendate": "2026-09-23T21:52:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T21:26:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T21:26:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T21:26:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T21:26:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T21:26:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-23T21:26:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+        "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+        "seendate": "2026-09-23T20:56:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+        "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+        "seendate": "2026-09-23T20:56:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
         "url": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss",
@@ -174,6 +274,110 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+    "seendate": "2026-09-23T19:58:00.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+        "url": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+        "seendate": "2026-09-23T19:58:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+        "url": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+        "seendate": "2026-09-23T19:58:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+        "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
+        "seendate": "2026-09-23T19:54:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+        "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
+        "seendate": "2026-09-23T19:54:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
+        "url": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
+        "seendate": "2026-09-23T19:04:17.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Trump administration invites Putin to attend G20 summit in Miami",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+    "seendate": "2026-09-23T20:23:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump administration invites Putin to attend G20 summit in Miami",
+        "url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+        "seendate": "2026-09-23T20:23:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump administration invites Putin to attend G20 summit in Miami",
+        "url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+        "seendate": "2026-09-23T20:23:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -183,87 +387,30 @@
     "headline": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
     "headlineUrl": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
     "seendate": "2026-09-23T18:16:33.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
-        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
-        "seendate": "2026-09-23T18:16:33.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
-        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
-        "seendate": "2026-09-23T18:16:33.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paris Really, Really Loves Céline Dion",
-        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
-        "seendate": "2026-09-22T09:02:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paris Really, Really Loves Céline Dion",
-        "url": "https://www.nytimes.com/2026/09/22/world/europe/celine-dion-tour-paris.html",
-        "seendate": "2026-09-22T09:02:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: World leaders condemn Israel at UN",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/23/jerusalem-daily-world-leaders-condemn-israel-at-un?traffic_source=rss",
-    "seendate": "2026-09-23T17:35:55.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: World leaders condemn Israel at UN",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/jerusalem-daily-world-leaders-condemn-israel-at-un?traffic_source=rss",
-        "seendate": "2026-09-23T17:35:55.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+        "seendate": "2026-09-23T18:16:33.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Jerusalem Daily: World leaders condemn Israel at UN",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/jerusalem-daily-world-leaders-condemn-israel-at-un?traffic_source=rss",
-        "seendate": "2026-09-23T17:35:55.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+        "seendate": "2026-09-23T18:16:33.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -301,33 +448,6 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
-    "headlineUrl": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
-    "seendate": "2026-09-23T19:04:17.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
-        "url": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
-        "seendate": "2026-09-23T19:04:17.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
