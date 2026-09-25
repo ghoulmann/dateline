@@ -1,40 +1,117 @@
 [
   {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Hundreds of thousands expected in Paris for Pope's visit",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-24T23:17:00.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-24T23:17:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-24T23:17:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-24T23:17:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-24T23:17:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-24T23:17:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-24T23:17:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+        "seendate": "2026-09-24T12:55:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+        "seendate": "2026-09-24T12:55:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-    "seendate": "2026-09-24T17:03:31.000Z",
-    "articleCount": 16,
+    "headline": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-24T10:11:15.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-        "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-        "seendate": "2026-09-24T17:03:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-        "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-        "seendate": "2026-09-24T17:03:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
         "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-09-24T10:11:15.000Z",
@@ -113,66 +190,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-23T05:02:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-23T05:02:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-23T05:02:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-23T05:02:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-23T05:02:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-23T05:02:26.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -183,31 +200,32 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "New York sues Polymarket over allegations of illegal gambling operations",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-    "seendate": "2026-09-24T20:15:25.000Z",
+    "headline": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+    "seendate": "2026-09-25T02:24:16.000Z",
     "articleCount": 3,
     "categories": [
+      "political-repression",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "New York sues Polymarket over allegations of illegal gambling operations",
-        "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-        "seendate": "2026-09-24T20:15:25.000Z",
+        "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+        "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+        "seendate": "2026-09-25T02:24:16.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "New York sues Polymarket over allegations of illegal gambling operations",
-        "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-        "seendate": "2026-09-24T20:15:25.000Z",
+        "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+        "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+        "seendate": "2026-09-25T02:24:16.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "humanitarian"
       },
@@ -224,24 +242,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-    "seendate": "2026-09-24T17:08:50.000Z",
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+    "seendate": "2026-09-24T23:51:56.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-        "seendate": "2026-09-24T17:08:50.000Z",
+        "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+        "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+        "seendate": "2026-09-24T23:51:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -249,9 +267,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-        "seendate": "2026-09-24T17:08:50.000Z",
+        "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+        "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+        "seendate": "2026-09-24T23:51:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -366,43 +384,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
-    "headlineUrl": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
-    "seendate": "2026-09-24T12:55:14.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
-        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
-        "seendate": "2026-09-24T12:55:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
-        "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
-        "seendate": "2026-09-24T12:55:14.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
