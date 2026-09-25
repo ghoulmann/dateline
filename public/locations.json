@@ -1,82 +1,5 @@
 [
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Nepal PM says global order is broken in fighting climate crisis",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
-    "seendate": "2026-09-25T09:11:52.000Z",
-    "articleCount": 6,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Nepal PM says global order is broken in fighting climate crisis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
-        "seendate": "2026-09-25T09:11:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nepal PM says global order is broken in fighting climate crisis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
-        "seendate": "2026-09-25T09:11:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "How Climate Change Is Disrupting Summer Travel",
-        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
-        "seendate": "2026-09-25T09:01:55.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "How Climate Change Is Disrupting Summer Travel",
-        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
-        "seendate": "2026-09-25T09:01:55.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
-        "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
-        "seendate": "2026-09-24T04:01:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
-        "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
-        "seendate": "2026-09-24T04:01:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Djibouti",
     "name": "Djibouti",
     "country": "DJ",
@@ -85,7 +8,7 @@
     "timezone": "Africa/Djibouti",
     "headline": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-25T06:48:07.000Z",
+    "seendate": "2026-09-25T14:24:19.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -94,7 +17,7 @@
       {
         "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T06:48:07.000Z",
+        "seendate": "2026-09-25T14:24:19.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -104,7 +27,7 @@
       {
         "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T06:48:07.000Z",
+        "seendate": "2026-09-25T14:24:19.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -114,7 +37,7 @@
       {
         "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T06:48:07.000Z",
+        "seendate": "2026-09-25T14:24:19.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -124,7 +47,7 @@
       {
         "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T06:48:07.000Z",
+        "seendate": "2026-09-25T14:24:19.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -134,7 +57,7 @@
       {
         "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T06:48:07.000Z",
+        "seendate": "2026-09-25T14:24:19.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -144,7 +67,7 @@
       {
         "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T06:48:07.000Z",
+        "seendate": "2026-09-25T14:24:19.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -154,57 +77,57 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Mamdani plants olive tree with Gaza families",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
-    "seendate": "2026-09-25T07:55:41.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "How Climate Change Is Disrupting Summer Travel",
+    "headlineUrl": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
+    "seendate": "2026-09-25T09:01:55.000Z",
     "articleCount": 4,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Mamdani plants olive tree with Gaza families",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
-        "seendate": "2026-09-25T07:55:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Mamdani plants olive tree with Gaza families",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
-        "seendate": "2026-09-25T07:55:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Trump’s Board of Peace Lays Out 6-Month Plan for Gaza That Faces Roadblocks",
-        "url": "https://www.nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html",
-        "seendate": "2026-09-23T21:52:30.000Z",
+        "title": "How Climate Change Is Disrupting Summer Travel",
+        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
+        "seendate": "2026-09-25T09:01:55.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Trump’s Board of Peace Lays Out 6-Month Plan for Gaza That Faces Roadblocks",
-        "url": "https://www.nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html",
-        "seendate": "2026-09-23T21:52:30.000Z",
+        "title": "How Climate Change Is Disrupting Summer Travel",
+        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
+        "seendate": "2026-09-25T09:01:55.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+        "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
+        "seendate": "2026-09-24T04:01:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+        "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
+        "seendate": "2026-09-24T04:01:05.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
@@ -219,7 +142,7 @@
     "timezone": "America/New_York",
     "headline": "China to Send Pandas to Zoo Atlanta, Xi Says",
     "headlineUrl": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-    "seendate": "2026-09-24T17:44:01.000Z",
+    "seendate": "2026-09-25T18:10:10.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -228,7 +151,7 @@
       {
         "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
         "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-24T17:44:01.000Z",
+        "seendate": "2026-09-25T18:10:10.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -238,7 +161,7 @@
       {
         "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
         "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-24T17:44:01.000Z",
+        "seendate": "2026-09-25T18:10:10.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
