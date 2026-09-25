@@ -134,6 +134,117 @@
     ]
   },
   {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+    "seendate": "2026-09-25T21:20:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+        "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+        "seendate": "2026-09-25T21:20:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+        "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+        "seendate": "2026-09-25T21:20:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
+    "seendate": "2026-09-25T19:48:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
+        "seendate": "2026-09-25T19:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
+        "seendate": "2026-09-25T19:48:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Athens",
+    "name": "Athens",
+    "country": "GR",
+    "lat": 37.98,
+    "lon": 23.72,
+    "timezone": "Europe/Athens",
+    "headline": "6 People Are Missing After Explosion in Athens Tourist District",
+    "headlineUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+    "seendate": "2026-09-25T20:23:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "6 People Are Missing After Explosion in Athens Tourist District",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "seendate": "2026-09-25T20:23:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "6 People Are Missing After Explosion in Athens Tourist District",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "seendate": "2026-09-25T20:23:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Atlanta",
     "name": "Atlanta",
     "country": "US",
