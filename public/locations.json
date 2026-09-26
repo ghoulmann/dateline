@@ -1,38 +1,216 @@
 [
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-26T17:47:09.000Z",
+    "articleCount": 12,
+    "categories": [
+      "natural-disaster",
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T17:47:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T17:47:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T17:47:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T17:47:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T17:47:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T17:47:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Bangkok",
     "name": "Bangkok",
     "country": "TH",
     "lat": 13.74,
     "lon": 100.5,
     "timezone": "Asia/Bangkok",
-    "headline": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
-    "seendate": "2026-09-26T07:47:29.000Z",
-    "articleCount": 16,
+    "headline": "Watch: Bangkok declared flood disaster zone",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-26T15:34:18.000Z",
+    "articleCount": 12,
     "categories": [
       "natural-disaster"
     ],
     "articles": [
       {
-        "title": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
-        "url": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
-        "seendate": "2026-09-26T07:47:29.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T15:34:18.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
-        "url": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
-        "seendate": "2026-09-26T07:47:29.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T15:34:18.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "natural-disaster"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T15:34:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T15:34:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T15:34:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T15:34:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
       },
       {
         "title": "Bangkok roads submerged as flood disaster declared",
@@ -93,84 +271,101 @@
           "natural-disaster"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-26T16:53:32.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Bangkok declares disaster as heavy rains spark flooding",
-        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T06:28:58.000Z",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T16:53:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Bangkok declares disaster as heavy rains spark flooding",
-        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T06:28:58.000Z",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T16:53:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Bangkok declares disaster as heavy rains spark flooding",
-        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T06:28:58.000Z",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T16:53:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Bangkok declares disaster as heavy rains spark flooding",
-        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T06:28:58.000Z",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T16:53:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Bangkok declares disaster as heavy rains spark flooding",
-        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T06:28:58.000Z",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T16:53:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Bangkok declares disaster as heavy rains spark flooding",
-        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T06:28:58.000Z",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T16:53:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "Bangkok on red alert as massive floods hit the city",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
-        "seendate": "2026-09-26T04:43:39.000Z",
+        "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
+        "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
+        "seendate": "2026-09-26T15:43:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Bangkok on red alert as massive floods hit the city",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
-        "seendate": "2026-09-26T04:43:39.000Z",
+        "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
+        "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
+        "seendate": "2026-09-26T15:43:11.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -183,78 +378,18 @@
     "lat": 37.98,
     "lon": 23.72,
     "timezone": "Europe/Athens",
-    "headline": "British national among six dead in building explosion close to Acropolis in Athens",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-26T12:47:25.000Z",
+    "headline": "Six Dead After Explosion in Athens Tourist District",
+    "headlineUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+    "seendate": "2026-09-26T14:58:38.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
         "title": "Six Dead After Explosion in Athens Tourist District",
         "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-26T12:04:42.000Z",
+        "seendate": "2026-09-26T14:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -264,122 +399,17 @@
       {
         "title": "Six Dead After Explosion in Athens Tourist District",
         "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-26T12:04:42.000Z",
+        "seendate": "2026-09-26T14:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-25T17:59:03.000Z",
-    "articleCount": 7,
-    "categories": [
-      "political-repression",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T17:59:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
       },
       {
-        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T17:59:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T17:59:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T17:59:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T17:59:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T17:59:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
-        "url": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
-        "seendate": "2026-09-23T19:04:17.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-26T12:51:10.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:51:10.000Z",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -387,9 +417,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:51:10.000Z",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -397,9 +427,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:51:10.000Z",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -407,9 +437,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:51:10.000Z",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -417,9 +447,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:51:10.000Z",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -427,9 +457,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:51:10.000Z",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -439,24 +469,24 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-    "seendate": "2026-09-26T11:06:28.000Z",
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "South African police discover body of 10th woman near Johannesburg",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+    "seendate": "2026-09-26T18:08:12.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-        "seendate": "2026-09-26T11:06:28.000Z",
+        "title": "South African police discover body of 10th woman near Johannesburg",
+        "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+        "seendate": "2026-09-26T18:08:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -464,9 +494,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-        "seendate": "2026-09-26T11:06:28.000Z",
+        "title": "South African police discover body of 10th woman near Johannesburg",
+        "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+        "seendate": "2026-09-26T18:08:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: violence continues as the world watches the UNGA",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
+    "seendate": "2026-09-26T16:14:35.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
+        "seendate": "2026-09-26T16:14:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
+        "seendate": "2026-09-26T16:14:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -482,18 +549,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
-    "seendate": "2026-09-26T05:25:23.000Z",
+    "headline": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
+    "seendate": "2026-09-26T13:22:33.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
-        "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
-        "seendate": "2026-09-26T05:25:23.000Z",
+        "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
+        "seendate": "2026-09-26T13:22:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -501,9 +568,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
-        "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
-        "seendate": "2026-09-26T05:25:23.000Z",
+        "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
+        "seendate": "2026-09-26T13:22:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
