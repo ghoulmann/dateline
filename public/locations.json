@@ -1,5 +1,279 @@
 [
   {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
+    "seendate": "2026-09-26T07:47:29.000Z",
+    "articleCount": 16,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
+        "url": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
+        "seendate": "2026-09-26T07:47:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
+        "url": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
+        "seendate": "2026-09-26T07:47:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T07:21:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T07:21:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T07:21:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T07:21:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T07:21:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T07:21:30.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Bangkok declares disaster as heavy rains spark flooding",
+        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T06:28:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok declares disaster as heavy rains spark flooding",
+        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T06:28:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bangkok declares disaster as heavy rains spark flooding",
+        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T06:28:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bangkok declares disaster as heavy rains spark flooding",
+        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T06:28:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bangkok declares disaster as heavy rains spark flooding",
+        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T06:28:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Bangkok declares disaster as heavy rains spark flooding",
+        "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T06:28:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Bangkok on red alert as massive floods hit the city",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+        "seendate": "2026-09-26T04:43:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok on red alert as massive floods hit the city",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+        "seendate": "2026-09-26T04:43:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Athens",
+    "name": "Athens",
+    "country": "GR",
+    "lat": 37.98,
+    "lon": 23.72,
+    "timezone": "Europe/Athens",
+    "headline": "British national among six dead in building explosion close to Acropolis in Athens",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-26T12:47:25.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:47:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Six Dead After Explosion in Athens Tourist District",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "seendate": "2026-09-26T12:04:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Six Dead After Explosion in Athens Tourist District",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "seendate": "2026-09-26T12:04:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -88,24 +362,24 @@
     ]
   },
   {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-25T14:24:19.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-26T12:51:10.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T14:24:19.000Z",
+        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:51:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -113,9 +387,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T14:24:19.000Z",
+        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:51:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -123,9 +397,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T14:24:19.000Z",
+        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:51:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -133,9 +407,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T14:24:19.000Z",
+        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:51:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -143,9 +417,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T14:24:19.000Z",
+        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:51:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -153,14 +427,88 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-25T14:24:19.000Z",
+        "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-26T12:51:10.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+    "seendate": "2026-09-26T11:06:28.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+        "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+        "seendate": "2026-09-26T11:06:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+        "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+        "seendate": "2026-09-26T11:06:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+    "seendate": "2026-09-26T05:25:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+        "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+        "seendate": "2026-09-26T05:25:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+        "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+        "seendate": "2026-09-26T05:25:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -174,7 +522,7 @@
     "headline": "How Climate Change Is Disrupting Summer Travel",
     "headlineUrl": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
     "seendate": "2026-09-25T09:01:55.000Z",
-    "articleCount": 4,
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
@@ -196,137 +544,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
-        "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
-        "seendate": "2026-09-24T04:01:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
-        "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
-        "seendate": "2026-09-24T04:01:05.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-    "seendate": "2026-09-26T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-        "seendate": "2026-09-26T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-        "seendate": "2026-09-26T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-    "seendate": "2026-09-25T21:20:05.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-        "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-        "seendate": "2026-09-25T21:20:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-        "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-        "seendate": "2026-09-25T21:20:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Athens",
-    "name": "Athens",
-    "country": "GR",
-    "lat": 37.98,
-    "lon": 23.72,
-    "timezone": "Europe/Athens",
-    "headline": "6 People Are Missing After Explosion in Athens Tourist District",
-    "headlineUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-    "seendate": "2026-09-25T20:23:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "6 People Are Missing After Explosion in Athens Tourist District",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-25T20:23:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "6 People Are Missing After Explosion in Athens Tourist District",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-25T20:23:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
