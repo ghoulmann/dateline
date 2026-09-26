@@ -1,5 +1,93 @@
 [
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-25T17:59:03.000Z",
+    "articleCount": 7,
+    "categories": [
+      "political-repression",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-25T17:59:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
+        "url": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
+        "seendate": "2026-09-23T19:04:17.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Djibouti",
     "name": "Djibouti",
     "country": "DJ",
@@ -134,6 +222,43 @@
     ]
   },
   {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+    "seendate": "2026-09-26T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+        "seendate": "2026-09-26T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+        "seendate": "2026-09-26T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Rome",
     "name": "Rome",
     "country": "IT",
@@ -162,43 +287,6 @@
         "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
         "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
         "seendate": "2026-09-25T21:20:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-    "seendate": "2026-09-25T19:48:37.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-        "seendate": "2026-09-25T19:48:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-        "seendate": "2026-09-25T19:48:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -315,33 +403,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
-    "headlineUrl": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
-    "seendate": "2026-09-23T19:04:17.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York",
-        "url": "https://www.foxnews.com/entertainment/harvey-weinstein-sentenced-15-years-prison-2006-sex-crime-new-york",
-        "seendate": "2026-09-23T19:04:17.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
