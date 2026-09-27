@@ -242,7 +242,7 @@
     "timezone": "America/New_York",
     "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
     "headlineUrl": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-    "seendate": "2026-09-27T18:04:43.000Z",
+    "seendate": "2026-09-27T19:50:24.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -251,7 +251,7 @@
       {
         "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
         "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-        "seendate": "2026-09-27T18:04:43.000Z",
+        "seendate": "2026-09-27T19:50:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -261,7 +261,7 @@
       {
         "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
         "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-        "seendate": "2026-09-27T18:04:43.000Z",
+        "seendate": "2026-09-27T19:50:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -416,80 +416,6 @@
         "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
         "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
         "seendate": "2026-09-27T19:35:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-    "seendate": "2026-09-27T16:53:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-        "seendate": "2026-09-27T16:53:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-        "seendate": "2026-09-27T16:53:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kabul",
-    "name": "Kabul",
-    "country": "AF",
-    "lat": 34.52,
-    "lon": 69.18,
-    "timezone": "Asia/Kabul",
-    "headline": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
-    "seendate": "2026-09-27T16:05:49.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
-        "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
-        "seendate": "2026-09-27T16:05:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
-        "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
-        "seendate": "2026-09-27T16:05:49.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
