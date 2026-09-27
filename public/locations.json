@@ -6,34 +6,14 @@
     "lat": 13.74,
     "lon": 100.5,
     "timezone": "Asia/Bangkok",
-    "headline": "Photos: Heavy rains and flooding in Bangkok force thousands into shelters",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
-    "seendate": "2026-09-27T07:49:58.000Z",
-    "articleCount": 14,
+    "headline": "Bangkok roads submerged as flood disaster declared",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-27T04:45:08.000Z",
+    "articleCount": 12,
     "categories": [
       "natural-disaster"
     ],
     "articles": [
-      {
-        "title": "Photos: Heavy rains and flooding in Bangkok force thousands into shelters",
-        "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
-        "seendate": "2026-09-27T07:49:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Heavy rains and flooding in Bangkok force thousands into shelters",
-        "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
-        "seendate": "2026-09-27T07:49:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Bangkok roads submerged as flood disaster declared",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
@@ -254,6 +234,83 @@
     ]
   },
   {
+    "id": "Atlanta",
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.75,
+    "lon": -84.39,
+    "timezone": "America/New_York",
+    "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+    "headlineUrl": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+    "seendate": "2026-09-27T18:04:43.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "seendate": "2026-09-27T18:04:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "seendate": "2026-09-27T18:04:43.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+        "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+        "seendate": "2026-09-27T17:07:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+        "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+        "seendate": "2026-09-27T17:07:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
+        "seendate": "2026-09-25T18:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
+        "seendate": "2026-09-25T18:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -331,81 +388,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-    "seendate": "2026-09-27T08:22:01.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-        "url": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-        "seendate": "2026-09-27T08:22:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-        "url": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-        "seendate": "2026-09-27T08:22:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-        "seendate": "2026-09-27T05:09:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-        "seendate": "2026-09-27T05:09:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-    "seendate": "2026-09-27T11:04:30.000Z",
+    "headline": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+    "seendate": "2026-09-27T19:35:30.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
-        "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-        "seendate": "2026-09-27T11:04:30.000Z",
+        "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+        "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-09-27T19:35:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -413,9 +413,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
-        "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-        "seendate": "2026-09-27T11:04:30.000Z",
+        "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+        "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-09-27T19:35:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -425,37 +425,74 @@
     ]
   },
   {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Djibouti urges world to help as Yemen war drives refugee influx",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-    "seendate": "2026-09-27T08:35:25.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
+    "seendate": "2026-09-27T16:53:57.000Z",
     "articleCount": 2,
     "categories": [
-      "humanitarian"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-        "seendate": "2026-09-27T08:35:25.000Z",
+        "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
+        "seendate": "2026-09-27T16:53:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-        "seendate": "2026-09-27T08:35:25.000Z",
+        "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
+        "seendate": "2026-09-27T16:53:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "humanitarian"
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kabul",
+    "name": "Kabul",
+    "country": "AF",
+    "lat": 34.52,
+    "lon": 69.18,
+    "timezone": "Asia/Kabul",
+    "headline": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+    "seendate": "2026-09-27T16:05:49.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+        "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+        "seendate": "2026-09-27T16:05:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+        "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+        "seendate": "2026-09-27T16:05:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -530,43 +567,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Atlanta",
-    "name": "Atlanta",
-    "country": "US",
-    "lat": 33.75,
-    "lon": -84.39,
-    "timezone": "America/New_York",
-    "headline": "China to Send Pandas to Zoo Atlanta, Xi Says",
-    "headlineUrl": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-    "seendate": "2026-09-25T18:10:10.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-25T18:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-25T18:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
