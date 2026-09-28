@@ -1,96 +1,76 @@
 [
   {
-    "id": "Athens",
-    "name": "Athens",
-    "country": "GR",
-    "lat": 37.98,
-    "lon": 23.72,
-    "timezone": "Europe/Athens",
-    "headline": "Six Dead After Explosion in Athens Tourist District",
-    "headlineUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-    "seendate": "2026-09-26T14:58:38.000Z",
-    "articleCount": 8,
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-28T14:57:31.000Z",
+    "articleCount": 6,
     "categories": [
-      "armed-conflict"
+      "political-repression"
     ],
     "articles": [
       {
-        "title": "Six Dead After Explosion in Athens Tourist District",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-26T14:58:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Six Dead After Explosion in Athens Tourist District",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-26T14:58:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T14:57:31.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T14:57:31.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T14:57:31.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T14:57:31.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T14:57:31.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T12:47:25.000Z",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T14:57:31.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "climate-watch"
       }
@@ -174,134 +154,57 @@
     ]
   },
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Bangkok roads submerged as flood disaster declared",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-27T04:45:08.000Z",
-    "articleCount": 6,
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
+    "headlineUrl": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss",
+    "seendate": "2026-09-28T12:00:36.000Z",
+    "articleCount": 4,
     "categories": [
-      "natural-disaster"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
+        "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss",
+        "seendate": "2026-09-28T12:00:36.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
+        "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss",
+        "seendate": "2026-09-28T12:00:36.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "How Climate Change Is Disrupting Summer Travel",
+        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
+        "seendate": "2026-09-25T09:01:55.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Atlanta",
-    "name": "Atlanta",
-    "country": "US",
-    "lat": 33.75,
-    "lon": -84.39,
-    "timezone": "America/New_York",
-    "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-    "headlineUrl": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-    "seendate": "2026-09-27T19:50:24.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-        "seendate": "2026-09-27T19:50:24.000Z",
+        "title": "How Climate Change Is Disrupting Summer Travel",
+        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
+        "seendate": "2026-09-25T09:01:55.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-        "seendate": "2026-09-27T19:50:24.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-25T18:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-25T18:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
@@ -314,18 +217,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-    "seendate": "2026-09-28T01:39:02.000Z",
+    "headline": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+    "seendate": "2026-09-28T15:35:21.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "seendate": "2026-09-28T01:39:02.000Z",
+        "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+        "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+        "seendate": "2026-09-28T15:35:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -333,9 +236,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "seendate": "2026-09-28T01:39:02.000Z",
+        "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+        "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+        "seendate": "2026-09-28T15:35:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -345,76 +248,113 @@
     ]
   },
   {
-    "id": "Johannesburg",
-    "name": "Johannesburg",
-    "country": "ZA",
-    "lat": -26.2,
-    "lon": 28.04,
-    "timezone": "Africa/Johannesburg",
-    "headline": "South African police discover body of 11th woman near Johannesburg",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-    "seendate": "2026-09-28T00:25:12.000Z",
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss",
+    "seendate": "2026-09-28T13:00:43.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "natural-disaster"
     ],
     "articles": [
       {
-        "title": "South African police discover body of 11th woman near Johannesburg",
-        "url": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-        "seendate": "2026-09-28T00:25:12.000Z",
+        "title": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss",
+        "seendate": "2026-09-28T13:00:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "South African police discover body of 11th woman near Johannesburg",
-        "url": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-        "seendate": "2026-09-28T00:25:12.000Z",
+        "title": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss",
+        "seendate": "2026-09-28T13:00:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-    "seendate": "2026-09-28T00:00:00.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Fire, Smoke and Desperation After a Strike in the Heart of Kyiv",
+    "headlineUrl": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+    "seendate": "2026-09-28T16:38:54.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-        "seendate": "2026-09-28T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Fire, Smoke and Desperation After a Strike in the Heart of Kyiv",
+        "url": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+        "seendate": "2026-09-28T16:38:54.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-        "seendate": "2026-09-28T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Fire, Smoke and Desperation After a Strike in the Heart of Kyiv",
+        "url": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+        "seendate": "2026-09-28T16:38:54.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Atlanta",
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.75,
+    "lon": -84.39,
+    "timezone": "America/New_York",
+    "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+    "headlineUrl": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+    "seendate": "2026-09-28T08:10:26.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "seendate": "2026-09-28T08:10:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "seendate": "2026-09-28T08:10:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -456,37 +396,37 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "How Climate Change Is Disrupting Summer Travel",
-    "headlineUrl": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
-    "seendate": "2026-09-25T09:01:55.000Z",
+    "id": "Athens",
+    "name": "Athens",
+    "country": "GR",
+    "lat": 37.98,
+    "lon": 23.72,
+    "timezone": "Europe/Athens",
+    "headline": "Six Dead After Explosion in Athens Tourist District",
+    "headlineUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+    "seendate": "2026-09-26T14:58:38.000Z",
     "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "How Climate Change Is Disrupting Summer Travel",
-        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
-        "seendate": "2026-09-25T09:01:55.000Z",
+        "title": "Six Dead After Explosion in Athens Tourist District",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "seendate": "2026-09-26T14:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "How Climate Change Is Disrupting Summer Travel",
-        "url": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
-        "seendate": "2026-09-25T09:01:55.000Z",
+        "title": "Six Dead After Explosion in Athens Tourist District",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "seendate": "2026-09-26T14:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
