@@ -1,142 +1,5 @@
 [
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Bangkok roads submerged as flood disaster declared",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-27T04:45:08.000Z",
-    "articleCount": 12,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T04:45:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T15:34:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T15:34:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T15:34:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T15:34:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T15:34:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-26T15:34:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Athens",
     "name": "Athens",
     "country": "GR",
@@ -234,83 +97,6 @@
     ]
   },
   {
-    "id": "Atlanta",
-    "name": "Atlanta",
-    "country": "US",
-    "lat": 33.75,
-    "lon": -84.39,
-    "timezone": "America/New_York",
-    "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-    "headlineUrl": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-    "seendate": "2026-09-27T19:50:24.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-        "seendate": "2026-09-27T19:50:24.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-        "seendate": "2026-09-27T19:50:24.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-        "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-        "seendate": "2026-09-27T17:07:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-        "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-        "seendate": "2026-09-27T17:07:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-25T18:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-        "seendate": "2026-09-25T18:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -319,7 +105,7 @@
     "timezone": "America/New_York",
     "headline": "One dead as nor'easter storm pummels New York and New Jersey",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-27T12:34:26.000Z",
+    "seendate": "2026-09-27T23:37:26.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
@@ -328,7 +114,7 @@
       {
         "title": "One dead as nor'easter storm pummels New York and New Jersey",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T12:34:26.000Z",
+        "seendate": "2026-09-27T23:37:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -338,7 +124,7 @@
       {
         "title": "One dead as nor'easter storm pummels New York and New Jersey",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T12:34:26.000Z",
+        "seendate": "2026-09-27T23:37:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -348,7 +134,7 @@
       {
         "title": "One dead as nor'easter storm pummels New York and New Jersey",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T12:34:26.000Z",
+        "seendate": "2026-09-27T23:37:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -358,7 +144,7 @@
       {
         "title": "One dead as nor'easter storm pummels New York and New Jersey",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T12:34:26.000Z",
+        "seendate": "2026-09-27T23:37:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -368,7 +154,7 @@
       {
         "title": "One dead as nor'easter storm pummels New York and New Jersey",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T12:34:26.000Z",
+        "seendate": "2026-09-27T23:37:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -378,12 +164,146 @@
       {
         "title": "One dead as nor'easter storm pummels New York and New Jersey",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-27T12:34:26.000Z",
+        "seendate": "2026-09-27T23:37:26.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Bangkok roads submerged as flood disaster declared",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-27T04:45:08.000Z",
+    "articleCount": 6,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-27T04:45:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-27T04:45:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-27T04:45:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-27T04:45:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-27T04:45:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-27T04:45:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Atlanta",
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.75,
+    "lon": -84.39,
+    "timezone": "America/New_York",
+    "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+    "headlineUrl": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+    "seendate": "2026-09-27T19:50:24.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "seendate": "2026-09-27T19:50:24.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+        "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "seendate": "2026-09-27T19:50:24.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
+        "seendate": "2026-09-25T18:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
+        "seendate": "2026-09-25T18:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -394,18 +314,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-    "seendate": "2026-09-27T19:35:30.000Z",
+    "headline": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+    "seendate": "2026-09-28T01:39:02.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-        "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-09-27T19:35:30.000Z",
+        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+        "seendate": "2026-09-28T01:39:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -413,9 +333,83 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-        "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-09-27T19:35:30.000Z",
+        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+        "seendate": "2026-09-28T01:39:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "South African police discover body of 11th woman near Johannesburg",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+    "seendate": "2026-09-28T00:25:12.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "South African police discover body of 11th woman near Johannesburg",
+        "url": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+        "seendate": "2026-09-28T00:25:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "South African police discover body of 11th woman near Johannesburg",
+        "url": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+        "seendate": "2026-09-28T00:25:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+    "seendate": "2026-09-28T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+        "seendate": "2026-09-28T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+        "seendate": "2026-09-28T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -495,6 +489,33 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Taylor Swift and Paris Hilton sizzle at 2026 VMAs: Vote on your favorite star looks",
+    "headlineUrl": "https://www.foxnews.com/entertainment/vmas-red-carpet-vote-your-favorite-star-looks",
+    "seendate": "2026-09-27T22:51:30.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Taylor Swift and Paris Hilton sizzle at 2026 VMAs: Vote on your favorite star looks",
+        "url": "https://www.foxnews.com/entertainment/vmas-red-carpet-vote-your-favorite-star-looks",
+        "seendate": "2026-09-27T22:51:30.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
