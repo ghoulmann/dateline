@@ -1,102 +1,5 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York Times executive fatally shot by elderly in-laws, police say",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-29T17:48:08.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T17:48:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T17:48:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T17:48:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T17:48:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T17:48:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T17:48:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "US-Iran talks in New York: What’s the latest?",
-        "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-09-29T15:09:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US-Iran talks in New York: What’s the latest?",
-        "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
-        "seendate": "2026-09-29T15:09:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -190,6 +93,83 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+    "seendate": "2026-09-29T21:24:07.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+        "seendate": "2026-09-29T21:24:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+        "seendate": "2026-09-29T21:24:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Has Gaza broken the Israel consensus in the US?",
+        "url": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
+        "seendate": "2026-09-29T20:05:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Has Gaza broken the Israel consensus in the US?",
+        "url": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
+        "seendate": "2026-09-29T20:05:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+        "seendate": "2026-09-29T16:57:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+        "seendate": "2026-09-29T16:57:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -425,24 +405,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-    "seendate": "2026-09-29T16:57:59.000Z",
-    "articleCount": 2,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
+    "seendate": "2026-09-29T21:02:02.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-        "seendate": "2026-09-29T16:57:59.000Z",
+        "title": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+        "url": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
+        "seendate": "2026-09-29T21:02:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -450,9 +430,103 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-        "seendate": "2026-09-29T16:57:59.000Z",
+        "title": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+        "url": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
+        "seendate": "2026-09-29T21:02:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Madrid residents feel the impact of Spain’s housing crisis",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
+        "seendate": "2026-09-29T18:57:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Madrid residents feel the impact of Spain’s housing crisis",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
+        "seendate": "2026-09-29T18:57:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Baghdad",
+    "name": "Baghdad",
+    "country": "IQ",
+    "lat": 33.31,
+    "lon": 44.36,
+    "timezone": "Asia/Baghdad",
+    "headline": "US troops fully withdraw from Baghdad base after two decades",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+    "seendate": "2026-09-29T20:00:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US troops fully withdraw from Baghdad base after two decades",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+        "seendate": "2026-09-29T20:00:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US troops fully withdraw from Baghdad base after two decades",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+        "seendate": "2026-09-29T20:00:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
+    "seendate": "2026-09-29T18:51:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
+        "seendate": "2026-09-29T18:51:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
+        "seendate": "2026-09-29T18:51:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -490,43 +564,6 @@
         "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
         "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
         "seendate": "2026-09-28T08:10:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Athens",
-    "name": "Athens",
-    "country": "GR",
-    "lat": 37.98,
-    "lon": 23.72,
-    "timezone": "Europe/Athens",
-    "headline": "Six Dead After Explosion in Athens Tourist District",
-    "headlineUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-    "seendate": "2026-09-26T14:58:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Six Dead After Explosion in Athens Tourist District",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-26T14:58:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Six Dead After Explosion in Athens Tourist District",
-        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-        "seendate": "2026-09-26T14:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
