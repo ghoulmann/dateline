@@ -1,179 +1,5 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
-    "seendate": "2026-09-29T03:38:16.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-        "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
-        "seendate": "2026-09-29T03:38:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-        "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
-        "seendate": "2026-09-29T03:38:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T17:04:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T17:04:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T17:04:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T17:04:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T17:04:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T17:04:14.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
-    "seendate": "2026-09-29T07:41:59.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-        "url": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
-        "seendate": "2026-09-29T07:41:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-        "url": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
-        "seendate": "2026-09-29T07:41:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-        "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
-        "seendate": "2026-09-29T07:34:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-        "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
-        "seendate": "2026-09-29T07:34:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
-        "url": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss",
-        "seendate": "2026-09-29T07:26:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
-        "url": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss",
-        "seendate": "2026-09-29T07:26:37.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -182,8 +8,8 @@
     "timezone": "America/New_York",
     "headline": "New York Times executive fatally shot by elderly in-laws, police say",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-29T04:06:43.000Z",
-    "articleCount": 6,
+    "seendate": "2026-09-29T17:48:08.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -191,7 +17,7 @@
       {
         "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T04:06:43.000Z",
+        "seendate": "2026-09-29T17:48:08.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -201,7 +27,7 @@
       {
         "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T04:06:43.000Z",
+        "seendate": "2026-09-29T17:48:08.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -211,7 +37,7 @@
       {
         "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T04:06:43.000Z",
+        "seendate": "2026-09-29T17:48:08.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -221,7 +47,7 @@
       {
         "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T04:06:43.000Z",
+        "seendate": "2026-09-29T17:48:08.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -231,7 +57,7 @@
       {
         "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T04:06:43.000Z",
+        "seendate": "2026-09-29T17:48:08.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -241,87 +67,204 @@
       {
         "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-29T04:06:43.000Z",
+        "seendate": "2026-09-29T17:48:08.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Seoul",
-    "name": "Seoul",
-    "country": "KR",
-    "lat": 37.57,
-    "lon": 126.98,
-    "timezone": "Asia/Seoul",
-    "headline": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-28T14:57:31.000Z",
-    "articleCount": 6,
-    "categories": [
-      "political-repression"
-    ],
-    "articles": [
+      },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T14:57:31.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "US-Iran talks in New York: What’s the latest?",
+        "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
+        "seendate": "2026-09-29T15:09:53.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T14:57:31.000Z",
+        "title": "US-Iran talks in New York: What’s the latest?",
+        "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
+        "seendate": "2026-09-29T15:09:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Man charged over AI image of crocodile in Singapore reservoir",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-29T13:08:55.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Man charged over AI image of crocodile in Singapore reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T13:08:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man charged over AI image of crocodile in Singapore reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T13:08:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T14:57:31.000Z",
+        "title": "Man charged over AI image of crocodile in Singapore reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T13:08:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T14:57:31.000Z",
+        "title": "Man charged over AI image of crocodile in Singapore reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T13:08:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T14:57:31.000Z",
+        "title": "Man charged over AI image of crocodile in Singapore reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T13:08:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-28T14:57:31.000Z",
+        "title": "Man charged over AI image of crocodile in Singapore reservoir",
+        "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T13:08:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "political-repression"
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
+        "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
+        "seendate": "2026-09-27T09:11:54.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
+        "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
+        "seendate": "2026-09-27T09:11:54.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-29T14:10:38.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T14:10:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T14:10:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T14:10:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T14:10:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T14:10:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-29T14:10:38.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -405,61 +348,101 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
-    "seendate": "2026-09-29T06:18:42.000Z",
-    "articleCount": 2,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "People escape historic Kyiv building hit by Russian drone",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-28T17:04:14.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
-        "url": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
-        "seendate": "2026-09-29T06:18:42.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "People escape historic Kyiv building hit by Russian drone",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T17:04:14.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
-        "url": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
-        "seendate": "2026-09-29T06:18:42.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "People escape historic Kyiv building hit by Russian drone",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T17:04:14.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "People escape historic Kyiv building hit by Russian drone",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T17:04:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "People escape historic Kyiv building hit by Russian drone",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T17:04:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "People escape historic Kyiv building hit by Russian drone",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T17:04:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "People escape historic Kyiv building hit by Russian drone",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-28T17:04:14.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Manila",
-    "name": "Manila",
-    "country": "PH",
-    "lat": 14.6,
-    "lon": 120.98,
-    "timezone": "Asia/Manila",
-    "headline": "Public transport drivers strike in Manila over soaring fuel prices",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
-    "seendate": "2026-09-29T05:21:50.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+    "seendate": "2026-09-29T16:57:59.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Public transport drivers strike in Manila over soaring fuel prices",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
-        "seendate": "2026-09-29T05:21:50.000Z",
+        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+        "seendate": "2026-09-29T16:57:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -467,9 +450,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Public transport drivers strike in Manila over soaring fuel prices",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
-        "seendate": "2026-09-29T05:21:50.000Z",
+        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+        "seendate": "2026-09-29T16:57:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -507,43 +490,6 @@
         "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
         "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
         "seendate": "2026-09-28T08:10:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
-    "headlineUrl": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
-    "seendate": "2026-09-27T09:11:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
-        "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
-        "seendate": "2026-09-27T09:11:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
-        "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
-        "seendate": "2026-09-27T09:11:54.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
