@@ -1,5 +1,72 @@
 [
   {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+    "headlineUrl": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+    "seendate": "2026-10-01T17:10:10.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+        "seendate": "2026-10-01T17:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+        "seendate": "2026-10-01T17:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "seendate": "2026-10-01T14:13:38.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "seendate": "2026-10-01T14:13:38.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "seendate": "2026-10-01T14:13:38.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Tel Aviv",
     "name": "Tel Aviv",
     "country": "IL",
@@ -9,7 +76,7 @@
     "headline": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
     "headlineUrl": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
     "seendate": "2026-10-01T11:37:10.000Z",
-    "articleCount": 9,
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
@@ -43,66 +110,43 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Cornell rape allegations renew push to change New York sexual assault law",
+    "headlineUrl": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
+    "seendate": "2026-10-01T19:47:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T11:26:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Cornell rape allegations renew push to change New York sexual assault law",
+        "url": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
+        "seendate": "2026-10-01T19:47:58.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T11:26:46.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Cornell rape allegations renew push to change New York sexual assault law",
+        "url": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
+        "seendate": "2026-10-01T19:47:58.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T11:26:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T11:26:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T11:26:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T11:26:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -113,162 +157,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Girl has multiple surgeries to control infections after strike in Gaza",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-30T05:02:50.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-    "headlineUrl": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-    "seendate": "2026-10-01T14:13:38.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "seendate": "2026-10-01T14:13:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "seendate": "2026-10-01T14:13:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "seendate": "2026-10-01T14:13:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
-        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-        "seendate": "2026-10-01T13:05:11.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
-        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-        "seendate": "2026-10-01T13:05:11.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Addis Ababa",
-    "name": "Addis Ababa",
-    "country": "ET",
-    "lat": 9.03,
-    "lon": 38.74,
-    "timezone": "Africa/Addis_Ababa",
-    "headline": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-    "seendate": "2026-10-01T13:25:54.000Z",
+    "headline": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
+    "seendate": "2026-10-01T16:50:41.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-        "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-        "seendate": "2026-10-01T13:25:54.000Z",
+        "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
+        "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
+        "seendate": "2026-10-01T16:50:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -276,9 +176,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-        "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-        "seendate": "2026-10-01T13:25:54.000Z",
+        "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
+        "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
+        "seendate": "2026-10-01T16:50:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -288,24 +188,24 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
-    "seendate": "2026-10-01T13:06:42.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
+    "seendate": "2026-10-01T16:19:35.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-        "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
-        "seendate": "2026-10-01T13:06:42.000Z",
+        "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
+        "seendate": "2026-10-01T16:19:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -313,9 +213,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-        "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
-        "seendate": "2026-10-01T13:06:42.000Z",
+        "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
+        "seendate": "2026-10-01T16:19:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
