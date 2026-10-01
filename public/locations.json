@@ -1,140 +1,53 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza prepares to bury 105 Palestinians killed in October 2023",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
-    "seendate": "2026-10-01T05:04:28.000Z",
-    "articleCount": 10,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
-        "seendate": "2026-10-01T05:04:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
-        "seendate": "2026-10-01T05:04:28.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks across Gaza kill at least eight",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-        "seendate": "2026-09-30T20:12:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks across Gaza kill at least eight",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-        "seendate": "2026-09-30T20:12:22.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T05:02:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Tel Aviv",
     "name": "Tel Aviv",
     "country": "IL",
     "lat": 32.09,
     "lon": 34.77,
     "timezone": "Asia/Jerusalem",
-    "headline": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-01T03:43:06.000Z",
-    "articleCount": 8,
+    "headline": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+    "headlineUrl": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+    "seendate": "2026-10-01T11:37:10.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+        "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+        "seendate": "2026-10-01T11:37:10.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+        "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+        "seendate": "2026-10-01T11:37:10.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+        "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+        "seendate": "2026-10-01T11:37:10.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T03:43:06.000Z",
+        "seendate": "2026-10-01T11:26:46.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +55,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T03:43:06.000Z",
+        "seendate": "2026-10-01T11:26:46.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +65,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T03:43:06.000Z",
+        "seendate": "2026-10-01T11:26:46.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,9 +75,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T03:43:06.000Z",
+        "seendate": "2026-10-01T11:26:46.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -172,9 +85,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T03:43:06.000Z",
+        "seendate": "2026-10-01T11:26:46.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -182,56 +95,36 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-01T03:43:06.000Z",
+        "seendate": "2026-10-01T11:26:46.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
-        "seendate": "2026-09-30T21:12:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
-        "seendate": "2026-09-30T21:12:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore launches matchmaking service for government workers",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-09-30T09:42:36.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Girl has multiple surgeries to control infections after strike in Gaza",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-09-30T05:02:50.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T09:42:36.000Z",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-30T05:02:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -239,9 +132,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T09:42:36.000Z",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-30T05:02:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -249,9 +142,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T09:42:36.000Z",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-30T05:02:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -259,9 +152,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T09:42:36.000Z",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-30T05:02:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -269,9 +162,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T09:42:36.000Z",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-30T05:02:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -279,9 +172,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-09-30T09:42:36.000Z",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-09-30T05:02:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -291,37 +184,104 @@
     ]
   },
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong journalist arrested on sedition charge",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-    "seendate": "2026-09-30T22:16:01.000Z",
-    "articleCount": 2,
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+    "headlineUrl": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+    "seendate": "2026-10-01T14:13:38.000Z",
+    "articleCount": 5,
     "categories": [
-      "political-repression"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong journalist arrested on sedition charge",
-        "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-        "seendate": "2026-09-30T22:16:01.000Z",
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "seendate": "2026-10-01T14:13:38.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "seendate": "2026-10-01T14:13:38.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "seendate": "2026-10-01T14:13:38.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+        "seendate": "2026-10-01T13:05:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+        "seendate": "2026-10-01T13:05:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Addis Ababa",
+    "name": "Addis Ababa",
+    "country": "ET",
+    "lat": 9.03,
+    "lon": 38.74,
+    "timezone": "Africa/Addis_Ababa",
+    "headline": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+    "seendate": "2026-10-01T13:25:54.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+        "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+        "seendate": "2026-10-01T13:25:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hong Kong journalist arrested on sedition charge",
-        "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-        "seendate": "2026-09-30T22:16:01.000Z",
+        "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+        "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+        "seendate": "2026-10-01T13:25:54.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -334,18 +294,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian drone crashes into Kyiv playground without exploding",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-    "seendate": "2026-09-30T22:13:35.000Z",
+    "headline": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
+    "seendate": "2026-10-01T13:06:42.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russian drone crashes into Kyiv playground without exploding",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-        "seendate": "2026-09-30T22:13:35.000Z",
+        "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+        "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
+        "seendate": "2026-10-01T13:06:42.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -353,14 +313,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian drone crashes into Kyiv playground without exploding",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-        "seendate": "2026-09-30T22:13:35.000Z",
+        "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+        "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
+        "seendate": "2026-10-01T13:06:42.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Journalist Arrested After Covering Gathering Linked to 2019 Protests",
+    "headlineUrl": "https://www.nytimes.com/2026/10/01/world/asia/hong-kong-arrest-journalist-activist.html",
+    "seendate": "2026-10-01T09:54:14.000Z",
+    "articleCount": 2,
+    "categories": [
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Journalist Arrested After Covering Gathering Linked to 2019 Protests",
+        "url": "https://www.nytimes.com/2026/10/01/world/asia/hong-kong-arrest-journalist-activist.html",
+        "seendate": "2026-10-01T09:54:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Journalist Arrested After Covering Gathering Linked to 2019 Protests",
+        "url": "https://www.nytimes.com/2026/10/01/world/asia/hong-kong-arrest-journalist-activist.html",
+        "seendate": "2026-10-01T09:54:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   }
