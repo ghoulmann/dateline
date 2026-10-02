@@ -154,148 +154,24 @@
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
-    "headlineUrl": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-    "seendate": "2026-10-01T17:10:10.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
-        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-        "seendate": "2026-10-01T17:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
-        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-        "seendate": "2026-10-01T17:10:10.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "seendate": "2026-10-01T14:13:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "seendate": "2026-10-01T14:13:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "seendate": "2026-10-01T14:13:38.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "FAO official says he lost his job for criticising Israeli policies in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
-    "seendate": "2026-10-02T04:02:44.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-02T04:02:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-02T04:02:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-        "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-        "seendate": "2026-10-01T23:44:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-        "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-        "seendate": "2026-10-01T23:44:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tel Aviv",
-    "name": "Tel Aviv",
-    "country": "IL",
-    "lat": 32.09,
-    "lon": 34.77,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-    "headlineUrl": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-    "seendate": "2026-10-01T11:37:10.000Z",
+    "id": "San Francisco",
+    "name": "San Francisco",
+    "country": "US",
+    "lat": 37.77,
+    "lon": -122.41,
+    "timezone": "America/Los_Angeles",
+    "headline": "San Francisco&apos;s car crime has plunged. How much credit does Flock deserve?",
+    "headlineUrl": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+    "seendate": "2026-10-02T10:30:00.000Z",
     "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-        "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-        "seendate": "2026-10-01T11:37:10.000Z",
+        "title": "San Francisco&apos;s car crime has plunged. How much credit does Flock deserve?",
+        "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+        "seendate": "2026-10-02T10:30:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -303,9 +179,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-        "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-        "seendate": "2026-10-01T11:37:10.000Z",
+        "title": "San Francisco&apos;s car crime has plunged. How much credit does Flock deserve?",
+        "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+        "seendate": "2026-10-02T10:30:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -313,9 +189,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-        "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-        "seendate": "2026-10-01T11:37:10.000Z",
+        "title": "San Francisco&apos;s car crime has plunged. How much credit does Flock deserve?",
+        "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+        "seendate": "2026-10-02T10:30:00.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -325,24 +201,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-    "seendate": "2026-10-01T21:33:15.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
+    "seendate": "2026-10-02T12:47:30.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-        "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-        "seendate": "2026-10-01T21:33:15.000Z",
+        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+        "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
+        "seendate": "2026-10-02T12:47:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -350,9 +226,120 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-        "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-        "seendate": "2026-10-01T21:33:15.000Z",
+        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+        "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
+        "seendate": "2026-10-02T12:47:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
+    "seendate": "2026-10-02T12:03:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+        "url": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
+        "seendate": "2026-10-02T12:03:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+        "url": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
+        "seendate": "2026-10-02T12:03:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Washington’s diplomacy in Sudan has backfired",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
+    "seendate": "2026-10-02T11:41:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Washington’s diplomacy in Sudan has backfired",
+        "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
+        "seendate": "2026-10-02T11:41:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Washington’s diplomacy in Sudan has backfired",
+        "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
+        "seendate": "2026-10-02T11:41:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Idlib",
+    "name": "Idlib",
+    "country": "SY",
+    "lat": 35.93,
+    "lon": 36.66,
+    "timezone": "Asia/Damascus",
+    "headline": "Explosions reported near military airport in Syria’s Idlib province",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
+    "seendate": "2026-10-02T11:00:20.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Explosions reported near military airport in Syria’s Idlib province",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
+        "seendate": "2026-10-02T11:00:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosions reported near military airport in Syria’s Idlib province",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
+        "seendate": "2026-10-02T11:00:20.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -393,6 +380,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+    "headlineUrl": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+    "seendate": "2026-10-01T17:10:10.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+        "seendate": "2026-10-01T17:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
+        "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+        "seendate": "2026-10-01T17:10:10.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
