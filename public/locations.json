@@ -1,5 +1,159 @@
 [
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-02T17:44:08.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T17:44:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T17:44:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T17:44:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T17:44:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T17:44:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T17:44:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-02T15:26:37.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T15:26:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T15:26:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T15:26:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T15:26:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T15:26:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T15:26:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Seoul",
     "name": "Seoul",
     "country": "KR",
@@ -201,150 +355,76 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-    "seendate": "2026-10-02T12:47:30.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+    "seendate": "2026-10-02T17:30:06.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-        "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-        "seendate": "2026-10-02T12:47:30.000Z",
+        "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+        "seendate": "2026-10-02T17:30:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-        "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-        "seendate": "2026-10-02T12:47:30.000Z",
+        "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+        "seendate": "2026-10-02T17:30:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
-    "seendate": "2026-10-02T12:03:20.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers",
+    "headlineUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
+    "seendate": "2026-10-02T20:01:49.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
-        "url": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
-        "seendate": "2026-10-02T12:03:20.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
+        "seendate": "2026-10-02T20:01:49.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
-        "url": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
-        "seendate": "2026-10-02T12:03:20.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
+        "seendate": "2026-10-02T20:01:49.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Washington’s diplomacy in Sudan has backfired",
-    "headlineUrl": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
-    "seendate": "2026-10-02T11:41:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Washington’s diplomacy in Sudan has backfired",
-        "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
-        "seendate": "2026-10-02T11:41:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Washington’s diplomacy in Sudan has backfired",
-        "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
-        "seendate": "2026-10-02T11:41:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Idlib",
-    "name": "Idlib",
-    "country": "SY",
-    "lat": 35.93,
-    "lon": 36.66,
-    "timezone": "Asia/Damascus",
-    "headline": "Explosions reported near military airport in Syria’s Idlib province",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
-    "seendate": "2026-10-02T11:00:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Explosions reported near military airport in Syria’s Idlib province",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
-        "seendate": "2026-10-02T11:00:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Explosions reported near military airport in Syria’s Idlib province",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
-        "seendate": "2026-10-02T11:00:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -394,7 +474,7 @@
     "timezone": "Europe/London",
     "headline": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
     "headlineUrl": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-    "seendate": "2026-10-01T17:10:10.000Z",
+    "seendate": "2026-10-02T17:01:37.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -403,7 +483,7 @@
       {
         "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
         "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-        "seendate": "2026-10-01T17:10:10.000Z",
+        "seendate": "2026-10-02T17:01:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -413,7 +493,7 @@
       {
         "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
         "url": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-        "seendate": "2026-10-01T17:10:10.000Z",
+        "seendate": "2026-10-02T17:01:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
