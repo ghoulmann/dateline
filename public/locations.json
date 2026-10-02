@@ -1,5 +1,159 @@
 [
   {
+    "id": "Seoul",
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.57,
+    "lon": 126.98,
+    "timezone": "Asia/Seoul",
+    "headline": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-02T03:09:13.000Z",
+    "articleCount": 6,
+    "categories": [
+      "political-repression"
+    ],
+    "articles": [
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T03:09:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T03:09:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T03:09:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T03:09:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T03:09:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-02T03:09:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Havana",
+    "name": "Havana",
+    "country": "CU",
+    "lat": 23.13,
+    "lon": -82.38,
+    "timezone": "America/Havana",
+    "headline": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-01T23:00:05.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-01T23:00:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-01T23:00:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-01T23:00:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-01T23:00:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-01T23:00:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-01T23:00:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -67,6 +221,63 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
+    "seendate": "2026-10-02T04:02:44.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
+        "seendate": "2026-10-02T04:02:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
+        "seendate": "2026-10-02T04:02:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+        "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+        "seendate": "2026-10-01T23:44:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+        "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+        "seendate": "2026-10-01T23:44:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Tel Aviv",
     "name": "Tel Aviv",
     "country": "IL",
@@ -114,24 +325,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Cornell rape allegations renew push to change New York sexual assault law",
-    "headlineUrl": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-    "seendate": "2026-10-01T19:47:58.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+    "seendate": "2026-10-01T21:33:15.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Cornell rape allegations renew push to change New York sexual assault law",
-        "url": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-        "seendate": "2026-10-01T19:47:58.000Z",
+        "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+        "seendate": "2026-10-01T21:33:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -139,9 +350,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Cornell rape allegations renew push to change New York sexual assault law",
-        "url": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-        "seendate": "2026-10-01T19:47:58.000Z",
+        "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+        "seendate": "2026-10-01T21:33:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -151,76 +362,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
-    "seendate": "2026-10-01T16:50:41.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "A Climate Change Rebrand",
+    "headlineUrl": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html",
+    "seendate": "2026-10-02T05:02:56.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
-        "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
-        "seendate": "2026-10-01T16:50:41.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "A Climate Change Rebrand",
+        "url": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html",
+        "seendate": "2026-10-02T05:02:56.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
-        "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
-        "seendate": "2026-10-01T16:50:41.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "A Climate Change Rebrand",
+        "url": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html",
+        "seendate": "2026-10-02T05:02:56.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
-    "seendate": "2026-10-01T16:19:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
-        "seendate": "2026-10-01T16:19:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
-        "seendate": "2026-10-01T16:19:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
