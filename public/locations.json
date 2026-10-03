@@ -1,78 +1,98 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-02T17:44:08.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli air attack on Gaza City apartment kills at least five",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+    "seendate": "2026-10-03T02:25:23.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-02T17:44:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israeli air attack on Gaza City apartment kills at least five",
+        "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+        "seendate": "2026-10-03T02:25:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-02T17:44:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israeli air attack on Gaza City apartment kills at least five",
+        "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+        "seendate": "2026-10-03T02:25:23.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-02T17:44:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+        "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+        "seendate": "2026-10-02T21:53:17.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-02T17:44:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+        "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+        "seendate": "2026-10-02T21:53:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli general: Gaza captives could have been freed a year earlier",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
+        "seendate": "2026-10-02T21:15:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli general: Gaza captives could have been freed a year earlier",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
+        "seendate": "2026-10-02T21:15:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
+        "seendate": "2026-10-02T20:48:06.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-02T17:44:08.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
+        "seendate": "2026-10-02T20:48:06.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-02T17:44:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -351,80 +371,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-    "seendate": "2026-10-02T17:30:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-        "seendate": "2026-10-02T17:30:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-        "seendate": "2026-10-02T17:30:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers",
-    "headlineUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-    "seendate": "2026-10-02T20:01:49.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers",
-        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-        "seendate": "2026-10-02T20:01:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers",
-        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-        "seendate": "2026-10-02T20:01:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
