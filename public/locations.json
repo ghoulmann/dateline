@@ -6,14 +6,95 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-04T12:09:04.000Z",
-    "articleCount": 10,
+    "headline": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+    "seendate": "2026-10-04T16:38:45.000Z",
+    "articleCount": 16,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+        "seendate": "2026-10-04T16:38:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+        "seendate": "2026-10-04T16:38:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-04T14:25:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-04T14:25:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-04T14:25:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-04T14:25:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-04T14:25:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-04T14:25:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
       {
         "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
         "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
@@ -75,26 +156,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-        "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-        "seendate": "2026-10-04T11:58:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-        "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-        "seendate": "2026-10-04T11:58:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
         "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
         "seendate": "2026-10-03T20:17:31.000Z",
@@ -123,18 +184,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "The story of a book in Gaza: A treasured possession given new lease of life",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
-    "seendate": "2026-10-04T09:46:48.000Z",
+    "headline": "Three years of genocide in Gaza through one man’s camera",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+    "seendate": "2026-10-04T16:18:01.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The story of a book in Gaza: A treasured possession given new lease of life",
-        "url": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
-        "seendate": "2026-10-04T09:46:48.000Z",
+        "title": "Three years of genocide in Gaza through one man’s camera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+        "seendate": "2026-10-04T16:18:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -142,9 +203,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "The story of a book in Gaza: A treasured possession given new lease of life",
-        "url": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
-        "seendate": "2026-10-04T09:46:48.000Z",
+        "title": "Three years of genocide in Gaza through one man’s camera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+        "seendate": "2026-10-04T16:18:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -170,6 +231,43 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli forces arrest school children during raid",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+    "seendate": "2026-10-04T16:04:53.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+        "seendate": "2026-10-04T16:04:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+        "seendate": "2026-10-04T16:04:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -205,43 +303,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "A Climate Change Rebrand",
-    "headlineUrl": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html",
-    "seendate": "2026-10-02T05:02:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "A Climate Change Rebrand",
-        "url": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html",
-        "seendate": "2026-10-02T05:02:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Climate Change Rebrand",
-        "url": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html",
-        "seendate": "2026-10-02T05:02:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
