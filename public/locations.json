@@ -288,7 +288,7 @@
       {
         "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
         "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-        "seendate": "2026-10-02T20:48:06.000Z",
+        "seendate": "2026-10-02T20:48:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -298,7 +298,7 @@
       {
         "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
         "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-        "seendate": "2026-10-02T20:48:06.000Z",
+        "seendate": "2026-10-02T20:48:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -308,24 +308,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-    "seendate": "2026-10-03T16:17:23.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
+    "seendate": "2026-10-04T00:07:25.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-        "seendate": "2026-10-03T16:17:23.000Z",
+        "title": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
+        "seendate": "2026-10-04T00:07:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -333,9 +333,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-        "seendate": "2026-10-03T16:17:23.000Z",
+        "title": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
+        "seendate": "2026-10-04T00:07:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Sanaa",
+    "name": "Sanaa",
+    "country": "YE",
+    "lat": 15.36,
+    "lon": 48.22,
+    "timezone": "Asia/Aden",
+    "headline": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+    "seendate": "2026-10-04T00:00:29.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+        "seendate": "2026-10-04T00:00:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+        "seendate": "2026-10-04T00:00:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
