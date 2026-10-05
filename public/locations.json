@@ -1,23 +1,23 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Watch: What we know about Russian strikes on Kyiv bridges",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-04T14:25:32.000Z",
-    "articleCount": 14,
+    "id": "Tel Aviv",
+    "name": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.09,
+    "lon": 34.77,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-05T11:34:59.000Z",
+    "articleCount": 9,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T14:25:32.000Z",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-05T11:34:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T14:25:32.000Z",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-05T11:34:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T14:25:32.000Z",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-05T11:34:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T14:25:32.000Z",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-05T11:34:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T14:25:32.000Z",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-05T11:34:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T14:25:32.000Z",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-05T11:34:59.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,106 +75,103 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T12:09:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T12:09:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T12:09:04.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+        "seendate": "2026-10-05T10:53:46.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T12:09:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T12:09:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-04T12:09:04.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+        "seendate": "2026-10-05T10:53:46.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
       },
       {
-        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-        "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-        "seendate": "2026-10-03T20:17:31.000Z",
-        "source_domain": "nytimes.com",
+        "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+        "seendate": "2026-10-05T10:53:46.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-        "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-        "seendate": "2026-10-03T20:17:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "culture-wars"
       }
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore turns matchmaker amid rock-bottom birthrate",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-    "seendate": "2026-10-05T03:48:17.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
+    "headlineUrl": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+    "seendate": "2026-10-05T11:07:09.000Z",
+    "articleCount": 3,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
+        "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+        "seendate": "2026-10-05T11:07:09.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
+        "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+        "seendate": "2026-10-05T11:07:09.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
+        "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+        "seendate": "2026-10-05T11:07:09.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Sanaa",
+    "name": "Sanaa",
+    "country": "YE",
+    "lat": 15.36,
+    "lon": 48.22,
+    "timezone": "Asia/Aden",
+    "headline": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+    "seendate": "2026-10-05T15:29:04.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Singapore turns matchmaker amid rock-bottom birthrate",
-        "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-        "seendate": "2026-10-05T03:48:17.000Z",
+        "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+        "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+        "seendate": "2026-10-05T15:29:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -182,83 +179,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Singapore turns matchmaker amid rock-bottom birthrate",
-        "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-        "seendate": "2026-10-05T03:48:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-    "seendate": "2026-10-05T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-        "seendate": "2026-10-05T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-        "seendate": "2026-10-05T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Cornell case puts New York’s progressive image at odds with its rape laws",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
-    "seendate": "2026-10-04T21:39:55.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
-        "url": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
-        "seendate": "2026-10-04T21:39:55.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
-        "url": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
-        "seendate": "2026-10-04T21:39:55.000Z",
+        "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+        "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+        "seendate": "2026-10-05T15:29:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -276,7 +199,7 @@
     "timezone": "Europe/Moscow",
     "headline": "The Search for Gas in Moscow",
     "headlineUrl": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-    "seendate": "2026-10-04T09:00:45.000Z",
+    "seendate": "2026-10-05T10:23:03.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -285,7 +208,7 @@
       {
         "title": "The Search for Gas in Moscow",
         "url": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-        "seendate": "2026-10-04T09:00:45.000Z",
+        "seendate": "2026-10-05T10:23:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -295,7 +218,44 @@
       {
         "title": "The Search for Gas in Moscow",
         "url": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-        "seendate": "2026-10-04T09:00:45.000Z",
+        "seendate": "2026-10-05T10:23:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+    "headlineUrl": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+    "seendate": "2026-10-03T20:17:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+        "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+        "seendate": "2026-10-03T20:17:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+        "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+        "seendate": "2026-10-03T20:17:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
