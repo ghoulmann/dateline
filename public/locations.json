@@ -107,6 +107,53 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York state declares measles disaster amid resurgence of disease in US",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+    "seendate": "2026-10-06T00:00:36.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "New York state declares measles disaster amid resurgence of disease in US",
+        "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+        "seendate": "2026-10-06T00:00:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York state declares measles disaster amid resurgence of disease in US",
+        "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+        "seendate": "2026-10-06T00:00:36.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
+        "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
+        "seendate": "2026-10-05T23:22:03.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -154,24 +201,24 @@
     ]
   },
   {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
-    "seendate": "2026-10-05T15:29:04.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+    "seendate": "2026-10-05T18:42:36.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
-        "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
-        "seendate": "2026-10-05T15:29:04.000Z",
+        "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+        "url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+        "seendate": "2026-10-05T18:42:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,9 +226,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
-        "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
-        "seendate": "2026-10-05T15:29:04.000Z",
+        "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+        "url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+        "seendate": "2026-10-05T18:42:36.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,7 +246,7 @@
     "timezone": "Europe/Moscow",
     "headline": "The Search for Gas in Moscow",
     "headlineUrl": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-    "seendate": "2026-10-05T10:23:03.000Z",
+    "seendate": "2026-10-05T20:44:54.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -208,7 +255,7 @@
       {
         "title": "The Search for Gas in Moscow",
         "url": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-        "seendate": "2026-10-05T10:23:03.000Z",
+        "seendate": "2026-10-05T20:44:54.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -218,7 +265,7 @@
       {
         "title": "The Search for Gas in Moscow",
         "url": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-        "seendate": "2026-10-05T10:23:03.000Z",
+        "seendate": "2026-10-05T20:44:54.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -298,6 +345,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "&apos;Grey&apos;s Anatomy&apos; star Isaiah Washington reveals wife died from ‘massive’ stroke in 2025",
+    "headlineUrl": "https://www.foxnews.com/entertainment/greys-anatomy-star-isaiah-washington-reveals-wife-died-from-massive-stroke-2025",
+    "seendate": "2026-10-05T21:03:09.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "&apos;Grey&apos;s Anatomy&apos; star Isaiah Washington reveals wife died from ‘massive’ stroke in 2025",
+        "url": "https://www.foxnews.com/entertainment/greys-anatomy-star-isaiah-washington-reveals-wife-died-from-massive-stroke-2025",
+        "seendate": "2026-10-05T21:03:09.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
