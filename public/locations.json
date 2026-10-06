@@ -1,224 +1,80 @@
 [
   {
-    "id": "Tel Aviv",
-    "name": "Tel Aviv",
-    "country": "IL",
-    "lat": 32.09,
-    "lon": 34.77,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-05T11:34:59.000Z",
-    "articleCount": 9,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza woman rescues books from rubble to keep education alive",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
+    "seendate": "2026-10-06T08:43:07.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-05T11:34:59.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Gaza woman rescues books from rubble to keep education alive",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
+        "seendate": "2026-10-06T08:43:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-05T11:34:59.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Gaza woman rescues books from rubble to keep education alive",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
+        "seendate": "2026-10-06T08:43:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-05T11:34:59.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Widowed twice: A Gaza mother’s story of loss and survival",
+        "url": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
+        "seendate": "2026-10-06T05:44:39.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-05T11:34:59.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Widowed twice: A Gaza mother’s story of loss and survival",
+        "url": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
+        "seendate": "2026-10-06T05:44:39.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-05T11:34:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-05T11:34:59.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-        "seendate": "2026-10-05T10:53:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-        "seendate": "2026-10-05T10:53:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-        "seendate": "2026-10-05T10:53:46.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
+        "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
+    "id": "Los Angeles",
+    "name": "Los Angeles",
     "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York state declares measles disaster amid resurgence of disease in US",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
-    "seendate": "2026-10-06T00:00:36.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York state declares measles disaster amid resurgence of disease in US",
-        "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
-        "seendate": "2026-10-06T00:00:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York state declares measles disaster amid resurgence of disease in US",
-        "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
-        "seendate": "2026-10-06T00:00:36.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
-        "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
-        "seendate": "2026-10-05T23:22:03.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
-    "headlineUrl": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-    "seendate": "2026-10-05T11:07:09.000Z",
-    "articleCount": 3,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
-        "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-        "seendate": "2026-10-05T11:07:09.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
-        "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-        "seendate": "2026-10-05T11:07:09.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "SCOTUS hears major climate change case. And, Brazil&apos;s presidential race goes to runoff",
-        "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-        "seendate": "2026-10-05T11:07:09.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
-    "seendate": "2026-10-05T18:42:36.000Z",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+    "seendate": "2026-10-06T07:12:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
-        "url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
-        "seendate": "2026-10-05T18:42:36.000Z",
+        "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+        "seendate": "2026-10-06T07:12:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -226,14 +82,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
-        "url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
-        "seendate": "2026-10-05T18:42:36.000Z",
+        "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+        "seendate": "2026-10-06T07:12:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "San Diego",
+    "name": "San Diego",
+    "country": "US",
+    "lat": 32.72,
+    "lon": -117.16,
+    "timezone": "America/Los_Angeles",
+    "headline": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+    "headlineUrl": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+    "seendate": "2026-10-06T07:11:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+        "seendate": "2026-10-06T07:11:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+        "seendate": "2026-10-06T07:11:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -275,76 +168,29 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-    "headlineUrl": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-    "seendate": "2026-10-03T20:17:31.000Z",
-    "articleCount": 2,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
+    "headlineUrl": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
+    "seendate": "2026-10-05T23:22:03.000Z",
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-        "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-        "seendate": "2026-10-03T20:17:31.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
+        "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
+        "seendate": "2026-10-05T23:22:03.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-        "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-        "seendate": "2026-10-03T20:17:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
-    "headlineUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-    "seendate": "2026-10-02T20:48:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
-        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-        "seendate": "2026-10-02T20:48:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
-        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
-        "seendate": "2026-10-02T20:48:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "culture-wars"
       }
     ]
   },
