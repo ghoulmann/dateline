@@ -1,117 +1,83 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza woman rescues books from rubble to keep education alive",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
-    "seendate": "2026-10-06T08:43:07.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza woman rescues books from rubble to keep education alive",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
-        "seendate": "2026-10-06T08:43:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza woman rescues books from rubble to keep education alive",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
-        "seendate": "2026-10-06T08:43:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Widowed twice: A Gaza mother’s story of loss and survival",
-        "url": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
-        "seendate": "2026-10-06T05:44:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Widowed twice: A Gaza mother’s story of loss and survival",
-        "url": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
-        "seendate": "2026-10-06T05:44:39.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
-    "seendate": "2026-10-06T07:12:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
-        "seendate": "2026-10-06T07:12:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
-        "seendate": "2026-10-06T07:12:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "San Diego",
     "name": "San Diego",
     "country": "US",
     "lat": 32.72,
     "lon": -117.16,
     "timezone": "America/Los_Angeles",
-    "headline": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
-    "headlineUrl": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-    "seendate": "2026-10-06T07:11:57.000Z",
-    "articleCount": 2,
+    "headline": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-06T16:22:37.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-06T16:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-06T16:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-06T16:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-06T16:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-06T16:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-06T16:22:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
         "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-        "seendate": "2026-10-06T07:11:57.000Z",
+        "seendate": "2026-10-06T14:03:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -119,9 +85,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
         "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-        "seendate": "2026-10-06T07:11:57.000Z",
+        "seendate": "2026-10-06T14:03:23.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -131,39 +97,113 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "The Search for Gas in Moscow",
-    "headlineUrl": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-    "seendate": "2026-10-05T20:44:54.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+    "seendate": "2026-10-06T17:39:19.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The Search for Gas in Moscow",
-        "url": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-        "seendate": "2026-10-05T20:44:54.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+        "seendate": "2026-10-06T17:39:19.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "The Search for Gas in Moscow",
-        "url": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-        "seendate": "2026-10-05T20:44:54.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+        "seendate": "2026-10-06T17:39:19.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Nairobi",
+    "name": "Nairobi",
+    "country": "KE",
+    "lat": -1.29,
+    "lon": 36.82,
+    "timezone": "Africa/Nairobi",
+    "headline": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+    "seendate": "2026-10-06T17:00:52.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+        "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+        "seendate": "2026-10-06T17:00:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+        "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+        "seendate": "2026-10-06T17:00:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "In Gaza, we cannot even begin to recover from trauma",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
+    "seendate": "2026-10-06T14:42:22.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In Gaza, we cannot even begin to recover from trauma",
+        "url": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
+        "seendate": "2026-10-06T14:42:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "In Gaza, we cannot even begin to recover from trauma",
+        "url": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
+        "seendate": "2026-10-06T14:42:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
