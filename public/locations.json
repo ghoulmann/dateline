@@ -1,255 +1,64 @@
 [
   {
-    "id": "San Diego",
-    "name": "San Diego",
-    "country": "US",
-    "lat": 32.72,
-    "lon": -117.16,
-    "timezone": "America/Los_Angeles",
-    "headline": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-06T20:15:31.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T20:15:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T20:15:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T20:15:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T20:15:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T20:15:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T20:15:31.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
-        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-        "seendate": "2026-10-06T14:03:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
-        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-        "seendate": "2026-10-06T14:03:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Tear gas in Paris and Marseille as school protests grow across France",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-06T18:03:19.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T18:03:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T18:03:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T18:03:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T18:03:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T18:03:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-06T18:03:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Buenos Aires",
-    "name": "Buenos Aires",
-    "country": "AR",
-    "lat": -34.6,
-    "lon": -58.38,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "headline": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
-    "seendate": "2026-10-07T03:03:16.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict",
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
-        "seendate": "2026-10-07T03:03:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
-        "seendate": "2026-10-07T03:03:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-        "seendate": "2026-10-06T22:07:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-        "seendate": "2026-10-06T22:07:44.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Three years of Israel’s genocide in Gaza: In numbers",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-    "seendate": "2026-10-07T05:02:04.000Z",
-    "articleCount": 2,
+    "headline": "What Life in Gaza Is Like Now",
+    "headlineUrl": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+    "seendate": "2026-10-07T14:19:16.000Z",
+    "articleCount": 6,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Three years of Israel’s genocide in Gaza: In numbers",
-        "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-        "seendate": "2026-10-07T05:02:04.000Z",
+        "title": "What Life in Gaza Is Like Now",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+        "seendate": "2026-10-07T14:19:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What Life in Gaza Is Like Now",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+        "seendate": "2026-10-07T14:19:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "US military aid to Israel continues three years into Gaza genocide",
+        "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-10-07T11:23:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US military aid to Israel continues three years into Gaza genocide",
+        "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-10-07T11:23:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli attacks across Gaza kill at least four Palestinians",
+        "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
+        "seendate": "2026-10-07T11:13:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -257,9 +66,93 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Three years of Israel’s genocide in Gaza: In numbers",
-        "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-        "seendate": "2026-10-07T05:02:04.000Z",
+        "title": "Israeli attacks across Gaza kill at least four Palestinians",
+        "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
+        "seendate": "2026-10-07T11:13:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lahore",
+    "name": "Lahore",
+    "country": "PK",
+    "lat": 31.54,
+    "lon": 74.35,
+    "timezone": "Asia/Karachi",
+    "headline": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+    "headlineUrl": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+    "seendate": "2026-10-07T13:53:54.000Z",
+    "articleCount": 3,
+    "categories": [
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+        "seendate": "2026-10-07T13:53:54.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+        "seendate": "2026-10-07T13:53:54.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+        "seendate": "2026-10-07T13:53:54.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Doha",
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.29,
+    "lon": 51.53,
+    "timezone": "Asia/Qatar",
+    "headline": "Doha Debates: Should We Trust the News?",
+    "headlineUrl": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
+    "seendate": "2026-10-07T11:14:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Doha Debates: Should We Trust the News?",
+        "url": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
+        "seendate": "2026-10-07T11:14:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Doha Debates: Should We Trust the News?",
+        "url": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
+        "seendate": "2026-10-07T11:14:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -275,33 +168,30 @@
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "Australia top court rules against coal mine expansion, citing climate harm",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
-    "seendate": "2026-10-07T02:17:07.000Z",
+    "headline": "Girl pleads for world leaders to save her country from climate change",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
+    "seendate": "2026-10-07T10:55:05.000Z",
     "articleCount": 2,
     "categories": [
-      "democracy-crisis",
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "Australia top court rules against coal mine expansion, citing climate harm",
-        "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
-        "seendate": "2026-10-07T02:17:07.000Z",
+        "title": "Girl pleads for world leaders to save her country from climate change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
+        "seendate": "2026-10-07T10:55:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis",
           "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Australia top court rules against coal mine expansion, citing climate harm",
-        "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
-        "seendate": "2026-10-07T02:17:07.000Z",
+        "title": "Girl pleads for world leaders to save her country from climate change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
+        "seendate": "2026-10-07T10:55:05.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis",
           "climate-watch"
         ],
         "source_category": "humanitarian"
@@ -309,76 +199,76 @@
     ]
   },
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "The School Near Paris That Shows Why French Students Are Protesting",
+    "headlineUrl": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+    "seendate": "2026-10-07T13:19:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The School Near Paris That Shows Why French Students Are Protesting",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+        "seendate": "2026-10-07T13:19:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The School Near Paris That Shows Why French Students Are Protesting",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+        "seendate": "2026-10-07T13:19:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "San Diego",
+    "name": "San Diego",
     "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
+    "lat": 32.72,
+    "lon": -117.16,
     "timezone": "America/Los_Angeles",
-    "headline": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-    "seendate": "2026-10-07T01:07:21.000Z",
+    "headline": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
+    "headlineUrl": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+    "seendate": "2026-10-06T14:03:23.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-        "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-        "seendate": "2026-10-07T01:07:21.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+        "seendate": "2026-10-06T14:03:23.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-        "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-        "seendate": "2026-10-07T01:07:21.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+        "seendate": "2026-10-06T14:03:23.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-    "seendate": "2026-10-07T00:00:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-        "seendate": "2026-10-07T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-        "seendate": "2026-10-07T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
