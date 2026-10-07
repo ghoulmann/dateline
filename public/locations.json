@@ -6,15 +6,74 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "What Life in Gaza Is Like Now",
-    "headlineUrl": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-    "seendate": "2026-10-07T14:19:16.000Z",
-    "articleCount": 6,
+    "headline": "How genocide in Gaza followed Bosnia’s painful pattern",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
+    "seendate": "2026-10-07T18:16:20.000Z",
+    "articleCount": 8,
     "categories": [
-      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "How genocide in Gaza followed Bosnia’s painful pattern",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
+        "seendate": "2026-10-07T18:16:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "How genocide in Gaza followed Bosnia’s painful pattern",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
+        "seendate": "2026-10-07T18:16:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
+        "seendate": "2026-10-07T18:03:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
+        "seendate": "2026-10-07T18:03:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+        "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+        "seendate": "2026-10-07T15:13:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+        "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+        "seendate": "2026-10-07T15:13:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "What Life in Gaza Is Like Now",
         "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
@@ -34,46 +93,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "US military aid to Israel continues three years into Gaza genocide",
-        "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-10-07T11:23:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US military aid to Israel continues three years into Gaza genocide",
-        "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
-        "seendate": "2026-10-07T11:23:48.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli attacks across Gaza kill at least four Palestinians",
-        "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
-        "seendate": "2026-10-07T11:13:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks across Gaza kill at least four Palestinians",
-        "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
-        "seendate": "2026-10-07T11:13:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -125,24 +144,24 @@
     ]
   },
   {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "Doha Debates: Should We Trust the News?",
-    "headlineUrl": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
-    "seendate": "2026-10-07T11:14:57.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+    "seendate": "2026-10-07T20:17:27.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Doha Debates: Should We Trust the News?",
-        "url": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
-        "seendate": "2026-10-07T11:14:57.000Z",
+        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+        "seendate": "2026-10-07T20:17:27.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -150,9 +169,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Doha Debates: Should We Trust the News?",
-        "url": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
-        "seendate": "2026-10-07T11:14:57.000Z",
+        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+        "seendate": "2026-10-07T20:17:27.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -162,39 +181,39 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Girl pleads for world leaders to save her country from climate change",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
-    "seendate": "2026-10-07T10:55:05.000Z",
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
+    "headlineUrl": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
+    "seendate": "2026-10-07T19:31:49.000Z",
     "articleCount": 2,
     "categories": [
-      "climate-watch"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Girl pleads for world leaders to save her country from climate change",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
-        "seendate": "2026-10-07T10:55:05.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
+        "url": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
+        "seendate": "2026-10-07T19:31:49.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Girl pleads for world leaders to save her country from climate change",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
-        "seendate": "2026-10-07T10:55:05.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
+        "url": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
+        "seendate": "2026-10-07T19:31:49.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
