@@ -180,14 +180,35 @@
     "lat": -34.6,
     "lon": -58.38,
     "timezone": "America/Argentina/Buenos_Aires",
-    "headline": "Fans flood Buenos Aires ahead of Messi’s final international match",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-    "seendate": "2026-10-06T22:07:44.000Z",
-    "articleCount": 2,
+    "headline": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
+    "seendate": "2026-10-07T03:03:16.000Z",
+    "articleCount": 4,
     "categories": [
+      "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
+      {
+        "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
+        "seendate": "2026-10-07T03:03:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
+        "seendate": "2026-10-07T03:03:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
@@ -211,24 +232,24 @@
     ]
   },
   {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "Tokyo protests US military presence after Okinawa killing",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-    "seendate": "2026-10-06T21:20:28.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Three years of Israel’s genocide in Gaza: In numbers",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+    "seendate": "2026-10-07T05:02:04.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tokyo protests US military presence after Okinawa killing",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-        "seendate": "2026-10-06T21:20:28.000Z",
+        "title": "Three years of Israel’s genocide in Gaza: In numbers",
+        "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+        "seendate": "2026-10-07T05:02:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -236,9 +257,123 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tokyo protests US military presence after Okinawa killing",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-        "seendate": "2026-10-06T21:20:28.000Z",
+        "title": "Three years of Israel’s genocide in Gaza: In numbers",
+        "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+        "seendate": "2026-10-07T05:02:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Australia top court rules against coal mine expansion, citing climate harm",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+    "seendate": "2026-10-07T02:17:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis",
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Australia top court rules against coal mine expansion, citing climate harm",
+        "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+        "seendate": "2026-10-07T02:17:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Australia top court rules against coal mine expansion, citing climate harm",
+        "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+        "seendate": "2026-10-07T02:17:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis",
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+    "seendate": "2026-10-07T01:07:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+        "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+        "seendate": "2026-10-07T01:07:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+        "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+        "seendate": "2026-10-07T01:07:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+    "seendate": "2026-10-07T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+        "seendate": "2026-10-07T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+        "seendate": "2026-10-07T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
