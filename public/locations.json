@@ -1,23 +1,100 @@
 [
   {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "How toxic haze is causing Singapore’s landmarks to disappear",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-07T22:10:20.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T22:10:20.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T22:10:20.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T22:10:20.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T22:10:20.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T22:10:20.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T22:10:20.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "How genocide in Gaza followed Bosnia’s painful pattern",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
-    "seendate": "2026-10-07T18:16:20.000Z",
-    "articleCount": 8,
+    "headline": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
+    "seendate": "2026-10-08T03:25:47.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "How genocide in Gaza followed Bosnia’s painful pattern",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
-        "seendate": "2026-10-07T18:16:20.000Z",
+        "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
+        "seendate": "2026-10-08T03:25:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,49 +102,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "How genocide in Gaza followed Bosnia’s painful pattern",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
-        "seendate": "2026-10-07T18:16:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
-        "seendate": "2026-10-07T18:03:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
-        "seendate": "2026-10-07T18:03:14.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
-        "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
-        "seendate": "2026-10-07T15:13:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
-        "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
-        "seendate": "2026-10-07T15:13:21.000Z",
+        "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
+        "seendate": "2026-10-08T03:25:47.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -77,7 +114,7 @@
       {
         "title": "What Life in Gaza Is Like Now",
         "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T14:19:16.000Z",
+        "seendate": "2026-10-07T21:44:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -87,59 +124,12 @@
       {
         "title": "What Life in Gaza Is Like Now",
         "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T14:19:16.000Z",
+        "seendate": "2026-10-07T21:44:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Lahore",
-    "name": "Lahore",
-    "country": "PK",
-    "lat": 31.54,
-    "lon": 74.35,
-    "timezone": "Asia/Karachi",
-    "headline": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-    "headlineUrl": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-    "seendate": "2026-10-07T13:53:54.000Z",
-    "articleCount": 3,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-        "seendate": "2026-10-07T13:53:54.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-        "seendate": "2026-10-07T13:53:54.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-        "seendate": "2026-10-07T13:53:54.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -150,18 +140,18 @@
     "lat": 31.77,
     "lon": 35.23,
     "timezone": "Asia/Jerusalem",
-    "headline": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
-    "seendate": "2026-10-07T20:17:27.000Z",
+    "headline": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+    "seendate": "2026-10-08T05:06:25.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
-        "seendate": "2026-10-07T20:17:27.000Z",
+        "title": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
+        "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+        "seendate": "2026-10-08T05:06:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -169,9 +159,83 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
-        "seendate": "2026-10-07T20:17:27.000Z",
+        "title": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
+        "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+        "seendate": "2026-10-08T05:06:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "EU-China trade talks begin in Beijing amid escalating pressure",
+    "headlineUrl": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+    "seendate": "2026-10-07T23:45:03.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+        "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+        "seendate": "2026-10-07T23:45:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+        "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+        "seendate": "2026-10-07T23:45:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Pro-Palestine university groups march in London on October 7 anniversary",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
+    "seendate": "2026-10-07T21:33:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Pro-Palestine university groups march in London on October 7 anniversary",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
+        "seendate": "2026-10-07T21:33:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Pro-Palestine university groups march in London on October 7 anniversary",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
+        "seendate": "2026-10-07T21:33:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -226,7 +290,7 @@
     "timezone": "Europe/Paris",
     "headline": "The School Near Paris That Shows Why French Students Are Protesting",
     "headlineUrl": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-    "seendate": "2026-10-07T13:19:04.000Z",
+    "seendate": "2026-10-07T21:33:31.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -235,7 +299,7 @@
       {
         "title": "The School Near Paris That Shows Why French Students Are Protesting",
         "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-        "seendate": "2026-10-07T13:19:04.000Z",
+        "seendate": "2026-10-07T21:33:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -245,7 +309,7 @@
       {
         "title": "The School Near Paris That Shows Why French Students Are Protesting",
         "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-        "seendate": "2026-10-07T13:19:04.000Z",
+        "seendate": "2026-10-07T21:33:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
