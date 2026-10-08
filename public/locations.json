@@ -1,5 +1,327 @@
 [
   {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-08T15:21:46.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T15:21:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T15:21:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T15:21:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T15:21:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T15:21:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T15:21:46.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
+        "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
+        "seendate": "2026-10-08T13:32:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
+        "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
+        "seendate": "2026-10-08T13:32:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
+        "seendate": "2026-10-08T11:42:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
+        "seendate": "2026-10-08T11:42:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York Mayor Mamdani under fire for attending October 7 vigil",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
+    "seendate": "2026-10-08T14:07:13.000Z",
+    "articleCount": 9,
+    "categories": [
+      "armed-conflict",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
+        "seendate": "2026-10-08T14:07:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
+        "seendate": "2026-10-08T14:07:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T23:18:40.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T23:18:40.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T23:18:40.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T23:18:40.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T23:18:40.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-07T23:18:40.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
+        "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
+        "seendate": "2026-10-05T23:22:03.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-08T05:06:09.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "What Life in Gaza Is Like Now",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+        "seendate": "2026-10-07T21:44:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What Life in Gaza Is Like Now",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+        "seendate": "2026-10-07T21:44:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -77,24 +399,71 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Global protests mark October 7 attack with calls for Gaza ceasefire",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
-    "seendate": "2026-10-08T03:25:47.000Z",
-    "articleCount": 4,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+    "headlineUrl": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+    "seendate": "2026-10-08T11:25:28.000Z",
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
-        "seendate": "2026-10-08T03:25:47.000Z",
+        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+        "seendate": "2026-10-08T11:25:28.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+        "seendate": "2026-10-08T11:25:28.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+        "seendate": "2026-10-08T11:25:28.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Two killed after building partially collapses in Turkiye’s Istanbul",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+    "seendate": "2026-10-08T12:44:52.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
+        "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+        "seendate": "2026-10-08T12:44:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -102,19 +471,73 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
-        "seendate": "2026-10-08T03:25:47.000Z",
+        "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
+        "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+        "seendate": "2026-10-08T12:44:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
+    "headlineUrl": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
+    "seendate": "2026-10-08T10:48:41.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
+        "url": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
+        "seendate": "2026-10-08T10:48:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       },
       {
-        "title": "What Life in Gaza Is Like Now",
-        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T21:44:31.000Z",
+        "title": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
+        "url": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
+        "seendate": "2026-10-08T10:48:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+    "headlineUrl": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+    "seendate": "2026-10-08T15:23:36.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+        "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+        "seendate": "2026-10-08T15:23:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -122,9 +545,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "What Life in Gaza Is Like Now",
-        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T21:44:31.000Z",
+        "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+        "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+        "seendate": "2026-10-08T15:23:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -134,135 +557,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-    "seendate": "2026-10-08T05:06:25.000Z",
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
+    "headlineUrl": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
+    "seendate": "2026-10-08T09:01:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
-        "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-        "seendate": "2026-10-08T05:06:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
-        "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-        "seendate": "2026-10-08T05:06:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "EU-China trade talks begin in Beijing amid escalating pressure",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-    "seendate": "2026-10-07T23:45:03.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "EU-China trade talks begin in Beijing amid escalating pressure",
-        "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-        "seendate": "2026-10-07T23:45:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "EU-China trade talks begin in Beijing amid escalating pressure",
-        "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-        "seendate": "2026-10-07T23:45:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Pro-Palestine university groups march in London on October 7 anniversary",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
-    "seendate": "2026-10-07T21:33:21.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Pro-Palestine university groups march in London on October 7 anniversary",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
-        "seendate": "2026-10-07T21:33:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Pro-Palestine university groups march in London on October 7 anniversary",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
-        "seendate": "2026-10-07T21:33:21.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-    "headlineUrl": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-    "seendate": "2026-10-07T19:31:49.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-        "url": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-        "seendate": "2026-10-07T19:31:49.000Z",
+        "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
+        "seendate": "2026-10-08T09:01:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -270,9 +582,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-        "url": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-        "seendate": "2026-10-07T19:31:49.000Z",
+        "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
+        "seendate": "2026-10-08T09:01:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -315,70 +627,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "San Diego",
-    "name": "San Diego",
-    "country": "US",
-    "lat": 32.72,
-    "lon": -117.16,
-    "timezone": "America/Los_Angeles",
-    "headline": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
-    "headlineUrl": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-    "seendate": "2026-10-06T14:03:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
-        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-        "seendate": "2026-10-06T14:03:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
-        "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-        "seendate": "2026-10-06T14:03:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
-    "headlineUrl": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
-    "seendate": "2026-10-05T23:22:03.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
-        "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
-        "seendate": "2026-10-05T23:22:03.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
