@@ -6,14 +6,74 @@
     "lat": 31.77,
     "lon": 35.23,
     "timezone": "Asia/Jerusalem",
-    "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-08T15:21:46.000Z",
-    "articleCount": 10,
+    "headline": "Israel shuts down British consulate in occupied East Jerusalem",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+    "seendate": "2026-10-08T20:34:00.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Israel shuts down British consulate in occupied East Jerusalem",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+        "seendate": "2026-10-08T20:34:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel shuts down British consulate in occupied East Jerusalem",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+        "seendate": "2026-10-08T20:34:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+        "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
+        "seendate": "2026-10-08T18:07:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+        "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
+        "seendate": "2026-10-08T18:07:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Jerusalem Daily: Remembrance and mourning",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+        "seendate": "2026-10-08T17:17:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Remembrance and mourning",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+        "seendate": "2026-10-08T17:17:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
         "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
@@ -75,26 +135,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
-        "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
-        "seendate": "2026-10-08T13:32:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
-        "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
-        "seendate": "2026-10-08T13:32:32.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
         "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
         "seendate": "2026-10-08T11:42:37.000Z",
@@ -117,25 +157,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York Mayor Mamdani under fire for attending October 7 vigil",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
-    "seendate": "2026-10-08T14:07:13.000Z",
-    "articleCount": 9,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+    "seendate": "2026-10-08T19:12:33.000Z",
+    "articleCount": 10,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
-        "seendate": "2026-10-08T14:07:13.000Z",
+        "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+        "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+        "seendate": "2026-10-08T19:12:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -143,15 +182,113 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
-        "seendate": "2026-10-08T14:07:13.000Z",
+        "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+        "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+        "seendate": "2026-10-08T19:12:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T05:06:09.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "What Life in Gaza Is Like Now",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+        "seendate": "2026-10-07T21:44:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What Life in Gaza Is Like Now",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+        "seendate": "2026-10-07T21:44:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-07T23:18:40.000Z",
+    "articleCount": 7,
+    "categories": [
+      "democracy-crisis",
+      "armed-conflict"
+    ],
+    "articles": [
       {
         "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
@@ -221,103 +358,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-08T05:06:09.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "What Life in Gaza Is Like Now",
-        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T21:44:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "What Life in Gaza Is Like Now",
-        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T21:44:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -399,13 +439,60 @@
     ]
   },
   {
+    "id": "San Diego",
+    "name": "San Diego",
+    "country": "US",
+    "lat": 32.72,
+    "lon": -117.16,
+    "timezone": "America/Los_Angeles",
+    "headline": "The long-deployed USS Lincoln is returning home to San Diego",
+    "headlineUrl": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+    "seendate": "2026-10-08T16:18:20.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The long-deployed USS Lincoln is returning home to San Diego",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+        "seendate": "2026-10-08T16:18:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "The long-deployed USS Lincoln is returning home to San Diego",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+        "seendate": "2026-10-08T16:18:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "The long-deployed USS Lincoln is returning home to San Diego",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+        "seendate": "2026-10-08T16:18:20.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+    "headline": "Russian strikes on Ukraine&apos;s public buses leave 30 dead as blackouts worsen in Kyiv",
     "headlineUrl": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
     "seendate": "2026-10-08T11:25:28.000Z",
     "articleCount": 3,
@@ -414,7 +501,7 @@
     ],
     "articles": [
       {
-        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+        "title": "Russian strikes on Ukraine&apos;s public buses leave 30 dead as blackouts worsen in Kyiv",
         "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
         "seendate": "2026-10-08T11:25:28.000Z",
         "source_domain": "npr.org",
@@ -424,7 +511,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+        "title": "Russian strikes on Ukraine&apos;s public buses leave 30 dead as blackouts worsen in Kyiv",
         "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
         "seendate": "2026-10-08T11:25:28.000Z",
         "source_domain": "npr.org",
@@ -434,7 +521,7 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+        "title": "Russian strikes on Ukraine&apos;s public buses leave 30 dead as blackouts worsen in Kyiv",
         "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
         "seendate": "2026-10-08T11:25:28.000Z",
         "source_domain": "npr.org",
@@ -446,98 +533,34 @@
     ]
   },
   {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Two killed after building partially collapses in Turkiye’s Istanbul",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
-    "seendate": "2026-10-08T12:44:52.000Z",
-    "articleCount": 2,
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Sydney Sweeney and Marilyn Monroe share surprising family connection after years of comparisons",
+    "headlineUrl": "https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons",
+    "seendate": "2026-10-08T16:29:12.000Z",
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
-        "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
-        "seendate": "2026-10-08T12:44:52.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Sydney Sweeney and Marilyn Monroe share surprising family connection after years of comparisons",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons",
+        "seendate": "2026-10-08T16:29:12.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "culture-wars"
       },
       {
-        "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
-        "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
-        "seendate": "2026-10-08T12:44:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
-    "seendate": "2026-10-08T10:48:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
-        "url": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
-        "seendate": "2026-10-08T10:48:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
-        "url": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
-        "seendate": "2026-10-08T10:48:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
-    "headlineUrl": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-    "seendate": "2026-10-08T15:23:36.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
-        "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-        "seendate": "2026-10-08T15:23:36.000Z",
+        "title": "The School Near Paris That Shows Why French Students Are Protesting",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+        "seendate": "2026-10-07T21:33:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -545,9 +568,83 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
-        "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-        "seendate": "2026-10-08T15:23:36.000Z",
+        "title": "The School Near Paris That Shows Why French Students Are Protesting",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+        "seendate": "2026-10-07T21:33:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Manila",
+    "name": "Manila",
+    "country": "PH",
+    "lat": 14.6,
+    "lon": 120.98,
+    "timezone": "Asia/Manila",
+    "headline": "Video shows dramatic eruption of volcano near Manila",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-shows-dramatic-eruption-of-volcano-near-manila?traffic_source=rss",
+    "seendate": "2026-10-08T16:55:38.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Video shows dramatic eruption of volcano near Manila",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-shows-dramatic-eruption-of-volcano-near-manila?traffic_source=rss",
+        "seendate": "2026-10-08T16:55:38.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Video shows dramatic eruption of volcano near Manila",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-shows-dramatic-eruption-of-volcano-near-manila?traffic_source=rss",
+        "seendate": "2026-10-08T16:55:38.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Athens",
+    "name": "Athens",
+    "country": "GR",
+    "lat": 37.98,
+    "lon": 23.72,
+    "timezone": "Europe/Athens",
+    "headline": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
+    "headlineUrl": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html",
+    "seendate": "2026-10-08T16:00:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
+        "url": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html",
+        "seendate": "2026-10-08T16:00:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
+        "url": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html",
+        "seendate": "2026-10-08T16:00:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -590,70 +687,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "The School Near Paris That Shows Why French Students Are Protesting",
-    "headlineUrl": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-    "seendate": "2026-10-07T21:33:31.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The School Near Paris That Shows Why French Students Are Protesting",
-        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-        "seendate": "2026-10-07T21:33:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The School Near Paris That Shows Why French Students Are Protesting",
-        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-        "seendate": "2026-10-07T21:33:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "&apos;Grey&apos;s Anatomy&apos; star Isaiah Washington reveals wife died from ‘massive’ stroke in 2025",
-    "headlineUrl": "https://www.foxnews.com/entertainment/greys-anatomy-star-isaiah-washington-reveals-wife-died-from-massive-stroke-2025",
-    "seendate": "2026-10-05T21:03:09.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "&apos;Grey&apos;s Anatomy&apos; star Isaiah Washington reveals wife died from ‘massive’ stroke in 2025",
-        "url": "https://www.foxnews.com/entertainment/greys-anatomy-star-isaiah-washington-reveals-wife-died-from-massive-stroke-2025",
-        "seendate": "2026-10-05T21:03:09.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
