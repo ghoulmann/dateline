@@ -1,83 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Photos: Gaza before and after – a city transformed by war",
-    "headlineUrl": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
-    "seendate": "2026-10-09T05:22:16.000Z",
-    "articleCount": 14,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Fleeing Kyiv for the countryside ahead of winter",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-09T10:00:49.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Photos: Gaza before and after – a city transformed by war",
-        "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
-        "seendate": "2026-10-09T05:22:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Photos: Gaza before and after – a city transformed by war",
-        "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
-        "seendate": "2026-10-09T05:22:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-        "seendate": "2026-10-09T00:12:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-        "seendate": "2026-10-09T00:12:18.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
-        "seendate": "2026-10-08T22:54:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
-        "seendate": "2026-10-08T22:54:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
+        "title": "Fleeing Kyiv for the countryside ahead of winter",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T10:00:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
+        "title": "Fleeing Kyiv for the countryside ahead of winter",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T10:00:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
+        "title": "Fleeing Kyiv for the countryside ahead of winter",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T10:00:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -105,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
+        "title": "Fleeing Kyiv for the countryside ahead of winter",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T10:00:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -115,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
+        "title": "Fleeing Kyiv for the countryside ahead of winter",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T10:00:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -125,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T05:06:09.000Z",
+        "title": "Fleeing Kyiv for the countryside ahead of winter",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T10:00:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -135,166 +75,86 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "What Life in Gaza Is Like Now",
-        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T21:44:31.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T04:53:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T04:53:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T04:53:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T04:53:50.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "What Life in Gaza Is Like Now",
-        "url": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
-        "seendate": "2026-10-07T21:44:31.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T04:53:50.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T04:53:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-08T15:21:46.000Z",
-    "articleCount": 14,
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Houthi Attacks on Riyadh Airport Leave 3 Dead, Saudi Arabia Says",
+    "headlineUrl": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+    "seendate": "2026-10-09T14:40:30.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T15:21:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T15:21:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T15:21:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T15:21:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T15:21:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T15:21:46.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T12:01:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T12:01:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T12:01:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T12:01:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T12:01:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-08T12:01:55.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-        "seendate": "2026-10-08T11:42:37.000Z",
+        "title": "Houthi Attacks on Riyadh Airport Leave 3 Dead, Saudi Arabia Says",
+        "url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+        "seendate": "2026-10-09T14:40:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -302,14 +162,94 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-        "seendate": "2026-10-08T11:42:37.000Z",
+        "title": "Houthi Attacks on Riyadh Airport Leave 3 Dead, Saudi Arabia Says",
+        "url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+        "seendate": "2026-10-09T14:40:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T13:50:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T13:50:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T13:50:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T13:50:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T13:50:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T13:50:25.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+        "url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+        "seendate": "2026-10-09T11:46:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+        "url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+        "seendate": "2026-10-09T11:46:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -320,116 +260,125 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
-    "seendate": "2026-10-09T03:25:33.000Z",
+    "headline": "ICE agent shoots man in New York City",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-09T12:18:52.000Z",
+    "articleCount": 9,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "ICE agent shoots man in New York City",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T12:18:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "ICE agent shoots man in New York City",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T12:18:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "ICE agent shoots man in New York City",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T12:18:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "ICE agent shoots man in New York City",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T12:18:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "ICE agent shoots man in New York City",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T12:18:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "ICE agent shoots man in New York City",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T12:18:52.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+        "seendate": "2026-10-09T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+        "seendate": "2026-10-09T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+        "seendate": "2026-10-09T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-08T12:01:55.000Z",
     "articleCount": 8,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
-        "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
-        "seendate": "2026-10-09T03:25:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
-        "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
-        "seendate": "2026-10-09T03:25:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T23:18:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T23:18:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T23:18:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T23:18:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T23:18:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T23:18:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-09T04:53:50.000Z",
-    "articleCount": 6,
-    "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
+        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T12:01:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -437,9 +386,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
+        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T12:01:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -447,9 +396,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
+        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T12:01:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -457,9 +406,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
+        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T12:01:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -467,9 +416,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
+        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T12:01:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -477,91 +426,34 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
+        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T12:01:55.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "How toxic haze is causing Singapore’s landmarks to disappear",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-07T22:10:20.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T22:10:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
       },
       {
-        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T22:10:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T22:10:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T22:10:20.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
+        "seendate": "2026-10-08T11:42:37.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T22:10:20.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
+        "seendate": "2026-10-08T11:42:37.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-        "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-07T22:10:20.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -572,95 +464,95 @@
     "lat": 32.72,
     "lon": -117.16,
     "timezone": "America/Los_Angeles",
-    "headline": "The long-deployed USS Lincoln returns home to San Diego Bay",
-    "headlineUrl": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-    "seendate": "2026-10-09T00:05:48.000Z",
+    "headline": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-08T22:26:10.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-        "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-        "seendate": "2026-10-09T00:05:48.000Z",
-        "source_domain": "npr.org",
+        "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+        "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T22:26:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+        "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T22:26:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+        "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T22:26:10.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-        "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-        "seendate": "2026-10-09T00:05:48.000Z",
-        "source_domain": "npr.org",
+        "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+        "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T22:26:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+        "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T22:26:10.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+        "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-08T22:26:10.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-        "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-        "seendate": "2026-10-09T00:05:48.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "The long-deployed USS Lincoln is returning home to San Diego",
-        "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-        "seendate": "2026-10-08T16:18:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "The long-deployed USS Lincoln is returning home to San Diego",
-        "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-        "seendate": "2026-10-08T16:18:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "The long-deployed USS Lincoln is returning home to San Diego",
-        "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-        "seendate": "2026-10-08T16:18:20.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Police use tear gas and water cannons on student protestors in Paris",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-    "seendate": "2026-10-08T21:17:05.000Z",
-    "articleCount": 5,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid’s Mourinho lashes out at ‘ridiculous’ criticism of Mbappe",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss",
+    "seendate": "2026-10-09T11:29:15.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Police use tear gas and water cannons on student protestors in Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-        "seendate": "2026-10-08T21:17:05.000Z",
+        "title": "Real Madrid’s Mourinho lashes out at ‘ridiculous’ criticism of Mbappe",
+        "url": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss",
+        "seendate": "2026-10-09T11:29:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -668,44 +560,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Police use tear gas and water cannons on student protestors in Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-        "seendate": "2026-10-08T21:17:05.000Z",
+        "title": "Real Madrid’s Mourinho lashes out at ‘ridiculous’ criticism of Mbappe",
+        "url": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss",
+        "seendate": "2026-10-09T11:29:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "The girls in the Gaza school photograph",
+    "headlineUrl": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+    "seendate": "2026-10-09T10:23:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Sydney Sweeney and Marilyn Monroe share surprising family connection after years of comparisons",
-        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons",
-        "seendate": "2026-10-08T16:29:12.000Z",
-        "source_domain": "foxnews.com",
+        "title": "The girls in the Gaza school photograph",
+        "url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+        "seendate": "2026-10-09T10:23:42.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "The School Near Paris That Shows Why French Students Are Protesting",
-        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-        "seendate": "2026-10-07T21:33:31.000Z",
-        "source_domain": "nytimes.com",
+        "title": "The girls in the Gaza school photograph",
+        "url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+        "seendate": "2026-10-09T10:23:42.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The School Near Paris That Shows Why French Students Are Protesting",
-        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-        "seendate": "2026-10-07T21:33:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -718,7 +617,7 @@
     "timezone": "Europe/London",
     "headline": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
     "headlineUrl": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-    "seendate": "2026-10-09T05:02:57.000Z",
+    "seendate": "2026-10-09T10:24:27.000Z",
     "articleCount": 2,
     "categories": [
       "democracy-crisis"
@@ -727,7 +626,7 @@
       {
         "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
         "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-        "seendate": "2026-10-09T05:02:57.000Z",
+        "seendate": "2026-10-09T10:24:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -737,7 +636,7 @@
       {
         "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
         "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-        "seendate": "2026-10-09T05:02:57.000Z",
+        "seendate": "2026-10-09T10:24:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -817,6 +716,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Sydney Sweeney and Marilyn Monroe share surprising family connection after years of comparisons",
+    "headlineUrl": "https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons",
+    "seendate": "2026-10-08T16:29:12.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Sydney Sweeney and Marilyn Monroe share surprising family connection after years of comparisons",
+        "url": "https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons",
+        "seendate": "2026-10-08T16:29:12.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
