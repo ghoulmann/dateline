@@ -1,142 +1,5 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Fleeing Kyiv for the countryside ahead of winter",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-09T10:00:49.000Z",
-    "articleCount": 12,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Fleeing Kyiv for the countryside ahead of winter",
-        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T10:00:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fleeing Kyiv for the countryside ahead of winter",
-        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T10:00:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Fleeing Kyiv for the countryside ahead of winter",
-        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T10:00:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Fleeing Kyiv for the countryside ahead of winter",
-        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T10:00:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Fleeing Kyiv for the countryside ahead of winter",
-        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T10:00:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Fleeing Kyiv for the countryside ahead of winter",
-        "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T10:00:49.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T04:53:50.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Riyadh",
     "name": "Riyadh",
     "country": "SA",
@@ -214,114 +77,50 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-    "seendate": "2026-10-09T18:15:06.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-        "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-        "seendate": "2026-10-09T18:15:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-        "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-        "seendate": "2026-10-09T18:15:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-        "seendate": "2026-10-09T17:37:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-        "seendate": "2026-10-09T17:37:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Brussels",
-    "name": "Brussels",
-    "country": "BE",
-    "lat": 50.85,
-    "lon": 4.35,
-    "timezone": "Europe/Brussels",
-    "headline": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-    "seendate": "2026-10-09T16:07:29.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-        "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-        "seendate": "2026-10-09T16:07:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-        "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-        "seendate": "2026-10-09T16:07:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-    "headlineUrl": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-    "seendate": "2026-10-09T20:15:34.000Z",
-    "articleCount": 2,
+    "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+    "headlineUrl": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "seendate": "2026-10-09T21:24:13.000Z",
+    "articleCount": 5,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+        "seendate": "2026-10-09T21:24:13.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+        "seendate": "2026-10-09T21:24:13.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+        "seendate": "2026-10-09T21:24:13.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
         "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
@@ -341,6 +140,80 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia",
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 39.95,
+    "lon": -75.17,
+    "timezone": "America/New_York",
+    "headline": "Anthropic AI model submits false homicide tip to Philadelphia police",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+    "seendate": "2026-10-10T04:54:59.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+        "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+        "seendate": "2026-10-10T04:54:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+        "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+        "seendate": "2026-10-10T04:54:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "CCTV footage shows ICE shooting in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
+    "seendate": "2026-10-10T03:38:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "CCTV footage shows ICE shooting in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
+        "seendate": "2026-10-10T03:38:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "CCTV footage shows ICE shooting in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
+        "seendate": "2026-10-10T03:38:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -447,43 +320,6 @@
         "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
         "url": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
         "seendate": "2026-10-08T09:01:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-    "headlineUrl": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-    "seendate": "2026-10-08T11:42:37.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-        "seendate": "2026-10-08T11:42:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-        "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-        "seendate": "2026-10-08T11:42:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
