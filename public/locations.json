@@ -1,23 +1,150 @@
 [
   {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-09T13:50:25.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "When streets become a workplace: Gaza workers convert tents into offices",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
+    "seendate": "2026-10-10T13:50:05.000Z",
+    "articleCount": 11,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "When streets become a workplace: Gaza workers convert tents into offices",
+        "url": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
+        "seendate": "2026-10-10T13:50:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "When streets become a workplace: Gaza workers convert tents into offices",
+        "url": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
+        "seendate": "2026-10-10T13:50:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+        "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+        "seendate": "2026-10-10T12:40:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+        "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+        "seendate": "2026-10-10T12:40:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+        "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+        "seendate": "2026-10-10T11:19:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+        "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+        "seendate": "2026-10-10T11:19:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+        "url": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+        "seendate": "2026-10-10T09:30:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+        "url": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+        "seendate": "2026-10-10T09:30:14.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+        "seendate": "2026-10-10T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+        "seendate": "2026-10-10T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+        "seendate": "2026-10-10T09:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "BBC breaks down video of the aftermath of New York City ICE shooting",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-09T20:20:09.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T13:50:25.000Z",
+        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T20:20:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +152,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T13:50:25.000Z",
+        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T20:20:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +162,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T13:50:25.000Z",
+        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T20:20:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +172,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T13:50:25.000Z",
+        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T20:20:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +182,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T13:50:25.000Z",
+        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T20:20:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +192,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T13:50:25.000Z",
+        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-09T20:20:09.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -144,24 +271,24 @@
     ]
   },
   {
-    "id": "Philadelphia",
-    "name": "Philadelphia",
-    "country": "US",
-    "lat": 39.95,
-    "lon": -75.17,
-    "timezone": "America/New_York",
-    "headline": "Anthropic AI model submits false homicide tip to Philadelphia police",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
-    "seendate": "2026-10-10T04:54:59.000Z",
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
+    "seendate": "2026-10-10T13:08:35.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
-        "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
-        "seendate": "2026-10-10T04:54:59.000Z",
+        "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
+        "url": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
+        "seendate": "2026-10-10T13:08:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -169,46 +296,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
-        "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
-        "seendate": "2026-10-10T04:54:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "CCTV footage shows ICE shooting in New York",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
-    "seendate": "2026-10-10T03:38:05.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "CCTV footage shows ICE shooting in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
-        "seendate": "2026-10-10T03:38:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "CCTV footage shows ICE shooting in New York",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
-        "seendate": "2026-10-10T03:38:05.000Z",
+        "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
+        "url": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
+        "seendate": "2026-10-10T13:08:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -283,43 +373,6 @@
         "title": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
         "url": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html",
         "seendate": "2026-10-08T16:00:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
-    "headlineUrl": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
-    "seendate": "2026-10-08T09:01:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
-        "url": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
-        "seendate": "2026-10-08T09:01:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
-        "url": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
-        "seendate": "2026-10-08T09:01:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
