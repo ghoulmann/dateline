@@ -6,18 +6,38 @@
     "lat": 24.69,
     "lon": 46.72,
     "timezone": "Asia/Riyadh",
-    "headline": "Several injured in attack on airport in Saudi capital Riyadh",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-10T18:37:10.000Z",
-    "articleCount": 10,
+    "headline": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+    "headlineUrl": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+    "seendate": "2026-10-10T22:57:07.000Z",
+    "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "seendate": "2026-10-10T22:57:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "seendate": "2026-10-10T22:57:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-10T18:37:10.000Z",
+        "seendate": "2026-10-10T22:40:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-10T18:37:10.000Z",
+        "seendate": "2026-10-10T22:40:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-10T18:37:10.000Z",
+        "seendate": "2026-10-10T22:40:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-10T18:37:10.000Z",
+        "seendate": "2026-10-10T22:40:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-10T18:37:10.000Z",
+        "seendate": "2026-10-10T22:40:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +85,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-10T18:37:10.000Z",
+        "seendate": "2026-10-10T22:40:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,27 +95,37 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-10T18:30:34.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+        "seendate": "2026-10-10T21:32:53.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-10T18:30:34.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+        "seendate": "2026-10-10T21:32:53.000Z",
+        "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "climate-watch"
       },
       {
-        "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+        "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+        "seendate": "2026-10-10T21:32:53.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
         "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
         "seendate": "2026-10-10T18:08:46.000Z",
         "source_domain": "aljazeera.com",
@@ -105,7 +135,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+        "title": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
         "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
         "seendate": "2026-10-10T18:08:46.000Z",
         "source_domain": "aljazeera.com",
@@ -123,15 +153,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-    "seendate": "2026-10-10T18:38:01.000Z",
-    "articleCount": 9,
+    "headline": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+    "seendate": "2026-10-10T20:14:01.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+        "seendate": "2026-10-10T20:14:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+        "seendate": "2026-10-10T20:14:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
         "seendate": "2026-10-10T18:38:01.000Z",
@@ -170,56 +220,6 @@
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "When streets become a workplace: Gaza workers convert tents into offices",
-        "url": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
-        "seendate": "2026-10-10T13:50:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "When streets become a workplace: Gaza workers convert tents into offices",
-        "url": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
-        "seendate": "2026-10-10T13:50:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Photos: What a year of ceasefire in Gaza looks like",
-        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-        "seendate": "2026-10-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Photos: What a year of ceasefire in Gaza looks like",
-        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-        "seendate": "2026-10-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Photos: What a year of ceasefire in Gaza looks like",
-        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-        "seendate": "2026-10-10T09:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -301,24 +301,92 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli settlers attack olive farmers",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-    "seendate": "2026-10-10T14:39:53.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Bayeux Tapestry&apos;s London tour spurs enthusiasts to Battle of Hastings reenactment",
+    "headlineUrl": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+    "seendate": "2026-10-10T21:40:58.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Bayeux Tapestry&apos;s London tour spurs enthusiasts to Battle of Hastings reenactment",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+        "seendate": "2026-10-10T21:40:58.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Bayeux Tapestry&apos;s London tour spurs enthusiasts to Battle of Hastings reenactment",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+        "seendate": "2026-10-10T21:40:58.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Bayeux Tapestry&apos;s London tour spurs enthusiasts to Battle of Hastings reenactment",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+        "seendate": "2026-10-10T21:40:58.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
+        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
+        "seendate": "2026-10-09T10:24:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
+        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
+        "seendate": "2026-10-09T10:24:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+    "seendate": "2026-10-10T21:40:20.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-        "seendate": "2026-10-10T14:39:53.000Z",
+        "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+        "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+        "seendate": "2026-10-10T21:40:20.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -326,9 +394,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-        "seendate": "2026-10-10T14:39:53.000Z",
+        "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+        "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+        "seendate": "2026-10-10T21:40:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+    "seendate": "2026-10-10T19:59:08.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+        "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+        "seendate": "2026-10-10T19:59:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+        "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+        "seendate": "2026-10-10T19:59:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -369,43 +474,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-    "headlineUrl": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-    "seendate": "2026-10-09T10:24:27.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-        "seendate": "2026-10-09T10:24:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-        "seendate": "2026-10-09T10:24:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
       }
