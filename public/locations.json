@@ -6,14 +6,134 @@
     "lat": 24.69,
     "lon": 46.72,
     "timezone": "Asia/Riyadh",
-    "headline": "Riyadh airport attacks another dangerous moment in already tense conflict",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-11T15:32:32.000Z",
-    "articleCount": 11,
+    "headline": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+    "seendate": "2026-10-12T02:11:21.000Z",
+    "articleCount": 20,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+        "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+        "seendate": "2026-10-12T02:11:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+        "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+        "seendate": "2026-10-12T02:11:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+        "seendate": "2026-10-11T23:20:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+        "seendate": "2026-10-11T23:20:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-11T22:45:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-11T22:45:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-11T22:45:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-11T22:45:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-11T22:45:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-11T22:45:58.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+        "seendate": "2026-10-11T22:24:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+        "seendate": "2026-10-11T22:24:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
         "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
@@ -93,36 +213,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-        "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-        "seendate": "2026-10-10T23:44:15.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-        "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-        "seendate": "2026-10-10T23:44:15.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-        "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-        "seendate": "2026-10-10T23:44:15.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -133,18 +223,38 @@
     "lat": 11.59,
     "lon": 43.15,
     "timezone": "Africa/Djibouti",
-    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-    "headlineUrl": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-    "seendate": "2026-10-11T18:57:59.000Z",
-    "articleCount": 8,
+    "headline": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+    "seendate": "2026-10-12T03:09:11.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+        "seendate": "2026-10-12T03:09:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+        "seendate": "2026-10-12T03:09:11.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
         "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-        "seendate": "2026-10-11T18:57:59.000Z",
+        "seendate": "2026-10-11T18:58:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -154,7 +264,7 @@
       {
         "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
         "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-        "seendate": "2026-10-11T18:57:59.000Z",
+        "seendate": "2026-10-11T18:58:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -230,18 +340,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-    "seendate": "2026-10-11T18:25:42.000Z",
-    "articleCount": 6,
+    "headline": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+    "seendate": "2026-10-12T04:24:18.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-10-11T18:25:42.000Z",
+        "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+        "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+        "seendate": "2026-10-12T04:24:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -249,29 +359,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-        "seendate": "2026-10-11T18:25:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
-        "seendate": "2026-10-11T17:14:50.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
-        "seendate": "2026-10-11T17:14:50.000Z",
+        "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+        "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+        "seendate": "2026-10-12T04:24:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -301,101 +391,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "BBC breaks down video of the aftermath of New York City ICE shooting",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-09T20:20:09.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T20:20:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T20:20:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T20:20:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T20:20:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T20:20:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-        "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-09T20:20:09.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-    "seendate": "2026-10-11T18:47:57.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+    "seendate": "2026-10-12T00:00:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-        "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-        "seendate": "2026-10-11T18:47:57.000Z",
+        "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+        "seendate": "2026-10-12T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -403,9 +416,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-        "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-        "seendate": "2026-10-11T18:47:57.000Z",
+        "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+        "seendate": "2026-10-12T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -446,43 +459,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-    "headlineUrl": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-    "seendate": "2026-10-09T10:24:27.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-        "seendate": "2026-10-09T10:24:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-        "seendate": "2026-10-09T10:24:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
       }
