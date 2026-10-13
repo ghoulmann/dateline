@@ -1,43 +1,23 @@
 [
   {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-    "headlineUrl": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-    "seendate": "2026-10-11T18:58:00.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-13T18:23:22.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-        "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-        "seendate": "2026-10-11T18:58:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-        "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-        "seendate": "2026-10-11T18:58:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:23.000Z",
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T18:23:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:23.000Z",
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T18:23:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:23.000Z",
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T18:23:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:23.000Z",
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T18:23:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:23.000Z",
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T18:23:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,86 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-12T09:38:03.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T18:23:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -172,9 +75,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-11T08:55:27.000Z",
+        "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
+        "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+        "seendate": "2026-10-12T12:36:54.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -182,9 +85,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-11T08:55:27.000Z",
+        "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
+        "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+        "seendate": "2026-10-12T12:36:54.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -271,101 +174,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-12T20:17:37.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-    "seendate": "2026-10-13T07:45:07.000Z",
+    "headline": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
+    "seendate": "2026-10-13T18:42:52.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-        "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-        "seendate": "2026-10-13T07:45:07.000Z",
+        "title": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
+        "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
+        "seendate": "2026-10-13T18:42:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -373,9 +199,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-        "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-        "seendate": "2026-10-13T07:45:07.000Z",
+        "title": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
+        "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
+        "seendate": "2026-10-13T18:42:52.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -405,24 +231,61 @@
     ]
   },
   {
-    "id": "Ramallah",
-    "name": "Ramallah",
-    "country": "PS",
-    "lat": 31.9,
-    "lon": 35.21,
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
+    "seendate": "2026-10-13T16:49:54.000Z",
+    "articleCount": 2,
+    "categories": [
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
+        "seendate": "2026-10-13T16:49:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
+        "seendate": "2026-10-13T16:49:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
     "timezone": "Asia/Jerusalem",
-    "headline": "Israel’s military raids NGO offices in Ramallah",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
-    "seendate": "2026-10-13T10:53:16.000Z",
+    "headline": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
+    "seendate": "2026-10-13T16:38:45.000Z",
     "articleCount": 2,
     "categories": [
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Israel’s military raids NGO offices in Ramallah",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
-        "seendate": "2026-10-13T10:53:16.000Z",
+        "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
+        "seendate": "2026-10-13T16:38:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
@@ -430,9 +293,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel’s military raids NGO offices in Ramallah",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
-        "seendate": "2026-10-13T10:53:16.000Z",
+        "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
+        "seendate": "2026-10-13T16:38:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
@@ -442,24 +305,24 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
-    "seendate": "2026-10-13T06:42:02.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Atletico Madrid vs Manchester United LIVE: Champions League",
+    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
+    "seendate": "2026-10-13T15:00:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
-        "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
-        "seendate": "2026-10-13T06:42:02.000Z",
+        "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
+        "seendate": "2026-10-13T15:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -467,9 +330,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
-        "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
-        "seendate": "2026-10-13T06:42:02.000Z",
+        "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
+        "seendate": "2026-10-13T15:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -479,24 +342,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-    "headlineUrl": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-    "seendate": "2026-10-12T12:36:54.000Z",
+    "id": "Djibouti",
+    "name": "Djibouti",
+    "country": "DJ",
+    "lat": 11.59,
+    "lon": 43.15,
+    "timezone": "Africa/Djibouti",
+    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+    "headlineUrl": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+    "seendate": "2026-10-11T18:58:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-        "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-        "seendate": "2026-10-12T12:36:54.000Z",
+        "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+        "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+        "seendate": "2026-10-11T18:58:00.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -504,9 +367,46 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-        "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-        "seendate": "2026-10-12T12:36:54.000Z",
+        "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+        "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+        "seendate": "2026-10-11T18:58:00.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+    "headlineUrl": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+    "seendate": "2026-10-11T08:55:27.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "seendate": "2026-10-11T08:55:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "seendate": "2026-10-11T08:55:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
