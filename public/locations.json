@@ -1,5 +1,102 @@
 [
   {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-13T22:29:55.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:29:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:29:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:29:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:29:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:29:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:29:55.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+        "seendate": "2026-10-13T20:33:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+        "seendate": "2026-10-13T20:33:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -103,18 +200,18 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-13T05:02:34.000Z",
+    "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-13T22:14:33.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-13T05:02:34.000Z",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:14:33.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +219,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-13T05:02:34.000Z",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:14:33.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +229,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-13T05:02:34.000Z",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:14:33.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +239,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-13T05:02:34.000Z",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:14:33.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +249,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-13T05:02:34.000Z",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:14:33.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,9 +259,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-13T05:02:34.000Z",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T22:14:33.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -180,7 +277,7 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
+    "headline": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
     "headlineUrl": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
     "seendate": "2026-10-13T18:42:52.000Z",
     "articleCount": 4,
@@ -189,7 +286,7 @@
     ],
     "articles": [
       {
-        "title": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
+        "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
         "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
         "seendate": "2026-10-13T18:42:52.000Z",
         "source_domain": "aljazeera.com",
@@ -199,7 +296,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
+        "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
         "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
         "seendate": "2026-10-13T18:42:52.000Z",
         "source_domain": "aljazeera.com",
@@ -231,98 +328,24 @@
     ]
   },
   {
-    "id": "Tripoli",
-    "name": "Tripoli",
-    "country": "LY",
-    "lat": 32.9,
-    "lon": 13.18,
-    "timezone": "Africa/Tripoli",
-    "headline": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
-    "seendate": "2026-10-13T16:49:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
-        "seendate": "2026-10-13T16:49:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
-        "seendate": "2026-10-13T16:49:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
-    "seendate": "2026-10-13T16:38:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
-        "seendate": "2026-10-13T16:38:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
-        "seendate": "2026-10-13T16:38:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Atletico Madrid vs Manchester United LIVE: Champions League",
-    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
-    "seendate": "2026-10-13T15:00:00.000Z",
+    "headline": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+    "seendate": "2026-10-13T21:24:19.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
-        "seendate": "2026-10-13T15:00:00.000Z",
+        "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+        "url": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+        "seendate": "2026-10-13T21:24:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -330,9 +353,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
-        "seendate": "2026-10-13T15:00:00.000Z",
+        "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+        "url": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+        "seendate": "2026-10-13T21:24:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Houston",
+    "name": "Houston",
+    "country": "US",
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
+    "seendate": "2026-10-13T21:03:40.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
+        "seendate": "2026-10-13T21:03:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
+        "seendate": "2026-10-13T21:03:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -370,43 +430,6 @@
         "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
         "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
         "seendate": "2026-10-11T18:58:00.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-    "headlineUrl": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-    "seendate": "2026-10-11T08:55:27.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-11T08:55:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-11T08:55:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
