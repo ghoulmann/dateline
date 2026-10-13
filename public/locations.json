@@ -1,299 +1,5 @@
 [
   {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-    "seendate": "2026-10-13T00:00:00.000Z",
-    "articleCount": 18,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-        "seendate": "2026-10-13T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-        "seendate": "2026-10-13T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
-        "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
-        "seendate": "2026-10-12T23:54:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
-        "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
-        "seendate": "2026-10-12T23:54:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T09:38:03.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-11T15:32:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-11T08:55:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-        "seendate": "2026-10-11T08:55:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-12T20:17:37.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-12T20:17:37.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-        "seendate": "2026-10-09T20:15:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-        "seendate": "2026-10-09T20:15:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Djibouti",
     "name": "Djibouti",
     "country": "DJ",
@@ -391,24 +97,275 @@
     ]
   },
   {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-12T09:38:03.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T09:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T09:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T09:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T09:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T09:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T09:38:03.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "seendate": "2026-10-11T08:55:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "seendate": "2026-10-11T08:55:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-13T05:02:34.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T05:02:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T05:02:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T05:02:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T05:02:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T05:02:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-13T05:02:34.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-12T20:17:37.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T20:17:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T20:17:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T20:17:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T20:17:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T20:17:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-12T20:17:37.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
-    "seendate": "2026-10-12T20:06:04.000Z",
+    "headline": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+    "seendate": "2026-10-13T07:45:07.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
-        "seendate": "2026-10-12T20:06:04.000Z",
+        "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+        "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+        "seendate": "2026-10-13T07:45:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -416,9 +373,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
-        "seendate": "2026-10-12T20:06:04.000Z",
+        "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+        "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+        "seendate": "2026-10-13T07:45:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -448,24 +405,61 @@
     ]
   },
   {
-    "id": "Rome",
-    "name": "Rome",
-    "country": "IT",
-    "lat": 41.9,
-    "lon": 12.5,
-    "timezone": "Europe/Rome",
-    "headline": "Pope Leo to undergo surgery to remove lung nodule in Rome",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
-    "seendate": "2026-10-12T19:06:44.000Z",
+    "id": "Ramallah",
+    "name": "Ramallah",
+    "country": "PS",
+    "lat": 31.9,
+    "lon": 35.21,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israel’s military raids NGO offices in Ramallah",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+    "seendate": "2026-10-13T10:53:16.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Israel’s military raids NGO offices in Ramallah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+        "seendate": "2026-10-13T10:53:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel’s military raids NGO offices in Ramallah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+        "seendate": "2026-10-13T10:53:16.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
+    "seendate": "2026-10-13T06:42:02.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
-        "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
-        "seendate": "2026-10-12T19:06:44.000Z",
+        "title": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+        "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
+        "seendate": "2026-10-13T06:42:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -473,9 +467,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
-        "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
-        "seendate": "2026-10-12T19:06:44.000Z",
+        "title": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+        "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
+        "seendate": "2026-10-13T06:42:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
