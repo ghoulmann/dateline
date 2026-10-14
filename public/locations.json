@@ -1,102 +1,5 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-14T03:54:41.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T03:54:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T03:54:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T03:54:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T03:54:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T03:54:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T03:54:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
-        "seendate": "2026-10-14T02:45:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
-        "seendate": "2026-10-14T02:45:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -194,24 +97,101 @@
     ]
   },
   {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-14T04:20:17.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "UK restaurateur claims losses after video calling for Gaza destruction",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+    "seendate": "2026-10-14T13:28:21.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:20:17.000Z",
+        "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+        "seendate": "2026-10-14T13:28:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+        "seendate": "2026-10-14T13:28:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli air strike kills Palestinian woman in Gaza City",
+        "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+        "seendate": "2026-10-14T10:08:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli air strike kills Palestinian woman in Gaza City",
+        "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+        "seendate": "2026-10-14T10:08:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
+        "seendate": "2026-10-14T09:40:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
+        "seendate": "2026-10-14T09:40:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-14T13:11:17.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T13:11:17.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -219,9 +199,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:20:17.000Z",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T13:11:17.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -229,9 +209,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:20:17.000Z",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T13:11:17.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -239,9 +219,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:20:17.000Z",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T13:11:17.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -249,9 +229,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:20:17.000Z",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T13:11:17.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -259,9 +239,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:20:17.000Z",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T13:11:17.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -271,81 +251,98 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+    "seendate": "2026-10-14T12:28:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+        "seendate": "2026-10-14T12:28:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+        "seendate": "2026-10-14T12:28:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+    "seendate": "2026-10-14T11:39:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+        "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+        "seendate": "2026-10-14T11:39:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+        "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+        "seendate": "2026-10-14T11:39:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Ramallah",
+    "name": "Ramallah",
     "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-    "seendate": "2026-10-14T00:45:16.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-        "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-        "seendate": "2026-10-14T00:45:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-        "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-        "seendate": "2026-10-14T00:45:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Wringing Hope From the Rubble of Gaza",
-        "url": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-        "seendate": "2026-10-11T11:25:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Wringing Hope From the Rubble of Gaza",
-        "url": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-        "seendate": "2026-10-11T11:25:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Singapore’s economy grows more than 5 percent amid AI boom",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-    "seendate": "2026-10-14T04:25:02.000Z",
+    "lat": 31.9,
+    "lon": 35.21,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+    "seendate": "2026-10-14T10:49:40.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-        "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-        "seendate": "2026-10-14T04:25:02.000Z",
+        "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+        "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+        "seendate": "2026-10-14T10:49:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -353,9 +350,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-        "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-        "seendate": "2026-10-14T04:25:02.000Z",
+        "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+        "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+        "seendate": "2026-10-14T10:49:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -365,24 +362,24 @@
     ]
   },
   {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "country": "DJ",
-    "lat": 11.59,
-    "lon": 43.15,
-    "timezone": "Africa/Djibouti",
-    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-    "headlineUrl": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-    "seendate": "2026-10-11T18:58:00.000Z",
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+    "headlineUrl": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+    "seendate": "2026-10-14T11:56:38.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-        "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-        "seendate": "2026-10-11T18:58:00.000Z",
+        "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+        "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+        "seendate": "2026-10-14T11:56:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -390,9 +387,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-        "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-        "seendate": "2026-10-11T18:58:00.000Z",
+        "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+        "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+        "seendate": "2026-10-14T11:56:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
