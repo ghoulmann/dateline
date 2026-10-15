@@ -1,198 +1,224 @@
 [
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-14T15:34:19.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T15:34:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T15:34:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T15:34:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T15:34:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T15:34:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T15:34:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-14T04:21:25.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-        "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:21:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-        "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:21:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-        "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:21:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-        "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:21:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-        "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:21:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-        "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T04:21:25.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Istanbul",
     "name": "Istanbul",
     "country": "TR",
     "lat": 41.01,
     "lon": 28.98,
     "timezone": "Europe/Istanbul",
-    "headline": "Teenager dies as heavy rain floods Istanbul",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
-    "seendate": "2026-10-15T03:12:02.000Z",
-    "articleCount": 4,
+    "headline": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-15T10:05:29.000Z",
+    "articleCount": 6,
     "categories": [
-      "natural-disaster",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Teenager dies as heavy rain floods Istanbul",
-        "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
-        "seendate": "2026-10-15T03:12:02.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Teenager dies as heavy rain floods Istanbul",
-        "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
-        "seendate": "2026-10-15T03:12:02.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
-        "seendate": "2026-10-15T01:29:43.000Z",
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-14T23:32:11.000Z",
+    "articleCount": 6,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T23:32:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T23:32:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T23:32:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T23:32:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T23:32:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-14T23:32:11.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
+    "headlineUrl": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+    "seendate": "2026-10-15T10:00:00.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+        "seendate": "2026-10-15T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+        "seendate": "2026-10-15T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+        "seendate": "2026-10-15T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+    "seendate": "2026-10-15T08:37:41.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+        "url": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+        "seendate": "2026-10-15T08:37:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -200,9 +226,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
-        "seendate": "2026-10-15T01:29:43.000Z",
+        "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+        "url": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+        "seendate": "2026-10-15T08:37:41.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -212,24 +238,24 @@
     ]
   },
   {
-    "id": "Nairobi",
-    "name": "Nairobi",
-    "country": "KE",
-    "lat": -1.29,
-    "lon": 36.82,
-    "timezone": "Africa/Nairobi",
-    "headline": "Kenya’s Ebola cases test preparedness beyond Nairobi",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-    "seendate": "2026-10-15T02:45:49.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
+    "seendate": "2026-10-15T08:24:35.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
-        "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-        "seendate": "2026-10-15T02:45:49.000Z",
+        "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+        "url": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
+        "seendate": "2026-10-15T08:24:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -237,9 +263,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
-        "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-        "seendate": "2026-10-15T02:45:49.000Z",
+        "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+        "url": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
+        "seendate": "2026-10-15T08:24:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -249,113 +275,76 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia: What has Kais Saied achieved economically in seven years?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
-    "seendate": "2026-10-15T02:42:21.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+    "seendate": "2026-10-15T09:03:54.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
-        "url": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
-        "seendate": "2026-10-15T02:42:21.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+        "seendate": "2026-10-15T09:03:54.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
-        "url": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
-        "seendate": "2026-10-15T02:42:21.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+        "seendate": "2026-10-15T09:03:54.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
-    "seendate": "2026-10-15T00:00:00.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+    "seendate": "2026-10-15T11:55:16.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
-        "seendate": "2026-10-15T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+        "seendate": "2026-10-15T11:55:16.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
-        "seendate": "2026-10-15T00:00:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+        "seendate": "2026-10-15T11:55:16.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
-    "seendate": "2026-10-14T21:50:01.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-        "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
-        "seendate": "2026-10-14T21:50:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-        "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
-        "seendate": "2026-10-14T21:50:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -388,80 +377,6 @@
         "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
         "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
         "seendate": "2026-10-14T15:42:26.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
-    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-    "seendate": "2026-10-15T04:01:09.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-        "seendate": "2026-10-15T04:01:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-        "seendate": "2026-10-15T04:01:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-    "headlineUrl": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-    "seendate": "2026-10-12T12:36:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-        "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-        "seendate": "2026-10-12T12:36:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-        "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-        "seendate": "2026-10-12T12:36:54.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
