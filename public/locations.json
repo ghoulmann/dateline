@@ -1,5 +1,103 @@
 [
   {
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Several people dead or missing after Istanbul floods",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+    "seendate": "2026-10-15T21:15:46.000Z",
+    "articleCount": 8,
+    "categories": [
+      "natural-disaster",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Several people dead or missing after Istanbul floods",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+        "seendate": "2026-10-15T21:15:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Several people dead or missing after Istanbul floods",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+        "seendate": "2026-10-15T21:15:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -71,83 +169,6 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "political-repression"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-15T10:05:29.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -231,6 +252,63 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+    "seendate": "2026-10-15T21:57:58.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+        "seendate": "2026-10-15T21:57:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+        "seendate": "2026-10-15T21:57:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "A mother’s touch helps premature babies grow strong in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
+        "seendate": "2026-10-15T17:43:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "A mother’s touch helps premature babies grow strong in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
+        "seendate": "2026-10-15T17:43:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -274,80 +352,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "A mother’s touch helps premature babies grow strong in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-    "seendate": "2026-10-15T17:43:01.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A mother’s touch helps premature babies grow strong in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-15T17:43:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A mother’s touch helps premature babies grow strong in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-15T17:43:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
-    "seendate": "2026-10-15T16:19:08.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
-        "seendate": "2026-10-15T16:19:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
-        "seendate": "2026-10-15T16:19:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
