@@ -154,44 +154,45 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
-    "seendate": "2026-10-14T18:03:46.000Z",
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Teenager dies as heavy rain floods Istanbul",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+    "seendate": "2026-10-15T03:12:02.000Z",
     "articleCount": 4,
     "categories": [
+      "natural-disaster",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
-        "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
-        "seendate": "2026-10-14T18:03:46.000Z",
+        "title": "Teenager dies as heavy rain floods Istanbul",
+        "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+        "seendate": "2026-10-15T03:12:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
-        "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
-        "seendate": "2026-10-14T18:03:46.000Z",
+        "title": "Teenager dies as heavy rain floods Istanbul",
+        "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+        "seendate": "2026-10-15T03:12:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Why Martinez highlighted Manchester United’s woes in Madrid meltdown",
-        "url": "https://www.aljazeera.com/sports/2026/10/14/manchester-united-premier-league-carrick-ratcliffe?traffic_source=rss",
-        "seendate": "2026-10-14T15:24:08.000Z",
+        "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
+        "seendate": "2026-10-15T01:29:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,9 +200,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Why Martinez highlighted Manchester United’s woes in Madrid meltdown",
-        "url": "https://www.aljazeera.com/sports/2026/10/14/manchester-united-premier-league-carrick-ratcliffe?traffic_source=rss",
-        "seendate": "2026-10-14T15:24:08.000Z",
+        "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
+        "seendate": "2026-10-15T01:29:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -211,81 +212,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-    "seendate": "2026-10-14T17:05:01.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-        "seendate": "2026-10-14T17:05:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-        "seendate": "2026-10-14T17:05:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
-        "seendate": "2026-10-14T15:49:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
-        "seendate": "2026-10-14T15:49:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Palestinian collective uses art to connect Gaza and the West Bank",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-    "seendate": "2026-10-14T17:11:20.000Z",
+    "id": "Nairobi",
+    "name": "Nairobi",
+    "country": "KE",
+    "lat": -1.29,
+    "lon": 36.82,
+    "timezone": "Africa/Nairobi",
+    "headline": "Kenya’s Ebola cases test preparedness beyond Nairobi",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
+    "seendate": "2026-10-15T02:45:49.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-        "seendate": "2026-10-14T17:11:20.000Z",
+        "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
+        "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
+        "seendate": "2026-10-15T02:45:49.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -293,9 +237,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-        "seendate": "2026-10-14T17:11:20.000Z",
+        "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
+        "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
+        "seendate": "2026-10-15T02:45:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia: What has Kais Saied achieved economically in seven years?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
+    "seendate": "2026-10-15T02:42:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
+        "url": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
+        "seendate": "2026-10-15T02:42:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
+        "url": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
+        "seendate": "2026-10-15T02:42:21.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -311,18 +292,18 @@
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
-    "seendate": "2026-10-14T16:41:42.000Z",
+    "headline": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+    "seendate": "2026-10-15T00:00:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
-        "url": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
-        "seendate": "2026-10-14T16:41:42.000Z",
+        "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+        "seendate": "2026-10-15T00:00:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -330,9 +311,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
-        "url": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
-        "seendate": "2026-10-14T16:41:42.000Z",
+        "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+        "seendate": "2026-10-15T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+    "seendate": "2026-10-14T21:50:01.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+        "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+        "seendate": "2026-10-14T21:50:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+        "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+        "seendate": "2026-10-14T21:50:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -370,6 +388,43 @@
         "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
         "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
         "seendate": "2026-10-14T15:42:26.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
+    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+    "seendate": "2026-10-15T04:01:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+        "seendate": "2026-10-15T04:01:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+        "seendate": "2026-10-15T04:01:09.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
