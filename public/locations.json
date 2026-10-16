@@ -175,140 +175,6 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-14T23:32:11.000Z",
-    "articleCount": 6,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T23:32:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T23:32:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T23:32:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T23:32:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T23:32:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-        "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-14T23:32:11.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-    "seendate": "2026-10-15T21:57:58.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-        "seendate": "2026-10-15T21:57:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-        "seendate": "2026-10-15T21:57:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "A mother’s touch helps premature babies grow strong in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-15T17:43:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "A mother’s touch helps premature babies grow strong in Gaza",
-        "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-15T17:43:01.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Mexico City",
     "name": "Mexico City",
     "country": "MX",
@@ -352,6 +218,80 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Peshawar",
+    "name": "Peshawar",
+    "country": "PK",
+    "lat": 34.01,
+    "lon": 71.57,
+    "timezone": "Asia/Karachi",
+    "headline": "Peshawar mourns children killed in school roof collapse",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+    "seendate": "2026-10-16T02:01:43.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Peshawar mourns children killed in school roof collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+        "seendate": "2026-10-16T02:01:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Peshawar mourns children killed in school roof collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+        "seendate": "2026-10-16T02:01:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+    "seendate": "2026-10-15T21:57:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+        "seendate": "2026-10-15T21:57:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+        "seendate": "2026-10-15T21:57:58.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -458,6 +398,43 @@
         "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
         "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
         "seendate": "2026-10-15T11:55:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "The Sexual Abuse Crisis in Paris’s Public Schools",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+    "seendate": "2026-10-16T04:01:07.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T04:01:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T04:01:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
