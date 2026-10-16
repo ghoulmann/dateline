@@ -1,117 +1,50 @@
 [
   {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Several people dead or missing after Istanbul floods",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-    "seendate": "2026-10-15T21:15:46.000Z",
-    "articleCount": 8,
-    "categories": [
-      "natural-disaster",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Several people dead or missing after Istanbul floods",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-        "seendate": "2026-10-15T21:15:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Several people dead or missing after Istanbul floods",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-        "seendate": "2026-10-15T21:15:46.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "New York",
     "name": "New York",
     "country": "US",
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Maduro pleads not guilty to new torture-related charges in New York",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-15T16:52:44.000Z",
-    "articleCount": 6,
+    "headline": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
+    "headlineUrl": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+    "seendate": "2026-10-16T06:27:30.000Z",
+    "articleCount": 9,
     "categories": [
-      "political-repression"
+      "political-repression",
+      "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
+        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+        "seendate": "2026-10-16T06:27:30.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
+        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+        "seendate": "2026-10-16T06:27:30.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
+        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+        "seendate": "2026-10-16T06:27:30.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
       {
         "title": "Maduro pleads not guilty to new torture-related charges in New York",
         "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
@@ -171,90 +104,6 @@
           "political-repression"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Mexico City",
-    "name": "Mexico City",
-    "country": "MX",
-    "lat": 19.43,
-    "lon": -99.13,
-    "timezone": "America/Mexico_City",
-    "headline": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
-    "headlineUrl": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-    "seendate": "2026-10-15T10:00:00.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-        "seendate": "2026-10-15T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-        "seendate": "2026-10-15T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-        "seendate": "2026-10-15T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Peshawar",
-    "name": "Peshawar",
-    "country": "PK",
-    "lat": 34.01,
-    "lon": 71.57,
-    "timezone": "Asia/Karachi",
-    "headline": "Peshawar mourns children killed in school roof collapse",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
-    "seendate": "2026-10-16T02:01:43.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Peshawar mourns children killed in school roof collapse",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
-        "seendate": "2026-10-16T02:01:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Peshawar mourns children killed in school roof collapse",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
-        "seendate": "2026-10-16T02:01:43.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -265,18 +114,39 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-    "seendate": "2026-10-15T21:57:58.000Z",
-    "articleCount": 2,
+    "headline": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+    "seendate": "2026-10-16T10:12:34.000Z",
+    "articleCount": 6,
     "categories": [
+      "natural-disaster",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-        "seendate": "2026-10-15T21:57:58.000Z",
+        "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+        "seendate": "2026-10-16T10:12:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+        "seendate": "2026-10-16T10:12:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
+        "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
+        "seendate": "2026-10-16T08:36:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -284,14 +154,242 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-        "seendate": "2026-10-15T21:57:58.000Z",
+        "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
+        "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
+        "seendate": "2026-10-16T08:36:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+        "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+        "seendate": "2026-10-16T05:55:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+        "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+        "seendate": "2026-10-16T05:55:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-15T10:05:29.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-15T10:05:29.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+    "seendate": "2026-10-16T11:25:22.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+        "seendate": "2026-10-16T11:25:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+        "seendate": "2026-10-16T11:25:22.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+        "seendate": "2026-10-15T09:03:54.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+        "seendate": "2026-10-15T09:03:54.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+    "seendate": "2026-10-16T09:00:14.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+        "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+        "seendate": "2026-10-16T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+        "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+        "seendate": "2026-10-16T09:00:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "The Sexual Abuse Crisis in Paris’s Public Schools",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+    "seendate": "2026-10-16T08:22:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -333,43 +431,6 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-    "seendate": "2026-10-15T09:03:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-        "seendate": "2026-10-15T09:03:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-        "seendate": "2026-10-15T09:03:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "London",
     "name": "London",
     "country": "GB",
@@ -398,43 +459,6 @@
         "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
         "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
         "seendate": "2026-10-15T11:55:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "The Sexual Abuse Crisis in Paris’s Public Schools",
-    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-    "seendate": "2026-10-16T04:01:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T04:01:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T04:01:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
