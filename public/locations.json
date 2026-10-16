@@ -160,7 +160,7 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+    "headline": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
     "headlineUrl": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
     "seendate": "2026-10-16T17:05:31.000Z",
     "articleCount": 4,
@@ -169,7 +169,7 @@
     ],
     "articles": [
       {
-        "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
         "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
         "seendate": "2026-10-16T17:05:31.000Z",
         "source_domain": "aljazeera.com",
@@ -179,7 +179,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
         "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
         "seendate": "2026-10-16T17:05:31.000Z",
         "source_domain": "aljazeera.com",
@@ -219,7 +219,7 @@
     "timezone": "Europe/Kyiv",
     "headline": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
     "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-    "seendate": "2026-10-16T11:25:22.000Z",
+    "seendate": "2026-10-16T22:02:04.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict"
@@ -228,7 +228,7 @@
       {
         "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
         "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-        "seendate": "2026-10-16T11:25:22.000Z",
+        "seendate": "2026-10-16T22:02:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -238,7 +238,7 @@
       {
         "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
         "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-        "seendate": "2026-10-16T11:25:22.000Z",
+        "seendate": "2026-10-16T22:02:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -274,55 +274,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-    "seendate": "2026-10-16T15:37:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-        "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-        "seendate": "2026-10-16T15:37:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-        "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-        "seendate": "2026-10-16T15:37:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-    "seendate": "2026-10-16T13:52:48.000Z",
+    "headline": "Food affordability fears plague Gaza as Israel halts commercial goods",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+    "seendate": "2026-10-16T20:37:22.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-        "seendate": "2026-10-16T13:52:48.000Z",
+        "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+        "seendate": "2026-10-16T20:37:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -330,14 +293,51 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-        "seendate": "2026-10-16T13:52:48.000Z",
+        "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+        "seendate": "2026-10-16T20:37:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+    "seendate": "2026-10-16T19:31:34.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+        "seendate": "2026-10-16T19:31:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+        "seendate": "2026-10-16T19:31:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -350,7 +350,7 @@
     "timezone": "America/Caracas",
     "headline": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
     "headlineUrl": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
-    "seendate": "2026-10-16T09:00:14.000Z",
+    "seendate": "2026-10-16T19:39:03.000Z",
     "articleCount": 2,
     "categories": [
       "humanitarian"
@@ -359,7 +359,7 @@
       {
         "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
         "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
-        "seendate": "2026-10-16T09:00:14.000Z",
+        "seendate": "2026-10-16T19:39:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
@@ -369,7 +369,7 @@
       {
         "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
         "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
-        "seendate": "2026-10-16T09:00:14.000Z",
+        "seendate": "2026-10-16T19:39:03.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
@@ -407,43 +407,6 @@
         "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
         "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
         "seendate": "2026-10-16T16:14:11.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-    "seendate": "2026-10-16T19:26:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-        "seendate": "2026-10-16T19:26:33.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-        "seendate": "2026-10-16T19:26:33.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
