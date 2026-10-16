@@ -6,45 +6,14 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
-    "headlineUrl": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
-    "seendate": "2026-10-16T06:27:30.000Z",
-    "articleCount": 9,
+    "headline": "Maduro pleads not guilty to new torture-related charges in New York",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-15T16:52:44.000Z",
+    "articleCount": 6,
     "categories": [
-      "political-repression",
-      "armed-conflict"
+      "political-repression"
     ],
     "articles": [
-      {
-        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
-        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
-        "seendate": "2026-10-16T06:27:30.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
-        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
-        "seendate": "2026-10-16T06:27:30.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
-        "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
-        "seendate": "2026-10-16T06:27:30.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
       {
         "title": "Maduro pleads not guilty to new torture-related charges in New York",
         "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
@@ -104,84 +73,6 @@
           "political-repression"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-    "seendate": "2026-10-16T10:12:34.000Z",
-    "articleCount": 6,
-    "categories": [
-      "natural-disaster",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-        "seendate": "2026-10-16T10:12:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-        "seendate": "2026-10-16T10:12:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-        "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-        "seendate": "2026-10-16T08:36:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-        "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-        "seendate": "2026-10-16T08:36:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-        "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-        "seendate": "2026-10-16T05:55:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-        "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-        "seendate": "2026-10-16T05:55:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -263,6 +154,63 @@
     ]
   },
   {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+    "seendate": "2026-10-16T17:05:31.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+        "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+        "seendate": "2026-10-16T17:05:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+        "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+        "seendate": "2026-10-16T17:05:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -320,6 +268,80 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+    "seendate": "2026-10-16T15:37:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+        "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+        "seendate": "2026-10-16T15:37:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+        "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+        "seendate": "2026-10-16T15:37:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+    "seendate": "2026-10-16T13:52:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+        "seendate": "2026-10-16T13:52:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+        "seendate": "2026-10-16T13:52:48.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Caracas",
     "name": "Caracas",
     "country": "VE",
@@ -357,24 +379,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "The Sexual Abuse Crisis in Paris’s Public Schools",
-    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-    "seendate": "2026-10-16T08:22:09.000Z",
+    "id": "Dublin",
+    "name": "Dublin",
+    "country": "IE",
+    "lat": 53.35,
+    "lon": -6.26,
+    "timezone": "Europe/Dublin",
+    "headline": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+    "seendate": "2026-10-16T16:14:11.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T08:22:09.000Z",
+        "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+        "seendate": "2026-10-16T16:14:11.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -382,9 +404,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T08:22:09.000Z",
+        "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+        "seendate": "2026-10-16T16:14:11.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -394,24 +416,24 @@
     ]
   },
   {
-    "id": "Dublin",
-    "name": "Dublin",
-    "country": "IE",
-    "lat": 53.35,
-    "lon": -6.26,
-    "timezone": "Europe/Dublin",
-    "headline": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-    "headlineUrl": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-    "seendate": "2026-10-15T18:18:46.000Z",
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+    "seendate": "2026-10-16T19:26:33.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-        "seendate": "2026-10-15T18:18:46.000Z",
+        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+        "seendate": "2026-10-16T19:26:33.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -419,9 +441,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-        "seendate": "2026-10-15T18:18:46.000Z",
+        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+        "seendate": "2026-10-16T19:26:33.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
