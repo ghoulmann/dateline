@@ -1,216 +1,5 @@
 [
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Maduro pleads not guilty to new torture-related charges in New York",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-15T16:52:44.000Z",
-    "articleCount": 6,
-    "categories": [
-      "political-repression"
-    ],
-    "articles": [
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T16:52:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T16:52:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T16:52:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T16:52:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T16:52:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T16:52:44.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-15T10:05:29.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-15T10:05:29.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-    "seendate": "2026-10-16T17:05:31.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-        "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-        "seendate": "2026-10-16T17:05:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-        "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-        "seendate": "2026-10-16T17:05:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T08:22:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T08:22:09.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -373,6 +162,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "The Sexual Abuse Crisis in Paris’s Public Schools",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+    "seendate": "2026-10-16T08:22:09.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
