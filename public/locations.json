@@ -1,43 +1,143 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-    "seendate": "2026-10-17T19:04:00.000Z",
-    "articleCount": 6,
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-18T12:07:31.000Z",
+    "articleCount": 14,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-        "seendate": "2026-10-17T19:04:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T12:07:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-        "seendate": "2026-10-17T19:04:00.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T12:07:31.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-        "seendate": "2026-10-16T22:02:04.000Z",
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T12:07:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T12:07:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T12:07:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T12:07:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T10:58:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T10:58:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T10:58:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T10:58:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T10:58:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-18T10:58:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -45,108 +145,14 @@
         "source_category": "political-repression"
       },
       {
-        "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-        "seendate": "2026-10-16T22:02:04.000Z",
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "seendate": "2026-10-16T08:22:09.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-        "seendate": "2026-10-15T09:03:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-        "seendate": "2026-10-15T09:03:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-    "seendate": "2026-10-18T00:00:11.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-        "seendate": "2026-10-18T00:00:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-        "seendate": "2026-10-18T00:00:11.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Is the US Embassy in Jerusalem for Israel or America?",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-    "seendate": "2026-10-17T18:41:30.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Is the US Embassy in Jerusalem for Israel or America?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-        "seendate": "2026-10-17T18:41:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Is the US Embassy in Jerusalem for Israel or America?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-        "seendate": "2026-10-17T18:41:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -157,18 +163,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-    "seendate": "2026-10-17T18:26:59.000Z",
-    "articleCount": 2,
+    "headline": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+    "seendate": "2026-10-18T11:24:43.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-        "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-        "seendate": "2026-10-17T18:26:59.000Z",
+        "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+        "url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+        "seendate": "2026-10-18T11:24:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -176,9 +182,66 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-        "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-        "seendate": "2026-10-17T18:26:59.000Z",
+        "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+        "url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+        "seendate": "2026-10-18T11:24:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+        "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+        "seendate": "2026-10-18T10:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+        "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+        "seendate": "2026-10-18T10:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
+    "seendate": "2026-10-18T10:18:03.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
+        "seendate": "2026-10-18T10:18:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
+        "seendate": "2026-10-18T10:18:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -262,24 +325,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "The Sexual Abuse Crisis in Paris’s Public Schools",
-    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-    "seendate": "2026-10-16T08:22:09.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+    "seendate": "2026-10-16T22:02:04.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T08:22:09.000Z",
+        "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+        "seendate": "2026-10-16T22:02:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -287,9 +350,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-        "seendate": "2026-10-16T08:22:09.000Z",
+        "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+        "seendate": "2026-10-16T22:02:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
