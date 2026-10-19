@@ -6,39 +6,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-    "seendate": "2026-10-19T13:36:09.000Z",
-    "articleCount": 10,
+    "headline": "Gaza faces worsening hunger as WFP announces food aid cuts",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+    "seendate": "2026-10-19T16:06:57.000Z",
+    "articleCount": 8,
     "categories": [
-      "armed-conflict",
       "humanitarian"
     ],
     "articles": [
       {
-        "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-        "url": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-19T13:36:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-        "url": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-        "seendate": "2026-10-19T13:36:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
-        "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
-        "seendate": "2026-10-19T10:08:06.000Z",
+        "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+        "seendate": "2026-10-19T16:06:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
@@ -46,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
-        "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
-        "seendate": "2026-10-19T10:08:06.000Z",
+        "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+        "seendate": "2026-10-19T16:06:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "humanitarian"
@@ -112,6 +91,103 @@
         "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+    "headlineUrl": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+    "seendate": "2026-10-19T19:25:50.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+        "seendate": "2026-10-19T19:25:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+        "seendate": "2026-10-19T19:25:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
@@ -195,153 +271,66 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Watch: Shops looted and restaurants gutted in Paris riots",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-19T06:40:35.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-    "seendate": "2026-10-19T13:22:58.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-        "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-        "seendate": "2026-10-19T13:22:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-        "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-        "seendate": "2026-10-19T13:22:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
+    "id": "Columbus",
+    "name": "Columbus",
     "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
+    "lat": 39.96,
+    "lon": -82.99,
     "timezone": "America/New_York",
-    "headline": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-    "headlineUrl": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-    "seendate": "2026-10-16T19:31:34.000Z",
+    "headline": "One killed in US shooting near mosque in Columbus, Ohio",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+    "seendate": "2026-10-19T19:50:20.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-        "seendate": "2026-10-16T19:31:34.000Z",
-        "source_domain": "nytimes.com",
+        "title": "One killed in US shooting near mosque in Columbus, Ohio",
+        "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+        "seendate": "2026-10-19T19:50:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-        "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-        "seendate": "2026-10-16T19:31:34.000Z",
-        "source_domain": "nytimes.com",
+        "title": "One killed in US shooting near mosque in Columbus, Ohio",
+        "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+        "seendate": "2026-10-19T19:50:20.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Victoria",
+    "name": "Victoria",
+    "country": "SC",
+    "lat": -4.62,
+    "lon": 55.45,
+    "timezone": "Indian/Mahe",
+    "headline": "Kylie Jenner makes Victoria&apos;s Secret runway debut wearing $50M Fantasy Bra",
+    "headlineUrl": "https://www.foxnews.com/entertainment/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50m-fantasy-bra",
+    "seendate": "2026-10-19T20:16:23.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Kylie Jenner makes Victoria&apos;s Secret runway debut wearing $50M Fantasy Bra",
+        "url": "https://www.foxnews.com/entertainment/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50m-fantasy-bra",
+        "seendate": "2026-10-19T20:16:23.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
