@@ -6,9 +6,9 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli attacks kill at least four Palestinians in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-    "seendate": "2026-10-20T12:59:58.000Z",
+    "headline": "Can a humanitarian crisis in Gaza be averted?",
+    "headlineUrl": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+    "seendate": "2026-10-20T18:45:23.000Z",
     "articleCount": 10,
     "categories": [
       "armed-conflict",
@@ -16,9 +16,9 @@
     ],
     "articles": [
       {
-        "title": "Israeli attacks kill at least four Palestinians in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-        "seendate": "2026-10-20T12:59:58.000Z",
+        "title": "Can a humanitarian crisis in Gaza be averted?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+        "seendate": "2026-10-20T18:45:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli attacks kill at least four Palestinians in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-        "seendate": "2026-10-20T12:59:58.000Z",
+        "title": "Can a humanitarian crisis in Gaza be averted?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+        "seendate": "2026-10-20T18:45:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -36,9 +36,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
-        "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
-        "seendate": "2026-10-20T12:58:49.000Z",
+        "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
+        "seendate": "2026-10-20T16:51:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -46,9 +46,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
-        "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
-        "seendate": "2026-10-20T12:58:49.000Z",
+        "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
+        "seendate": "2026-10-20T16:51:02.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -215,79 +215,76 @@
     ]
   },
   {
-    "id": "Oslo",
-    "name": "Oslo",
-    "country": "NO",
-    "lat": 59.91,
-    "lon": 10.75,
-    "timezone": "Europe/Oslo",
-    "headline": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-20T12:08:41.000Z",
-    "articleCount": 6,
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
+    "seendate": "2026-10-20T16:59:55.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
+        "seendate": "2026-10-20T16:59:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
+        "seendate": "2026-10-20T16:59:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+    "seendate": "2026-10-20T16:01:01.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-20T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+        "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+        "seendate": "2026-10-20T16:01:01.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-20T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+        "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+        "seendate": "2026-10-20T16:01:01.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-20T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-20T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-20T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-20T12:08:41.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
