@@ -1,294 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza faces worsening hunger as WFP announces food aid cuts",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-    "seendate": "2026-10-19T16:06:57.000Z",
-    "articleCount": 8,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-        "seendate": "2026-10-19T16:06:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-        "seendate": "2026-10-19T16:06:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:00:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:00:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:00:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:00:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:00:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:00:18.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-    "headlineUrl": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-    "seendate": "2026-10-19T19:25:50.000Z",
-    "articleCount": 8,
+    "headline": "Trump: ‘Paris is going to be a Muslim city very soon’",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
+    "seendate": "2026-10-19T22:37:19.000Z",
+    "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-        "seendate": "2026-10-19T19:25:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-        "seendate": "2026-10-19T19:25:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-19T06:40:35.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Chicago",
-    "name": "Chicago",
-    "country": "US",
-    "lat": 41.88,
-    "lon": -87.63,
-    "timezone": "America/Chicago",
-    "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-18T21:00:22.000Z",
-    "articleCount": 6,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-18T21:00:22.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-18T21:00:22.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-18T21:00:22.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-18T21:00:22.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-18T21:00:22.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-18T21:00:22.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Columbus",
-    "name": "Columbus",
-    "country": "US",
-    "lat": 39.96,
-    "lon": -82.99,
-    "timezone": "America/New_York",
-    "headline": "One killed in US shooting near mosque in Columbus, Ohio",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-    "seendate": "2026-10-19T19:50:20.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "One killed in US shooting near mosque in Columbus, Ohio",
-        "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-        "seendate": "2026-10-19T19:50:20.000Z",
+        "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
+        "seendate": "2026-10-19T22:37:19.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -296,9 +25,300 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "One killed in US shooting near mosque in Columbus, Ohio",
-        "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-        "seendate": "2026-10-19T19:50:20.000Z",
+        "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
+        "seendate": "2026-10-19T22:37:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T21:14:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T21:14:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T21:14:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T21:14:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T21:14:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T21:14:53.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+        "seendate": "2026-10-19T19:25:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+        "seendate": "2026-10-19T19:25:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:40:35.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Funding shortages force World Food Programme to cut aid to Gaza",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-19T06:00:18.000Z",
+    "articleCount": 6,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:00:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:00:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:00:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:00:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:00:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-19T06:00:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Beyond money: Why young Tunisians are considering emigration",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
+    "seendate": "2026-10-20T01:47:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Beyond money: Why young Tunisians are considering emigration",
+        "url": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
+        "seendate": "2026-10-20T01:47:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Beyond money: Why young Tunisians are considering emigration",
+        "url": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
+        "seendate": "2026-10-20T01:47:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+    "seendate": "2026-10-19T23:16:01.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+        "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+        "seendate": "2026-10-19T23:16:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+        "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+        "seendate": "2026-10-19T23:16:01.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
