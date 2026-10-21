@@ -6,38 +6,18 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Art Basel Paris Preview Draws Interest Despite Protests",
-    "headlineUrl": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-    "seendate": "2026-10-21T09:13:37.000Z",
+    "headline": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
+    "seendate": "2026-10-21T18:59:37.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
-        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-        "seendate": "2026-10-21T09:13:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
-        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-        "seendate": "2026-10-21T09:13:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence",
-        "url": "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss",
-        "seendate": "2026-10-21T07:56:14.000Z",
+        "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
+        "seendate": "2026-10-21T18:59:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -45,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence",
-        "url": "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss",
-        "seendate": "2026-10-21T07:56:14.000Z",
+        "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
+        "seendate": "2026-10-21T18:59:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -55,9 +35,29 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-        "seendate": "2026-10-19T19:25:50.000Z",
+        "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+        "seendate": "2026-10-21T16:57:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+        "seendate": "2026-10-21T16:57:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+        "seendate": "2026-10-21T09:13:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -65,14 +65,125 @@
         "source_category": "political-repression"
       },
       {
-        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-        "seendate": "2026-10-19T19:25:50.000Z",
+        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+        "seendate": "2026-10-21T09:13:37.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Tunis",
+    "name": "Tunis",
+    "country": "TN",
+    "lat": 36.82,
+    "lon": 10.17,
+    "timezone": "Africa/Tunis",
+    "headline": "Tunisia jails opposition politician for four years over social media posts",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+    "seendate": "2026-10-21T19:14:49.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Tunisia jails opposition politician for four years over social media posts",
+        "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+        "seendate": "2026-10-21T19:14:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Tunisia jails opposition politician for four years over social media posts",
+        "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+        "seendate": "2026-10-21T19:14:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+    "seendate": "2026-10-21T18:24:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+        "seendate": "2026-10-21T18:24:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+        "seendate": "2026-10-21T18:24:42.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid vs RB Leipzig LIVE: Champions League",
+    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
+    "seendate": "2026-10-21T16:01:56.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
+        "seendate": "2026-10-21T16:01:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
+        "seendate": "2026-10-21T16:01:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -95,33 +206,6 @@
         "title": "Kylie Jenner makes Victoria&apos;s Secret runway debut wearing $50M Fantasy Bra",
         "url": "https://www.foxnews.com/entertainment/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50m-fantasy-bra",
         "seendate": "2026-10-19T20:16:23.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Jana Kramer says Los Angeles priced her out of the childhood she wanted for her kids",
-    "headlineUrl": "https://www.foxnews.com/entertainment/jana-kramer-says-los-angeles-priced-her-out-childhood-she-wanted-her-kids",
-    "seendate": "2026-10-18T16:00:24.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jana Kramer says Los Angeles priced her out of the childhood she wanted for her kids",
-        "url": "https://www.foxnews.com/entertainment/jana-kramer-says-los-angeles-priced-her-out-childhood-she-wanted-her-kids",
-        "seendate": "2026-10-18T16:00:24.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
