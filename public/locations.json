@@ -1,39 +1,116 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russian strikes hit Kyiv after Witkoff meets Putin",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
-    "seendate": "2026-10-22T08:18:39.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-22T19:25:26.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-        "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
-        "seendate": "2026-10-22T08:18:39.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T19:25:26.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-        "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
-        "seendate": "2026-10-22T08:18:39.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T19:25:26.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
+      {
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T19:25:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T19:25:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T19:25:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T19:25:26.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+        "seendate": "2026-10-21T09:13:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+        "seendate": "2026-10-21T09:13:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-21T21:27:41.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
@@ -88,6 +165,83 @@
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Phoenix",
+    "name": "Phoenix",
+    "country": "US",
+    "lat": 33.45,
+    "lon": -112.07,
+    "timezone": "America/Phoenix",
+    "headline": "Damaging hail pelts Phoenix in rare storm",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-22T15:11:49.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Damaging hail pelts Phoenix in rare storm",
+        "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T15:11:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Damaging hail pelts Phoenix in rare storm",
+        "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T15:11:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Damaging hail pelts Phoenix in rare storm",
+        "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T15:11:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Damaging hail pelts Phoenix in rare storm",
+        "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T15:11:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Damaging hail pelts Phoenix in rare storm",
+        "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T15:11:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Damaging hail pelts Phoenix in rare storm",
+        "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T15:11:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -103,7 +257,7 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+    "headline": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-10-22T09:06:48.000Z",
     "articleCount": 6,
@@ -112,7 +266,7 @@
     ],
     "articles": [
       {
-        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
         "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-22T09:06:48.000Z",
         "source_domain": "bbc.co.uk",
@@ -122,7 +276,7 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
         "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-22T09:06:48.000Z",
         "source_domain": "bbc.co.uk",
@@ -132,7 +286,7 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
         "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-22T09:06:48.000Z",
         "source_domain": "bbc.co.uk",
@@ -142,7 +296,7 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
         "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-22T09:06:48.000Z",
         "source_domain": "bbc.co.uk",
@@ -152,7 +306,7 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
         "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-22T09:06:48.000Z",
         "source_domain": "bbc.co.uk",
@@ -162,7 +316,7 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
         "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-22T09:06:48.000Z",
         "source_domain": "bbc.co.uk",
@@ -174,66 +328,208 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Art Basel Paris Preview Draws Interest Despite Protests",
-    "headlineUrl": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-    "seendate": "2026-10-21T09:13:37.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+    "seendate": "2026-10-22T17:40:24.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict",
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+        "url": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+        "seendate": "2026-10-22T17:40:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+        "url": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+        "seendate": "2026-10-22T17:40:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli attacks kill four as famine risk looms in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+        "seendate": "2026-10-22T16:06:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attacks kill four as famine risk looms in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+        "seendate": "2026-10-22T16:06:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+    "seendate": "2026-10-22T17:25:29.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
-        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-        "seendate": "2026-10-21T09:13:37.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+        "seendate": "2026-10-22T17:25:29.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
-        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-        "seendate": "2026-10-21T09:13:37.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+        "seendate": "2026-10-22T17:25:29.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Victoria",
-    "name": "Victoria",
-    "country": "SC",
-    "lat": -4.62,
-    "lon": 55.45,
-    "timezone": "Indian/Mahe",
-    "headline": "Kylie Jenner makes Victoria&apos;s Secret runway debut wearing $50M Fantasy Bra",
-    "headlineUrl": "https://www.foxnews.com/entertainment/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50m-fantasy-bra",
-    "seendate": "2026-10-19T20:16:23.000Z",
-    "articleCount": 1,
+    "id": "Damascus",
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.51,
+    "lon": 36.28,
+    "timezone": "Asia/Damascus",
+    "headline": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+    "seendate": "2026-10-22T16:24:43.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+        "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+        "seendate": "2026-10-22T16:24:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+        "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+        "seendate": "2026-10-22T16:24:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+    "seendate": "2026-10-22T15:35:07.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Kylie Jenner makes Victoria&apos;s Secret runway debut wearing $50M Fantasy Bra",
-        "url": "https://www.foxnews.com/entertainment/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50m-fantasy-bra",
-        "seendate": "2026-10-19T20:16:23.000Z",
-        "source_domain": "foxnews.com",
+        "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
+        "url": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+        "seendate": "2026-10-22T15:35:07.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "culture-wars"
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
+        "url": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+        "seendate": "2026-10-22T15:35:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+    "seendate": "2026-10-22T14:55:59.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+        "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+        "seendate": "2026-10-22T14:55:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+        "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+        "seendate": "2026-10-22T14:55:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   }
