@@ -6,14 +6,34 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-21T21:27:41.000Z",
-    "articleCount": 6,
+    "headline": "Russian strikes hit Kyiv after Witkoff meets Putin",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+    "seendate": "2026-10-22T08:18:39.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+        "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+        "seendate": "2026-10-22T08:18:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+        "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+        "seendate": "2026-10-22T08:18:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,113 +97,79 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-    "seendate": "2026-10-22T01:45:48.000Z",
-    "articleCount": 2,
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-22T09:06:48.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-        "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-        "seendate": "2026-10-22T01:45:48.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T09:06:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-        "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-        "seendate": "2026-10-22T01:45:48.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T09:06:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Tehran displays mock installation of Trump behind bars",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
-    "seendate": "2026-10-21T21:43:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tehran displays mock installation of Trump behind bars",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
-        "seendate": "2026-10-21T21:43:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
       },
       {
-        "title": "Tehran displays mock installation of Trump behind bars",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
-        "seendate": "2026-10-21T21:43:06.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T09:06:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
-    "seendate": "2026-10-21T21:36:31.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-        "url": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
-        "seendate": "2026-10-21T21:36:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-        "url": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
-        "seendate": "2026-10-21T21:36:31.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T09:06:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T09:06:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T09:06:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
