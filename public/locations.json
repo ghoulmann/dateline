@@ -1,23 +1,100 @@
 [
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
-    "seendate": "2026-10-21T18:59:37.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-21T21:27:41.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
-        "seendate": "2026-10-21T18:59:37.000Z",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-21T21:27:41.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+    "seendate": "2026-10-22T01:45:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+        "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+        "seendate": "2026-10-22T01:45:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,19 +102,36 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
-        "seendate": "2026-10-21T18:59:37.000Z",
+        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+        "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+        "seendate": "2026-10-22T01:45:48.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Tehran displays mock installation of Trump behind bars",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
+    "seendate": "2026-10-21T21:43:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
-        "seendate": "2026-10-21T16:57:15.000Z",
+        "title": "Tehran displays mock installation of Trump behind bars",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
+        "seendate": "2026-10-21T21:43:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -45,15 +139,69 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
-        "seendate": "2026-10-21T16:57:15.000Z",
+        "title": "Tehran displays mock installation of Trump behind bars",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
+        "seendate": "2026-10-21T21:43:06.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
+    "seendate": "2026-10-21T21:36:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+        "url": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
+        "seendate": "2026-10-21T21:36:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
       },
+      {
+        "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+        "url": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
+        "seendate": "2026-10-21T21:36:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Art Basel Paris Preview Draws Interest Despite Protests",
+    "headlineUrl": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+    "seendate": "2026-10-21T09:13:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
         "title": "Art Basel Paris Preview Draws Interest Despite Protests",
         "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
@@ -73,117 +221,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Tunisia jails opposition politician for four years over social media posts",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-    "seendate": "2026-10-21T19:14:49.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tunisia jails opposition politician for four years over social media posts",
-        "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-        "seendate": "2026-10-21T19:14:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tunisia jails opposition politician for four years over social media posts",
-        "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-        "seendate": "2026-10-21T19:14:49.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
-    "seendate": "2026-10-21T18:24:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
-        "seendate": "2026-10-21T18:24:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
-        "seendate": "2026-10-21T18:24:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid vs RB Leipzig LIVE: Champions League",
-    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-    "seendate": "2026-10-21T16:01:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-        "seendate": "2026-10-21T16:01:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-        "seendate": "2026-10-21T16:01:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
