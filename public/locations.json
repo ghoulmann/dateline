@@ -6,18 +6,38 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-22T19:25:26.000Z",
+    "headline": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+    "headlineUrl": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+    "seendate": "2026-10-23T13:10:09.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T19:25:26.000Z",
+        "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+        "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+        "seendate": "2026-10-23T13:10:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+        "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+        "seendate": "2026-10-23T13:10:09.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-23T12:47:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T19:25:26.000Z",
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-23T12:47:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T19:25:26.000Z",
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-23T12:47:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T19:25:26.000Z",
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-23T12:47:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T19:25:26.000Z",
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-23T12:47:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,56 +85,36 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T19:25:26.000Z",
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-23T12:47:01.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
-        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-        "seendate": "2026-10-21T09:13:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Art Basel Paris Preview Draws Interest Despite Protests",
-        "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-        "seendate": "2026-10-21T09:13:37.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-21T21:27:41.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-22T20:48:56.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-21T21:27:41.000Z",
+        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+        "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T20:48:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +122,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-21T21:27:41.000Z",
+        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+        "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T20:48:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +132,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-21T21:27:41.000Z",
+        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+        "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T20:48:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +142,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-21T21:27:41.000Z",
+        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+        "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T20:48:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +152,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-21T21:27:41.000Z",
+        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+        "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T20:48:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,9 +162,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-21T21:27:41.000Z",
+        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+        "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-22T20:48:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -328,138 +328,24 @@
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-22T20:49:12.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T20:49:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T20:49:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T20:49:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T20:49:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T20:49:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-22T20:49:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
-    "seendate": "2026-10-23T02:09:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-        "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
-        "seendate": "2026-10-23T02:09:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-        "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
-        "seendate": "2026-10-23T02:09:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Rare unrest flares in Tunisian capital as police clash with protesters",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
-    "seendate": "2026-10-23T00:51:40.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+    "seendate": "2026-10-23T11:27:35.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
-        "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
-        "seendate": "2026-10-23T00:51:40.000Z",
+        "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+        "seendate": "2026-10-23T11:27:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -467,9 +353,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
-        "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
-        "seendate": "2026-10-23T00:51:40.000Z",
+        "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+        "seendate": "2026-10-23T11:27:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia",
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 39.95,
+    "lon": -75.17,
+    "timezone": "America/New_York",
+    "headline": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
+    "seendate": "2026-10-23T08:42:10.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+        "url": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
+        "seendate": "2026-10-23T08:42:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+        "url": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
+        "seendate": "2026-10-23T08:42:10.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
