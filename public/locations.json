@@ -6,15 +6,35 @@
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-25T15:32:51.000Z",
+    "headline": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+    "headlineUrl": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+    "seendate": "2026-10-25T19:41:40.000Z",
     "articleCount": 16,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
+        "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+        "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+        "seendate": "2026-10-25T19:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+        "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+        "seendate": "2026-10-25T19:41:40.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
         "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
         "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss",
         "seendate": "2026-10-25T15:32:51.000Z",
@@ -135,26 +155,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-        "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-        "seendate": "2026-10-24T16:00:32.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-        "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-        "seendate": "2026-10-24T16:00:32.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
         "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
         "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
         "seendate": "2026-10-23T20:24:27.000Z",
@@ -173,103 +173,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli air strike on Gaza City university kills three people",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-    "seendate": "2026-10-25T18:12:13.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli air strike on Gaza City university kills three people",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-        "seendate": "2026-10-25T18:12:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli air strike on Gaza City university kills three people",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-        "seendate": "2026-10-25T18:12:13.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-        "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-        "seendate": "2026-10-25T15:40:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-        "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-        "seendate": "2026-10-25T15:40:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza content creator tells Al Jazeera how much her award win means",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-        "seendate": "2026-10-25T14:16:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza content creator tells Al Jazeera how much her award win means",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-        "seendate": "2026-10-25T14:16:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-        "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-        "seendate": "2026-10-25T13:46:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-        "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-        "seendate": "2026-10-25T13:46:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -351,6 +254,43 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli air strike on Gaza City university kills three people",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+    "seendate": "2026-10-25T18:12:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli air strike on Gaza City university kills three people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+        "seendate": "2026-10-25T18:12:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli air strike on Gaza City university kills three people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+        "seendate": "2026-10-25T18:12:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Jerusalem",
     "name": "Jerusalem",
     "country": "IL",
@@ -425,43 +365,6 @@
     ]
   },
   {
-    "id": "Lisbon",
-    "name": "Lisbon",
-    "country": "PT",
-    "lat": 38.72,
-    "lon": -9.14,
-    "timezone": "Europe/Lisbon",
-    "headline": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-    "seendate": "2026-10-25T13:29:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-        "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-        "seendate": "2026-10-25T13:29:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-        "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-        "seendate": "2026-10-25T13:29:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Riyadh",
     "name": "Riyadh",
     "country": "SA",
@@ -470,7 +373,7 @@
     "timezone": "Asia/Riyadh",
     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
     "headlineUrl": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-    "seendate": "2026-10-25T15:50:53.000Z",
+    "seendate": "2026-10-25T21:39:45.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -479,7 +382,7 @@
       {
         "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
         "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-        "seendate": "2026-10-25T15:50:53.000Z",
+        "seendate": "2026-10-25T21:39:45.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -489,7 +392,7 @@
       {
         "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
         "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-        "seendate": "2026-10-25T15:50:53.000Z",
+        "seendate": "2026-10-25T21:39:45.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
