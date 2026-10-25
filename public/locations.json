@@ -9,7 +9,7 @@
     "headline": "Fireworks and tear gas as protesters and riot police clash in Paris",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-10-24T19:37:35.000Z",
-    "articleCount": 18,
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
@@ -75,26 +75,6 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Thousands join Paris protests as authorities clamp down on disorder",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-        "seendate": "2026-10-24T19:01:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands join Paris protests as authorities clamp down on disorder",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-        "seendate": "2026-10-24T19:01:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
         "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
         "seendate": "2026-10-24T16:00:32.000Z",
@@ -133,66 +113,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-23T19:42:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-23T19:42:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-23T19:42:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-23T19:42:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-23T19:42:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-23T19:42:08.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -321,24 +241,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Severe hunger stalks people in Gaza as bakeries close down",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-    "seendate": "2026-10-24T20:52:55.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+    "seendate": "2026-10-25T10:14:43.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Severe hunger stalks people in Gaza as bakeries close down",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-        "seendate": "2026-10-24T20:52:55.000Z",
+        "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+        "seendate": "2026-10-25T10:14:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -346,9 +266,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Severe hunger stalks people in Gaza as bakeries close down",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-        "seendate": "2026-10-24T20:52:55.000Z",
+        "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+        "seendate": "2026-10-25T10:14:43.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -358,39 +278,39 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-    "seendate": "2026-10-24T16:48:36.000Z",
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+    "headlineUrl": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+    "seendate": "2026-10-25T12:36:48.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-        "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-        "seendate": "2026-10-24T16:48:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+        "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+        "seendate": "2026-10-25T12:36:48.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-        "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-        "seendate": "2026-10-24T16:48:36.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+        "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+        "seendate": "2026-10-25T12:36:48.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   }
