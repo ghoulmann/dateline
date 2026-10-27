@@ -97,24 +97,24 @@
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Delegations arrive in Tehran for security talks",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-    "seendate": "2026-10-26T16:55:19.000Z",
+    "id": "Istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "lat": 41.01,
+    "lon": 28.98,
+    "timezone": "Europe/Istanbul",
+    "headline": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+    "seendate": "2026-10-26T23:18:31.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Delegations arrive in Tehran for security talks",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-        "seendate": "2026-10-26T16:55:19.000Z",
+        "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+        "seendate": "2026-10-26T23:18:31.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -122,49 +122,12 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Delegations arrive in Tehran for security talks",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-        "seendate": "2026-10-26T16:55:19.000Z",
+        "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+        "seendate": "2026-10-26T23:18:31.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-    "seendate": "2026-10-26T16:12:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-        "seendate": "2026-10-26T16:12:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-        "seendate": "2026-10-26T16:12:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       }
