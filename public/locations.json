@@ -1,23 +1,84 @@
 [
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-    "headlineUrl": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-    "seendate": "2026-10-25T19:41:40.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "What does Israel's election mean for Gaza and the wider world?",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-27T10:17:36.000Z",
     "articleCount": 8,
     "categories": [
+      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-        "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-        "seendate": "2026-10-25T19:41:40.000Z",
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T10:17:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T10:17:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T10:17:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T10:17:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T10:17:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T10:17:36.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+        "seendate": "2026-10-26T20:30:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -25,19 +86,36 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-        "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-        "seendate": "2026-10-25T19:41:40.000Z",
+        "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+        "seendate": "2026-10-26T20:30:07.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-27T13:23:32.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-24T19:37:35.000Z",
+        "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T13:23:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +123,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-24T19:37:35.000Z",
+        "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T13:23:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +133,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-24T19:37:35.000Z",
+        "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T13:23:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +143,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-24T19:37:35.000Z",
+        "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T13:23:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +153,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-24T19:37:35.000Z",
+        "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T13:23:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +163,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-24T19:37:35.000Z",
+        "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-27T13:23:32.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -97,24 +175,24 @@
     ]
   },
   {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
-    "seendate": "2026-10-26T23:18:31.000Z",
-    "articleCount": 2,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
+    "seendate": "2026-10-27T13:59:37.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
-        "seendate": "2026-10-26T23:18:31.000Z",
+        "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+        "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
+        "seendate": "2026-10-27T13:59:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -122,9 +200,29 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
-        "seendate": "2026-10-26T23:18:31.000Z",
+        "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+        "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
+        "seendate": "2026-10-27T13:59:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+        "seendate": "2026-10-27T13:34:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+        "seendate": "2026-10-27T13:34:07.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -134,24 +232,135 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
-    "headlineUrl": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
-    "seendate": "2026-10-26T20:30:07.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+    "seendate": "2026-10-27T13:26:32.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
-        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
-        "seendate": "2026-10-26T20:30:07.000Z",
+        "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+        "seendate": "2026-10-27T13:26:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+        "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+        "seendate": "2026-10-27T13:26:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+    "seendate": "2026-10-27T10:36:54.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+        "seendate": "2026-10-27T10:36:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+        "seendate": "2026-10-27T10:36:54.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
+    "seendate": "2026-10-27T10:03:32.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+        "url": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
+        "seendate": "2026-10-27T10:03:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+        "url": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
+        "seendate": "2026-10-27T10:03:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+    "headlineUrl": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
+    "seendate": "2026-10-27T09:01:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+        "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
+        "seendate": "2026-10-27T09:01:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -159,9 +368,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
-        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
-        "seendate": "2026-10-26T20:30:07.000Z",
+        "title": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+        "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
+        "seendate": "2026-10-27T09:01:02.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
