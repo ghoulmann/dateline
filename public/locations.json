@@ -1,44 +1,24 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-    "seendate": "2026-10-28T11:36:04.000Z",
-    "articleCount": 8,
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-28T20:22:49.000Z",
+    "articleCount": 14,
     "categories": [
-      "natural-disaster",
-      "democracy-crisis"
+      "democracy-crisis",
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
-        "url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-        "seendate": "2026-10-28T11:36:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
-        "url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-        "seendate": "2026-10-28T11:36:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-27T10:17:36.000Z",
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T20:22:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "democracy-crisis"
@@ -46,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-27T10:17:36.000Z",
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T20:22:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "democracy-crisis"
@@ -56,9 +36,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-27T10:17:36.000Z",
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T20:22:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "democracy-crisis"
@@ -66,9 +46,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-27T10:17:36.000Z",
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T20:22:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "democracy-crisis"
@@ -76,9 +56,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-27T10:17:36.000Z",
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T20:22:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "democracy-crisis"
@@ -86,37 +66,136 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-27T10:17:36.000Z",
+        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T20:22:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "democracy-crisis"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+        "seendate": "2026-10-28T19:06:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+        "seendate": "2026-10-28T19:06:46.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T18:51:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T18:51:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T18:51:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T18:51:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T18:51:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-28T18:51:05.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-    "headlineUrl": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-    "seendate": "2026-10-28T14:41:48.000Z",
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+    "seendate": "2026-10-28T19:01:46.000Z",
     "articleCount": 4,
     "categories": [
-      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-        "seendate": "2026-10-28T14:41:48.000Z",
+        "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+        "url": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+        "seendate": "2026-10-28T19:01:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+        "url": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+        "seendate": "2026-10-28T19:01:46.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+        "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+        "seendate": "2026-10-28T15:27:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -124,19 +203,36 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-        "seendate": "2026-10-28T14:41:48.000Z",
+        "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+        "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+        "seendate": "2026-10-28T15:27:24.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: What’s next after Israel’s elections?",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+    "seendate": "2026-10-28T18:31:33.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis"
+    ],
+    "articles": [
       {
-        "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-        "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-        "seendate": "2026-10-28T14:32:16.000Z",
+        "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+        "seendate": "2026-10-28T18:31:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "democracy-crisis"
@@ -144,12 +240,49 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-        "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-        "seendate": "2026-10-28T14:32:16.000Z",
+        "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+        "seendate": "2026-10-28T18:31:33.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Khartoum",
+    "name": "Khartoum",
+    "country": "SD",
+    "lat": 15.55,
+    "lon": 32.53,
+    "timezone": "Africa/Khartoum",
+    "headline": "Sudan war and inflation leave families struggling to survive in Khartoum",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+    "seendate": "2026-10-28T17:09:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+        "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+        "seendate": "2026-10-28T17:09:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+        "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+        "seendate": "2026-10-28T17:09:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
@@ -162,18 +295,18 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-    "seendate": "2026-10-28T12:56:24.000Z",
+    "headline": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+    "seendate": "2026-10-28T15:36:39.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-        "url": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-        "seendate": "2026-10-28T12:56:24.000Z",
+        "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+        "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+        "seendate": "2026-10-28T15:36:39.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -181,9 +314,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-        "url": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-        "seendate": "2026-10-28T12:56:24.000Z",
+        "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+        "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+        "seendate": "2026-10-28T15:36:39.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -193,76 +326,29 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
-    "headlineUrl": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
-    "seendate": "2026-10-28T09:04:44.000Z",
-    "articleCount": 2,
+    "id": "Victoria",
+    "name": "Victoria",
+    "country": "SC",
+    "lat": -4.62,
+    "lon": 55.45,
+    "timezone": "Indian/Mahe",
+    "headline": "Tom Brady’s latest romance sparks Victoria’s Secret model war: report",
+    "headlineUrl": "https://www.foxnews.com/entertainment/tom-brady-latest-romance-sparks-victorias-secret-model-war-report",
+    "seendate": "2026-10-28T19:58:48.000Z",
+    "articleCount": 1,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
-        "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
-        "seendate": "2026-10-28T09:04:44.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Tom Brady’s latest romance sparks Victoria’s Secret model war: report",
+        "url": "https://www.foxnews.com/entertainment/tom-brady-latest-romance-sparks-victorias-secret-model-war-report",
+        "seendate": "2026-10-28T19:58:48.000Z",
+        "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
-        "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
-        "seendate": "2026-10-28T09:04:44.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
-    "headlineUrl": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-    "seendate": "2026-10-28T03:36:13.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
-        "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-        "seendate": "2026-10-28T03:36:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
-        "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-        "seendate": "2026-10-28T03:36:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
+        "source_category": "culture-wars"
       }
     ]
   }
