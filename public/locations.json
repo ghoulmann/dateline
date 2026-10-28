@@ -6,15 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "What does Israel's election mean for Gaza and the wider world?",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-10-27T10:17:36.000Z",
-    "articleCount": 8,
+    "headline": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+    "seendate": "2026-10-27T23:35:51.000Z",
+    "articleCount": 10,
     "categories": [
-      "democracy-crisis",
-      "armed-conflict"
+      "armed-conflict",
+      "democracy-crisis"
     ],
     "articles": [
+      {
+        "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+        "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+        "seendate": "2026-10-27T23:35:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+        "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+        "seendate": "2026-10-27T23:35:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "What does Israel's election mean for Gaza and the wider world?",
         "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
@@ -175,98 +195,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli elections underway",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-    "seendate": "2026-10-27T18:12:17.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israeli elections underway",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-        "seendate": "2026-10-27T18:12:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israeli elections underway",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-        "seendate": "2026-10-27T18:12:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Seoul",
-    "name": "Seoul",
-    "country": "KR",
-    "lat": 37.57,
-    "lon": 126.98,
-    "timezone": "Asia/Seoul",
-    "headline": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
-    "seendate": "2026-10-27T17:10:03.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
-        "seendate": "2026-10-27T17:10:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
-        "seendate": "2026-10-27T17:10:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
     "lat": 22.3,
     "lon": 114.18,
     "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+    "headline": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
     "headlineUrl": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-    "seendate": "2026-10-27T09:01:02.000Z",
+    "seendate": "2026-10-28T03:36:13.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+        "title": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
         "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-        "seendate": "2026-10-27T09:01:02.000Z",
+        "seendate": "2026-10-28T03:36:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -274,9 +220,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+        "title": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
         "url": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-        "seendate": "2026-10-27T09:01:02.000Z",
+        "seendate": "2026-10-28T03:36:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
