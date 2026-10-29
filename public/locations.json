@@ -1,98 +1,115 @@
 [
   {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-    "headlineUrl": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-    "seendate": "2026-10-29T06:01:06.000Z",
-    "articleCount": 8,
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid and FC Barcelona honour Spain train crash victims",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+    "seendate": "2026-10-29T20:42:03.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-        "seendate": "2026-10-29T06:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-        "seendate": "2026-10-29T06:01:06.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-29T01:14:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+        "seendate": "2026-10-29T20:42:03.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-29T01:14:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+        "seendate": "2026-10-29T20:42:03.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-29T01:14:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "France football chief backs Real Madrid’s Mbappe after China apology",
+        "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
+        "seendate": "2026-10-29T16:43:37.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-29T01:14:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "France football chief backs Real Madrid’s Mbappe after China apology",
+        "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
+        "seendate": "2026-10-29T16:43:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Why Miami Is a Destination for Latin America’s Political Exiles",
+    "headlineUrl": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+    "seendate": "2026-10-29T19:13:09.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
+        "url": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+        "seendate": "2026-10-29T19:13:09.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-29T01:14:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
+        "url": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+        "seendate": "2026-10-29T19:13:09.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-29T01:14:01.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+        "seendate": "2026-10-29T15:06:48.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+        "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+        "seendate": "2026-10-29T15:06:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -144,43 +161,6 @@
     ]
   },
   {
-    "id": "Damascus",
-    "name": "Damascus",
-    "country": "SY",
-    "lat": 33.51,
-    "lon": 36.28,
-    "timezone": "Asia/Damascus",
-    "headline": "Damascus, Amman contradict each other on attack that killed civilians",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-    "seendate": "2026-10-29T13:44:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Damascus, Amman contradict each other on attack that killed civilians",
-        "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-        "seendate": "2026-10-29T13:44:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Damascus, Amman contradict each other on attack that killed civilians",
-        "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-        "seendate": "2026-10-29T13:44:42.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Hong Kong",
     "name": "Hong Kong",
     "country": "HK",
@@ -209,6 +189,43 @@
         "title": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
         "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
         "seendate": "2026-10-29T11:34:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+    "headlineUrl": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
+    "seendate": "2026-10-29T20:43:42.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+        "url": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
+        "seendate": "2026-10-29T20:43:42.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+        "url": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
+        "seendate": "2026-10-29T20:43:42.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
