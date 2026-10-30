@@ -77,6 +77,117 @@
     ]
   },
   {
+    "id": "Port Sudan",
+    "name": "Port Sudan",
+    "country": "SD",
+    "lat": 19.61,
+    "lon": 37.22,
+    "timezone": "Africa/Khartoum",
+    "headline": "Port Sudan families can barely afford water as shortages persist",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+    "seendate": "2026-10-30T20:10:22.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Port Sudan families can barely afford water as shortages persist",
+        "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+        "seendate": "2026-10-30T20:10:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Port Sudan families can barely afford water as shortages persist",
+        "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+        "seendate": "2026-10-30T20:10:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Houston",
+    "name": "Houston",
+    "country": "US",
+    "lat": 29.76,
+    "lon": -95.37,
+    "timezone": "America/Chicago",
+    "headline": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+    "seendate": "2026-10-30T19:16:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+        "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+        "seendate": "2026-10-30T19:16:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+        "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+        "seendate": "2026-10-30T19:16:30.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+    "seendate": "2026-10-30T15:50:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+        "seendate": "2026-10-30T15:50:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+        "seendate": "2026-10-30T15:50:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -122,7 +233,7 @@
     "timezone": "Europe/Athens",
     "headline": "3 Arrested in Connection With Deadly Blast in Central Athens",
     "headlineUrl": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
-    "seendate": "2026-10-30T14:45:46.000Z",
+    "seendate": "2026-10-30T18:45:35.000Z",
     "articleCount": 2,
     "categories": [
       "political-repression"
@@ -131,7 +242,7 @@
       {
         "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
         "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
-        "seendate": "2026-10-30T14:45:46.000Z",
+        "seendate": "2026-10-30T18:45:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "political-repression"
@@ -141,7 +252,7 @@
       {
         "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
         "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
-        "seendate": "2026-10-30T14:45:46.000Z",
+        "seendate": "2026-10-30T18:45:35.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "political-repression"
@@ -159,7 +270,7 @@
     "timezone": "Asia/Seoul",
     "headline": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
     "headlineUrl": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-    "seendate": "2026-10-30T09:01:55.000Z",
+    "seendate": "2026-10-30T18:32:38.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -168,7 +279,7 @@
       {
         "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
         "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-        "seendate": "2026-10-30T09:01:55.000Z",
+        "seendate": "2026-10-30T18:32:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -178,7 +289,7 @@
       {
         "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
         "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-        "seendate": "2026-10-30T09:01:55.000Z",
+        "seendate": "2026-10-30T18:32:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
