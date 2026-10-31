@@ -1,100 +1,83 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-    "seendate": "2026-10-31T13:35:51.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-        "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-        "seendate": "2026-10-31T13:35:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-        "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-        "seendate": "2026-10-31T13:35:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Education under fire: Gaza’s children face death on their way to school",
-        "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
-        "seendate": "2026-10-31T10:00:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Education under fire: Gaza’s children face death on their way to school",
-        "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
-        "seendate": "2026-10-31T10:00:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
     "lat": 48.86,
     "lon": 2.35,
     "timezone": "Europe/Paris",
-    "headline": "Paris steps up security as police patrol streets",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
-    "seendate": "2026-10-31T12:22:49.000Z",
-    "articleCount": 4,
+    "headline": "Clashes erupt between police and protesters in Paris",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-10-31T19:37:43.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Paris steps up security as police patrol streets",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
-        "seendate": "2026-10-31T12:22:49.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-31T19:37:43.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Paris steps up security as police patrol streets",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
-        "seendate": "2026-10-31T12:22:49.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-31T19:37:43.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-31T19:37:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-31T19:37:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-31T19:37:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-10-31T19:37:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
         "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
         "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-        "seendate": "2026-10-31T09:05:39.000Z",
+        "seendate": "2026-10-31T14:32:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -104,7 +87,7 @@
       {
         "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
         "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-        "seendate": "2026-10-31T09:05:39.000Z",
+        "seendate": "2026-10-31T14:32:27.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -114,24 +97,24 @@
     ]
   },
   {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
-    "headlineUrl": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
-    "seendate": "2026-10-31T11:30:00.000Z",
-    "articleCount": 2,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+    "seendate": "2026-10-31T17:49:23.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
-        "url": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
-        "seendate": "2026-10-31T11:30:00.000Z",
+        "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+        "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+        "seendate": "2026-10-31T17:49:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -139,9 +122,187 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
-        "url": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
-        "seendate": "2026-10-31T11:30:00.000Z",
+        "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+        "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+        "seendate": "2026-10-31T17:49:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+        "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+        "seendate": "2026-10-31T13:35:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+        "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+        "seendate": "2026-10-31T13:35:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beijing",
+    "name": "Beijing",
+    "country": "CN",
+    "lat": 39.9,
+    "lon": 116.41,
+    "timezone": "Asia/Shanghai",
+    "headline": "Anti-corruption and party discipline: takeaways from from this week&apos;s key political meeting in Beijing",
+    "headlineUrl": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+    "seendate": "2026-10-31T18:42:33.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Anti-corruption and party discipline: takeaways from from this week&apos;s key political meeting in Beijing",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+        "seendate": "2026-10-31T18:42:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Anti-corruption and party discipline: takeaways from from this week&apos;s key political meeting in Beijing",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+        "seendate": "2026-10-31T18:42:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Anti-corruption and party discipline: takeaways from from this week&apos;s key political meeting in Beijing",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+        "seendate": "2026-10-31T18:42:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London police arrest 139 as hundreds protest Palestine Action ban",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+    "seendate": "2026-10-31T18:48:29.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+        "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+        "seendate": "2026-10-31T18:48:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+        "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+        "seendate": "2026-10-31T18:48:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Who will form Israel’s next government?",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+    "seendate": "2026-10-31T17:29:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Who will form Israel’s next government?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+        "seendate": "2026-10-31T17:29:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Who will form Israel’s next government?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+        "seendate": "2026-10-31T17:29:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+    "seendate": "2026-10-31T16:28:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+        "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+        "seendate": "2026-10-31T16:28:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+        "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+        "seendate": "2026-10-31T16:28:04.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -369,33 +530,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Victoria",
-    "name": "Victoria",
-    "country": "SC",
-    "lat": -4.62,
-    "lon": 55.45,
-    "timezone": "Indian/Mahe",
-    "headline": "Tom Brady’s latest romance sparks Victoria’s Secret model war: report",
-    "headlineUrl": "https://www.foxnews.com/entertainment/tom-brady-latest-romance-sparks-victorias-secret-model-war-report",
-    "seendate": "2026-10-28T19:58:48.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Tom Brady’s latest romance sparks Victoria’s Secret model war: report",
-        "url": "https://www.foxnews.com/entertainment/tom-brady-latest-romance-sparks-victorias-secret-model-war-report",
-        "seendate": "2026-10-28T19:58:48.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
