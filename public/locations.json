@@ -1,23 +1,23 @@
 [
   {
-    "id": "Port Sudan",
-    "name": "Port Sudan",
-    "country": "SD",
-    "lat": 19.61,
-    "lon": 37.22,
-    "timezone": "Africa/Khartoum",
-    "headline": "Port Sudan families can barely afford water as shortages persist",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-    "seendate": "2026-10-30T20:10:22.000Z",
-    "articleCount": 2,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+    "seendate": "2026-10-31T13:35:51.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Port Sudan families can barely afford water as shortages persist",
-        "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-        "seendate": "2026-10-30T20:10:22.000Z",
+        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+        "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+        "seendate": "2026-10-31T13:35:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,123 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Port Sudan families can barely afford water as shortages persist",
-        "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-        "seendate": "2026-10-30T20:10:22.000Z",
+        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+        "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+        "seendate": "2026-10-31T13:35:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Education under fire: Gaza’s children face death on their way to school",
+        "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+        "seendate": "2026-10-31T10:00:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Education under fire: Gaza’s children face death on their way to school",
+        "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+        "seendate": "2026-10-31T10:00:17.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris steps up security as police patrol streets",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+    "seendate": "2026-10-31T12:22:49.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Paris steps up security as police patrol streets",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+        "seendate": "2026-10-31T12:22:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Paris steps up security as police patrol streets",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+        "seendate": "2026-10-31T12:22:49.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
+        "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
+        "seendate": "2026-10-31T09:05:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
+        "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
+        "seendate": "2026-10-31T09:05:39.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
+    "headlineUrl": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
+    "seendate": "2026-10-31T11:30:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
+        "url": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
+        "seendate": "2026-10-31T11:30:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
+        "url": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
+        "seendate": "2026-10-31T11:30:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
