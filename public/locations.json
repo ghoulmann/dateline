@@ -137,7 +137,7 @@
       {
         "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
         "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-        "seendate": "2026-10-31T14:32:27.000Z",
+        "seendate": "2026-10-31T14:32:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -147,70 +147,12 @@
       {
         "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
         "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-        "seendate": "2026-10-31T14:32:27.000Z",
+        "seendate": "2026-10-31T14:32:28.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Palestine Action supporters arrested outside US embassy in London",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-    "seendate": "2026-10-31T22:10:53.000Z",
-    "articleCount": 4,
-    "categories": [
-      "political-repression",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Palestine Action supporters arrested outside US embassy in London",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-        "seendate": "2026-10-31T22:10:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestine Action supporters arrested outside US embassy in London",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-        "seendate": "2026-10-31T22:10:53.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-        "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-        "seendate": "2026-10-31T18:48:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-        "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-        "seendate": "2026-10-31T18:48:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -262,24 +204,24 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-    "seendate": "2026-10-31T17:49:23.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+    "seendate": "2026-11-01T00:00:51.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-        "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-        "seendate": "2026-10-31T17:49:23.000Z",
+        "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+        "seendate": "2026-11-01T00:00:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -287,9 +229,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-        "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-        "seendate": "2026-10-31T17:49:23.000Z",
+        "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+        "seendate": "2026-11-01T00:00:51.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -299,37 +241,37 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Who will form Israel’s next government?",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-    "seendate": "2026-10-31T17:29:00.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "Palestine Action supporters arrested outside US embassy in London",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+    "seendate": "2026-10-31T22:10:53.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "political-repression"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Who will form Israel’s next government?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-        "seendate": "2026-10-31T17:29:00.000Z",
+        "title": "Palestine Action supporters arrested outside US embassy in London",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+        "seendate": "2026-10-31T22:10:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Who will form Israel’s next government?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-        "seendate": "2026-10-31T17:29:00.000Z",
+        "title": "Palestine Action supporters arrested outside US embassy in London",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+        "seendate": "2026-10-31T22:10:53.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "political-repression"
         ],
         "source_category": "humanitarian"
       }
@@ -512,43 +454,6 @@
         "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
         "url": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
         "seendate": "2026-10-29T21:36:23.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
-    "headlineUrl": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
-    "seendate": "2026-10-29T11:34:49.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
-        "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
-        "seendate": "2026-10-29T11:34:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
-        "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
-        "seendate": "2026-10-29T11:34:49.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
