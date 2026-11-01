@@ -9,7 +9,7 @@
     "headline": "Thousands demonstrate in Paris as protests spread across Europe",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-10-31T21:29:01.000Z",
-    "articleCount": 14,
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
@@ -32,37 +32,7 @@
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-31T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
         "source_category": "humanitarian"
-      },
-      {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-31T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-31T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
       },
       {
         "title": "Thousands demonstrate in Paris as protests spread across Europe",
@@ -92,37 +62,7 @@
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-31T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-31T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-10-31T21:29:01.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       },
       {
         "title": "Thousands demonstrate in Paris as protests spread across Europe",
@@ -157,71 +97,24 @@
     ]
   },
   {
-    "id": "Beijing",
-    "name": "Beijing",
-    "country": "CN",
-    "lat": 39.9,
-    "lon": 116.41,
-    "timezone": "Asia/Shanghai",
-    "headline": "Key takeaways from this week&apos;s political meeting in Beijing",
-    "headlineUrl": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-    "seendate": "2026-10-31T18:42:33.000Z",
-    "articleCount": 3,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli attacks on Gaza kill at least nine people",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+    "seendate": "2026-11-01T14:10:59.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Key takeaways from this week&apos;s political meeting in Beijing",
-        "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-        "seendate": "2026-10-31T18:42:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Key takeaways from this week&apos;s political meeting in Beijing",
-        "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-        "seendate": "2026-10-31T18:42:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Key takeaways from this week&apos;s political meeting in Beijing",
-        "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-        "seendate": "2026-10-31T18:42:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
-    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-    "seendate": "2026-11-01T00:00:51.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-        "seendate": "2026-11-01T00:00:51.000Z",
+        "title": "Israeli attacks on Gaza kill at least nine people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+        "seendate": "2026-11-01T14:10:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -229,49 +122,32 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-        "seendate": "2026-11-01T00:00:51.000Z",
+        "title": "Israeli attacks on Gaza kill at least nine people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+        "seendate": "2026-11-01T14:10:59.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "Palestine Action supporters arrested outside US embassy in London",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-    "seendate": "2026-10-31T22:10:53.000Z",
-    "articleCount": 2,
-    "categories": [
-      "political-repression"
-    ],
-    "articles": [
+      },
       {
-        "title": "Palestine Action supporters arrested outside US embassy in London",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-        "seendate": "2026-10-31T22:10:53.000Z",
+        "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+        "seendate": "2026-11-01T13:36:16.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestine Action supporters arrested outside US embassy in London",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-        "seendate": "2026-10-31T22:10:53.000Z",
+        "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+        "seendate": "2026-11-01T13:36:16.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
