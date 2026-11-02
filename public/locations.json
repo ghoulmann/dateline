@@ -1,102 +1,5 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-01T17:06:32.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-01T17:06:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-01T17:06:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-01T17:06:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-01T17:06:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-01T17:06:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-01T17:06:32.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill at least nine people",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-        "seendate": "2026-11-01T14:10:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli attacks on Gaza kill at least nine people",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-        "seendate": "2026-11-01T14:10:59.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Paris",
     "name": "Paris",
     "country": "FR",
@@ -194,6 +97,83 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-01T17:06:32.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-01T17:06:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-01T17:06:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-01T17:06:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-01T17:06:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-01T17:06:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-01T17:06:32.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -241,24 +221,24 @@
     ]
   },
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Russia detains minor over alleged Moscow attack plot after US warning",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-    "seendate": "2026-11-01T16:24:16.000Z",
+    "id": "Mexico City",
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lon": -99.13,
+    "timezone": "America/Mexico_City",
+    "headline": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+    "seendate": "2026-11-02T03:51:57.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-        "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-        "seendate": "2026-11-01T16:24:16.000Z",
+        "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+        "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+        "seendate": "2026-11-02T03:51:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -266,46 +246,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-        "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-        "seendate": "2026-11-01T16:24:16.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-    "seendate": "2026-11-01T15:38:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-        "seendate": "2026-11-01T15:38:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-        "seendate": "2026-11-01T15:38:12.000Z",
+        "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+        "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+        "seendate": "2026-11-02T03:51:57.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -496,6 +439,33 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Victoria",
+    "name": "Victoria",
+    "country": "SC",
+    "lat": -4.62,
+    "lon": 55.45,
+    "timezone": "Indian/Mahe",
+    "headline": "Candice Swanepoel: What to know about Tom Brady&apos;s rumored Victoria&apos;s Secret model girlfriend",
+    "headlineUrl": "https://www.foxnews.com/entertainment/candice-swanepoel-know-tom-brady-victorias-secret-model-girlfriend",
+    "seendate": "2026-11-01T21:00:32.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Candice Swanepoel: What to know about Tom Brady&apos;s rumored Victoria&apos;s Secret model girlfriend",
+        "url": "https://www.foxnews.com/entertainment/candice-swanepoel-know-tom-brady-victorias-secret-model-girlfriend",
+        "seendate": "2026-11-01T21:00:32.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
