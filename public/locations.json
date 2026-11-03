@@ -1,5 +1,82 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-03T01:56:27.000Z",
+    "articleCount": 6,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-03T01:56:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-03T01:56:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-03T01:56:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-03T01:56:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-03T01:56:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-03T01:56:27.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
@@ -77,98 +154,45 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid matches still banned in China despite Mbappe apology",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-    "seendate": "2026-11-02T17:08:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Real Madrid matches still banned in China despite Mbappe apology",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-        "seendate": "2026-11-02T17:08:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Real Madrid matches still banned in China despite Mbappe apology",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-        "seendate": "2026-11-02T17:08:25.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-    "seendate": "2026-11-02T16:56:41.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-        "seendate": "2026-11-02T16:56:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-        "seendate": "2026-11-02T16:56:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Tehran",
     "name": "Tehran",
     "country": "IR",
     "lat": 35.69,
     "lon": 51.39,
     "timezone": "Asia/Tehran",
-    "headline": "How would Tehran respond if the US and Israel bomb Iran again?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
-    "seendate": "2026-11-02T14:17:31.000Z",
-    "articleCount": 2,
+    "headline": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+    "seendate": "2026-11-03T00:00:00.000Z",
+    "articleCount": 4,
     "categories": [
+      "democracy-crisis",
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "How would Tehran respond if the US and Israel bomb Iran again?",
-        "url": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
-        "seendate": "2026-11-02T14:17:31.000Z",
+        "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+        "seendate": "2026-11-03T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+        "seendate": "2026-11-03T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+        "seendate": "2026-11-02T18:49:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -176,9 +200,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "How would Tehran respond if the US and Israel bomb Iran again?",
-        "url": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
-        "seendate": "2026-11-02T14:17:31.000Z",
+        "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+        "seendate": "2026-11-02T18:49:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -256,80 +280,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Seoul",
-    "name": "Seoul",
-    "country": "KR",
-    "lat": 37.57,
-    "lon": 126.98,
-    "timezone": "Asia/Seoul",
-    "headline": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
-    "headlineUrl": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-    "seendate": "2026-10-30T18:32:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
-        "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-        "seendate": "2026-10-30T18:32:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
-        "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-        "seendate": "2026-10-30T18:32:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Quito",
-    "name": "Quito",
-    "country": "EC",
-    "lat": -0.18,
-    "lon": -78.47,
-    "timezone": "America/Guayaquil",
-    "headline": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-    "headlineUrl": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-    "seendate": "2026-10-30T14:14:36.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-        "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-        "seendate": "2026-10-30T14:14:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-        "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-        "seendate": "2026-10-30T14:14:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
