@@ -1,5 +1,129 @@
 [
   {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Nadal set to join Real Madrid board of directors",
+    "headlineUrl": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-04T13:21:01.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Nadal set to join Real Madrid board of directors",
+        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-04T13:21:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Nadal set to join Real Madrid board of directors",
+        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-04T13:21:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Nadal set to join Real Madrid board of directors",
+        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-04T13:21:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Nadal set to join Real Madrid board of directors",
+        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-04T13:21:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Nadal set to join Real Madrid board of directors",
+        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-04T13:21:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Nadal set to join Real Madrid board of directors",
+        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-04T13:21:01.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Kansas just elected a Democrat. His message to Washington? Be decent",
+    "headlineUrl": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+    "seendate": "2026-11-04T16:08:41.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+        "seendate": "2026-11-04T16:08:41.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+        "seendate": "2026-11-04T16:08:41.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+        "seendate": "2026-11-04T16:08:41.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Johannesburg",
     "name": "Johannesburg",
     "country": "ZA",
