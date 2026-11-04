@@ -6,14 +6,35 @@
     "lat": 50.45,
     "lon": 30.52,
     "timezone": "Europe/Kyiv",
-    "headline": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-03T13:26:19.000Z",
-    "articleCount": 6,
+    "headline": "Kyiv protest raises suspicions of possible Russian orchestration",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+    "seendate": "2026-11-03T20:54:44.000Z",
+    "articleCount": 8,
     "categories": [
+      "armed-conflict",
       "humanitarian"
     ],
     "articles": [
+      {
+        "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+        "seendate": "2026-11-03T20:54:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+        "seendate": "2026-11-03T20:54:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
         "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,6 +98,80 @@
     ]
   },
   {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Ballot scanner glitch disrupts voting in New York",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+    "seendate": "2026-11-04T00:08:02.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ballot scanner glitch disrupts voting in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+        "seendate": "2026-11-04T00:08:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ballot scanner glitch disrupts voting in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+        "seendate": "2026-11-04T00:08:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+    "seendate": "2026-11-04T00:00:00.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+        "seendate": "2026-11-04T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+        "seendate": "2026-11-04T00:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Jerusalem",
     "name": "Jerusalem",
     "country": "IL",
@@ -110,117 +205,6 @@
           "humanitarian"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Abu Dhabi",
-    "name": "Abu Dhabi",
-    "country": "AE",
-    "lat": 24.47,
-    "lon": 54.37,
-    "timezone": "Asia/Dubai",
-    "headline": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
-    "seendate": "2026-11-03T16:22:15.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-        "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
-        "seendate": "2026-11-03T16:22:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-        "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
-        "seendate": "2026-11-03T16:22:15.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Homs",
-    "name": "Homs",
-    "country": "SY",
-    "lat": 34.73,
-    "lon": 36.73,
-    "timezone": "Asia/Damascus",
-    "headline": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-    "seendate": "2026-11-03T15:47:34.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-        "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-        "seendate": "2026-11-03T15:47:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-        "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-        "seendate": "2026-11-03T15:47:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
-    "headlineUrl": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-    "seendate": "2026-10-31T14:32:28.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
-        "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-        "seendate": "2026-10-31T14:32:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
-        "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-        "seendate": "2026-10-31T14:32:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
