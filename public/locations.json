@@ -1,23 +1,23 @@
 [
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Nadal set to join Real Madrid board of directors",
-    "headlineUrl": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-04T13:21:01.000Z",
-    "articleCount": 6,
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-05T08:07:22.000Z",
+    "articleCount": 13,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Nadal set to join Real Madrid board of directors",
-        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-04T13:21:01.000Z",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T08:07:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Nadal set to join Real Madrid board of directors",
-        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-04T13:21:01.000Z",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T08:07:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Nadal set to join Real Madrid board of directors",
-        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-04T13:21:01.000Z",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T08:07:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Nadal set to join Real Madrid board of directors",
-        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-04T13:21:01.000Z",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T08:07:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Nadal set to join Real Madrid board of directors",
-        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-04T13:21:01.000Z",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T08:07:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,83 +65,19 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Nadal set to join Real Madrid board of directors",
-        "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-04T13:21:01.000Z",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T08:07:22.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Kansas just elected a Democrat. His message to Washington? Be decent",
-    "headlineUrl": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-    "seendate": "2026-11-04T16:08:41.000Z",
-    "articleCount": 3,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
-        "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-        "seendate": "2026-11-04T16:08:41.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
       },
       {
-        "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
-        "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-        "seendate": "2026-11-04T16:08:41.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
-        "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-        "seendate": "2026-11-04T16:08:41.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-    "seendate": "2026-11-04T23:34:47.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-        "seendate": "2026-11-04T23:34:47.000Z",
+        "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+        "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+        "seendate": "2026-11-05T07:50:44.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -149,14 +85,64 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-        "seendate": "2026-11-04T23:34:47.000Z",
+        "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+        "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+        "seendate": "2026-11-05T07:50:44.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+        "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+        "seendate": "2026-11-05T06:56:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+        "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+        "seendate": "2026-11-05T06:56:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+        "seendate": "2026-11-05T05:29:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+        "seendate": "2026-11-05T05:29:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+        "seendate": "2026-11-05T05:29:56.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
@@ -167,18 +153,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-    "seendate": "2026-11-04T21:13:56.000Z",
-    "articleCount": 2,
+    "headline": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+    "seendate": "2026-11-05T11:32:40.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-        "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-        "seendate": "2026-11-04T21:13:56.000Z",
+        "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+        "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+        "seendate": "2026-11-05T11:32:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -186,12 +172,177 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-        "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-        "seendate": "2026-11-04T21:13:56.000Z",
+        "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+        "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+        "seendate": "2026-11-05T11:32:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-05T10:25:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-05T10:25:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "It’s Gaza, stupid",
+        "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+        "seendate": "2026-11-05T09:44:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "It’s Gaza, stupid",
+        "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+        "seendate": "2026-11-05T09:44:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Pope Leo hosts Bob Dylan at official residence in Rome",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-05T02:09:23.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T02:09:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T02:09:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T02:09:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T02:09:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T02:09:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-05T02:09:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Paris Jackson demands $600M from father Michael Jackson&apos;s estate in legal war with longtime executor",
+    "headlineUrl": "https://www.foxnews.com/entertainment/paris-jackson-demands-600m-father-michael-jackson-estate-legal-war-longtime-executor",
+    "seendate": "2026-11-05T10:00:40.000Z",
+    "articleCount": 3,
+    "categories": [
+      "climate-watch",
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Paris Jackson demands $600M from father Michael Jackson&apos;s estate in legal war with longtime executor",
+        "url": "https://www.foxnews.com/entertainment/paris-jackson-demands-600m-father-michael-jackson-estate-legal-war-longtime-executor",
+        "seendate": "2026-11-05T10:00:40.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+        "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
+        "seendate": "2026-11-05T07:41:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+        "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
+        "seendate": "2026-11-05T07:41:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       }
