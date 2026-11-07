@@ -6,18 +6,99 @@
     "lat": -33.45,
     "lon": -70.67,
     "timezone": "America/Santiago",
-    "headline": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-    "headlineUrl": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-    "seendate": "2026-11-06T05:49:51.000Z",
-    "articleCount": 8,
+    "headline": "Paraguay's President Santiago Peña impeached and arrested",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-07T03:25:00.000Z",
+    "articleCount": 16,
     "categories": [
-      "armed-conflict"
+      "armed-conflict",
+      "political-repression"
     ],
     "articles": [
       {
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T03:25:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T03:25:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T03:25:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T03:25:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T03:25:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T03:25:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "political-repression"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+        "seendate": "2026-11-07T00:31:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+        "seendate": "2026-11-07T00:31:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
         "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-        "seendate": "2026-11-06T05:49:51.000Z",
+        "seendate": "2026-11-06T05:49:52.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -27,7 +108,7 @@
       {
         "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
         "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-        "seendate": "2026-11-06T05:49:51.000Z",
+        "seendate": "2026-11-06T05:49:52.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -97,20 +178,117 @@
     ]
   },
   {
+    "id": "Mogadishu",
+    "name": "Mogadishu",
+    "country": "SO",
+    "lat": 2.05,
+    "lon": 45.34,
+    "timezone": "Africa/Mogadishu",
+    "headline": "The young Somali woman changing how the world sees Mogadishu",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-07T01:19:49.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T01:19:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T01:19:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T01:19:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T01:19:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T01:19:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-07T01:19:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Amsterdam",
     "name": "Amsterdam",
     "country": "NL",
     "lat": 52.37,
     "lon": 4.9,
     "timezone": "Europe/Amsterdam",
-    "headline": "Protesters break into Microsoft data centre site in Amsterdam",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-    "seendate": "2026-11-06T21:04:40.000Z",
-    "articleCount": 2,
+    "headline": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+    "seendate": "2026-11-07T04:08:02.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+        "seendate": "2026-11-07T04:08:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+        "seendate": "2026-11-07T04:08:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Protesters break into Microsoft data centre site in Amsterdam",
         "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
@@ -134,24 +312,24 @@
     ]
   },
   {
-    "id": "Tokyo",
-    "name": "Tokyo",
-    "country": "JP",
-    "lat": 35.68,
-    "lon": 139.69,
-    "timezone": "Asia/Tokyo",
-    "headline": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-    "seendate": "2026-11-06T18:45:00.000Z",
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia launches missile attack on Kyiv, injuring residents",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+    "seendate": "2026-11-07T05:11:03.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-        "seendate": "2026-11-06T18:45:00.000Z",
+        "title": "Russia launches missile attack on Kyiv, injuring residents",
+        "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+        "seendate": "2026-11-07T05:11:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -159,9 +337,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-        "seendate": "2026-11-06T18:45:00.000Z",
+        "title": "Russia launches missile attack on Kyiv, injuring residents",
+        "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+        "seendate": "2026-11-07T05:11:03.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -171,74 +349,74 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-    "seendate": "2026-11-06T17:50:13.000Z",
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Los Angeles reacts to historic mayoral election",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+    "seendate": "2026-11-07T04:14:12.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-        "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-        "seendate": "2026-11-06T17:50:13.000Z",
+        "title": "Los Angeles reacts to historic mayoral election",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+        "seendate": "2026-11-07T04:14:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-        "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-        "seendate": "2026-11-06T17:50:13.000Z",
+        "title": "Los Angeles reacts to historic mayoral election",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+        "seendate": "2026-11-07T04:14:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-    "seendate": "2026-11-06T16:21:57.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Palestinian couples tie the knot in mass wedding in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+    "seendate": "2026-11-06T21:37:30.000Z",
     "articleCount": 2,
     "categories": [
-      "armed-conflict"
+      "democracy-crisis"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-        "seendate": "2026-11-06T16:21:57.000Z",
+        "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-06T21:37:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-        "seendate": "2026-11-06T16:21:57.000Z",
+        "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-06T21:37:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "democracy-crisis"
         ],
         "source_category": "humanitarian"
       }
@@ -273,43 +451,6 @@
         "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
         "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
         "seendate": "2026-11-05T06:56:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Johannesburg",
-    "name": "Johannesburg",
-    "country": "ZA",
-    "lat": -26.2,
-    "lon": 28.04,
-    "timezone": "Africa/Johannesburg",
-    "headline": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-    "headlineUrl": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-    "seendate": "2026-11-04T10:23:53.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-        "url": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-        "seendate": "2026-11-04T10:23:53.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-        "url": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-        "seendate": "2026-11-04T10:23:53.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
