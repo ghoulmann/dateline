@@ -1,84 +1,45 @@
 [
   {
-    "id": "Santiago",
-    "name": "Santiago",
-    "country": "CL",
-    "lat": -33.45,
-    "lon": -70.67,
-    "timezone": "America/Santiago",
-    "headline": "Paraguay's President Santiago Peña impeached and arrested",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-07T03:25:00.000Z",
-    "articleCount": 16,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Gaza displacement camps collapse under rainwater",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+    "seendate": "2026-11-07T13:14:53.000Z",
+    "articleCount": 8,
     "categories": [
+      "humanitarian",
       "armed-conflict",
-      "political-repression"
+      "natural-disaster"
     ],
     "articles": [
       {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-07T03:25:00.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Gaza displacement camps collapse under rainwater",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+        "seendate": "2026-11-07T13:14:53.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-07T03:25:00.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Gaza displacement camps collapse under rainwater",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+        "seendate": "2026-11-07T13:14:53.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "political-repression"
+          "humanitarian"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-07T03:25:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-07T03:25:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-07T03:25:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-07T03:25:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "political-repression"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-        "seendate": "2026-11-07T00:31:41.000Z",
+        "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+        "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+        "seendate": "2026-11-07T13:07:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -86,9 +47,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-        "seendate": "2026-11-07T00:31:41.000Z",
+        "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+        "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+        "seendate": "2026-11-07T13:07:23.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -96,84 +57,46 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-        "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-        "seendate": "2026-11-06T05:49:52.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Heavy rains flood displacement camps across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
+        "seendate": "2026-11-07T13:04:51.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-        "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-        "seendate": "2026-11-06T05:49:52.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-05T17:40:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "natural-disaster"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-05T17:40:40.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Heavy rains flood displacement camps across Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
+        "seendate": "2026-11-07T13:04:51.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "humanitarian",
+          "natural-disaster"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-05T17:40:40.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-07T11:10:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-05T17:40:40.000Z",
-        "source_domain": "bbc.co.uk",
+        "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-07T11:10:02.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "natural-disaster"
         ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-05T17:40:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-05T17:40:40.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -255,81 +178,24 @@
     ]
   },
   {
-    "id": "Amsterdam",
-    "name": "Amsterdam",
-    "country": "NL",
-    "lat": 52.37,
-    "lon": 4.9,
-    "timezone": "Europe/Amsterdam",
-    "headline": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
-    "seendate": "2026-11-07T04:08:02.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
-        "seendate": "2026-11-07T04:08:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
-        "seendate": "2026-11-07T04:08:02.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Protesters break into Microsoft data centre site in Amsterdam",
-        "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-        "seendate": "2026-11-06T21:04:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Protesters break into Microsoft data centre site in Amsterdam",
-        "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-        "seendate": "2026-11-06T21:04:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Russia launches missile attack on Kyiv, injuring residents",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-    "seendate": "2026-11-07T05:11:03.000Z",
+    "id": "Mosul",
+    "name": "Mosul",
+    "country": "IQ",
+    "lat": 36.34,
+    "lon": 43.16,
+    "timezone": "Asia/Baghdad",
+    "headline": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+    "headlineUrl": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
+    "seendate": "2026-11-07T14:30:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Russia launches missile attack on Kyiv, injuring residents",
-        "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-        "seendate": "2026-11-07T05:11:03.000Z",
+        "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+        "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
+        "seendate": "2026-11-07T14:30:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -337,9 +203,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Russia launches missile attack on Kyiv, injuring residents",
-        "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-        "seendate": "2026-11-07T05:11:03.000Z",
+        "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+        "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
+        "seendate": "2026-11-07T14:30:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -349,76 +215,113 @@
     ]
   },
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Los Angeles reacts to historic mayoral election",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
-    "seendate": "2026-11-07T04:14:12.000Z",
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
+    "seendate": "2026-11-07T12:27:58.000Z",
     "articleCount": 2,
     "categories": [
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Los Angeles reacts to historic mayoral election",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
-        "seendate": "2026-11-07T04:14:12.000Z",
+        "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
+        "url": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
+        "seendate": "2026-11-07T12:27:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Los Angeles reacts to historic mayoral election",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
-        "seendate": "2026-11-07T04:14:12.000Z",
+        "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
+        "url": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
+        "seendate": "2026-11-07T12:27:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Palestinian couples tie the knot in mass wedding in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-    "seendate": "2026-11-06T21:37:30.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Sudan war and climate change see parents struggle to feed their children",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+    "seendate": "2026-11-07T10:36:32.000Z",
     "articleCount": 2,
     "categories": [
-      "democracy-crisis"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-        "seendate": "2026-11-06T21:37:30.000Z",
+        "title": "Sudan war and climate change see parents struggle to feed their children",
+        "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+        "seendate": "2026-11-07T10:36:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-        "seendate": "2026-11-06T21:37:30.000Z",
+        "title": "Sudan war and climate change see parents struggle to feed their children",
+        "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+        "seendate": "2026-11-07T10:36:32.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "democracy-crisis"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Santiago",
+    "name": "Santiago",
+    "country": "CL",
+    "lat": -33.45,
+    "lon": -70.67,
+    "timezone": "America/Santiago",
+    "headline": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+    "headlineUrl": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+    "seendate": "2026-11-06T05:49:52.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+        "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+        "seendate": "2026-11-06T05:49:52.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+        "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+        "seendate": "2026-11-06T05:49:52.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
