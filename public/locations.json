@@ -9,9 +9,8 @@
     "headline": "Gaza wedding festival sees 250 couples married at the same time",
     "headlineUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss",
     "seendate": "2026-11-07T17:58:41.000Z",
-    "articleCount": 8,
+    "articleCount": 6,
     "categories": [
-      "natural-disaster",
       "democracy-crisis"
     ],
     "articles": [
@@ -74,26 +73,6 @@
           "democracy-crisis"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Jerusalem Daily: Heavy rains flood Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-        "seendate": "2026-11-07T17:11:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Heavy rains flood Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-        "seendate": "2026-11-07T17:11:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -175,135 +154,24 @@
     ]
   },
   {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-    "seendate": "2026-11-07T19:06:31.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-        "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-        "seendate": "2026-11-07T19:06:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-        "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-        "seendate": "2026-11-07T19:06:31.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Demonstration in Berlin calls for an end to arming Israel",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-    "seendate": "2026-11-07T19:04:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Demonstration in Berlin calls for an end to arming Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-        "seendate": "2026-11-07T19:04:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Demonstration in Berlin calls for an end to arming Israel",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-        "seendate": "2026-11-07T19:04:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Houston",
-    "name": "Houston",
-    "country": "US",
-    "lat": 29.76,
-    "lon": -95.37,
-    "timezone": "America/Chicago",
-    "headline": "Houston mayor orders police to limit cooperation with ICE",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-    "seendate": "2026-11-07T18:55:40.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Houston mayor orders police to limit cooperation with ICE",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-        "seendate": "2026-11-07T18:55:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Houston mayor orders police to limit cooperation with ICE",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-        "seendate": "2026-11-07T18:55:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Madrid",
     "name": "Madrid",
     "country": "ES",
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "Valencia vs Real Madrid LIVE: La Liga",
-    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-    "seendate": "2026-11-07T17:00:12.000Z",
+    "headline": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+    "seendate": "2026-11-07T22:21:58.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Valencia vs Real Madrid LIVE: La Liga",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-        "seendate": "2026-11-07T17:00:12.000Z",
+        "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+        "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+        "seendate": "2026-11-07T22:21:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -311,46 +179,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Valencia vs Real Madrid LIVE: La Liga",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-        "seendate": "2026-11-07T17:00:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Mosul",
-    "name": "Mosul",
-    "country": "IQ",
-    "lat": 36.34,
-    "lon": 43.16,
-    "timezone": "Asia/Baghdad",
-    "headline": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-    "headlineUrl": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-    "seendate": "2026-11-07T14:30:00.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-        "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-        "seendate": "2026-11-07T14:30:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-        "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-        "seendate": "2026-11-07T14:30:00.000Z",
+        "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+        "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+        "seendate": "2026-11-07T22:21:58.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
