@@ -6,14 +6,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza wedding festival sees 250 couples married at the same time",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-07T17:58:41.000Z",
-    "articleCount": 6,
+    "headline": "Floods in Gaza leave tens of thousands without shelter",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+    "seendate": "2026-11-08T09:28:52.000Z",
+    "articleCount": 8,
     "categories": [
+      "natural-disaster",
       "democracy-crisis"
     ],
     "articles": [
+      {
+        "title": "Floods in Gaza leave tens of thousands without shelter",
+        "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+        "seendate": "2026-11-08T09:28:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Floods in Gaza leave tens of thousands without shelter",
+        "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+        "seendate": "2026-11-08T09:28:52.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Gaza wedding festival sees 250 couples married at the same time",
         "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss",
@@ -154,24 +175,91 @@
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
-    "seendate": "2026-11-07T22:21:58.000Z",
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
+    "headlineUrl": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+    "seendate": "2026-11-08T11:00:00.000Z",
+    "articleCount": 5,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "seendate": "2026-11-08T11:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "seendate": "2026-11-08T11:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "seendate": "2026-11-08T11:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+        "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+        "seendate": "2026-11-08T10:01:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+        "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+        "seendate": "2026-11-08T10:01:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
+    "seendate": "2026-11-08T14:19:17.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-        "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
-        "seendate": "2026-11-07T22:21:58.000Z",
+        "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+        "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
+        "seendate": "2026-11-08T14:19:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -179,14 +267,125 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-        "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
-        "seendate": "2026-11-07T22:21:58.000Z",
+        "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+        "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
+        "seendate": "2026-11-08T14:19:17.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tripoli",
+    "name": "Tripoli",
+    "country": "LY",
+    "lat": 32.9,
+    "lon": 13.18,
+    "timezone": "Africa/Tripoli",
+    "headline": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+    "seendate": "2026-11-08T13:27:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+        "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+        "seendate": "2026-11-08T13:27:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+        "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+        "seendate": "2026-11-08T13:27:57.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lagos",
+    "name": "Lagos",
+    "country": "NG",
+    "lat": 6.52,
+    "lon": 3.36,
+    "timezone": "Africa/Lagos",
+    "headline": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
+    "seendate": "2026-11-08T08:56:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+        "url": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
+        "seendate": "2026-11-08T08:56:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+        "url": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
+        "seendate": "2026-11-08T08:56:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Riyadh",
+    "name": "Riyadh",
+    "country": "SA",
+    "lat": 24.69,
+    "lon": 46.72,
+    "timezone": "Asia/Riyadh",
+    "headline": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+    "headlineUrl": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+    "seendate": "2026-11-08T13:05:01.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+        "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+        "seendate": "2026-11-08T13:05:01.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+        "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+        "seendate": "2026-11-08T13:05:01.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
