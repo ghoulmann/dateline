@@ -6,14 +6,56 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza wedding festival sees 250 couples married at the same time",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-07T17:58:41.000Z",
-    "articleCount": 6,
+    "headline": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+    "seendate": "2026-11-09T05:18:39.000Z",
+    "articleCount": 10,
     "categories": [
+      "natural-disaster",
+      "armed-conflict",
       "democracy-crisis"
     ],
     "articles": [
+      {
+        "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-09T05:18:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+        "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-09T05:18:39.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Deadly sand cliff collapses on displaced families in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-08T21:05:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Deadly sand cliff collapses on displaced families in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-08T21:05:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Gaza wedding festival sees 250 couples married at the same time",
         "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss",
@@ -73,6 +115,93 @@
           "democracy-crisis"
         ],
         "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+    "seendate": "2026-11-09T05:02:19.000Z",
+    "articleCount": 7,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+        "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+        "seendate": "2026-11-09T05:02:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+        "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+        "seendate": "2026-11-09T05:02:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "seendate": "2026-11-08T11:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "seendate": "2026-11-08T11:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "seendate": "2026-11-08T11:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+        "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+        "seendate": "2026-11-08T10:01:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+        "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+        "seendate": "2026-11-08T10:01:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -154,130 +283,6 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
-    "headlineUrl": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-    "seendate": "2026-11-08T11:00:00.000Z",
-    "articleCount": 5,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-        "seendate": "2026-11-08T11:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-        "seendate": "2026-11-08T11:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-        "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-        "seendate": "2026-11-08T11:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-        "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-        "seendate": "2026-11-08T10:01:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-        "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-        "seendate": "2026-11-08T10:01:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Cairo",
-    "name": "Cairo",
-    "country": "EG",
-    "lat": 30.05,
-    "lon": 31.24,
-    "timezone": "Africa/Cairo",
-    "headline": "Trains Collide Near Cairo, Killing 4",
-    "headlineUrl": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-    "seendate": "2026-11-08T19:50:07.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trains Collide Near Cairo, Killing 4",
-        "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-        "seendate": "2026-11-08T19:50:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Trains Collide Near Cairo, Killing 4",
-        "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-        "seendate": "2026-11-08T19:50:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-        "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-        "seendate": "2026-11-08T16:37:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-        "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-        "seendate": "2026-11-08T16:37:20.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Abu Dhabi",
     "name": "Abu Dhabi",
     "country": "AE",
@@ -325,24 +330,24 @@
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-    "seendate": "2026-11-08T18:22:58.000Z",
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+    "headlineUrl": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+    "seendate": "2026-11-09T00:00:34.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-        "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-        "seendate": "2026-11-08T18:22:58.000Z",
+        "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+        "seendate": "2026-11-09T00:00:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -350,83 +355,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-        "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-        "seendate": "2026-11-08T18:22:58.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Amsterdam",
-    "name": "Amsterdam",
-    "country": "NL",
-    "lat": 52.37,
-    "lon": 4.9,
-    "timezone": "Europe/Amsterdam",
-    "headline": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-    "seendate": "2026-11-08T17:44:51.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-        "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-        "seendate": "2026-11-08T17:44:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-        "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-        "seendate": "2026-11-08T17:44:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-    "seendate": "2026-11-08T17:11:52.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-        "seendate": "2026-11-08T17:11:52.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-        "seendate": "2026-11-08T17:11:52.000Z",
+        "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+        "seendate": "2026-11-09T00:00:34.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -442,18 +373,18 @@
     "lat": 40.42,
     "lon": -3.7,
     "timezone": "Europe/Madrid",
-    "headline": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-    "headlineUrl": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-    "seendate": "2026-11-08T17:00:00.000Z",
+    "headline": "Lopez double fires Barcelona to win at Atletico Madrid",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+    "seendate": "2026-11-08T22:42:12.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-        "seendate": "2026-11-08T17:00:00.000Z",
+        "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+        "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+        "seendate": "2026-11-08T22:42:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -461,9 +392,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-        "seendate": "2026-11-08T17:00:00.000Z",
+        "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+        "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+        "seendate": "2026-11-08T22:42:12.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -473,76 +404,39 @@
     ]
   },
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-    "seendate": "2026-11-08T14:19:17.000Z",
+    "id": "Cairo",
+    "name": "Cairo",
+    "country": "EG",
+    "lat": 30.05,
+    "lon": 31.24,
+    "timezone": "Africa/Cairo",
+    "headline": "Trains Collide Near Cairo, Killing 4",
+    "headlineUrl": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+    "seendate": "2026-11-08T23:03:01.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-        "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-        "seendate": "2026-11-08T14:19:17.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trains Collide Near Cairo, Killing 4",
+        "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+        "seendate": "2026-11-08T23:03:01.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-        "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-        "seendate": "2026-11-08T14:19:17.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Trains Collide Near Cairo, Killing 4",
+        "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+        "seendate": "2026-11-08T23:03:01.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tripoli",
-    "name": "Tripoli",
-    "country": "LY",
-    "lat": 32.9,
-    "lon": 13.18,
-    "timezone": "Africa/Tripoli",
-    "headline": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-    "seendate": "2026-11-08T13:27:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-        "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-        "seendate": "2026-11-08T13:27:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-        "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-        "seendate": "2026-11-08T13:27:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -621,6 +515,33 @@
     ]
   },
   {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Ann-Margret seen in wheelchair outside Los Angeles hotel months after breaking elbow in fall",
+    "headlineUrl": "https://www.foxnews.com/entertainment/ann-margret-seen-wheelchair-outside-los-angeles-hotel-months-after-breaking-elbow-fall",
+    "seendate": "2026-11-09T01:00:43.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ann-Margret seen in wheelchair outside Los Angeles hotel months after breaking elbow in fall",
+        "url": "https://www.foxnews.com/entertainment/ann-margret-seen-wheelchair-outside-los-angeles-hotel-months-after-breaking-elbow-fall",
+        "seendate": "2026-11-09T01:00:43.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -642,33 +563,6 @@
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Dublin",
-    "name": "Dublin",
-    "country": "IE",
-    "lat": 53.35,
-    "lon": -6.26,
-    "timezone": "Europe/Dublin",
-    "headline": "Rosie O&apos;Donnell considers return to New York from Dublin after celebrating blue wave of midterm election wins",
-    "headlineUrl": "https://www.foxnews.com/entertainment/rosie-odonnell-plots-return-new-york-dublin-celebrating-blue-wave-midterm-election-wins",
-    "seendate": "2026-11-05T21:12:38.000Z",
-    "articleCount": 1,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Rosie O&apos;Donnell considers return to New York from Dublin after celebrating blue wave of midterm election wins",
-        "url": "https://www.foxnews.com/entertainment/rosie-odonnell-plots-return-new-york-dublin-celebrating-blue-wave-midterm-election-wins",
-        "seendate": "2026-11-05T21:12:38.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "democracy-crisis"
         ],
         "source_category": "culture-wars"
       }
