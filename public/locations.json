@@ -1,5 +1,217 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "F1 champion Lewis Hamilton visits Gaza border",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+    "seendate": "2026-11-10T20:14:34.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict",
+      "humanitarian",
+      "natural-disaster"
+    ],
+    "articles": [
+      {
+        "title": "F1 champion Lewis Hamilton visits Gaza border",
+        "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+        "seendate": "2026-11-10T20:14:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "F1 champion Lewis Hamilton visits Gaza border",
+        "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+        "seendate": "2026-11-10T20:14:34.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza Floods Kill 4",
+        "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+        "seendate": "2026-11-10T19:24:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Gaza Floods Kill 4",
+        "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+        "seendate": "2026-11-10T19:24:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T15:21:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "natural-disaster"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T15:21:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "natural-disaster"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T15:21:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "natural-disaster"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T15:21:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "natural-disaster"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T15:21:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "natural-disaster"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T15:21:18.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian",
+          "natural-disaster"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-10T21:06:04.000Z",
+    "articleCount": 7,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T21:06:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T21:06:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T21:06:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T21:06:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T21:06:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T21:06:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Bill Murray pours Guinness for fans at New York bar after admitting fame &apos;is not easy&apos;",
+        "url": "https://www.foxnews.com/entertainment/bill-murray-pours-guinness-fans-new-york-bar-after-admitting-fame-is-not-easy",
+        "seendate": "2026-11-08T17:00:32.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -77,150 +289,6 @@
     ]
   },
   {
-    "id": "Buenos Aires",
-    "name": "Buenos Aires",
-    "country": "AR",
-    "lat": -34.6,
-    "lon": -58.38,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "headline": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-09T19:09:27.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-        "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-09T19:09:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-        "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-09T19:09:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-        "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-09T19:09:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-        "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-09T19:09:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-        "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-09T19:09:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-        "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-09T19:09:27.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Abu Dhabi",
-    "name": "Abu Dhabi",
-    "country": "AE",
-    "lat": 24.47,
-    "lon": 54.37,
-    "timezone": "Asia/Dubai",
-    "headline": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-    "headlineUrl": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-    "seendate": "2026-11-10T10:58:18.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-        "seendate": "2026-11-10T10:58:18.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-        "seendate": "2026-11-10T10:58:18.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-        "seendate": "2026-11-10T10:58:18.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-        "seendate": "2026-11-10T03:39:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-        "seendate": "2026-11-10T03:39:35.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -278,24 +346,61 @@
     ]
   },
   {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+    "seendate": "2026-11-10T18:58:05.000Z",
+    "articleCount": 2,
+    "categories": [
+      "humanitarian"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+        "seendate": "2026-11-10T18:58:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+        "seendate": "2026-11-10T18:58:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Washington",
     "name": "Washington",
     "country": "US",
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "UFC CEO Dana White takes the White House podium during Washington visit",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
-    "seendate": "2026-11-10T08:49:25.000Z",
+    "headline": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+    "seendate": "2026-11-10T16:39:25.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "UFC CEO Dana White takes the White House podium during Washington visit",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
-        "seendate": "2026-11-10T08:49:25.000Z",
+        "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+        "seendate": "2026-11-10T16:39:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -303,9 +408,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "UFC CEO Dana White takes the White House podium during Washington visit",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
-        "seendate": "2026-11-10T08:49:25.000Z",
+        "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+        "seendate": "2026-11-10T16:39:25.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -315,39 +420,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-    "seendate": "2026-11-10T06:37:13.000Z",
+    "id": "Abu Dhabi",
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "lat": 24.47,
+    "lon": 54.37,
+    "timezone": "Asia/Dubai",
+    "headline": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+    "headlineUrl": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+    "seendate": "2026-11-10T03:39:35.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-        "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-        "seendate": "2026-11-10T06:37:13.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+        "seendate": "2026-11-10T03:39:35.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-        "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-        "seendate": "2026-11-10T06:37:13.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+        "seendate": "2026-11-10T03:39:35.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -444,33 +549,6 @@
         "title": "Ann-Margret seen in wheelchair outside Los Angeles hotel months after breaking elbow in fall",
         "url": "https://www.foxnews.com/entertainment/ann-margret-seen-wheelchair-outside-los-angeles-hotel-months-after-breaking-elbow-fall",
         "seendate": "2026-11-09T01:00:43.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Bill Murray pours Guinness for fans at New York bar after admitting fame &apos;is not easy&apos;",
-    "headlineUrl": "https://www.foxnews.com/entertainment/bill-murray-pours-guinness-fans-new-york-bar-after-admitting-fame-is-not-easy",
-    "seendate": "2026-11-08T17:00:32.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Bill Murray pours Guinness for fans at New York bar after admitting fame &apos;is not easy&apos;",
-        "url": "https://www.foxnews.com/entertainment/bill-murray-pours-guinness-fans-new-york-bar-after-admitting-fame-is-not-easy",
-        "seendate": "2026-11-08T17:00:32.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
