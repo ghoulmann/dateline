@@ -1,5 +1,82 @@
 [
   {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "'Cruise for life' ship seized in Singapore",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-10T01:49:06.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'Cruise for life' ship seized in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T01:49:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'Cruise for life' ship seized in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T01:49:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'Cruise for life' ship seized in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T01:49:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'Cruise for life' ship seized in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T01:49:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'Cruise for life' ship seized in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T01:49:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'Cruise for life' ship seized in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-10T01:49:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Buenos Aires",
     "name": "Buenos Aires",
     "country": "AR",
@@ -77,39 +154,106 @@
     ]
   },
   {
+    "id": "Abu Dhabi",
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "lat": 24.47,
+    "lon": 54.37,
+    "timezone": "Asia/Dubai",
+    "headline": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+    "headlineUrl": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+    "seendate": "2026-11-10T10:58:18.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+        "seendate": "2026-11-10T10:58:18.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+        "seendate": "2026-11-10T10:58:18.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+        "seendate": "2026-11-10T10:58:18.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+        "seendate": "2026-11-10T03:39:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+        "seendate": "2026-11-10T03:39:35.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "COP31 opens amid energy crisis as activists demand climate action",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-    "seendate": "2026-11-09T21:18:25.000Z",
+    "headline": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+    "headlineUrl": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+    "seendate": "2026-11-10T10:01:42.000Z",
     "articleCount": 4,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "COP31 opens amid energy crisis as activists demand climate action",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-        "seendate": "2026-11-09T21:18:25.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+        "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+        "seendate": "2026-11-10T10:01:42.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "COP31 opens amid energy crisis as activists demand climate action",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-        "seendate": "2026-11-09T21:18:25.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+        "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+        "seendate": "2026-11-10T10:01:42.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "climate-watch"
         ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       },
       {
         "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
@@ -130,6 +274,43 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "UFC CEO Dana White takes the White House podium during Washington visit",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
+    "seendate": "2026-11-10T08:49:25.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "UFC CEO Dana White takes the White House podium during Washington visit",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
+        "seendate": "2026-11-10T08:49:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UFC CEO Dana White takes the White House podium during Washington visit",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
+        "seendate": "2026-11-10T08:49:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -140,18 +321,18 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "How is Gaza coping with another severe winter?",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
-    "seendate": "2026-11-09T19:47:46.000Z",
+    "headline": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+    "seendate": "2026-11-10T06:37:13.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "How is Gaza coping with another severe winter?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
-        "seendate": "2026-11-09T19:47:46.000Z",
+        "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+        "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+        "seendate": "2026-11-10T06:37:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -159,51 +340,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "How is Gaza coping with another severe winter?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
-        "seendate": "2026-11-09T19:47:46.000Z",
+        "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+        "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+        "seendate": "2026-11-10T06:37:13.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Abu Dhabi",
-    "name": "Abu Dhabi",
-    "country": "AE",
-    "lat": 24.47,
-    "lon": 54.37,
-    "timezone": "Asia/Dubai",
-    "headline": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-    "headlineUrl": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-    "seendate": "2026-11-09T15:08:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-        "seendate": "2026-11-09T15:08:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-        "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-        "seendate": "2026-11-09T15:08:54.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
