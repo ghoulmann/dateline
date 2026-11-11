@@ -6,37 +6,16 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "F1 champion Lewis Hamilton visits Gaza border",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-    "seendate": "2026-11-10T20:14:34.000Z",
-    "articleCount": 10,
+    "headline": "Gaza Floods Kill 4",
+    "headlineUrl": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+    "seendate": "2026-11-10T19:24:50.000Z",
+    "articleCount": 8,
     "categories": [
-      "armed-conflict",
       "humanitarian",
       "natural-disaster"
     ],
     "articles": [
       {
-        "title": "F1 champion Lewis Hamilton visits Gaza border",
-        "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-        "seendate": "2026-11-10T20:14:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "F1 champion Lewis Hamilton visits Gaza border",
-        "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-        "seendate": "2026-11-10T20:14:34.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
         "title": "Gaza Floods Kill 4",
         "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
         "seendate": "2026-11-10T19:24:50.000Z",
@@ -121,93 +100,6 @@
           "natural-disaster"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-10T21:06:04.000Z",
-    "articleCount": 7,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-10T21:06:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-10T21:06:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-10T21:06:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-10T21:06:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-10T21:06:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-10T21:06:04.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Bill Murray pours Guinness for fans at New York bar after admitting fame &apos;is not easy&apos;",
-        "url": "https://www.foxnews.com/entertainment/bill-murray-pours-guinness-fans-new-york-bar-after-admitting-fame-is-not-easy",
-        "seendate": "2026-11-08T17:00:32.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
@@ -289,6 +181,83 @@
     ]
   },
   {
+    "id": "Madrid",
+    "name": "Madrid",
+    "country": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "timezone": "Europe/Madrid",
+    "headline": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-11T00:19:42.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-11T00:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-11T00:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-11T00:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-11T00:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-11T00:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-11T00:19:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -346,61 +315,24 @@
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-    "seendate": "2026-11-10T18:58:05.000Z",
-    "articleCount": 2,
-    "categories": [
-      "humanitarian"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-        "seendate": "2026-11-10T18:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-        "seendate": "2026-11-10T18:58:05.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-    "seendate": "2026-11-10T16:39:25.000Z",
+    "id": "Dublin",
+    "name": "Dublin",
+    "country": "IE",
+    "lat": 53.35,
+    "lon": -6.26,
+    "timezone": "Europe/Dublin",
+    "headline": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+    "seendate": "2026-11-11T02:12:22.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-        "seendate": "2026-11-10T16:39:25.000Z",
+        "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+        "seendate": "2026-11-11T02:12:22.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -408,9 +340,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-        "seendate": "2026-11-10T16:39:25.000Z",
+        "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+        "seendate": "2026-11-11T02:12:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Beirut",
+    "name": "Beirut",
+    "country": "LB",
+    "lat": 33.89,
+    "lon": 35.5,
+    "timezone": "Asia/Beirut",
+    "headline": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+    "seendate": "2026-11-11T02:07:15.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+        "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+        "seendate": "2026-11-11T02:07:15.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+        "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+        "seendate": "2026-11-11T02:07:15.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -549,6 +518,33 @@
         "title": "Ann-Margret seen in wheelchair outside Los Angeles hotel months after breaking elbow in fall",
         "url": "https://www.foxnews.com/entertainment/ann-margret-seen-wheelchair-outside-los-angeles-hotel-months-after-breaking-elbow-fall",
         "seendate": "2026-11-09T01:00:43.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Bill Murray pours Guinness for fans at New York bar after admitting fame &apos;is not easy&apos;",
+    "headlineUrl": "https://www.foxnews.com/entertainment/bill-murray-pours-guinness-fans-new-york-bar-after-admitting-fame-is-not-easy",
+    "seendate": "2026-11-08T17:00:32.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Bill Murray pours Guinness for fans at New York bar after admitting fame &apos;is not easy&apos;",
+        "url": "https://www.foxnews.com/entertainment/bill-murray-pours-guinness-fans-new-york-bar-after-admitting-fame-is-not-easy",
+        "seendate": "2026-11-08T17:00:32.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
