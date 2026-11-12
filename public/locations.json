@@ -6,19 +6,120 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-12T12:26:01.000Z",
-    "articleCount": 13,
+    "headline": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+    "seendate": "2026-11-12T19:56:26.000Z",
+    "articleCount": 18,
     "categories": [
+      "humanitarian",
       "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
       {
+        "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+        "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+        "seendate": "2026-11-12T19:56:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+        "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+        "seendate": "2026-11-12T19:56:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+        "seendate": "2026-11-12T18:03:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+        "seendate": "2026-11-12T18:03:02.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+        "seendate": "2026-11-12T17:38:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+        "seendate": "2026-11-12T17:38:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+        "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+        "seendate": "2026-11-12T17:18:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+        "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+        "seendate": "2026-11-12T17:18:13.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+        "seendate": "2026-11-12T16:55:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+        "seendate": "2026-11-12T16:55:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:26:01.000Z",
+        "seendate": "2026-11-12T16:54:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -28,7 +129,7 @@
       {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:26:01.000Z",
+        "seendate": "2026-11-12T16:54:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -38,7 +139,7 @@
       {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:26:01.000Z",
+        "seendate": "2026-11-12T16:54:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -48,7 +149,7 @@
       {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:26:01.000Z",
+        "seendate": "2026-11-12T16:54:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -58,7 +159,7 @@
       {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:26:01.000Z",
+        "seendate": "2026-11-12T16:54:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -68,62 +169,12 @@
       {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:26:01.000Z",
+        "seendate": "2026-11-12T16:54:12.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
-        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "seendate": "2026-11-12T10:08:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
-        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "seendate": "2026-11-12T10:08:56.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-        "seendate": "2026-11-12T09:29:30.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-        "seendate": "2026-11-12T09:29:30.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-        "seendate": "2026-11-12T09:29:30.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       },
       {
         "title": "Gaza Floods Kill 4",
@@ -144,180 +195,6 @@
           "natural-disaster"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-12T12:14:51.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:14:51.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:14:51.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:14:51.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:14:51.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:14:51.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:14:51.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-        "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-        "seendate": "2026-11-12T09:01:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-        "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-        "seendate": "2026-11-12T09:01:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York City building collapse kills several people",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-12T12:17:47.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "New York City building collapse kills several people",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:17:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New York City building collapse kills several people",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:17:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New York City building collapse kills several people",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:17:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York City building collapse kills several people",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:17:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "New York City building collapse kills several people",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:17:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "New York City building collapse kills several people",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T12:17:47.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
@@ -328,14 +205,94 @@
     "lat": 53.35,
     "lon": -6.26,
     "timezone": "Europe/Dublin",
-    "headline": "Protesters Throw Projectiles at Biden During Dublin Trip",
-    "headlineUrl": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-    "seendate": "2026-11-11T19:34:11.000Z",
-    "articleCount": 2,
+    "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-12T21:00:42.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-12T21:00:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-12T21:00:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-12T21:00:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-12T21:00:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-12T21:00:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-12T21:00:42.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+        "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+        "seendate": "2026-11-12T20:12:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+        "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+        "seendate": "2026-11-12T20:12:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
         "url": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
@@ -350,6 +307,241 @@
         "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
         "url": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
         "seendate": "2026-11-11T19:34:11.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Deadly shooting in Washington DC",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+    "seendate": "2026-11-12T21:18:24.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Deadly shooting in Washington DC",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-11-12T21:18:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Deadly shooting in Washington DC",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-11-12T21:18:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What to know about the Logan Circle shooting in Washington, DC",
+        "url": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-11-12T18:22:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What to know about the Logan Circle shooting in Washington, DC",
+        "url": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-11-12T18:22:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-11-12T18:02:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
+        "seendate": "2026-11-12T18:02:32.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Abu Dhabi",
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "lat": 24.47,
+    "lon": 54.37,
+    "timezone": "Asia/Dubai",
+    "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "headlineUrl": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "seendate": "2026-11-12T15:26:34.000Z",
+    "articleCount": 3,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "seendate": "2026-11-12T15:26:34.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "seendate": "2026-11-12T15:26:34.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "seendate": "2026-11-12T15:26:34.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      }
+    ]
+  },
+  {
+    "id": "Denver",
+    "name": "Denver",
+    "country": "US",
+    "lat": 39.74,
+    "lon": -104.99,
+    "timezone": "America/Denver",
+    "headline": "Democrats gather in Denver to debate party’s future after US midterm wins",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
+    "seendate": "2026-11-12T20:10:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
+        "url": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
+        "seendate": "2026-11-12T20:10:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
+        "url": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
+        "seendate": "2026-11-12T20:10:31.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+    "headlineUrl": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+    "seendate": "2026-11-12T20:30:48.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+        "seendate": "2026-11-12T20:30:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+        "seendate": "2026-11-12T20:30:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "A Key Paris Agreement Goal Is Dead. What Now?",
+    "headlineUrl": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+    "seendate": "2026-11-12T20:15:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "A Key Paris Agreement Goal Is Dead. What Now?",
+        "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+        "seendate": "2026-11-12T20:15:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "A Key Paris Agreement Goal Is Dead. What Now?",
+        "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+        "seendate": "2026-11-12T20:15:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -392,33 +584,6 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Ann-Margret seen in wheelchair outside Los Angeles hotel months after breaking elbow in fall",
-    "headlineUrl": "https://www.foxnews.com/entertainment/ann-margret-seen-wheelchair-outside-los-angeles-hotel-months-after-breaking-elbow-fall",
-    "seendate": "2026-11-09T01:00:43.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ann-Margret seen in wheelchair outside Los Angeles hotel months after breaking elbow in fall",
-        "url": "https://www.foxnews.com/entertainment/ann-margret-seen-wheelchair-outside-los-angeles-hotel-months-after-breaking-elbow-fall",
-        "seendate": "2026-11-09T01:00:43.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   }
