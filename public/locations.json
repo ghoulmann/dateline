@@ -6,19 +6,19 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Gaza surgeon films aftermath of Israeli strike",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
-    "seendate": "2026-11-13T03:11:43.000Z",
-    "articleCount": 12,
+    "headline": "With every rainfall, Gaza risks losing access to power and healthcare",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+    "seendate": "2026-11-13T09:43:30.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict",
       "natural-disaster"
     ],
     "articles": [
       {
-        "title": "Gaza surgeon films aftermath of Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
-        "seendate": "2026-11-13T03:11:43.000Z",
+        "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+        "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+        "seendate": "2026-11-13T09:43:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -26,9 +26,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Gaza surgeon films aftermath of Israeli strike",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
-        "seendate": "2026-11-13T03:11:43.000Z",
+        "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+        "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+        "seendate": "2026-11-13T09:43:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -54,66 +54,6 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T16:54:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T16:54:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T16:54:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T16:54:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T16:54:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-12T16:54:12.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
       },
       {
         "title": "Gaza Floods Kill 4",
@@ -138,24 +78,24 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Deadly shooting in Washington DC",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-    "seendate": "2026-11-12T21:18:24.000Z",
+    "id": "Nairobi",
+    "name": "Nairobi",
+    "country": "KE",
+    "lat": -1.29,
+    "lon": 36.82,
+    "timezone": "Africa/Nairobi",
+    "headline": "Kenyan building collapse near Nairobi kills six people",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
+    "seendate": "2026-11-13T13:11:24.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Deadly shooting in Washington DC",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-        "seendate": "2026-11-12T21:18:24.000Z",
+        "title": "Kenyan building collapse near Nairobi kills six people",
+        "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
+        "seendate": "2026-11-13T13:11:24.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -163,9 +103,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Deadly shooting in Washington DC",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-        "seendate": "2026-11-12T21:18:24.000Z",
+        "title": "Kenyan building collapse near Nairobi kills six people",
+        "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
+        "seendate": "2026-11-13T13:11:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lahore",
+    "name": "Lahore",
+    "country": "PK",
+    "lat": 31.54,
+    "lon": 74.35,
+    "timezone": "Asia/Karachi",
+    "headline": "Delhi overtakes Lahore as world’s most polluted city",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
+    "seendate": "2026-11-13T13:11:08.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Delhi overtakes Lahore as world’s most polluted city",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
+        "seendate": "2026-11-13T13:11:08.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Delhi overtakes Lahore as world’s most polluted city",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
+        "seendate": "2026-11-13T13:11:08.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -183,7 +160,7 @@
     "timezone": "Europe/Moscow",
     "headline": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
     "headlineUrl": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-    "seendate": "2026-11-13T05:28:22.000Z",
+    "seendate": "2026-11-13T07:58:38.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
@@ -192,7 +169,7 @@
       {
         "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
         "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-        "seendate": "2026-11-13T05:28:22.000Z",
+        "seendate": "2026-11-13T07:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -202,7 +179,7 @@
       {
         "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
         "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-        "seendate": "2026-11-13T05:28:22.000Z",
+        "seendate": "2026-11-13T07:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -280,43 +257,6 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-    "headlineUrl": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-    "seendate": "2026-11-10T10:01:42.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-        "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-        "seendate": "2026-11-10T10:01:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-        "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-        "seendate": "2026-11-10T10:01:42.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
