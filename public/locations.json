@@ -1,171 +1,80 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "With every rainfall, Gaza risks losing access to power and healthcare",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-    "seendate": "2026-11-13T09:43:30.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict",
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-        "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-        "seendate": "2026-11-13T09:43:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-        "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-        "seendate": "2026-11-13T09:43:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "seendate": "2026-11-12T17:38:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "seendate": "2026-11-12T17:38:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Gaza Floods Kill 4",
-        "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-        "seendate": "2026-11-10T19:24:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Gaza Floods Kill 4",
-        "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-        "seendate": "2026-11-10T19:24:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "natural-disaster"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Nairobi",
-    "name": "Nairobi",
-    "country": "KE",
-    "lat": -1.29,
-    "lon": 36.82,
-    "timezone": "Africa/Nairobi",
-    "headline": "Kenyan building collapse near Nairobi kills six people",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-    "seendate": "2026-11-13T13:11:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Kenyan building collapse near Nairobi kills six people",
-        "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-        "seendate": "2026-11-13T13:11:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Kenyan building collapse near Nairobi kills six people",
-        "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-        "seendate": "2026-11-13T13:11:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lahore",
-    "name": "Lahore",
-    "country": "PK",
-    "lat": 31.54,
-    "lon": 74.35,
-    "timezone": "Asia/Karachi",
-    "headline": "Delhi overtakes Lahore as world’s most polluted city",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-    "seendate": "2026-11-13T13:11:08.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Delhi overtakes Lahore as world’s most polluted city",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-        "seendate": "2026-11-13T13:11:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Delhi overtakes Lahore as world’s most polluted city",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-        "seendate": "2026-11-13T13:11:08.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Moscow",
     "name": "Moscow",
     "country": "RU",
     "lat": 55.75,
     "lon": 37.62,
     "timezone": "Europe/Moscow",
-    "headline": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-    "headlineUrl": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-    "seendate": "2026-11-13T07:58:38.000Z",
-    "articleCount": 2,
+    "headline": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-13T13:11:23.000Z",
+    "articleCount": 8,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T13:11:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T13:11:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T13:11:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T13:11:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T13:11:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T13:11:23.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "climate-watch"
+      },
       {
         "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
         "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
@@ -183,6 +92,224 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Singapore",
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.35,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-13T23:00:31.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T23:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T23:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T23:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T23:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T23:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-13T23:00:31.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+    "seendate": "2026-11-13T18:28:03.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+        "seendate": "2026-11-13T18:28:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+        "seendate": "2026-11-13T18:28:03.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
+        "url": "https://www.foxnews.com/entertainment/shawn-mendes-triggers-fierce-fan-clash-speaking-gaza",
+        "seendate": "2026-11-13T18:02:24.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+        "seendate": "2026-11-12T17:38:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+        "seendate": "2026-11-12T17:38:28.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+    "headlineUrl": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+    "seendate": "2026-11-13T20:10:37.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+        "seendate": "2026-11-13T20:10:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+        "seendate": "2026-11-13T20:10:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+    "headlineUrl": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+    "seendate": "2026-11-13T17:59:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+        "seendate": "2026-11-13T17:59:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+        "seendate": "2026-11-13T17:59:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
