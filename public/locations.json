@@ -1,103 +1,5 @@
 [
   {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-13T13:11:23.000Z",
-    "articleCount": 8,
-    "categories": [
-      "humanitarian",
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-13T13:11:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-13T13:11:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-13T13:11:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-13T13:11:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-13T13:11:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-13T13:11:23.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-        "seendate": "2026-11-13T07:58:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-        "seendate": "2026-11-13T07:58:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Singapore",
     "name": "Singapore",
     "country": "SG",
@@ -181,14 +83,35 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
-    "headlineUrl": "https://www.foxnews.com/entertainment/shawn-mendes-triggers-fierce-fan-clash-speaking-gaza",
-    "seendate": "2026-11-13T18:02:24.000Z",
-    "articleCount": 3,
+    "headline": "EU calls for immediate humanitarian access to Gaza",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+    "seendate": "2026-11-14T15:57:22.000Z",
+    "articleCount": 5,
     "categories": [
+      "humanitarian",
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "EU calls for immediate humanitarian access to Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+        "seendate": "2026-11-14T15:57:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "EU calls for immediate humanitarian access to Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+        "seendate": "2026-11-14T15:57:22.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
         "url": "https://www.foxnews.com/entertainment/shawn-mendes-triggers-fierce-fan-clash-speaking-gaza",
@@ -222,24 +145,24 @@
     ]
   },
   {
-    "id": "Tunis",
-    "name": "Tunis",
-    "country": "TN",
-    "lat": 36.82,
-    "lon": 10.17,
-    "timezone": "Africa/Tunis",
-    "headline": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
-    "seendate": "2026-11-14T06:33:57.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+    "seendate": "2026-11-14T15:36:37.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-        "url": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
-        "seendate": "2026-11-14T06:33:57.000Z",
+        "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+        "seendate": "2026-11-14T15:36:37.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -247,9 +170,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-        "url": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
-        "seendate": "2026-11-14T06:33:57.000Z",
+        "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+        "seendate": "2026-11-14T15:36:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Abu Dhabi",
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "lat": 24.47,
+    "lon": 54.37,
+    "timezone": "Asia/Dubai",
+    "headline": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+    "seendate": "2026-11-14T11:14:18.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+        "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+        "seendate": "2026-11-14T11:14:18.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+        "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+        "seendate": "2026-11-14T11:14:18.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -287,6 +247,43 @@
         "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
         "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
         "seendate": "2026-11-13T20:10:37.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+    "headlineUrl": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+    "seendate": "2026-11-14T15:27:30.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+        "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+        "seendate": "2026-11-14T15:27:30.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+        "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+        "seendate": "2026-11-14T15:27:30.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -361,6 +358,43 @@
         "title": "A Key Paris Agreement Goal Is Dead. What Now?",
         "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
         "seendate": "2026-11-12T20:15:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+    "headlineUrl": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+    "seendate": "2026-11-13T07:58:38.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+        "seendate": "2026-11-13T07:58:38.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+        "seendate": "2026-11-13T07:58:38.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
