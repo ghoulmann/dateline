@@ -6,74 +6,94 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-    "seendate": "2026-11-15T22:06:38.000Z",
+    "headline": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
+    "seendate": "2026-11-16T14:20:43.000Z",
     "articleCount": 9,
     "categories": [
-      "humanitarian",
-      "armed-conflict"
+      "armed-conflict",
+      "humanitarian"
     ],
     "articles": [
       {
-        "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-        "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-        "seendate": "2026-11-15T22:06:38.000Z",
+        "title": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
+        "url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
+        "seendate": "2026-11-16T14:20:43.000Z",
         "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
+        "url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
+        "seendate": "2026-11-16T14:20:43.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-16T08:56:04.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-        "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-        "seendate": "2026-11-15T22:06:38.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-16T08:56:04.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "humanitarian"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-        "seendate": "2026-11-15T20:50:15.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-16T08:56:04.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-        "seendate": "2026-11-15T20:50:15.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-16T08:56:04.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
       },
       {
-        "title": "Who can force Israel to implement Gaza ceasefire deal?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-        "seendate": "2026-11-15T20:37:43.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-16T08:56:04.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Who can force Israel to implement Gaza ceasefire deal?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-        "seendate": "2026-11-15T20:37:43.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-16T08:56:04.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "humanitarian"
         ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       },
       {
         "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
@@ -84,26 +104,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "seendate": "2026-11-12T17:38:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-        "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "seendate": "2026-11-12T17:38:28.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -185,123 +185,180 @@
     ]
   },
   {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
     "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-    "headlineUrl": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-    "seendate": "2026-11-15T04:28:45.000Z",
-    "articleCount": 3,
+    "timezone": "America/Lima",
+    "headline": "These birds fly 17,000 miles every year. Climate change could make it harder",
+    "headlineUrl": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+    "seendate": "2026-11-16T10:00:00.000Z",
+    "articleCount": 5,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+        "seendate": "2026-11-16T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+        "seendate": "2026-11-16T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+        "seendate": "2026-11-16T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+        "seendate": "2026-11-13T17:59:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+        "seendate": "2026-11-13T17:59:45.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+    "seendate": "2026-11-16T16:56:46.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-        "seendate": "2026-11-15T04:28:45.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-        "seendate": "2026-11-15T04:28:45.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-        "seendate": "2026-11-15T04:28:45.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Singapore",
-    "name": "Singapore",
-    "country": "SG",
-    "lat": 1.35,
-    "lon": 103.82,
-    "timezone": "Asia/Singapore",
-    "headline": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
-    "seendate": "2026-11-16T04:11:53.000Z",
-    "articleCount": 2,
-    "categories": [
-      "natural-disaster"
-    ],
-    "articles": [
-      {
-        "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-        "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
-        "seendate": "2026-11-16T04:11:53.000Z",
+        "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+        "seendate": "2026-11-16T16:56:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-        "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
-        "seendate": "2026-11-16T04:11:53.000Z",
+        "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+        "seendate": "2026-11-16T16:56:46.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "natural-disaster"
+          "armed-conflict"
         ],
         "source_category": "humanitarian"
       }
     ]
   },
   {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-    "headlineUrl": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-    "seendate": "2026-11-14T19:23:20.000Z",
+    "id": "Rome",
+    "name": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "timezone": "Europe/Rome",
+    "headline": "Belgium’s Romelu Lukaku retires from international football",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+    "seendate": "2026-11-16T14:35:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-        "seendate": "2026-11-14T19:23:20.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Belgium’s Romelu Lukaku retires from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+        "seendate": "2026-11-16T14:35:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-        "seendate": "2026-11-14T19:23:20.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Belgium’s Romelu Lukaku retires from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+        "seendate": "2026-11-16T14:35:00.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+    "seendate": "2026-11-16T13:28:23.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+        "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+        "seendate": "2026-11-16T13:28:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+        "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+        "seendate": "2026-11-16T13:28:23.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -343,61 +400,24 @@
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-    "headlineUrl": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-    "seendate": "2026-11-13T17:59:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-        "seendate": "2026-11-13T17:59:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-        "seendate": "2026-11-13T17:59:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "A Key Paris Agreement Goal Is Dead. What Now?",
-    "headlineUrl": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-    "seendate": "2026-11-12T20:15:04.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+    "headlineUrl": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+    "seendate": "2026-11-14T19:23:20.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "A Key Paris Agreement Goal Is Dead. What Now?",
-        "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-        "seendate": "2026-11-12T20:15:04.000Z",
+        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+        "seendate": "2026-11-14T19:23:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -405,46 +425,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "A Key Paris Agreement Goal Is Dead. What Now?",
-        "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-        "seendate": "2026-11-12T20:15:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Moscow",
-    "name": "Moscow",
-    "country": "RU",
-    "lat": 55.75,
-    "lon": 37.62,
-    "timezone": "Europe/Moscow",
-    "headline": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-    "headlineUrl": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-    "seendate": "2026-11-13T07:58:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-        "seendate": "2026-11-13T07:58:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-        "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-        "seendate": "2026-11-13T07:58:38.000Z",
+        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+        "seendate": "2026-11-14T19:23:20.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
