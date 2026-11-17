@@ -77,161 +77,111 @@
     ]
   },
   {
+    "id": "Manila",
+    "name": "Manila",
+    "country": "PH",
+    "lat": 14.6,
+    "lon": 120.98,
+    "timezone": "Asia/Manila",
+    "headline": "US President Trump arrives in Manila ahead of ASEAN summit",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+    "seendate": "2026-11-17T10:13:12.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+        "seendate": "2026-11-17T10:13:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+        "seendate": "2026-11-17T10:13:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+    "seendate": "2026-11-17T08:12:06.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+        "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+        "seendate": "2026-11-17T08:12:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+        "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+        "seendate": "2026-11-17T08:12:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "These birds fly 17,000 miles every year. Climate change could make it harder",
-    "headlineUrl": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-    "seendate": "2026-11-16T10:00:00.000Z",
-    "articleCount": 5,
+    "headline": "AI models abandon climate facts to please users, UNESCO report finds",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+    "seendate": "2026-11-17T08:10:26.000Z",
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-        "seendate": "2026-11-16T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-        "seendate": "2026-11-16T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-        "seendate": "2026-11-16T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-        "seendate": "2026-11-13T17:59:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-        "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-        "seendate": "2026-11-13T17:59:45.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "London",
-    "name": "London",
-    "country": "GB",
-    "lat": 51.51,
-    "lon": -0.13,
-    "timezone": "Europe/London",
-    "headline": "London Palestine Film Festival returns for 27th year",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
-    "seendate": "2026-11-16T20:36:25.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "London Palestine Film Festival returns for 27th year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
-        "seendate": "2026-11-16T20:36:25.000Z",
+        "title": "AI models abandon climate facts to please users, UNESCO report finds",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+        "seendate": "2026-11-17T08:10:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "London Palestine Film Festival returns for 27th year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
-        "seendate": "2026-11-16T20:36:25.000Z",
+        "title": "AI models abandon climate facts to please users, UNESCO report finds",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+        "seendate": "2026-11-17T08:10:26.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-        "seendate": "2026-11-14T19:23:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-        "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-        "seendate": "2026-11-14T19:23:20.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Dublin",
-    "name": "Dublin",
-    "country": "IE",
-    "lat": 53.35,
-    "lon": -6.26,
-    "timezone": "Europe/Dublin",
-    "headline": "Irish court jails man for life over Dublin knife attack that sparked riots",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-    "seendate": "2026-11-17T01:19:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
-        "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-        "seendate": "2026-11-17T01:19:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
-        "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-        "seendate": "2026-11-17T01:19:56.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "democracy-crisis"
+          "climate-watch"
         ],
         "source_category": "humanitarian"
       }
