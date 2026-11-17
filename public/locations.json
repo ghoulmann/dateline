@@ -1,5 +1,219 @@
 [
   {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-17T17:19:57.000Z",
+    "articleCount": 12,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:19:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:19:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:19:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:19:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:19:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:19:57.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T15:54:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T15:54:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T15:54:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T15:54:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T15:54:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T15:54:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Washington",
+    "name": "Washington",
+    "country": "US",
+    "lat": 38.91,
+    "lon": -77.04,
+    "timezone": "America/New_York",
+    "headline": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-17T17:37:04.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:37:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:37:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:37:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:37:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:37:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-17T17:37:04.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "New York",
     "name": "New York",
     "country": "US",
@@ -77,98 +291,24 @@
     ]
   },
   {
-    "id": "Manila",
-    "name": "Manila",
-    "country": "PH",
-    "lat": 14.6,
-    "lon": 120.98,
-    "timezone": "Asia/Manila",
-    "headline": "US President Trump arrives in Manila ahead of ASEAN summit",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-    "seendate": "2026-11-17T10:13:12.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US President Trump arrives in Manila ahead of ASEAN summit",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-        "seendate": "2026-11-17T10:13:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US President Trump arrives in Manila ahead of ASEAN summit",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-        "seendate": "2026-11-17T10:13:12.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-    "seendate": "2026-11-17T08:12:06.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-        "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-        "seendate": "2026-11-17T08:12:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-        "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-        "seendate": "2026-11-17T08:12:06.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "AI models abandon climate facts to please users, UNESCO report finds",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
-    "seendate": "2026-11-17T08:10:26.000Z",
-    "articleCount": 2,
+    "headline": "Tensions rise over draft climate deal at COP31",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+    "seendate": "2026-11-17T20:40:29.000Z",
+    "articleCount": 4,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
-        "title": "AI models abandon climate facts to please users, UNESCO report finds",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
-        "seendate": "2026-11-17T08:10:26.000Z",
+        "title": "Tensions rise over draft climate deal at COP31",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+        "seendate": "2026-11-17T20:40:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "climate-watch"
@@ -176,36 +316,93 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "AI models abandon climate facts to please users, UNESCO report finds",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
-        "seendate": "2026-11-17T08:10:26.000Z",
+        "title": "Tensions rise over draft climate deal at COP31",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+        "seendate": "2026-11-17T20:40:29.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "climate-watch"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+        "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+        "seendate": "2026-11-17T18:59:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+        "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+        "seendate": "2026-11-17T18:59:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-    "headlineUrl": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-    "seendate": "2026-11-14T15:27:30.000Z",
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Police charge crowds at Brussels student march",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+    "seendate": "2026-11-17T20:14:07.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-        "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-        "seendate": "2026-11-14T15:27:30.000Z",
+        "title": "Police charge crowds at Brussels student march",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+        "seendate": "2026-11-17T20:14:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Police charge crowds at Brussels student march",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+        "seendate": "2026-11-17T20:14:07.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Manila",
+    "name": "Manila",
+    "country": "PH",
+    "lat": 14.6,
+    "lon": 120.98,
+    "timezone": "Asia/Manila",
+    "headline": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
+    "headlineUrl": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+    "seendate": "2026-11-17T17:46:55.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
+        "url": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+        "seendate": "2026-11-17T17:46:55.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -213,9 +410,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-        "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-        "seendate": "2026-11-14T15:27:30.000Z",
+        "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
+        "url": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+        "seendate": "2026-11-17T17:46:55.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
