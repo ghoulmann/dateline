@@ -143,14 +143,34 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-17T17:37:04.000Z",
-    "articleCount": 6,
+    "headline": "Africa’s economic future cannot depend on Washington",
+    "headlineUrl": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+    "seendate": "2026-11-18T06:22:59.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Africa’s economic future cannot depend on Washington",
+        "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+        "seendate": "2026-11-18T06:22:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Africa’s economic future cannot depend on Washington",
+        "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+        "seendate": "2026-11-18T06:22:59.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
         "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
@@ -291,40 +311,57 @@
     ]
   },
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+    "seendate": "2026-11-18T01:07:01.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+        "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+        "seendate": "2026-11-18T01:07:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+        "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+        "seendate": "2026-11-18T01:07:01.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "Tensions rise over draft climate deal at COP31",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
-    "seendate": "2026-11-17T20:40:29.000Z",
-    "articleCount": 4,
+    "headline": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+    "headlineUrl": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+    "seendate": "2026-11-17T18:59:25.000Z",
+    "articleCount": 2,
     "categories": [
       "climate-watch"
     ],
     "articles": [
-      {
-        "title": "Tensions rise over draft climate deal at COP31",
-        "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
-        "seendate": "2026-11-17T20:40:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Tensions rise over draft climate deal at COP31",
-        "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
-        "seendate": "2026-11-17T20:40:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
       {
         "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
         "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
@@ -344,43 +381,6 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Brussels",
-    "name": "Brussels",
-    "country": "BE",
-    "lat": 50.85,
-    "lon": 4.35,
-    "timezone": "Europe/Brussels",
-    "headline": "Police charge crowds at Brussels student march",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
-    "seendate": "2026-11-17T20:14:07.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Police charge crowds at Brussels student march",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
-        "seendate": "2026-11-17T20:14:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Police charge crowds at Brussels student march",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
-        "seendate": "2026-11-17T20:14:07.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
