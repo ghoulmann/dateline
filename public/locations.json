@@ -6,19 +6,120 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-19T11:07:37.000Z",
-    "articleCount": 12,
+    "headline": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+    "seendate": "2026-11-19T21:17:12.000Z",
+    "articleCount": 18,
     "categories": [
+      "armed-conflict",
       "humanitarian",
-      "armed-conflict"
+      "democracy-crisis"
     ],
     "articles": [
       {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:12.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+        "seendate": "2026-11-19T20:58:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+        "seendate": "2026-11-19T20:58:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+        "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+        "seendate": "2026-11-19T19:23:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+        "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+        "seendate": "2026-11-19T19:23:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+        "seendate": "2026-11-19T19:01:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+        "seendate": "2026-11-19T19:01:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+        "seendate": "2026-11-19T18:46:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+        "seendate": "2026-11-19T18:46:10.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T11:07:37.000Z",
+        "seendate": "2026-11-19T17:03:23.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -28,7 +129,7 @@
       {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T11:07:37.000Z",
+        "seendate": "2026-11-19T17:03:23.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -38,7 +139,7 @@
       {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T11:07:37.000Z",
+        "seendate": "2026-11-19T17:03:23.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -48,7 +149,7 @@
       {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T11:07:37.000Z",
+        "seendate": "2026-11-19T17:03:23.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -58,7 +159,7 @@
       {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T11:07:37.000Z",
+        "seendate": "2026-11-19T17:03:23.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -68,52 +169,12 @@
       {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T11:07:37.000Z",
+        "seendate": "2026-11-19T17:03:23.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
-        "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-        "seendate": "2026-11-19T10:05:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
-        "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-        "seendate": "2026-11-19T10:05:33.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-        "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
-        "seendate": "2026-11-19T07:51:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-        "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
-        "seendate": "2026-11-19T07:51:03.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
@@ -129,6 +190,100 @@
         "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
         "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
         "seendate": "2026-11-18T20:29:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+    "headlineUrl": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+    "seendate": "2026-11-19T13:56:48.000Z",
+    "articleCount": 4,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+        "seendate": "2026-11-19T13:56:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+        "seendate": "2026-11-19T13:56:48.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+        "seendate": "2026-11-19T10:02:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+        "seendate": "2026-11-19T10:02:50.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+    "seendate": "2026-11-19T18:47:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -146,8 +301,8 @@
     "timezone": "Asia/Riyadh",
     "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
     "headlineUrl": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-    "seendate": "2026-11-19T12:16:40.000Z",
-    "articleCount": 4,
+    "seendate": "2026-11-19T18:55:36.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
@@ -155,7 +310,7 @@
       {
         "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
         "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-        "seendate": "2026-11-19T12:16:40.000Z",
+        "seendate": "2026-11-19T18:55:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -165,148 +320,34 @@
       {
         "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
         "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-        "seendate": "2026-11-19T12:16:40.000Z",
+        "seendate": "2026-11-19T18:55:36.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
-        "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
-        "seendate": "2026-11-19T08:19:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
-        "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
-        "seendate": "2026-11-19T08:19:17.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-    "seendate": "2026-11-19T10:02:50.000Z",
-    "articleCount": 4,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-        "seendate": "2026-11-19T10:02:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-        "seendate": "2026-11-19T10:02:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-        "seendate": "2026-11-18T17:42:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-        "seendate": "2026-11-18T17:42:27.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-    "headlineUrl": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-    "seendate": "2026-11-19T07:08:57.000Z",
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+    "headlineUrl": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+    "seendate": "2026-11-19T15:08:16.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-        "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-        "seendate": "2026-11-19T07:08:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-        "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-        "seendate": "2026-11-19T07:08:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Manila",
-    "name": "Manila",
-    "country": "PH",
-    "lat": 14.6,
-    "lon": 120.98,
-    "timezone": "Asia/Manila",
-    "headline": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
-    "headlineUrl": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
-    "seendate": "2026-11-18T09:52:56.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
-        "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
-        "seendate": "2026-11-18T09:52:56.000Z",
+        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+        "seendate": "2026-11-19T15:08:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -314,9 +355,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
-        "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
-        "seendate": "2026-11-18T09:52:56.000Z",
+        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+        "seendate": "2026-11-19T15:08:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
