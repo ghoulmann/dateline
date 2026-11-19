@@ -1,23 +1,43 @@
 [
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-17T17:19:57.000Z",
-    "articleCount": 6,
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israel uses Gaza swimming video to minimise winter hardships",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+    "seendate": "2026-11-18T23:53:21.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-17T17:19:57.000Z",
+        "title": "Israel uses Gaza swimming video to minimise winter hardships",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+        "seendate": "2026-11-18T23:53:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel uses Gaza swimming video to minimise winter hardships",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+        "seendate": "2026-11-18T23:53:21.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-18T22:34:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -25,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-17T17:19:57.000Z",
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-18T22:34:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -35,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-17T17:19:57.000Z",
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-18T22:34:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -45,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-17T17:19:57.000Z",
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-18T22:34:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-17T17:19:57.000Z",
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-18T22:34:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,37 +85,39 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-17T17:19:57.000Z",
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-18T22:34:56.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-    "headlineUrl": "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
-    "seendate": "2026-11-18T17:03:53.000Z",
-    "articleCount": 4,
-    "categories": [
-      "humanitarian",
-      "armed-conflict"
-    ],
-    "articles": [
+      },
+      {
+        "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-18T20:38:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+        "seendate": "2026-11-18T20:38:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
-        "seendate": "2026-11-18T17:03:53.000Z",
+        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+        "seendate": "2026-11-18T20:29:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -104,33 +126,70 @@
       },
       {
         "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
-        "seendate": "2026-11-18T17:03:53.000Z",
+        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+        "seendate": "2026-11-18T20:29:31.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+    "headlineUrl": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+    "seendate": "2026-11-18T17:42:27.000Z",
+    "articleCount": 4,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+        "seendate": "2026-11-18T17:42:27.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
       },
       {
-        "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
-        "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
-        "seendate": "2026-11-18T14:39:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+        "seendate": "2026-11-18T17:42:27.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "humanitarian"
+          "climate-watch"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "democracy-crisis"
       },
       {
-        "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
-        "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
-        "seendate": "2026-11-18T14:39:09.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+        "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+        "seendate": "2026-11-17T18:59:25.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
-          "humanitarian"
+          "climate-watch"
         ],
-        "source_category": "humanitarian"
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+        "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+        "seendate": "2026-11-17T18:59:25.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -235,117 +294,6 @@
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-    "seendate": "2026-11-18T16:28:54.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-        "seendate": "2026-11-18T16:28:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-        "seendate": "2026-11-18T16:28:54.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Washington",
-    "name": "Washington",
-    "country": "US",
-    "lat": 38.91,
-    "lon": -77.04,
-    "timezone": "America/New_York",
-    "headline": "Rwanda and DRC: What is holding up the Washington peace process?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
-    "seendate": "2026-11-18T12:27:23.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Rwanda and DRC: What is holding up the Washington peace process?",
-        "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
-        "seendate": "2026-11-18T12:27:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Rwanda and DRC: What is holding up the Washington peace process?",
-        "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
-        "seendate": "2026-11-18T12:27:23.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-    "headlineUrl": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-    "seendate": "2026-11-17T18:59:25.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-        "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-        "seendate": "2026-11-17T18:59:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-        "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-        "seendate": "2026-11-17T18:59:25.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   }
