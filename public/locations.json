@@ -1,64 +1,23 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-    "seendate": "2026-11-20T05:01:40.000Z",
-    "articleCount": 12,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-20T13:01:16.000Z",
+    "articleCount": 8,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-        "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-        "seendate": "2026-11-20T05:01:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-        "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-        "seendate": "2026-11-20T05:01:40.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T17:03:23.000Z",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T13:01:16.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -66,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T17:03:23.000Z",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T13:01:16.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -76,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T17:03:23.000Z",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T13:01:16.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -86,9 +45,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T17:03:23.000Z",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T13:01:16.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -96,9 +55,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T17:03:23.000Z",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T13:01:16.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -106,9 +65,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-19T17:03:23.000Z",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T13:01:16.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -116,9 +75,9 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-        "seendate": "2026-11-18T20:29:31.000Z",
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -126,9 +85,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-        "seendate": "2026-11-18T20:29:31.000Z",
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -144,14 +103,34 @@
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "More climate money for Africa? Europe says use what's already pledged",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-20T05:03:43.000Z",
-    "articleCount": 12,
+    "headline": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+    "headlineUrl": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+    "seendate": "2026-11-20T15:20:14.000Z",
+    "articleCount": 8,
     "categories": [
       "climate-watch"
     ],
     "articles": [
+      {
+        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+        "seendate": "2026-11-20T15:20:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+        "seendate": "2026-11-20T15:20:14.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
       {
         "title": "More climate money for Africa? Europe says use what's already pledged",
         "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
@@ -211,103 +190,242 @@
           "climate-watch"
         ],
         "source_category": "climate-watch"
-      },
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "New York City unveils a bold plan to move its jails off Rikers Island",
+    "headlineUrl": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+    "seendate": "2026-11-20T10:00:00.000Z",
+    "articleCount": 5,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
       {
-        "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-        "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-        "seendate": "2026-11-20T01:29:28.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+        "seendate": "2026-11-20T10:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "natural-disaster"
       },
       {
-        "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-        "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-        "seendate": "2026-11-20T01:29:28.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+        "seendate": "2026-11-20T10:00:00.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
-        "source_category": "humanitarian"
+        "source_category": "climate-watch"
       },
       {
-        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-        "seendate": "2026-11-19T13:56:48.000Z",
+        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+        "seendate": "2026-11-20T10:00:00.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+        "seendate": "2026-11-19T15:08:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-        "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-        "seendate": "2026-11-19T13:56:48.000Z",
+        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+        "seendate": "2026-11-19T15:08:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-        "seendate": "2026-11-19T10:02:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-        "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-        "seendate": "2026-11-19T10:02:50.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-    "seendate": "2026-11-19T18:47:57.000Z",
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+    "seendate": "2026-11-20T12:20:29.000Z",
+    "articleCount": 4,
+    "categories": [
+      "armed-conflict",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+        "seendate": "2026-11-20T12:20:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+        "seendate": "2026-11-20T12:20:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Berlin",
+    "name": "Berlin",
+    "country": "DE",
+    "lat": 52.52,
+    "lon": 13.4,
+    "timezone": "Europe/Berlin",
+    "headline": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+    "seendate": "2026-11-20T16:13:57.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-        "seendate": "2026-11-19T18:47:57.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+        "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+        "seendate": "2026-11-20T16:13:57.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "political-repression"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-        "seendate": "2026-11-19T18:47:57.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+        "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+        "seendate": "2026-11-20T16:13:57.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "democracy-crisis"
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Palestinians return home to ruins",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+    "seendate": "2026-11-20T15:42:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Jerusalem Daily: Palestinians return home to ruins",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+        "seendate": "2026-11-20T15:42:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Palestinians return home to ruins",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+        "seendate": "2026-11-20T15:42:04.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Tehran",
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timezone": "Asia/Tehran",
+    "headline": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+    "seendate": "2026-11-20T12:19:24.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+        "seendate": "2026-11-20T12:19:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+        "seendate": "2026-11-20T12:19:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
       }
     ]
   },
@@ -340,43 +458,6 @@
         "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
         "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
         "seendate": "2026-11-19T18:55:36.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-    "headlineUrl": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-    "seendate": "2026-11-19T15:08:16.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-        "seendate": "2026-11-19T15:08:16.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-        "seendate": "2026-11-19T15:08:16.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
