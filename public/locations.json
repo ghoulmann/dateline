@@ -6,20 +6,39 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-    "seendate": "2026-11-19T21:17:12.000Z",
-    "articleCount": 18,
+    "headline": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+    "seendate": "2026-11-20T05:01:40.000Z",
+    "articleCount": 12,
     "categories": [
       "armed-conflict",
-      "humanitarian",
       "democracy-crisis"
     ],
     "articles": [
       {
+        "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+        "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+        "seendate": "2026-11-20T05:01:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+        "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+        "seendate": "2026-11-20T05:01:40.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
         "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:12.000Z",
+        "seendate": "2026-11-19T21:17:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
@@ -29,92 +48,12 @@
       {
         "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
         "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:12.000Z",
+        "seendate": "2026-11-19T21:17:13.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-        "seendate": "2026-11-19T20:58:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-        "seendate": "2026-11-19T20:58:41.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-        "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-        "seendate": "2026-11-19T19:23:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-        "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-        "seendate": "2026-11-19T19:23:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-        "seendate": "2026-11-19T19:01:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-        "seendate": "2026-11-19T19:01:00.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-        "seendate": "2026-11-19T18:46:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-        "seendate": "2026-11-19T18:46:10.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "humanitarian"
-        ],
-        "source_category": "humanitarian"
       },
       {
         "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
@@ -205,14 +144,94 @@
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-    "headlineUrl": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-    "seendate": "2026-11-19T13:56:48.000Z",
-    "articleCount": 4,
+    "headline": "More climate money for Africa? Europe says use what's already pledged",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-20T05:03:43.000Z",
+    "articleCount": 12,
     "categories": [
       "climate-watch"
     ],
     "articles": [
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T05:03:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T05:03:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T05:03:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T05:03:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T05:03:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T05:03:43.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+        "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+        "seendate": "2026-11-20T01:29:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+        "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+        "seendate": "2026-11-20T01:29:28.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
         "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
