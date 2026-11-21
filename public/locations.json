@@ -1,5 +1,280 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+    "seendate": "2026-11-20T23:20:50.000Z",
+    "articleCount": 14,
+    "categories": [
+      "armed-conflict",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+        "seendate": "2026-11-20T23:20:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+        "seendate": "2026-11-20T23:20:50.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Gaza’s displaced children celebrate World Children’s Day",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+        "seendate": "2026-11-20T20:45:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Gaza’s displaced children celebrate World Children’s Day",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+        "seendate": "2026-11-20T20:45:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+        "seendate": "2026-11-20T20:14:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+        "seendate": "2026-11-20T20:14:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+        "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+        "seendate": "2026-11-20T19:57:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+        "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+        "seendate": "2026-11-20T19:57:05.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Former US national security adviser confronted by students on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+        "seendate": "2026-11-20T18:51:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Former US national security adviser confronted by students on Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+        "seendate": "2026-11-20T18:51:26.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Swimming lessons offer Gaza’s children a moment of relief",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+        "seendate": "2026-11-20T18:43:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Swimming lessons offer Gaza’s children a moment of relief",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+        "seendate": "2026-11-20T18:43:37.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York",
+    "country": "US",
+    "lat": 40.71,
+    "lon": -74.01,
+    "timezone": "America/New_York",
+    "headline": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-21T00:01:39.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T00:01:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T00:01:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T00:01:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T00:01:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T00:01:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T00:01:39.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+        "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+        "seendate": "2026-11-20T17:54:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+        "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+        "seendate": "2026-11-20T17:54:55.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+        "seendate": "2026-11-19T15:08:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+        "seendate": "2026-11-19T15:08:16.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Kyiv",
     "name": "Kyiv",
     "country": "UA",
@@ -103,15 +378,35 @@
     "lat": -12.05,
     "lon": -77.04,
     "timezone": "America/Lima",
-    "headline": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-    "seendate": "2026-11-20T15:20:14.000Z",
-    "articleCount": 8,
+    "headline": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+    "seendate": "2026-11-20T23:06:41.000Z",
+    "articleCount": 4,
     "categories": [
       "climate-watch"
     ],
     "articles": [
       {
+        "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+        "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+        "seendate": "2026-11-20T23:06:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+        "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+        "seendate": "2026-11-20T23:06:41.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
         "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
         "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
         "seendate": "2026-11-20T15:20:14.000Z",
@@ -130,118 +425,28 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T05:03:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T05:03:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T05:03:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T05:03:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T05:03:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T05:03:43.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "New York",
-    "name": "New York",
-    "country": "US",
-    "lat": 40.71,
-    "lon": -74.01,
-    "timezone": "America/New_York",
-    "headline": "New York City unveils a bold plan to move its jails off Rikers Island",
-    "headlineUrl": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-    "seendate": "2026-11-20T10:00:00.000Z",
-    "articleCount": 5,
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+    "headlineUrl": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+    "seendate": "2026-11-20T20:22:14.000Z",
+    "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-        "seendate": "2026-11-20T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-        "seendate": "2026-11-20T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-        "seendate": "2026-11-20T10:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-        "seendate": "2026-11-19T15:08:16.000Z",
+        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+        "seendate": "2026-11-20T20:22:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -249,9 +454,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-        "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-        "seendate": "2026-11-19T15:08:16.000Z",
+        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+        "seendate": "2026-11-20T20:22:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -261,171 +466,39 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-    "seendate": "2026-11-20T12:20:29.000Z",
-    "articleCount": 4,
+    "id": "Moscow",
+    "name": "Moscow",
+    "country": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "timezone": "Europe/Moscow",
+    "headline": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+    "headlineUrl": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+    "seendate": "2026-11-20T22:15:57.000Z",
+    "articleCount": 2,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-        "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-        "seendate": "2026-11-20T12:20:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-        "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-        "seendate": "2026-11-20T12:20:29.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
+        "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+        "seendate": "2026-11-20T22:15:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
+        "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+        "seendate": "2026-11-20T22:15:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Berlin",
-    "name": "Berlin",
-    "country": "DE",
-    "lat": 52.52,
-    "lon": 13.4,
-    "timezone": "Europe/Berlin",
-    "headline": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
-    "seendate": "2026-11-20T16:13:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-        "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
-        "seendate": "2026-11-20T16:13:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-        "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
-        "seendate": "2026-11-20T16:13:57.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Palestinians return home to ruins",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
-    "seendate": "2026-11-20T15:42:04.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Jerusalem Daily: Palestinians return home to ruins",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
-        "seendate": "2026-11-20T15:42:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Jerusalem Daily: Palestinians return home to ruins",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
-        "seendate": "2026-11-20T15:42:04.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Tehran",
-    "name": "Tehran",
-    "country": "IR",
-    "lat": 35.69,
-    "lon": 51.39,
-    "timezone": "Asia/Tehran",
-    "headline": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-    "seendate": "2026-11-20T12:19:24.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-        "seendate": "2026-11-20T12:19:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-        "seendate": "2026-11-20T12:19:24.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
