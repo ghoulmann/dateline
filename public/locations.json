@@ -1,5 +1,112 @@
 [
   {
+    "id": "Los Angeles",
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+    "headlineUrl": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+    "seendate": "2026-11-21T13:58:33.000Z",
+    "articleCount": 9,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+        "seendate": "2026-11-21T13:58:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+        "seendate": "2026-11-21T13:58:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+        "seendate": "2026-11-21T13:58:33.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -8,7 +115,7 @@
     "timezone": "America/Lima",
     "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
     "headlineUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-21T09:52:11.000Z",
+    "seendate": "2026-11-21T19:33:49.000Z",
     "articleCount": 8,
     "categories": [
       "climate-watch"
@@ -17,7 +124,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T09:52:11.000Z",
+        "seendate": "2026-11-21T19:33:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
@@ -27,7 +134,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T09:52:11.000Z",
+        "seendate": "2026-11-21T19:33:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
@@ -37,7 +144,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T09:52:11.000Z",
+        "seendate": "2026-11-21T19:33:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
@@ -47,7 +154,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T09:52:11.000Z",
+        "seendate": "2026-11-21T19:33:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
@@ -57,7 +164,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T09:52:11.000Z",
+        "seendate": "2026-11-21T19:33:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
@@ -67,7 +174,7 @@
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T09:52:11.000Z",
+        "seendate": "2026-11-21T19:33:49.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "climate-watch"
@@ -194,83 +301,6 @@
     ]
   },
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
-    "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Man convicted of starting Palisades fire in Los Angeles",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-21T04:34:00.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Miami",
     "name": "Miami",
     "country": "US",
@@ -348,24 +378,24 @@
     ]
   },
   {
-    "id": "Manipur",
-    "name": "Manipur",
-    "country": "IN",
-    "lat": 24.66,
-    "lon": 93.91,
-    "timezone": "Asia/Kolkata",
-    "headline": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-    "seendate": "2026-11-21T08:48:54.000Z",
-    "articleCount": 2,
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+    "seendate": "2026-11-21T18:42:38.000Z",
+    "articleCount": 4,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-        "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-        "seendate": "2026-11-21T08:48:54.000Z",
+        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+        "seendate": "2026-11-21T18:42:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -373,14 +403,92 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-        "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-        "seendate": "2026-11-21T08:48:54.000Z",
+        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+        "seendate": "2026-11-21T18:42:38.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Israeli strike hits food aid vehicle in Gaza, killing three",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+    "seendate": "2026-11-21T17:54:19.000Z",
+    "articleCount": 4,
+    "categories": [
+      "humanitarian",
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+        "seendate": "2026-11-21T17:54:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+        "seendate": "2026-11-21T17:54:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "humanitarian"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -450,80 +558,6 @@
         "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
         "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
         "seendate": "2026-11-20T22:15:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-    "seendate": "2026-11-19T21:17:13.000Z",
-    "articleCount": 2,
-    "categories": [
-      "democracy-crisis"
-    ],
-    "articles": [
-      {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "democracy-crisis"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-    "seendate": "2026-11-19T18:47:57.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-        "seendate": "2026-11-19T18:47:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-        "seendate": "2026-11-19T18:47:57.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
