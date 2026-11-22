@@ -1,53 +1,43 @@
 [
   {
-    "id": "Los Angeles",
-    "name": "Los Angeles",
+    "id": "Miami",
+    "name": "Miami",
     "country": "US",
-    "lat": 34.05,
-    "lon": -118.24,
-    "timezone": "America/Los_Angeles",
-    "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-    "headlineUrl": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-    "seendate": "2026-11-21T13:58:33.000Z",
-    "articleCount": 9,
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+    "seendate": "2026-11-22T11:07:30.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-        "seendate": "2026-11-21T13:58:33.000Z",
-        "source_domain": "npr.org",
+        "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+        "seendate": "2026-11-22T11:07:30.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "natural-disaster"
+        "source_category": "armed-conflict"
       },
       {
-        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-        "seendate": "2026-11-21T13:58:33.000Z",
-        "source_domain": "npr.org",
+        "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+        "seendate": "2026-11-22T11:07:30.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "climate-watch"
+        "source_category": "humanitarian"
       },
       {
-        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-        "seendate": "2026-11-21T13:58:33.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -55,9 +45,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -65,9 +55,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -75,9 +65,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -85,9 +75,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -95,111 +85,14 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-21T04:34:00.000Z",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "New draft deal aims to avert collapse of talks at climate summit",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-22T05:26:10.000Z",
-    "articleCount": 8,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-22T05:26:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-22T05:26:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-22T05:26:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-22T05:26:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-22T05:26:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-22T05:26:10.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-        "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-        "seendate": "2026-11-22T04:51:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-        "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-        "seendate": "2026-11-22T04:51:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "humanitarian"
       }
     ]
   },
@@ -378,24 +271,24 @@
     ]
   },
   {
-    "id": "Miami",
-    "name": "Miami",
+    "id": "Los Angeles",
+    "name": "Los Angeles",
     "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-20T18:48:48.000Z",
+    "lat": 34.05,
+    "lon": -118.24,
+    "timezone": "America/Los_Angeles",
+    "headline": "Man convicted of starting Palisades fire in Los Angeles",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-21T04:34:00.000Z",
     "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -403,9 +296,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -413,9 +306,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -423,9 +316,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -433,9 +326,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -443,9 +336,9 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-21T04:34:00.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -461,9 +354,9 @@
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-    "seendate": "2026-11-22T02:14:18.000Z",
+    "headline": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+    "headlineUrl": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+    "seendate": "2026-11-22T13:15:40.000Z",
     "articleCount": 4,
     "categories": [
       "armed-conflict",
@@ -471,9 +364,9 @@
     ],
     "articles": [
       {
-        "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-        "seendate": "2026-11-22T02:14:18.000Z",
+        "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+        "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+        "seendate": "2026-11-22T13:15:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -481,9 +374,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-        "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-        "seendate": "2026-11-22T02:14:18.000Z",
+        "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+        "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+        "seendate": "2026-11-22T13:15:40.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -513,81 +406,24 @@
     ]
   },
   {
-    "id": "Kyiv",
-    "name": "Kyiv",
-    "country": "UA",
-    "lat": 50.45,
-    "lon": 30.52,
-    "timezone": "Europe/Kyiv",
-    "headline": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-    "seendate": "2026-11-21T18:42:38.000Z",
-    "articleCount": 4,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-        "seendate": "2026-11-21T18:42:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-        "seendate": "2026-11-21T18:42:38.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-        "seendate": "2026-11-19T18:47:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-        "seendate": "2026-11-19T18:47:57.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Seattle",
-    "name": "Seattle",
-    "country": "US",
-    "lat": 47.61,
-    "lon": -122.33,
-    "timezone": "America/Los_Angeles",
-    "headline": "ICE agents detain two people at Seattle airport",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-    "seendate": "2026-11-22T05:06:32.000Z",
+    "id": "Jerusalem",
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.77,
+    "lon": 35.23,
+    "timezone": "Asia/Jerusalem",
+    "headline": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+    "seendate": "2026-11-22T14:30:27.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "ICE agents detain two people at Seattle airport",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-        "seendate": "2026-11-22T05:06:32.000Z",
+        "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+        "seendate": "2026-11-22T14:30:27.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -595,9 +431,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "ICE agents detain two people at Seattle airport",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-        "seendate": "2026-11-22T05:06:32.000Z",
+        "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+        "seendate": "2026-11-22T14:30:27.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -607,37 +443,148 @@
     ]
   },
   {
-    "id": "Brussels",
-    "name": "Brussels",
-    "country": "BE",
-    "lat": 50.85,
-    "lon": 4.35,
-    "timezone": "Europe/Brussels",
-    "headline": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-    "headlineUrl": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-    "seendate": "2026-11-20T20:22:14.000Z",
+    "id": "Doha",
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.29,
+    "lon": 51.53,
+    "timezone": "Asia/Qatar",
+    "headline": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
+    "seendate": "2026-11-22T13:35:09.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-        "seendate": "2026-11-20T20:22:14.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
+        "seendate": "2026-11-22T13:35:09.000Z",
+        "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
+        "seendate": "2026-11-22T13:35:09.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lagos",
+    "name": "Lagos",
+    "country": "NG",
+    "lat": 6.52,
+    "lon": 3.36,
+    "timezone": "Africa/Lagos",
+    "headline": "Major fire erupts at a fuel station in Lagos",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
+    "seendate": "2026-11-22T13:26:19.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Major fire erupts at a fuel station in Lagos",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
+        "seendate": "2026-11-22T13:26:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Major fire erupts at a fuel station in Lagos",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
+        "seendate": "2026-11-22T13:26:19.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Sanaa",
+    "name": "Sanaa",
+    "country": "YE",
+    "lat": 15.36,
+    "lon": 48.22,
+    "timezone": "Asia/Aden",
+    "headline": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+    "seendate": "2026-11-22T13:16:45.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+        "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+        "seendate": "2026-11-22T13:16:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+        "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+        "seendate": "2026-11-22T13:16:45.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+    "headlineUrl": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+    "seendate": "2026-11-22T12:29:33.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+        "seendate": "2026-11-22T12:29:33.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-        "seendate": "2026-11-20T20:22:14.000Z",
+        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+        "seendate": "2026-11-22T12:29:33.000Z",
         "source_domain": "nytimes.com",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       }
@@ -681,24 +628,24 @@
     ]
   },
   {
-    "id": "Riyadh",
-    "name": "Riyadh",
-    "country": "SA",
-    "lat": 24.69,
-    "lon": 46.72,
-    "timezone": "Asia/Riyadh",
-    "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-    "seendate": "2026-11-19T18:55:36.000Z",
+    "id": "Brussels",
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "timezone": "Europe/Brussels",
+    "headline": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+    "headlineUrl": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+    "seendate": "2026-11-20T20:22:14.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-        "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-        "seendate": "2026-11-19T18:55:36.000Z",
+        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+        "seendate": "2026-11-20T20:22:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -706,14 +653,78 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-        "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-        "seendate": "2026-11-19T18:55:36.000Z",
+        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+        "seendate": "2026-11-20T20:22:14.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+    "seendate": "2026-11-19T18:47:57.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+        "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+        "seendate": "2026-11-19T18:47:57.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Charlotte",
+    "name": "Charlotte",
+    "country": "US",
+    "lat": 35.23,
+    "lon": -80.84,
+    "timezone": "America/New_York",
+    "headline": "Kate Middleton&apos;s unexpected house rule for George, Charlotte and Louis: author",
+    "headlineUrl": "https://www.foxnews.com/entertainment/kate-middleton-unexpected-house-rule-george-charlotte-louis-author",
+    "seendate": "2026-11-22T11:00:04.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Kate Middleton&apos;s unexpected house rule for George, Charlotte and Louis: author",
+        "url": "https://www.foxnews.com/entertainment/kate-middleton-unexpected-house-rule-george-charlotte-louis-author",
+        "seendate": "2026-11-22T11:00:04.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   }
