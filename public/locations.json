@@ -1,98 +1,318 @@
 [
   {
-    "id": "Miami",
-    "name": "Miami",
-    "country": "US",
-    "lat": 25.76,
-    "lon": -80.19,
-    "timezone": "America/New_York",
-    "headline": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-    "seendate": "2026-11-22T11:07:30.000Z",
-    "articleCount": 8,
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "What it&apos;s like at a climate conference as talks collapse",
+    "headlineUrl": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+    "seendate": "2026-11-22T22:40:23.000Z",
+    "articleCount": 30,
     "categories": [
-      "armed-conflict"
+      "climate-watch"
     ],
     "articles": [
       {
-        "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-        "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-        "seendate": "2026-11-22T11:07:30.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "What it&apos;s like at a climate conference as talks collapse",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+        "seendate": "2026-11-22T22:40:23.000Z",
+        "source_domain": "npr.org",
         "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-        "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-        "seendate": "2026-11-22T11:07:30.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
+          "climate-watch"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "What it&apos;s like at a climate conference as talks collapse",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+        "seendate": "2026-11-22T22:40:23.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "What it&apos;s like at a climate conference as talks collapse",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+        "seendate": "2026-11-22T22:40:23.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Why has the COP31 climate summit failed to reach agreement?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+        "seendate": "2026-11-22T20:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Why has the COP31 climate summit failed to reach agreement?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+        "seendate": "2026-11-22T20:00:00.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-20T18:48:48.000Z",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
-          "armed-conflict"
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
         ],
         "source_category": "climate-watch"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:57:24.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:17:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:17:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:17:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:17:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:17:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-22T18:17:59.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "UN climate talks collapse without a deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+        "seendate": "2026-11-22T18:04:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "UN climate talks collapse without a deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+        "seendate": "2026-11-22T18:04:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Climate change talks fall apart in final hours over fossil fuels",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+        "seendate": "2026-11-22T16:33:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Climate change talks fall apart in final hours over fossil fuels",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+        "seendate": "2026-11-22T16:33:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Climate change talks fall apart in final hours over fossil fuels",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+        "seendate": "2026-11-22T16:33:22.000Z",
+        "source_domain": "npr.org",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "culture-wars"
+      },
+      {
+        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+        "seendate": "2026-11-22T12:29:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+        "seendate": "2026-11-22T12:29:34.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -103,14 +323,34 @@
     "lat": 40.71,
     "lon": -74.01,
     "timezone": "America/New_York",
-    "headline": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-21T00:01:39.000Z",
-    "articleCount": 8,
+    "headline": "Aber Kawas becomes first Palestinian in New York state Senate history",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+    "seendate": "2026-11-22T19:18:29.000Z",
+    "articleCount": 10,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+        "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+        "seendate": "2026-11-22T19:18:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+        "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+        "seendate": "2026-11-22T19:18:29.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
         "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
@@ -200,14 +440,34 @@
     "lat": 38.91,
     "lon": -77.04,
     "timezone": "America/New_York",
-    "headline": "Lock of former US President George Washington's hair sells for $4,000",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-21T22:01:19.000Z",
-    "articleCount": 6,
+    "headline": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+    "seendate": "2026-11-22T21:26:12.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
+      {
+        "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+        "seendate": "2026-11-22T21:26:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+        "seendate": "2026-11-22T21:26:12.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
       {
         "title": "Lock of former US President George Washington's hair sells for $4,000",
         "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&amp;at_campaign=rss",
@@ -348,82 +608,101 @@
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-    "headlineUrl": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-    "seendate": "2026-11-22T13:15:40.000Z",
-    "articleCount": 4,
+    "id": "Miami",
+    "name": "Miami",
+    "country": "US",
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-20T18:48:48.000Z",
+    "articleCount": 6,
     "categories": [
-      "armed-conflict",
-      "democracy-crisis"
+      "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-        "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-        "seendate": "2026-11-22T13:15:40.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "armed-conflict"
       },
       {
-        "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-        "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-        "seendate": "2026-11-22T13:15:40.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
       },
       {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
         ],
         "source_category": "political-repression"
       },
       {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "seendate": "2026-11-19T21:17:13.000Z",
-        "source_domain": "nytimes.com",
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
-          "democracy-crisis"
+          "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-20T18:48:48.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
   {
-    "id": "Jerusalem",
-    "name": "Jerusalem",
-    "country": "IL",
-    "lat": 31.77,
-    "lon": 35.23,
-    "timezone": "Asia/Jerusalem",
-    "headline": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-    "seendate": "2026-11-22T14:30:27.000Z",
+    "id": "Seattle",
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.61,
+    "lon": -122.33,
+    "timezone": "America/Los_Angeles",
+    "headline": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+    "seendate": "2026-11-22T19:10:00.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-        "seendate": "2026-11-22T14:30:27.000Z",
+        "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+        "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+        "seendate": "2026-11-22T19:10:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -431,162 +710,14 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-        "seendate": "2026-11-22T14:30:27.000Z",
+        "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+        "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+        "seendate": "2026-11-22T19:10:00.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Doha",
-    "name": "Doha",
-    "country": "QA",
-    "lat": 25.29,
-    "lon": 51.53,
-    "timezone": "Asia/Qatar",
-    "headline": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-    "seendate": "2026-11-22T13:35:09.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-        "seendate": "2026-11-22T13:35:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-        "seendate": "2026-11-22T13:35:09.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lagos",
-    "name": "Lagos",
-    "country": "NG",
-    "lat": 6.52,
-    "lon": 3.36,
-    "timezone": "Africa/Lagos",
-    "headline": "Major fire erupts at a fuel station in Lagos",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
-    "seendate": "2026-11-22T13:26:19.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Major fire erupts at a fuel station in Lagos",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
-        "seendate": "2026-11-22T13:26:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Major fire erupts at a fuel station in Lagos",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
-        "seendate": "2026-11-22T13:26:19.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Sanaa",
-    "name": "Sanaa",
-    "country": "YE",
-    "lat": 15.36,
-    "lon": 48.22,
-    "timezone": "Asia/Aden",
-    "headline": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-    "seendate": "2026-11-22T13:16:45.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-        "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-        "seendate": "2026-11-22T13:16:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-        "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-        "seendate": "2026-11-22T13:16:45.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-    "headlineUrl": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-    "seendate": "2026-11-22T12:29:33.000Z",
-    "articleCount": 2,
-    "categories": [
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-        "seendate": "2026-11-22T12:29:33.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-        "seendate": "2026-11-22T12:29:33.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
@@ -659,6 +790,43 @@
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+    "headlineUrl": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+    "seendate": "2026-11-19T21:17:13.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+        "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+        "seendate": "2026-11-19T21:17:13.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
         ],
         "source_category": "democracy-crisis"
       }
