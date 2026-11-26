@@ -1,120 +1,454 @@
 [
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-    "seendate": "2026-11-25T21:03:51.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-        "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-        "seendate": "2026-11-25T21:03:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-        "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-        "seendate": "2026-11-25T21:03:51.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T14:06:13.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T14:06:13.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T14:06:13.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T14:06:13.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T14:06:13.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T14:06:13.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Cairo",
     "name": "Cairo",
     "country": "EG",
     "lat": 30.05,
     "lon": 31.24,
     "timezone": "Africa/Cairo",
-    "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-25T22:18:06.000Z",
+    "headline": "Deadly fire erupts near Cairo killing dozens of people",
+    "headlineUrl": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-26T09:09:49.000Z",
+    "articleCount": 14,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Deadly fire erupts near Cairo killing dozens of people",
+        "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T09:09:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Deadly fire erupts near Cairo killing dozens of people",
+        "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T09:09:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Deadly fire erupts near Cairo killing dozens of people",
+        "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T09:09:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Deadly fire erupts near Cairo killing dozens of people",
+        "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T09:09:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Deadly fire erupts near Cairo killing dozens of people",
+        "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T09:09:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Deadly fire erupts near Cairo killing dozens of people",
+        "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T09:09:49.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+        "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+        "seendate": "2026-11-25T21:37:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+        "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+        "seendate": "2026-11-25T21:37:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Film shows testimonies of international doctors amid Gaza genocide",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+    "seendate": "2026-11-26T13:02:24.000Z",
+    "articleCount": 12,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Film shows testimonies of international doctors amid Gaza genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-11-26T13:02:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Film shows testimonies of international doctors amid Gaza genocide",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+        "seendate": "2026-11-26T13:02:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T10:14:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T10:14:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T10:14:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T10:14:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T10:14:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T10:14:08.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+        "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+        "seendate": "2026-11-26T09:00:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+        "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+        "seendate": "2026-11-26T09:00:06.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+        "seendate": "2026-11-26T08:29:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+        "seendate": "2026-11-26T08:29:53.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Bangkok",
+    "name": "Bangkok",
+    "country": "TH",
+    "lat": 13.74,
+    "lon": 100.5,
+    "timezone": "Asia/Bangkok",
+    "headline": "Seven injured, four critically, after Bangkok oil refinery explosion",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-26T11:21:50.000Z",
+    "articleCount": 10,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T11:21:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T11:21:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T11:21:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T11:21:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T11:21:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T11:21:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Explosion rocks Bangkok oil depot",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+        "seendate": "2026-11-26T09:30:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Explosion rocks Bangkok oil depot",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+        "seendate": "2026-11-26T09:30:24.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Nine injured in explosion at oil facility in Thailand’s Bangkok",
+        "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+        "seendate": "2026-11-26T08:49:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Nine injured in explosion at oil facility in Thailand’s Bangkok",
+        "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+        "seendate": "2026-11-26T08:49:20.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+    "headlineUrl": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+    "seendate": "2026-11-26T09:06:03.000Z",
     "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T22:18:06.000Z",
+        "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+        "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+        "seendate": "2026-11-26T09:06:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+        "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+        "seendate": "2026-11-26T09:06:03.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T23:26:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -122,9 +456,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T22:18:06.000Z",
+        "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T23:26:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -132,9 +466,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T22:18:06.000Z",
+        "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T23:26:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -142,9 +476,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T22:18:06.000Z",
+        "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T23:26:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -152,9 +486,9 @@
         "source_category": "political-repression"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T22:18:06.000Z",
+        "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T23:26:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
@@ -162,223 +496,128 @@
         "source_category": "democracy-crisis"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-25T22:18:06.000Z",
+        "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T23:26:50.000Z",
         "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
-        "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
-        "seendate": "2026-11-25T21:37:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
-        "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
-        "seendate": "2026-11-25T21:37:07.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Lima",
-    "name": "Lima",
-    "country": "PE",
-    "lat": -12.05,
-    "lon": -77.04,
-    "timezone": "America/Lima",
-    "headline": "Greetings from Mount Kilimanjaro, Africa&apos;s highest point in all its splendor",
-    "headlineUrl": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "seendate": "2026-11-25T11:00:00.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict",
-      "climate-watch"
-    ],
-    "articles": [
-      {
-        "title": "Greetings from Mount Kilimanjaro, Africa&apos;s highest point in all its splendor",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-        "seendate": "2026-11-25T11:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Greetings from Mount Kilimanjaro, Africa&apos;s highest point in all its splendor",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-        "seendate": "2026-11-25T11:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Greetings from Mount Kilimanjaro, Africa&apos;s highest point in all its splendor",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-        "seendate": "2026-11-25T11:00:00.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      },
-      {
-        "title": "COP31 Climate Talks Broke Down. Now What?",
-        "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-        "seendate": "2026-11-23T16:18:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "COP31 Climate Talks Broke Down. Now What?",
-        "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-        "seendate": "2026-11-23T16:18:49.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Austin",
-    "name": "Austin",
+    "id": "Miami",
+    "name": "Miami",
     "country": "US",
-    "lat": 30.27,
-    "lon": -97.74,
-    "timezone": "America/Chicago",
-    "headline": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-    "headlineUrl": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-    "seendate": "2026-11-25T21:02:58.000Z",
-    "articleCount": 3,
+    "lat": 25.76,
+    "lon": -80.19,
+    "timezone": "America/New_York",
+    "headline": "Miami runway incident disrupts flights on Thanksgiving eve",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-26T13:09:15.000Z",
+    "articleCount": 6,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-        "seendate": "2026-11-25T21:02:58.000Z",
-        "source_domain": "npr.org",
+        "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T13:09:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T13:09:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T13:09:15.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "natural-disaster"
       },
       {
-        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-        "seendate": "2026-11-25T21:02:58.000Z",
-        "source_domain": "npr.org",
+        "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T13:09:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T13:09:15.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-26T13:09:15.000Z",
+        "source_domain": "bbc.co.uk",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "climate-watch"
-      },
-      {
-        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-        "seendate": "2026-11-25T21:02:58.000Z",
-        "source_domain": "npr.org",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
       }
     ]
   },
   {
-    "id": "Paris",
-    "name": "Paris",
-    "country": "FR",
-    "lat": 48.86,
-    "lon": 2.35,
-    "timezone": "Europe/Paris",
-    "headline": "Bellingham’s wondergoal sparks Zidane comparisons",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
-    "seendate": "2026-11-25T19:27:56.000Z",
+    "id": "London",
+    "name": "London",
+    "country": "GB",
+    "lat": 51.51,
+    "lon": -0.13,
+    "timezone": "Europe/London",
+    "headline": "London Banning Noise and Capping Fares for Its Pedicabs",
+    "headlineUrl": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+    "seendate": "2026-11-26T05:01:11.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Bellingham’s wondergoal sparks Zidane comparisons",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
-        "seendate": "2026-11-25T19:27:56.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "London Banning Noise and Capping Fares for Its Pedicabs",
+        "url": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+        "seendate": "2026-11-26T05:01:11.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "armed-conflict"
+        "source_category": "political-repression"
       },
       {
-        "title": "Bellingham’s wondergoal sparks Zidane comparisons",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
-        "seendate": "2026-11-25T19:27:56.000Z",
-        "source_domain": "aljazeera.com",
+        "title": "London Banning Noise and Capping Fares for Its Pedicabs",
+        "url": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+        "seendate": "2026-11-26T05:01:11.000Z",
+        "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
         ],
-        "source_category": "humanitarian"
-      }
-    ]
-  },
-  {
-    "id": "Caracas",
-    "name": "Caracas",
-    "country": "VE",
-    "lat": 10.49,
-    "lon": -66.86,
-    "timezone": "America/Caracas",
-    "headline": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
-    "seendate": "2026-11-25T17:05:35.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
-        "seendate": "2026-11-25T17:05:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
-        "seendate": "2026-11-25T17:05:35.000Z",
-        "source_domain": "aljazeera.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
+        "source_category": "democracy-crisis"
       }
     ]
   },
