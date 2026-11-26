@@ -1,5 +1,199 @@
 [
   {
+    "id": "Gaza",
+    "name": "Gaza",
+    "country": "PS",
+    "lat": 31.5,
+    "lon": 34.47,
+    "timezone": "Asia/Gaza",
+    "headline": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+    "headlineUrl": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+    "seendate": "2026-11-25T21:03:51.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+        "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+        "seendate": "2026-11-25T21:03:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+        "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+        "seendate": "2026-11-25T21:03:51.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T14:06:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T14:06:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T14:06:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T14:06:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T14:06:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+        "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T14:06:13.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      }
+    ]
+  },
+  {
+    "id": "Cairo",
+    "name": "Cairo",
+    "country": "EG",
+    "lat": 30.05,
+    "lon": 31.24,
+    "timezone": "Africa/Cairo",
+    "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-25T22:18:06.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-25T22:18:06.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+        "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+        "seendate": "2026-11-25T21:37:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+        "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+        "seendate": "2026-11-25T21:37:07.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
     "id": "Lima",
     "name": "Lima",
     "country": "PE",
@@ -9,7 +203,7 @@
     "headline": "Greetings from Mount Kilimanjaro, Africa&apos;s highest point in all its splendor",
     "headlineUrl": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
     "seendate": "2026-11-25T11:00:00.000Z",
-    "articleCount": 7,
+    "articleCount": 5,
     "categories": [
       "armed-conflict",
       "climate-watch"
@@ -64,125 +258,28 @@
           "climate-watch"
         ],
         "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-        "seendate": "2026-11-22T12:29:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-        "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-        "seendate": "2026-11-22T12:29:34.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "climate-watch"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Gaza",
-    "name": "Gaza",
-    "country": "PS",
-    "lat": 31.5,
-    "lon": 34.47,
-    "timezone": "Asia/Gaza",
-    "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-24T15:35:53.000Z",
-    "articleCount": 6,
+    "id": "Austin",
+    "name": "Austin",
+    "country": "US",
+    "lat": 30.27,
+    "lon": -97.74,
+    "timezone": "America/Chicago",
+    "headline": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+    "headlineUrl": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+    "seendate": "2026-11-25T21:02:58.000Z",
+    "articleCount": 3,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-24T15:35:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-24T15:35:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-24T15:35:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-24T15:35:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-24T15:35:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-24T15:35:53.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
-    "id": "Shanghai",
-    "name": "Shanghai",
-    "country": "CN",
-    "lat": 31.23,
-    "lon": 121.47,
-    "timezone": "Asia/Shanghai",
-    "headline": "China investigates Politburo member and Shanghai party chief Chen Jining",
-    "headlineUrl": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-    "seendate": "2026-11-25T09:44:13.000Z",
-    "articleCount": 5,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-        "seendate": "2026-11-25T09:44:13.000Z",
+        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+        "seendate": "2026-11-25T21:02:58.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -190,9 +287,9 @@
         "source_category": "natural-disaster"
       },
       {
-        "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-        "seendate": "2026-11-25T09:44:13.000Z",
+        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+        "seendate": "2026-11-25T21:02:58.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
@@ -200,56 +297,36 @@
         "source_category": "climate-watch"
       },
       {
-        "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-        "seendate": "2026-11-25T09:44:13.000Z",
+        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+        "seendate": "2026-11-25T21:02:58.000Z",
         "source_domain": "npr.org",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "culture-wars"
-      },
-      {
-        "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-        "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-        "seendate": "2026-11-24T14:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-        "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-        "seendate": "2026-11-24T14:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
       }
     ]
   },
   {
-    "id": "Madrid",
-    "name": "Madrid",
-    "country": "ES",
-    "lat": 40.42,
-    "lon": -3.7,
-    "timezone": "Europe/Madrid",
-    "headline": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-    "headlineUrl": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-    "seendate": "2026-11-25T11:29:38.000Z",
+    "id": "Paris",
+    "name": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lon": 2.35,
+    "timezone": "Europe/Paris",
+    "headline": "Bellingham’s wondergoal sparks Zidane comparisons",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+    "seendate": "2026-11-25T19:27:56.000Z",
     "articleCount": 2,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-        "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-        "seendate": "2026-11-25T11:29:38.000Z",
+        "title": "Bellingham’s wondergoal sparks Zidane comparisons",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+        "seendate": "2026-11-25T19:27:56.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -257,9 +334,46 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-        "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-        "seendate": "2026-11-25T11:29:38.000Z",
+        "title": "Bellingham’s wondergoal sparks Zidane comparisons",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+        "seendate": "2026-11-25T19:27:56.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Caracas",
+    "name": "Caracas",
+    "country": "VE",
+    "lat": 10.49,
+    "lon": -66.86,
+    "timezone": "America/Caracas",
+    "headline": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+    "seendate": "2026-11-25T17:05:35.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+        "seendate": "2026-11-25T17:05:35.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+        "seendate": "2026-11-25T17:05:35.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -302,6 +416,70 @@
           "armed-conflict"
         ],
         "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Shanghai",
+    "name": "Shanghai",
+    "country": "CN",
+    "lat": 31.23,
+    "lon": 121.47,
+    "timezone": "Asia/Shanghai",
+    "headline": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+    "headlineUrl": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+    "seendate": "2026-11-24T14:42:31.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+        "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+        "seendate": "2026-11-24T14:42:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+        "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+        "seendate": "2026-11-24T14:42:31.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Quito",
+    "name": "Quito",
+    "country": "EC",
+    "lat": -0.18,
+    "lon": -78.47,
+    "timezone": "America/Guayaquil",
+    "headline": "‘Friday Night Lights,’ ‘Mosquito Bowl’ author says America has lost the Greatest Generation&apos;s sense of duty",
+    "headlineUrl": "https://www.foxnews.com/entertainment/friday-night-lights-mosquito-bowl-author-says-america-has-lost-greatest-generations-sense-duty",
+    "seendate": "2026-11-25T16:00:26.000Z",
+    "articleCount": 1,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "‘Friday Night Lights,’ ‘Mosquito Bowl’ author says America has lost the Greatest Generation&apos;s sense of duty",
+        "url": "https://www.foxnews.com/entertainment/friday-night-lights-mosquito-bowl-author-says-america-has-lost-greatest-generations-sense-duty",
+        "seendate": "2026-11-25T16:00:26.000Z",
+        "source_domain": "foxnews.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "culture-wars"
       }
     ]
   },
