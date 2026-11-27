@@ -1,197 +1,23 @@
 [
   {
-    "id": "Hong Kong",
-    "name": "Hong Kong",
-    "country": "HK",
-    "lat": 22.3,
-    "lon": 114.18,
-    "timezone": "Asia/Hong_Kong",
-    "headline": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-    "headlineUrl": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-26T23:03:16.000Z",
-    "articleCount": 8,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-        "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T23:03:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-        "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T23:03:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-        "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T23:03:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-        "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T23:03:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-        "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T23:03:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-        "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T23:03:16.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      },
-      {
-        "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-        "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
-        "seendate": "2026-11-26T09:06:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-        "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
-        "seendate": "2026-11-26T09:06:04.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Bangkok",
-    "name": "Bangkok",
-    "country": "TH",
-    "lat": 13.74,
-    "lon": 100.5,
-    "timezone": "Asia/Bangkok",
-    "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
-    "headlineUrl": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-    "seendate": "2026-11-26T16:21:19.000Z",
-    "articleCount": 6,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T16:21:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "armed-conflict"
-      },
-      {
-        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T16:21:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "humanitarian"
-      },
-      {
-        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T16:21:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "natural-disaster"
-      },
-      {
-        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T16:21:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T16:21:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      },
-      {
-        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-        "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-        "seendate": "2026-11-26T16:21:19.000Z",
-        "source_domain": "bbc.co.uk",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "climate-watch"
-      }
-    ]
-  },
-  {
     "id": "Gaza",
     "name": "Gaza",
     "country": "PS",
     "lat": 31.5,
     "lon": 34.47,
     "timezone": "Asia/Gaza",
-    "headline": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-    "headlineUrl": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-    "seendate": "2026-11-27T11:15:03.000Z",
-    "articleCount": 4,
+    "headline": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+    "headlineUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+    "seendate": "2026-11-27T20:18:45.000Z",
+    "articleCount": 8,
     "categories": [
       "armed-conflict"
     ],
     "articles": [
       {
-        "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-        "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-        "seendate": "2026-11-27T11:15:03.000Z",
+        "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+        "seendate": "2026-11-27T20:18:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -199,9 +25,9 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-        "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-        "seendate": "2026-11-27T11:15:03.000Z",
+        "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+        "seendate": "2026-11-27T20:18:45.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -209,9 +35,9 @@
         "source_category": "humanitarian"
       },
       {
-        "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-        "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-        "seendate": "2026-11-27T08:37:52.000Z",
+        "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "seendate": "2026-11-27T20:10:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
@@ -219,14 +45,228 @@
         "source_category": "armed-conflict"
       },
       {
-        "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-        "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-        "seendate": "2026-11-27T08:37:52.000Z",
+        "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "seendate": "2026-11-27T20:10:30.000Z",
         "source_domain": "aljazeera.com",
         "categories": [
           "armed-conflict"
         ],
         "source_category": "humanitarian"
+      },
+      {
+        "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+        "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+        "seendate": "2026-11-27T19:53:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+        "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+        "seendate": "2026-11-27T19:53:25.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+        "seendate": "2026-11-27T16:01:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+        "seendate": "2026-11-27T16:01:44.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Kyiv",
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "timezone": "Europe/Kyiv",
+    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-27T18:42:50.000Z",
+    "articleCount": 8,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T18:42:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T18:42:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T18:42:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T18:42:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T18:42:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T18:42:50.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
+      },
+      {
+        "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+        "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+        "seendate": "2026-11-27T17:44:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+        "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+        "seendate": "2026-11-27T17:44:33.000Z",
+        "source_domain": "aljazeera.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      }
+    ]
+  },
+  {
+    "id": "Amsterdam",
+    "name": "Amsterdam",
+    "country": "NL",
+    "lat": 52.37,
+    "lon": 4.9,
+    "timezone": "Europe/Amsterdam",
+    "headline": "Rare turtles found inside baggage at Amsterdam airport",
+    "headlineUrl": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+    "seendate": "2026-11-27T13:38:07.000Z",
+    "articleCount": 6,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Rare turtles found inside baggage at Amsterdam airport",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T13:38:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "armed-conflict"
+      },
+      {
+        "title": "Rare turtles found inside baggage at Amsterdam airport",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T13:38:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "humanitarian"
+      },
+      {
+        "title": "Rare turtles found inside baggage at Amsterdam airport",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T13:38:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "natural-disaster"
+      },
+      {
+        "title": "Rare turtles found inside baggage at Amsterdam airport",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T13:38:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Rare turtles found inside baggage at Amsterdam airport",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T13:38:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      },
+      {
+        "title": "Rare turtles found inside baggage at Amsterdam airport",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss",
+        "seendate": "2026-11-27T13:38:07.000Z",
+        "source_domain": "bbc.co.uk",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "climate-watch"
       }
     ]
   },
@@ -259,6 +299,117 @@
         "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
         "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
         "seendate": "2026-11-27T13:33:49.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Johannesburg",
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2,
+    "lon": 28.04,
+    "timezone": "Africa/Johannesburg",
+    "headline": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+    "headlineUrl": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
+    "seendate": "2026-11-27T20:51:21.000Z",
+    "articleCount": 2,
+    "categories": [
+      "democracy-crisis"
+    ],
+    "articles": [
+      {
+        "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+        "url": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
+        "seendate": "2026-11-27T20:51:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+        "url": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
+        "seendate": "2026-11-27T20:51:21.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "democracy-crisis"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Lima",
+    "name": "Lima",
+    "country": "PE",
+    "lat": -12.05,
+    "lon": -77.04,
+    "timezone": "America/Lima",
+    "headline": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+    "headlineUrl": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+    "seendate": "2026-11-27T15:18:58.000Z",
+    "articleCount": 2,
+    "categories": [
+      "climate-watch"
+    ],
+    "articles": [
+      {
+        "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+        "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+        "seendate": "2026-11-27T15:18:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+        "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+        "seendate": "2026-11-27T15:18:58.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "climate-watch"
+        ],
+        "source_category": "democracy-crisis"
+      }
+    ]
+  },
+  {
+    "id": "Hong Kong",
+    "name": "Hong Kong",
+    "country": "HK",
+    "lat": 22.3,
+    "lon": 114.18,
+    "timezone": "Asia/Hong_Kong",
+    "headline": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+    "headlineUrl": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+    "seendate": "2026-11-26T09:06:04.000Z",
+    "articleCount": 2,
+    "categories": [
+      "armed-conflict"
+    ],
+    "articles": [
+      {
+        "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+        "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+        "seendate": "2026-11-26T09:06:04.000Z",
+        "source_domain": "nytimes.com",
+        "categories": [
+          "armed-conflict"
+        ],
+        "source_category": "political-repression"
+      },
+      {
+        "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+        "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+        "seendate": "2026-11-26T09:06:04.000Z",
         "source_domain": "nytimes.com",
         "categories": [
           "armed-conflict"
@@ -342,80 +493,6 @@
     ]
   },
   {
-    "id": "Istanbul",
-    "name": "Istanbul",
-    "country": "TR",
-    "lat": 41.01,
-    "lon": 28.98,
-    "timezone": "Europe/Istanbul",
-    "headline": "A Lion on the Loose Near Istanbul? Not So Fast.",
-    "headlineUrl": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
-    "seendate": "2026-11-24T18:25:38.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
-        "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
-        "seendate": "2026-11-24T18:25:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
-        "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
-        "seendate": "2026-11-24T18:25:38.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
-    "id": "Shanghai",
-    "name": "Shanghai",
-    "country": "CN",
-    "lat": 31.23,
-    "lon": 121.47,
-    "timezone": "Asia/Shanghai",
-    "headline": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-    "headlineUrl": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-    "seendate": "2026-11-24T14:42:31.000Z",
-    "articleCount": 2,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-        "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-        "seendate": "2026-11-24T14:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "political-repression"
-      },
-      {
-        "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-        "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-        "seendate": "2026-11-24T14:42:31.000Z",
-        "source_domain": "nytimes.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "democracy-crisis"
-      }
-    ]
-  },
-  {
     "id": "Quito",
     "name": "Quito",
     "country": "EC",
@@ -434,33 +511,6 @@
         "title": "‘Friday Night Lights,’ ‘Mosquito Bowl’ author says America has lost the Greatest Generation&apos;s sense of duty",
         "url": "https://www.foxnews.com/entertainment/friday-night-lights-mosquito-bowl-author-says-america-has-lost-greatest-generations-sense-duty",
         "seendate": "2026-11-25T16:00:26.000Z",
-        "source_domain": "foxnews.com",
-        "categories": [
-          "armed-conflict"
-        ],
-        "source_category": "culture-wars"
-      }
-    ]
-  },
-  {
-    "id": "Bern",
-    "name": "Bern",
-    "country": "CH",
-    "lat": 46.95,
-    "lon": 7.45,
-    "timezone": "Europe/Zurich",
-    "headline": "John Malkovich recalls losing &apos;pretty much everything&apos; to Bernie Madoff&apos;s Ponzi scheme",
-    "headlineUrl": "https://www.foxnews.com/entertainment/john-malkovich-recalls-losing-pretty-much-everything-bernie-madoffs-ponzi-scheme",
-    "seendate": "2026-11-23T02:40:39.000Z",
-    "articleCount": 1,
-    "categories": [
-      "armed-conflict"
-    ],
-    "articles": [
-      {
-        "title": "John Malkovich recalls losing &apos;pretty much everything&apos; to Bernie Madoff&apos;s Ponzi scheme",
-        "url": "https://www.foxnews.com/entertainment/john-malkovich-recalls-losing-pretty-much-everything-bernie-madoffs-ponzi-scheme",
-        "seendate": "2026-11-23T02:40:39.000Z",
         "source_domain": "foxnews.com",
         "categories": [
           "armed-conflict"
